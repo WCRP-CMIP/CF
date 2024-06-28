@@ -1,0 +1,405 @@
+{
+    "@id": "graph:cf-area-type",
+    "@type": "mip:graph",
+    "@context": {
+        "@vocab": "cf-area-type"
+    },
+    ":url": "https://github.com/WCRP-CMIP/CF/blob/main//area-type-table",
+    ":ldroot": "/area-type-table",
+    "@graph": [
+        {
+            "@id": "cf:area-type-table/pastures_of_c3_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "pastures_of_c3_plant_functional_types",
+            "cf-area-type:description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland. A \"c3 plant\" is one that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/natural_grasses",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "natural_grasses",
+            "cf-area-type:description": "\"Natural grasses\" means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland."
+        },
+        {
+            "@id": "cf:area-type-table/herbaceous_vegetation",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "herbaceous_vegetation",
+            "cf-area-type:description": "Herbaceous plants are plants with very flexible stems. Their leaves and stems die down to soil level at the end of every growing season. Herbaceous plants can be annual, biennial or perennial."
+        },
+        {
+            "@id": "cf:area-type-table/melt_pond_free_sea_ice",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "melt_pond_free_sea_ice",
+            "cf-area-type:description": "The area occupied by type \"sea_ice\" is the sum of the areas of types \"sea_ice_melt_pond\" and \"melt_pond_free_sea_ice\"."
+        },
+        {
+            "@id": "cf:area-type-table/crops_of_c3_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "crops_of_c3_plant_functional_types",
+            "cf-area-type:description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops. A \"c3 plant\" is one that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/ice_sheet",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "ice_sheet",
+            "cf-area-type:description": "An area type of \"ice_sheet\" indicates where ice sheets are present. It includes both grounded ice sheets resting over bedrock and any ice shelves flowing over the ocean that are attached to grounded ice sheets. The ice_sheet area type excludes ice-caps and glaciers and any floating ice shelves and ice tongues attached to them, but the land_ice area type includes those as well as the ice_sheet area."
+        },
+        {
+            "@id": "cf:area-type-table/rain",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "rain",
+            "cf-area-type:description": "An area_type of \"rain\" indicates that falling rain is present at some level in the atmospheric column above an area on the surface of the Earth."
+        },
+        {
+            "@id": "cf:area-type-table/natural_grasses_of_c3_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "natural_grasses_of_c3_plant_functional_types",
+            "cf-area-type:description": "\"Natural grasses\" means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland. A \"c3 plant\" is one that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/c3_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "c3_plant_functional_types",
+            "cf-area-type:description": "A plant that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place.  All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/ice_free_land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "ice_free_land",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/fire",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "fire",
+            "cf-area-type:description": "An area_type of \"fire\" indicates that biomass fire, either flaming, smouldering, or both, is present."
+        },
+        {
+            "@id": "cf:area-type-table/sea",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "sea",
+            "cf-area-type:description": "The area occupied by type \"sea\" is equal to the sum of the areas of types \"ice_free_sea\" and \"sea_ice\"."
+        },
+        {
+            "@id": "cf:area-type-table/bare_ground",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "bare_ground",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/volcanic_ash_cloud",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "volcanic_ash_cloud",
+            "cf-area-type:description": "An area_type of \"volcanic_ash_cloud\" indicates that volcanic ash aerosol is present at some level in the atmospheric column above an area on the surface of the Earth."
+        },
+        {
+            "@id": "cf:area-type-table/primary_evergreen_trees",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "primary_evergreen_trees",
+            "cf-area-type:description": "A primary forest is a naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed. Reference: 'Global Forest Resources Assessment: Terms and Definitions', Forestry Department of Food and Agriculture Organization (FAO) of the United Nations, Rome 2010, www.fao.org/forestry/14241-0d7b74f45b0d2cfef31599cc17e4c28cd.pdf. Evergreen trees have leaves in all seasons."
+        },
+        {
+            "@id": "cf:area-type-table/ice_and_snow_on_land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "ice_and_snow_on_land",
+            "cf-area-type:description": "The area type \"ice_and_snow_on_land\" means ice in glaciers, ice caps, ice sheets (grounded and floating shelves), river and lake ice, any other ice on a land surface, such as frozen flood water, and snow lying on such ice or on the land surface."
+        },
+        {
+            "@id": "cf:area-type-table/stratiform_cloud",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "stratiform_cloud",
+            "cf-area-type:description": "This area type complements the \"convective_cloud\" area type, which is the other major category of cloud. The \"cloud\" area type is a more general term and includes both convective_cloud and stratiform_cloud types."
+        },
+        {
+            "@id": "cf:area-type-table/burnt_vegetation",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "burnt_vegetation",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "land",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/land_ice",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "land_ice",
+            "cf-area-type:description": "\"Land ice\" means glaciers, ice-caps, grounded ice sheets resting on bedrock and floating ice-shelves."
+        },
+        {
+            "@id": "cf:area-type-table/convective_cloud",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "convective_cloud",
+            "cf-area-type:description": "This area type complements the \"stratiform_cloud\" area type, which is the other major category of cloud. The \"cloud\" area type is a more general term and includes both convective_cloud and stratiform_cloud types."
+        },
+        {
+            "@id": "cf:area-type-table/permafrost",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "permafrost",
+            "cf-area-type:description": "An area type of \"permafrost\" indicates where soil or rock has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years."
+        },
+        {
+            "@id": "cf:area-type-table/ice_free_sea",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "ice_free_sea",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/primary_and_secondary_land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "primary_and_secondary_land",
+            "cf-area-type:description": "\"Primary and secondary land\" is land that is not in use as crop land or pasture land, including forests, grasslands, bare ground and vegetated wetlands. \"Primary land\" is land that has not undergone lulcc (land use or land cover change) due to human disturbance. \"Secondary land\" is land that has previously been used for agriculture, urban development or logging and has subsequently been abandoned. Reference: Hurtt et al. (2011), Climatic Change, 109 - 117, Harmonization of land-use scenarios for the period 1500\u20132100: 600 years of global gridded annual land-use transitions, wood harvest, and resulting secondary lands, doi: 10.1007/s10584-011-0153-2. \"Primary and secondary land\" refers to land use or management, rather than to specific categories of vegetation cover, e.g. the primary and secondary succession of plant species."
+        },
+        {
+            "@id": "cf:area-type-table/unfrozen_soil",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "unfrozen_soil",
+            "cf-area-type:description": "An area type of \"unfrozen_soil\" means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels within a soil model."
+        },
+        {
+            "@id": "cf:area-type-table/sea_ice_ridges",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "sea_ice_ridges",
+            "cf-area-type:description": "Sea ice \"ridging\" occurs in rough sea conditions. The motion of the sea surface can cause areas of sea ice to deform and fold resulting in ridged upper and lower surfaces. The ridges can be as much as twenty metres thick if thick ice is deformed."
+        },
+        {
+            "@id": "cf:area-type-table/dust_aerosol",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "dust_aerosol",
+            "cf-area-type:description": "An area_type of \"dust_aerosol\" indicates that dust aerosol is present at some level in the atmospheric column above an area on the surface of the Earth."
+        },
+        {
+            "@id": "cf:area-type-table/shrubs",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "shrubs",
+            "cf-area-type:description": "The distinction between trees and shrubs is model dependent."
+        },
+        {
+            "@id": "cf:area-type-table/crops",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "crops",
+            "cf-area-type:description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops."
+        },
+        {
+            "@id": "cf:area-type-table/crops_of_c4_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "crops_of_c4_plant_functional_types",
+            "cf-area-type:description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops. A \"c4 plant\" is one that utilizes the C4 carbon fixation pathway in which the CO2 is first bound to a compound containing four carbon atoms before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/primary_deciduous_trees",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "primary_deciduous_trees",
+            "cf-area-type:description": "A primary forest is a naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed. Reference: 'Global Forest Resources Assessment: Terms and Definitions', Forestry Department of Food and Agriculture Organization (FAO) of the United Nations, Rome 2010, www.fao.org/forestry/14241-0d7b74f45b0d2cfef31599cc17e4c28cd.pdf. Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall."
+        },
+        {
+            "@id": "cf:area-type-table/cloud",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "cloud",
+            "cf-area-type:description": "The \"cloud\" area type is a general term and includes both convective_cloud and stratiform_cloud types and any additional cloud areas that are not separately named."
+        },
+        {
+            "@id": "cf:area-type-table/secondary_evergreen_trees",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "secondary_evergreen_trees",
+            "cf-area-type:description": "A secondary forest is a forest that has been logged and has recovered naturally or artificially. Reference: 'Report of the ad hoc technical expert group on forest biological diversity', United Nations Convention on Biological Diversity, www.cbd.int/forest/definitions.shtml. Evergreen trees have leaves in all seasons."
+        },
+        {
+            "@id": "cf:area-type-table/c4_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "c4_plant_functional_types",
+            "cf-area-type:description": "A plant that utilizes the C4 carbon fixation pathway in which the CO2 is first bound to a compound containing four carbon atoms before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/snow_free_land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "snow_free_land",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/lake_ice_or_sea_ice",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "lake_ice_or_sea_ice",
+            "cf-area-type:description": "Floating ice excluding ice-shelves and icebergs."
+        },
+        {
+            "@id": "cf:area-type-table/natural_grasses_of_c4_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "natural_grasses_of_c4_plant_functional_types",
+            "cf-area-type:description": "\"Natural grasses\" means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland. A \"c4 plant\" is one that utilizes the C4 carbon fixation pathway in which the CO2 is first bound to a compound containing four carbon atoms before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/trees",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "trees",
+            "cf-area-type:description": "The distinction between trees and shrubs is model dependent. All trees are C3 plant functional type."
+        },
+        {
+            "@id": "cf:area-type-table/snow",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "snow",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/fresh_free_water",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "fresh_free_water",
+            "cf-area-type:description": "An area type of \"fresh_free_water\" means a free interface between freshwater and the atmosphere without vegetation or other obstructions."
+        },
+        {
+            "@id": "cf:area-type-table/pastures_of_c4_plant_functional_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "pastures_of_c4_plant_functional_types",
+            "cf-area-type:description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland. A \"c4 plant\" is one that utilizes the C4 carbon fixation pathway in which the CO2 is first bound to a compound containing four carbon atoms before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+        },
+        {
+            "@id": "cf:area-type-table/clear_sky",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "clear_sky",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/pastures",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "pastures",
+            "cf-area-type:description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland."
+        },
+        {
+            "@id": "cf:area-type-table/all_area_types",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "all_area_types",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/air",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "air",
+            "cf-area-type:description": "The area type of \"air\" distinguishes the atmospheric portion of a domain from the land portion (or any other non-air portion). It is needed when a variable such as wind speed is reported, for example, on a surface at mean sea level pressure. At most locations over land, this surface would be underground and would need to be excluded from consideration, which could be indicated by specifying a cell_ methods \"where air\"."
+        },
+        {
+            "@id": "cf:area-type-table/secondary_deciduous_trees",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "secondary_deciduous_trees",
+            "cf-area-type:description": "A secondary forest is a forest that has been logged and has recovered naturally or artificially. Reference: 'Report of the ad hoc technical expert group on forest biological diversity', United Nations Convention on Biological Diversity, www.cbd.int/forest/definitions.shtml. Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall."
+        },
+        {
+            "@id": "cf:area-type-table/urban",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "urban",
+            "cf-area-type:description": "Urban land is comprised of areas where much of the land is covered by structures. Included in this category are cities, towns and villages. Reference: Anderson, J.R, E. E. Hardy, J. T. Roach and R. E. Witmer (1976), A Land Use And Land Cover Classification System For Use With Remote Sensor Data, Appendix C Land Use Definitions, Geological Survey Professional Paper 964, A revision of the land use classification system as presented in U.S. Geological Survey Circular 671, https://www.usbr.gov/lc/socal/reports/SMappend_C.pdf."
+        },
+        {
+            "@id": "cf:area-type-table/floating_ice_shelf",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "floating_ice_shelf",
+            "cf-area-type:description": "An area type of \"floating ice shelf\" indicates where ice shelves are present. Ice shelves are the component of ice sheets that flow over the ocean."
+        },
+        {
+            "@id": "cf:area-type-table/smoke",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "smoke",
+            "cf-area-type:description": "An area_type of \"smoke\" indicates that smoke aerosol is present at some level in the atmospheric column above an area on the surface of the Earth."
+        },
+        {
+            "@id": "cf:area-type-table/floating_ice",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "floating_ice",
+            "cf-area-type:description": "All ice floating on water including lake-ice, sea-ice, ice-shelves and icebergs."
+        },
+        {
+            "@id": "cf:area-type-table/sea_ice_melt_pond",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "sea_ice_melt_pond",
+            "cf-area-type:description": "The area classified as type \"sea_ice\" within a grid cell is unaltered when an area of type \"sea_ice_melt_pond\" is also present because melt ponds occur on top of the existing sea ice."
+        },
+        {
+            "@id": "cf:area-type-table/ice_on_land",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "ice_on_land",
+            "cf-area-type:description": "The area type \"ice_on_land\" means ice in glaciers, ice caps, grounded ice sheets (grounded and floating shelves), river and lake ice, and any other ice on a land surface, such as frozen flood water. This is distinct from the area type 'land ice' which has a narrower definition."
+        },
+        {
+            "@id": "cf:area-type-table/vegetation",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "vegetation",
+            "cf-area-type:description": null
+        },
+        {
+            "@id": "cf:area-type-table/sea_ice",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "sea_ice",
+            "cf-area-type:description": "The area occupied by type \"sea_ice\" within a grid cell is the sum of the areas of types \"sea_ice_melt_pond\" and \"melt_pond_free_sea_ice\". Melt ponds occur on top of the existing sea ice. The area occupied by type \"sea\" is equal to the sum of the areas of types \"ice_free_sea\" and \"sea_ice\"."
+        },
+        {
+            "@id": "cf:area-type-table/wetland",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "wetland",
+            "cf-area-type:description": "Wetlands are areas where water covers the soil, or is present either at or near the surface of the soil all year or for varying periods of time during the year, including during the growing season."
+        },
+        {
+            "@id": "cf:area-type-table/grounded_ice_sheet",
+            "@type": "cf:CFAreaTypeTable",
+            "cf-area-type:name": "grounded_ice_sheet",
+            "cf-area-type:description": "An area type of \"grounded ice sheet\" indicates where the ice sheet rest over bedrock and is thus grounded. It excludes ice-caps, glaciers and floating ice shelves."
+        }
+    ],
+    ":files": [
+        "pastures_of_c3_plant_functional_types.json",
+        "herbaceous_vegetation.json",
+        "natural_grasses.json",
+        "melt_pond_free_sea_ice.json",
+        "rain.json",
+        "sea.json",
+        "c3_plant_functional_types.json",
+        "ice_free_land.json",
+        "natural_grasses_of_c3_plant_functional_types.json",
+        "bare_ground.json",
+        "ice_sheet.json",
+        "crops_of_c3_plant_functional_types.json",
+        "fire.json",
+        "volcanic_ash_cloud.json",
+        "primary_evergreen_trees.json",
+        "burnt_vegetation.json",
+        "stratiform_cloud.json",
+        "land.json",
+        "unfrozen_soil.json",
+        "cloud.json",
+        "convective_cloud.json",
+        "ice_and_snow_on_land.json",
+        "primary_deciduous_trees.json",
+        "land_ice.json",
+        "permafrost.json",
+        "crops.json",
+        "ice_free_sea.json",
+        "crops_of_c4_plant_functional_types.json",
+        "primary_and_secondary_land.json",
+        "sea_ice_ridges.json",
+        "fresh_free_water.json",
+        "dust_aerosol.json",
+        "snow_free_land.json",
+        "c4_plant_functional_types.json",
+        "shrubs.json",
+        "trees.json",
+        "secondary_evergreen_trees.json",
+        "lake_ice_or_sea_ice.json",
+        "natural_grasses_of_c4_plant_functional_types.json",
+        "pastures_of_c4_plant_functional_types.json",
+        "all_area_types.json",
+        "snow.json",
+        "clear_sky.json",
+        "sea_ice_melt_pond.json",
+        "floating_ice_shelf.json",
+        "pastures.json",
+        "floating_ice.json",
+        "smoke.json",
+        "urban.json",
+        "secondary_deciduous_trees.json",
+        "air.json",
+        "ice_on_land.json",
+        "vegetation.json",
+        "grounded_ice_sheet.json",
+        "wetland.json",
+        "sea_ice.json"
+    ]
+}

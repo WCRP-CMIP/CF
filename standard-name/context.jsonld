@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "cf": "http://cfconventions.org/ns#",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "canonical_units": "http://cfconventions.org/units",
+    "amip": {
+      "@id": "cf:amip",
+      "@type": "@id"
+    },
+    "grib": {
+      "@id": "cf:grib",
+      "@type": "@id"
+    },
+    "CFStandardName": {
+      "@id": "cf:CFStandardName",
+      "@type": "@id"
+    }
+  }
+}
