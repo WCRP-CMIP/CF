@@ -82,7 +82,7 @@ def xml_to_json(xml_url):
         return None
 
 
-current = os.popen("git ls-remote --tags origin | awk '{print $2}' | grep -v '{}' | sort -V | tail -n1").strip().split('/v')[-1].split('.')
+current = os.popen("git ls-remote --tags origin | awk '{print $2}' | grep -v '{}' | sort -V | tail -n1").read().strip().split('/v')[-1].split('.')
 
 
 # 'cf-standard-names'
@@ -94,7 +94,7 @@ directories = get_github_directories('cf-convention', 'cf-convention.github.io',
 latest = max([int(el) for el in directories if el.isdigit()])
 
 
-if current[0] < latest:
+if int(current[0] or -1) < latest:
     # sys.exit('No new version available')
 
     # URL of the XML file
@@ -122,7 +122,7 @@ directories2 = get_github_directories('cf-convention', 'cf-convention.github.io'
 # print("Directories:", directories)
 latest2 = max([int(el) for el in directories2 if el.isdigit()])    
 
-if current[1] < latest2:
+if int(current[1] or -1) < latest2:
     # sys.exit('No new version available')
 
     # URL of the XML file
@@ -144,7 +144,7 @@ if current[1] < latest2:
         
 
 tag = f'{latest}.{latest2}'
-if tag == current:
+if tag != current:
     
     # push to git 
     add = os.popen('git add .').read()
