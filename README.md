@@ -1,4 +1,4 @@
-# CF
+# CF JSON-LD files
 CF standard names converted to JSONLD
 
 versioning format: Standard Name . Area Type Tabels
