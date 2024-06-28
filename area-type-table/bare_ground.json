@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/bare_ground",
+  "@type": "CFAreaTypeTable",
+  "name": "bare_ground",
+  "description": null
+}

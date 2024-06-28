@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/clear_sky",
+  "@type": "CFAreaTypeTable",
+  "name": "clear_sky",
+  "description": null
+}

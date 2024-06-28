@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/snow",
+  "@type": "CFAreaTypeTable",
+  "name": "snow",
+  "description": null
+}
