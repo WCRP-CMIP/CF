@@ -82,7 +82,8 @@ def xml_to_json(xml_url):
         return None
 
 
-current = os.popen("git ls-remote --tags origin | awk '{print $2}' | grep -v '{}' | sort -V | tail -n1").read().strip().split('/v')[-1].split('.')
+current = os.popen("git ls-remote --tags origin | awk '{print $2}' | grep -v '{}' | sort -V | tail -n1").read().strip().split('/v')[-1] or '-1.-1'
+current = current.split('.') 
 
 
 # 'cf-standard-names'
