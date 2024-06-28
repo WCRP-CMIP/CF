@@ -4,7 +4,7 @@ on:
     branches:
       - '*'
   schedule:
-    - cron: '43 9 * * *'
+    - cron: '0 0 * * *'
     # Runs at midnight UTC every day
 jobs:
   update_versioning:
