@@ -115,7 +115,7 @@ if int(current[0] or -1) < latest:
             "grib": i.get("grib", None),            
         }
         
-        json.dump(open(f'standard-name/{i["id"]}.json', 'w'), out, indent=2)
+        json.dump(out,open(f'standard-name/{i["id"]}.json', 'w'), indent=2)
         
 directories2 = get_github_directories('cf-convention', 'cf-convention.github.io', f'Data/area-type-table/')
 
@@ -140,7 +140,7 @@ if int(current[1] or -1) < latest2:
             "description": i["description"],   
         }
         
-        json.dump(open(f'area-type-table/{i["id"]}.json', 'w'), out, indent=2)
+        json.dump(out,open(f'area-type-table/{i["id"]}.json', 'w'), indent=2)
         
 
 tag = f'{latest}.{latest2}'
