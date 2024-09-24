@@ -24,8 +24,13 @@ jobs:
       repository-projects: write
       statuses: write
     steps:
+
+      - name: Install CMIP-LD
+        id: install-cmipld
+        uses: WCRP-CMIP/CMIP-LD/actions/cmipld@main
+
       - name: Check out the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch the complete commit history
       - name: Set up Git
@@ -38,7 +43,9 @@ jobs:
           git config --global push.default current
           echo "GH_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
         shell: bash
+
       - name: content update
         id: run-python-script
         run: python .github/generate.py
         shell: bash
+      

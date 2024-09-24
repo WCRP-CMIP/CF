@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_geothermal_heat_flux_at_ground_level_in_land_ice",
-  "@type": "CFStandardName",
-  "name": "upward_geothermal_heat_flux_at_ground_level_in_land_ice",
-  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. \"ground_level\" means the land surface (including beneath snow, ice and surface water, if any). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The quantity with standard name upward_geothermal_heat_flux_at_ground_level_in_land_ice is the upward heat flux at the interface between the ice and bedrock. It does not include any heat flux from the ocean into an ice shelf.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

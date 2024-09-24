@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/spectral_width_of_radio_wave_in_air_scattered_by_air",
-  "@type": "CFStandardName",
-  "name": "spectral_width_of_radio_wave_in_air_scattered_by_air",
-  "description": "The quantity with standard name spectral_width_of_radio_wave_in_air_scattered_by_air is the frequency width of the signal received by an instrument such as a radar or lidar. The signal returned to the instrument is the sum of all scattering from a given volume of air regardless of mechanism (examples are scattering by aerosols, hydrometeors and refractive index irregularities, or whatever else the instrument detects).",
-  "canonical_units": "Hz",
-  "amip": null,
-  "grib": null
-}

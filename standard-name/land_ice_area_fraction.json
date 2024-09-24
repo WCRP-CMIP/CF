@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/land_ice_area_fraction",
-  "@type": "CFStandardName",
-  "name": "land_ice_area_fraction",
-  "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.",
-  "canonical_units": "1",
-  "amip": "sftgif",
-  "grib": null
-}

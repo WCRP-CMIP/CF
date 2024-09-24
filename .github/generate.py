@@ -108,7 +108,7 @@ if int(current[0] or -1) < latest:
         
         out = {
             "@id":f'cf:standard_name/{i["id"]}',
-            "@type": "CFStandardName",
+            "@type": "standard-name",
             "name": i["id"],
             "description": i["description"],
             "canonical_units": i.get("canonical_units", None),
@@ -136,7 +136,7 @@ if int(current[1] or -1) < latest2:
         
         out = {
             "@id":f'cf:area-type-table/{i["id"]}',
-            "@type": "CFAreaTypeTable",
+            "@type": "area-type-table",
             "name": i["id"],
             "description": i["description"],   
         }
@@ -146,6 +146,13 @@ if int(current[1] or -1) < latest2:
 
 tag = f'{latest}.{latest2}'
 if tag != current:
+    
+    
+    print(os.popen("mkdir -p compiled; updateld --exclude-dirs='compiled' --override --base-dir='./' --type-prefix='cf'").read())
+
+    print(os.popen('combine-graphs compiled/graph_data . graph ./scripts').read())
+    
+    
     
     # push to git 
     add = os.popen('git add .').read()
