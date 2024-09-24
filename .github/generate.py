@@ -157,8 +157,8 @@ if tag != current:
     # push to git 
     add = os.popen('git add .').read()
     commit =os.popen(f'git commit -m "Update to standard-names v{latest} and area-type-table v{latest2}"').read()
-    tag = os.popen(f'git tag -a v{tag} -m "Version v{tag}"').read()
-    push = os.popen('git push origin main').read()
+    tag = os.popen(f'git tag -a "v{tag}" -m "Version v{tag}"').read()
+    push = os.popen(f'git push origin "v{tag}"').read()
     
     print(add, commit, tag, push)
     
