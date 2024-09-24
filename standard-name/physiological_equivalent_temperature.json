@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/physiological_equivalent_temperature",
+  "@type": "standard-name",
+  "name": "physiological_equivalent_temperature",
+  "description": "Physiological equivalent temperature (PET) is an equivalent air temperature of the actual thermal condition. It is the air temperature of a reference condition without wind and solar radiation at which the heat budget of the human body is balanced with the same core and skin temperature. Note that PET here is not potential evapotranspiration. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "degree_C",
+  "amip": null,
+  "grib": null
+}

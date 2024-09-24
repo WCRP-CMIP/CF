@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_149Pm",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_149Pm",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pm\" means the element \"promethium\" and \"149Pm\" is the isotope \"promethium-149\" with a half-life of 2.21e+00 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

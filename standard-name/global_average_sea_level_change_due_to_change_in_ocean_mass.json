@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/global_average_sea_level_change_due_to_change_in_ocean_mass",
+  "@type": "standard-name",
+  "name": "global_average_sea_level_change_due_to_change_in_ocean_mass",
+  "description": "Global average mass volume sea level change is caused by water mass balance (evaporation \u2013 precipitation + runoff). This in turn results in a change in volume of the world ocean. Zero sea level change is an arbitrary level. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Because global average sea level change quantifies the change in volume of the world ocean, it is not calculated necessarily by considering local changes in mean sea level. This quantity is sometimes called \"barystatic sea level rise\" or \"barystatic sea level change\". It is the part of global-mean sea-level rise which is due to the addition to the ocean of water mass that formerly resided within the land area (as land water storage or land ice) or in the atmosphere (which contains a relatively tiny mass of water).",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

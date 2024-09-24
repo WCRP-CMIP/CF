@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/integral_wrt_depth_of_tendency_of_sea_water_alkalinity_expressed_as_mole_equivalent_due_to_biological_processes",
+  "@type": "standard-name",
+  "name": "integral_wrt_depth_of_tendency_of_sea_water_alkalinity_expressed_as_mole_equivalent_due_to_biological_processes",
+  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. \"wrt\" means with respect to. \"tendency_of_X\" means derivative of X with respect to time. Depth is the vertical distance below the surface.   'sea_water_alkalinity_expressed_as_mole_equivalent' is the total alkalinity equivalent concentration (including carbonate, nitrogen, silicate, and borate components). The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+  "canonical_units": "mol m-2 s-1",
+  "amip": null,
+  "grib": null
+}

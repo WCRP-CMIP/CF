@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radial_velocity_of_scatterers_away_from_instrument",
+  "@type": "standard-name",
+  "name": "radial_velocity_of_scatterers_away_from_instrument",
+  "description": "A velocity is a vector quantity. \"Radial velocity away from instrument\" means the component of the velocity along the line of sight of the instrument where positive implies movement away from the instrument (i.e. outward). The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities), of whatever kind the instrument detects. A standard name referring to radial velocity \"toward_instrument\" should be used for a data variable having the opposite sign convention.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

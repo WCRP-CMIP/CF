@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/halosteric_change_in_mean_sea_level",
+  "@type": "standard-name",
+  "name": "halosteric_change_in_mean_sea_level",
+  "description": "Halosteric sea level change is the part caused by change in sea water density due to change in salinity. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals. Zero mean sea level change is an arbitrary level. The sum of the quantities with standard names thermosteric_change_in_mean_sea_level and halosteric_change_in_mean_sea_level has the standard name steric_change_in_mean_sea_level.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

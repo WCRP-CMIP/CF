@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/effective_radius_of_cloud_condensed_water_particles_at_cloud_top",
+  "@type": "standard-name",
+  "name": "effective_radius_of_cloud_condensed_water_particles_at_cloud_top",
+  "description": "The effective radius of a size distribution of particles, such as aerosols, cloud droplets or ice crystals,is the area weighted mean radius of particle size. It is calculated as the ratio of the third to the second moment of the particle size distribution. \"cloud_top\" refers to the top of the  highest cloud. \"condensed_water\" means liquid and ice.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

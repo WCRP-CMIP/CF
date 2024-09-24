@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_concentration_of_formaldehyde_in_air",
+  "@type": "standard-name",
+  "name": "mass_concentration_of_formaldehyde_in_air",
+  "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y.  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The chemical formula for formaldehyde is CH2O. The IUPAC name for formaldehyde is methanal.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

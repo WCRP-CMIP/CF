@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/specific_kinetic_energy_of_sea_water",
+  "@type": "standard-name",
+  "name": "specific_kinetic_energy_of_sea_water",
+  "description": "\"specific\" means per unit mass.",
+  "canonical_units": "m2 s-2",
+  "amip": null,
+  "grib": null
+}

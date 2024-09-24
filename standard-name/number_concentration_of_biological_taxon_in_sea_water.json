@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/number_concentration_of_biological_taxon_in_sea_water",
+  "@type": "standard-name",
+  "name": "number_concentration_of_biological_taxon_in_sea_water",
+  "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. \"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. There must be an auxiliary coordinate variable with standard name biological_taxon_name to identify the taxon in human readable format and optionally an auxiliary coordinate variable with standard name biological_taxon_lsid to provide a  machine-readable identifier. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables.",
+  "canonical_units": "m-3",
+  "amip": null,
+  "grib": null
+}

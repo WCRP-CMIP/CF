@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/upward_heat_flux_at_base_of_grounded_ice_sheet",
+  "@type": "standard-name",
+  "name": "upward_heat_flux_at_base_of_grounded_ice_sheet",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). \"Grounded ice sheet\" indicates where the ice sheet rests over bedrock and is thus grounded. It excludes ice-caps, glaciers and floating ice shelves. The quantity with standard name upward_heat_flux_at_base_of_grounded_ice_sheet is the upward heat flux at the interface between the ice and bedrock. It does not include any heat flux from the ocean into an ice shelf.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

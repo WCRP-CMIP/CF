@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_stability_showalter_index",
+  "@type": "standard-name",
+  "name": "atmosphere_stability_showalter_index",
+  "description": "The atmosphere_stability_showalter_index is an index used to determine convective and thunderstorm potential and is often referred to as simply the showalter index. The index is defined as the temperature difference between a parcel of air lifted from 850 to 500 hPa (wet adiabatically) and the ambient air temperature at 500 hPa. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

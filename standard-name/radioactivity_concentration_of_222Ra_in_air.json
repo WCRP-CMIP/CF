@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_222Ra_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_222Ra_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ra\" means the element \"radium\" and \"222Ra\" is the isotope \"radium-222\" with a half-life of 4.41e-04 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

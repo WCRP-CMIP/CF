@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_216At_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_216At_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"At\" means the element \"astatine\" and \"216At\" is the isotope \"astatine-216\" with a half-life of 3.47e-09 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

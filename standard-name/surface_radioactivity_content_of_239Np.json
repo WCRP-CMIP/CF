@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_239Np",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_239Np",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Np\" means the element \"neptunium\" and \"239Np\" is the isotope \"neptunium-239\" with a half-life of 2.35e+00 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

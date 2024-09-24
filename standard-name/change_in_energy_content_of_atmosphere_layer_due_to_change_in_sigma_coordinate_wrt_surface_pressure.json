@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/change_in_energy_content_of_atmosphere_layer_due_to_change_in_sigma_coordinate_wrt_surface_pressure",
+  "@type": "standard-name",
+  "name": "change_in_energy_content_of_atmosphere_layer_due_to_change_in_sigma_coordinate_wrt_surface_pressure",
+  "description": "\"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The abbreviation \"wrt\" means with respect to. The surface called \"surface\" means the lower boundary of the atmosphere. See Appendix D of the CF convention for information about parametric vertical coordinates.",
+  "canonical_units": "J m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/acoustic_inertia_in_sea_water",
+  "@type": "standard-name",
+  "name": "acoustic_inertia_in_sea_water",
+  "description": "Acoustic inertia is the sum of squared distances from the acoustic_centre_of_mass weighted by the volume backscattering coefficient at each distance and normalized by the total area backscattering coefficient. Volume backscattering coefficient is the linear form of acoustic_volume_backscattering_strength_in_sea_water. Area backscattering coefficient is the integral of the volume backscattering coefficient over a defined distance. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205 and Bez and Rivoirard (2001) doi:10.1016/S0165-7836(00)00241-1.",
+  "canonical_units": "m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_speed",
+  "@type": "standard-name",
+  "name": "sea_ice_speed",
+  "description": "Speed is the magnitude of velocity. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": "94"
+}

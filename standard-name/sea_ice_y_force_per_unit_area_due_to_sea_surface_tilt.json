@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_y_force_per_unit_area_due_to_sea_surface_tilt",
+  "@type": "standard-name",
+  "name": "sea_ice_y_force_per_unit_area_due_to_sea_surface_tilt",
+  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Several factors contribute to differences in the ocean surface level, including uneven heating, salinity variations, and currents, especially near coastal regions or ice shelves. Differences in surface level result in sea-surface tilt, a force that influences the ice motion. Reference: National Snow and Ice Data Center https://nsidc.org/cryosphere/seaice/processes/dynamics.html. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "N m-2",
+  "amip": null,
+  "grib": null
+}

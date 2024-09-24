@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_sea_water_velocity_at_sea_floor",
+  "@type": "standard-name",
+  "name": "eastward_sea_water_velocity_at_sea_floor",
+  "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). The velocity at the sea floor is that adjacent to the ocean bottom, which would be the deepest grid cell in an ocean model and within the benthic boundary layer for measurements.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

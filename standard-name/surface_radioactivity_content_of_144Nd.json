@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_144Nd",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_144Nd",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Nd\" means the element \"neodymium\" and \"144Nd\" is the isotope \"neodymium-144\" with a half-life of 7.64e+17 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

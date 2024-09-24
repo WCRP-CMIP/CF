@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_snow_sublimation_amount",
+  "@type": "standard-name",
+  "name": "surface_snow_sublimation_amount",
+  "description": "Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. \"Amount\" means mass per unit area. Sublimation is the conversion of solid into vapor.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

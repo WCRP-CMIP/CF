@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/altitude_at_top_of_atmosphere_model",
+  "@type": "standard-name",
+  "name": "altitude_at_top_of_atmosphere_model",
+  "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. \"Top of atmosphere model\" means the upper boundary of the top layer of an atmosphere model.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

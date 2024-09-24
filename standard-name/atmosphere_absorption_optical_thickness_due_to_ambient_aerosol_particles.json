@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_absorption_optical_thickness_due_to_ambient_aerosol_particles",
+  "@type": "standard-name",
+  "name": "atmosphere_absorption_optical_thickness_due_to_ambient_aerosol_particles",
+  "description": "The optical thickness is the integral along the path of radiation of a volume scattering/absorption/attenuation coefficient. The radiative flux is reduced by a factor exp(-optical_thickness) on traversing the path. A coordinate variable of radiation_wavelength or radiation_frequency can be specified to indicate that the optical thickness applies at specific wavelengths or frequencies. \"Absorption optical thickness\" means that part of the atmosphere optical thickness that is caused by the absorption of incident radiation. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. To specify the relative humidity and temperature at which the quantity described by the standard name applies, provide scalar coordinate variables with standard names of \"relative_humidity\" and \"air_temperature\". The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

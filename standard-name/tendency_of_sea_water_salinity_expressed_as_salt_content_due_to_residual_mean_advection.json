@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_sea_water_salinity_expressed_as_salt_content_due_to_residual_mean_advection",
+  "@type": "standard-name",
+  "name": "tendency_of_sea_water_salinity_expressed_as_salt_content_due_to_residual_mean_advection",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The phrase \"residual_mean_advection\" refers to the sum of the model's resolved advective transport plus any parameterized advective transport. Parameterized advective transport includes processes such as parameterized mesoscale and submesoscale transport, as well as any other advectively parameterized transport. When the parameterized advective transport is represented in the model as a skew-diffusion rather than an advection, then the parameterized skew diffusion should be included in this diagnostic, since the convergence of skew-fluxes are identical (in the continuous formulation) to the convergence of advective fluxes.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

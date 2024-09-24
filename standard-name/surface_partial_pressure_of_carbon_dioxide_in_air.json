@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_partial_pressure_of_carbon_dioxide_in_air",
+  "@type": "standard-name",
+  "name": "surface_partial_pressure_of_carbon_dioxide_in_air",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged. The chemical formula for carbon dioxide is CO2.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

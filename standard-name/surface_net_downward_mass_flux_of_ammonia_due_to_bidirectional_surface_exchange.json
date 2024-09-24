@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_net_downward_mass_flux_of_ammonia_due_to_bidirectional_surface_exchange",
+  "@type": "standard-name",
+  "name": "surface_net_downward_mass_flux_of_ammonia_due_to_bidirectional_surface_exchange",
+  "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward mass flux is the difference between downward_mass_flux and upward_mass_flux. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Bidirectional surface exchange\" is the exchange of a chemical species between the atmosphere and biosphere as simulated by bidirectional surface flux models. It refers to exchange through stomata and soil surfaces and is the net result of emission and dry deposition. The surface called \"surface\" means the lower boundary of the atmosphere. The chemical formula for ammonia is NH3.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

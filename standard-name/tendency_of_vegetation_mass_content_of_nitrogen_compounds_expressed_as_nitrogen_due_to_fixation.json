@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_vegetation_mass_content_of_nitrogen_compounds_expressed_as_nitrogen_due_to_fixation",
+  "@type": "standard-name",
+  "name": "tendency_of_vegetation_mass_content_of_nitrogen_compounds_expressed_as_nitrogen_due_to_fixation",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Nitrogen compounds\" summarizes all chemical species containing nitrogen atoms. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. On land, \"nitrogen fixation\" means the uptake of nitrogen gas directly from the atmosphere. The representation of fixed nitrogen is model dependent, with the nitrogen entering either plants, soil or both.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

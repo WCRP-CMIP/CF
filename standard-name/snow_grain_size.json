@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/snow_grain_size",
+  "@type": "standard-name",
+  "name": "snow_grain_size",
+  "description": null,
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

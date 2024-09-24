@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_75Ge",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_75Ge",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ge\" means the element \"germanium\" and \"75Ge\" is the isotope \"germanium-75\" with a half-life of 5.73e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

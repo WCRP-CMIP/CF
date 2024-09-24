@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tropopause_net_downward_shortwave_flux",
+  "@type": "standard-name",
+  "name": "tropopause_net_downward_shortwave_flux",
+  "description": "\"shortwave\" means shortwave radiation. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

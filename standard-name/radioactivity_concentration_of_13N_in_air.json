@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_13N_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_13N_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"N\" means the element \"nitrogen\" and \"13N\" is the isotope \"nitrogen-13\" with a half-life of 6.92e-03 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

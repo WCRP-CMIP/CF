@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_dynamic_sea_level",
+  "@type": "standard-name",
+  "name": "ocean_dynamic_sea_level",
+  "description": "Ocean dynamic sea level is the contribution to sea surface height variability made by processes other than astronomic forcing of the ocean and shallow water resonance of tidal components, or variations in air pressure. Sea surface height is a time-varying quantity.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

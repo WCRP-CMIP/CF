@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_flood_water_velocity",
+  "@type": "standard-name",
+  "name": "eastward_flood_water_velocity",
+  "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Flood water is water that covers land which is normally not covered by water.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

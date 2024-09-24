@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_flux_out_of_sea_ice_and_sea_water",
+  "@type": "standard-name",
+  "name": "water_flux_out_of_sea_ice_and_sea_water",
+  "description": "\"Water\" means water in all phases. The water_flux_out_of_sea_ice_and_sea_water is the freshwater leaving the ocean as a result of precipitation, evaporation, river outflow and any water flux relaxation(s) and correction(s) that may have been applied. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

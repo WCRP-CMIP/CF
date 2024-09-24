@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_wave_directional_variance_spectral_density",
+  "@type": "standard-name",
+  "name": "sea_surface_wave_directional_variance_spectral_density",
+  "description": "Sea surface wave directional variance spectral density is the variance of the amplitude of the waves within given ranges of direction and wave frequency.",
+  "canonical_units": "m2 s rad-1",
+  "amip": null,
+  "grib": null
+}

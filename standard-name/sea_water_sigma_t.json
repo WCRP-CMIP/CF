@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_sigma_t",
+  "@type": "standard-name",
+  "name": "sea_water_sigma_t",
+  "description": "Sigma-t of sea water is the density of water at atmospheric pressure (i.e. the surface) having the same temperature and salinity, minus 1000 kg m-3. Note that sea water sigma is not the same quantity as the dimensionless ocean sigma coordinate (see Appendix D of the CF convention), for which there is another standard name.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

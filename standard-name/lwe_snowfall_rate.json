@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/lwe_snowfall_rate",
+  "@type": "standard-name",
+  "name": "lwe_snowfall_rate",
+  "description": "\"lwe\" means liquid water equivalent.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

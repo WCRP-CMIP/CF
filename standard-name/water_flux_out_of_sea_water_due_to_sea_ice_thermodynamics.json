@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_flux_out_of_sea_water_due_to_sea_ice_thermodynamics",
+  "@type": "standard-name",
+  "name": "water_flux_out_of_sea_water_due_to_sea_ice_thermodynamics",
+  "description": "The water flux out of sea water is the freshwater leaving the sea water. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Sea ice thermodynamics\" refers to the addition or subtraction of sea ice mass due to surface and basal fluxes, i.e. due to melting, sublimation and fusion.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

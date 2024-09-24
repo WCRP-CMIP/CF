@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_118mIn",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_118mIn",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"In\" means the element \"indium\" and \"118mIn\" is the metastable state of the isotope \"indium-118\" with a half-life of 3.05e-03 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

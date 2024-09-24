@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/distance_from_geocenter",
+  "@type": "standard-name",
+  "name": "distance_from_geocenter",
+  "description": "A measure of distance from the Earth's geocenter, commonly used in satellite tracks.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

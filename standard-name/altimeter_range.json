@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/altimeter_range",
+  "@type": "standard-name",
+  "name": "altimeter_range",
+  "description": "An altimeter operates by sending out a short pulse of radiation and measuring the time required for the pulse to return from the sea surface; this measurement is used to calculate the distance between the instrument and the sea surface.  That measurement is called the \"altimeter range\" and does not include any range corrections.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

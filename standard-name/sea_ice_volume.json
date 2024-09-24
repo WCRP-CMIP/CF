@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_volume",
+  "@type": "standard-name",
+  "name": "sea_ice_volume",
+  "description": "\"X_volume\" means the volume occupied by X within the grid cell. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m3",
+  "amip": null,
+  "grib": null
+}

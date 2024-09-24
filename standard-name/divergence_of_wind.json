@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/divergence_of_wind",
+  "@type": "standard-name",
+  "name": "divergence_of_wind",
+  "description": "\"[horizontal_]divergence_of_X\" means [horizontal] divergence of a vector X; if X does not have a vertical component then \"horizontal\" should be omitted. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": "44 E155"
+}

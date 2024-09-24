@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_specific_humidity",
+  "@type": "standard-name",
+  "name": "tendency_of_specific_humidity",
+  "description": "\"tendency_of_X\" means derivative of X with respect to time. \"specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/canopy_temperature",
+  "@type": "standard-name",
+  "name": "canopy_temperature",
+  "description": "\"Canopy temperature\" is the bulk temperature of the canopy, not the surface (skin) temperature. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

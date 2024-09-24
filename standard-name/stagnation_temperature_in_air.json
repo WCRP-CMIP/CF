@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/stagnation_temperature_in_air",
+  "@type": "standard-name",
+  "name": "stagnation_temperature_in_air",
+  "description": "In thermodynamics and fluid mechanics, stagnation temperature is the temperature at a stagnation point in a fluid flow. At a stagnation point the speed of the fluid is zero and all of the kinetic energy has been converted to internal energy and is added to the local static enthalpy. In both compressible and incompressible fluid flow, the stagnation temperature is equal to the total temperature at all points on the streamline leading to the stagnation point. In aviation, stagnation temperature is known as total air temperature and is measured by a temperature probe mounted on the surface of the aircraft. The probe is designed to bring the air to rest relative to the aircraft. As the air is brought to rest, kinetic energy is converted to internal energy. The air is compressed and experiences an adiabatic increase in temperature. Therefore, total air temperature is higher than the static (or ambient) air temperature. Total air temperature is an essential input to an air data computer in order to enable computation of static air temperature and hence true airspeed. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

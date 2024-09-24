@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_wave_maximum_height",
+  "@type": "standard-name",
+  "name": "sea_surface_wave_maximum_height",
+  "description": "Wave height is defined as the vertical distance from a wave trough to the following wave crest. The maximum wave height is the greatest trough to crest distance measured during the observation period.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/reference_mole_fraction_of_ozone_in_air",
+  "@type": "standard-name",
+  "name": "reference_mole_fraction_of_ozone_in_air",
+  "description": "This ozone field acts as a reference ozone field in a diagnostic call to the model's radiation scheme. Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+  "canonical_units": "mol/mol",
+  "amip": null,
+  "grib": null
+}

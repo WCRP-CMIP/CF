@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/vegetation",
+  "@type": "area-type-table",
+  "name": "vegetation",
+  "description": null
+}

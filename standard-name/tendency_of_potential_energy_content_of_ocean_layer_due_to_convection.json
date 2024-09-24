@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_potential_energy_content_of_ocean_layer_due_to_convection",
+  "@type": "standard-name",
+  "name": "tendency_of_potential_energy_content_of_ocean_layer_due_to_convection",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Potential energy is the sum of the gravitational potential energy relative to the geoid and the centripetal potential energy. (The geopotential is the specific potential energy.)",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

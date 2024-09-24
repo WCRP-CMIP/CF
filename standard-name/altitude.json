@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/altitude",
+  "@type": "standard-name",
+  "name": "altitude",
+  "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": "8"
+}

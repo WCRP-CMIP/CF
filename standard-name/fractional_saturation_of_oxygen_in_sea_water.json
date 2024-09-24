@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/fractional_saturation_of_oxygen_in_sea_water",
+  "@type": "standard-name",
+  "name": "fractional_saturation_of_oxygen_in_sea_water",
+  "description": "Fractional saturation is the ratio of some measure of concentration to the saturated value of the same quantity.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

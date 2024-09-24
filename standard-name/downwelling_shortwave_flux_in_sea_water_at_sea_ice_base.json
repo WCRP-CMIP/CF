@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/downwelling_shortwave_flux_in_sea_water_at_sea_ice_base",
+  "@type": "standard-name",
+  "name": "downwelling_shortwave_flux_in_sea_water_at_sea_ice_base",
+  "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. The term \"shortwave\" means shortwave radiation. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

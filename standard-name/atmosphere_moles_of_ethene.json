@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_ethene",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_ethene",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for ethene is C2H4. Ethene is a member of the group of hydrocarbons known as alkenes.  There are standard names for the alkene group as well as for some of the individual species.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

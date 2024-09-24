@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_93Zr",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_93Zr",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Zr\" means the element \"zirconium\" and \"93Zr\" is the isotope \"zirconium-93\" with a half-life of 3.47e+08 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/fraction_of_surface_downwelling_photosynthetic_radiative_flux_absorbed_by_vegetation",
+  "@type": "standard-name",
+  "name": "fraction_of_surface_downwelling_photosynthetic_radiative_flux_absorbed_by_vegetation",
+  "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. The surface called \"surface\" means the lower boundary of the atmosphere. The quantity with standard name fraction_of_surface_downwelling_photosynthetic_radiative_flux_absorbed_by_vegetation, often called Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), is the fraction of incoming solar radiation in the photosynthetically active radiation spectral region that is absorbed by a vegetation canopy. \"Photosynthetic\" radiation is the part of the spectrum which is used in photosynthesis e.g. 400-700 nm. The range of wavelengths could be specified precisely by the bounds of a coordinate of \"radiation_wavelength\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Vegetation\" means any plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

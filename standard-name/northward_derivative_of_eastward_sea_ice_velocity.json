@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/northward_derivative_of_eastward_sea_ice_velocity",
+  "@type": "standard-name",
+  "name": "northward_derivative_of_eastward_sea_ice_velocity",
+  "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Sea ice velocity is defined as a two-dimensional vector, with no vertical component. The phrase \"component_derivative_of_X\" means derivative of X with respect to distance in the component direction, which may be northward, southward, eastward, westward, x or y. The last two indicate derivatives along the axes of the grid, in the case where they are not true longitude and latitude. The named quantity is a component of the strain rate tensor for sea ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

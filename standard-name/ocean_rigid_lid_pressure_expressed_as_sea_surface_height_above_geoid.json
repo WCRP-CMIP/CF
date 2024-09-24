@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_rigid_lid_pressure_expressed_as_sea_surface_height_above_geoid",
+  "@type": "standard-name",
+  "name": "ocean_rigid_lid_pressure_expressed_as_sea_surface_height_above_geoid",
+  "description": "\"Ocean rigid lid pressure\" means the pressure at the surface of an ocean model assuming that it is bounded above by a rigid lid. \"Sea surface height\" is a time-varying quantity. The geoid is a surface of constant geopotential with which mean sea level would coincide if the ocean were at rest. (The volume enclosed between the geoid and the sea floor equals the mean volume of water in the ocean). In an ocean GCM the geoid is the surface of zero depth, or the rigid lid if the model uses that approximation. To specify which geoid or geopotential datum is being used as a reference level, a grid_mapping variable should be attached to the data variable as described in Chapter 5.6 of the CF Convention.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

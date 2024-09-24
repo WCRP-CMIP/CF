@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/number_concentration_of_cloud_condensation_nuclei_at_stp_in_air",
+  "@type": "standard-name",
+  "name": "number_concentration_of_cloud_condensation_nuclei_at_stp_in_air",
+  "description": "The cloud condensation nuclei number concentration is the total number of aerosol particles per unit volume independent of and integrated over particle size that act as condensation nuclei for liquid-phase clouds. A coordinate variable with the standard name of relative_humidity should be specified to indicate that the property refers to a specific supersaturation with respect to liquid water. The ability of a particle to act as a condensation nucleus is determined by its size, chemical composition, and morphology. \"stp\" means standard temperature (0 degC) and pressure (101325 Pa).",
+  "canonical_units": "m-3",
+  "amip": null,
+  "grib": null
+}

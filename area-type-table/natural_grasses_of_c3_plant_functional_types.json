@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/natural_grasses_of_c3_plant_functional_types",
+  "@type": "area-type-table",
+  "name": "natural_grasses_of_c3_plant_functional_types",
+  "description": "\"Natural grasses\" means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland. A \"c3 plant\" is one that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+}

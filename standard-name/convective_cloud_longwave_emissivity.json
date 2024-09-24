@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/convective_cloud_longwave_emissivity",
+  "@type": "standard-name",
+  "name": "convective_cloud_longwave_emissivity",
+  "description": "Emissivity is the ratio of the power emitted by an object to the power that would be emitted by a perfect black body having the same temperature as the object. The emissivity is assumed to be an integral over all wavelengths, unless a coordinate of radiation_wavelength or radiation_frequency is included to specify either the wavelength or frequency. Convective cloud is that produced by the convection schemes in an atmosphere model.  \"longwave\" means longwave radiation.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

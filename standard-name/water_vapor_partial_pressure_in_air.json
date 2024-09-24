@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_vapor_partial_pressure_in_air",
+  "@type": "standard-name",
+  "name": "water_vapor_partial_pressure_in_air",
+  "description": "The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": "55"
+}

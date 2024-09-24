@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/global_average_steric_sea_level_change",
+  "@type": "standard-name",
+  "name": "global_average_steric_sea_level_change",
+  "description": "Global average steric sea level change is caused by changes in sea water density due to changes in temperature (thermosteric) and salinity (halosteric). This in turn results in a change in volume of the world ocean. Zero sea level change is an arbitrary level. Because global average sea level change quantifies the change in volume of the world ocean, it is not calculated necessarily by considering local changes in mean sea level.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

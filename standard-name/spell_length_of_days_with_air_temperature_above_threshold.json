@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/spell_length_of_days_with_air_temperature_above_threshold",
+  "@type": "standard-name",
+  "name": "spell_length_of_days_with_air_temperature_above_threshold",
+  "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature.  A spell is the number of consecutive days on which the condition X_below|above_threshold is satisfied.  A variable whose standard name has the form spell_length_of_days_with_X_below|above_threshold must have a coordinate variable or scalar coordinate variable with the standard name of X to supply the threshold(s). It must have a climatological time variable, and a cell_method entry for within days which describes the processing of quantity X before the threshold is applied. A spell_length_of_days is an intensive quantity in time, and the cell_methods entry for over days can be any of the methods listed in Appendix E appropriate for intensive quantities e.g. \"maximum\", \"minimum\" or \"mean\".",
+  "canonical_units": "day",
+  "amip": null,
+  "grib": null
+}

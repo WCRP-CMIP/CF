@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_height_correction_due_to_air_pressure_at_low_frequency",
+  "@type": "standard-name",
+  "name": "sea_surface_height_correction_due_to_air_pressure_at_low_frequency",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Air pressure at low frequency\" means variations in air pressure with periods longer than 20 days. These give rise to corresponding variations in sea surface topography. The quantity sea_surface_height_correction_due_to_air_pressure_at_low_frequency is commonly called the \"inverted barometer effect\" and the correction should be applied by adding it to the quantity with standard name altimeter_range.  Additional altimeter range corrections are given by the quantities with standard names altimeter_range_correction_due_to_wet_troposphere, altimeter_range_correction_due_to_dry_troposphere, altimeter_range_correction_due_to_ionosphere and sea_surface_height_correction_due_to_air_pressure_and_wind_at_high_frequency.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

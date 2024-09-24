@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/age_of_sea_ice",
+  "@type": "standard-name",
+  "name": "age_of_sea_ice",
+  "description": "\"Age of sea ice\" means the length of time elapsed since the ice formed. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "year",
+  "amip": null,
+  "grib": null
+}

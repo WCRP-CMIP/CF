@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_fraction_of_hfc365mfc_in_air",
+  "@type": "standard-name",
+  "name": "mole_fraction_of_hfc365mfc_in_air",
+  "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for hfc365mfc is C4H5F5. The IUPAC name for hfc365mfc is 1,1,1,3,3-pentafluorobutane.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

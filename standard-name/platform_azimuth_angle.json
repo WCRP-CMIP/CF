@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/platform_azimuth_angle",
+  "@type": "standard-name",
+  "name": "platform_azimuth_angle",
+  "description": "Platform azimuth angle is the horizontal angle between the line of sight from the observation point to the platform and a reference direction at the observation point, which is often due north. The angle is measured clockwise positive, starting from the reference direction. A comment attribute should be added to a data variable with the standard name platform_azimuth_angle to specify the reference direction. A standard name also exists for sensor_azimuth_angle. For some viewing geometries the sensor and the platform cannot be assumed to be close enough to neglect the difference in calculated azimuth angle. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
+}

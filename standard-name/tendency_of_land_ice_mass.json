@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_land_ice_mass",
+  "@type": "standard-name",
+  "name": "tendency_of_land_ice_mass",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The horizontal domain over which the quantity is calculated is described by the associated coordinate variables and coordinate bounds or by a coordinate variable or scalar coordinate variable with the standard name of \"region\" supplied according to section 6.1.1 of the CF conventions.",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

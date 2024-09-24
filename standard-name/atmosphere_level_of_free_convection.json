@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_level_of_free_convection",
+  "@type": "standard-name",
+  "name": "atmosphere_level_of_free_convection",
+  "description": "The level of free convection is the altitude where the temperature of the environment decreases faster than the moist adiabatic lapse rate of a saturated air parcel at the same level.  It is calculated by lifting a parcel of air dry adiabatically to the LCL (lifted condensation level), then moist adiabatically until the parcel temperature is equal to the ambient temperature. A coordinate variable of original_air_pressure_of_lifted_parcel should be specified to indicate the starting height of the lifted parcel.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

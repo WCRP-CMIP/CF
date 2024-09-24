@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/crops_of_c3_plant_functional_types",
+  "@type": "area-type-table",
+  "name": "crops_of_c3_plant_functional_types",
+  "description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops. A \"c3 plant\" is one that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+}

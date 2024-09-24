@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/modis_cloud_area_fraction",
+  "@type": "standard-name",
+  "name": "modis_cloud_area_fraction",
+  "description": "The MODIS cloud area fraction is diagnosed from atmosphere model output by the MODIS simulator software in such a way as to be comparable with the observational diagnostics of MODIS (Moderate Resolution Imaging Spectroradiometer). Cloud area fraction is also called \u201ccloud amount\u201d and \u201ccloud cover.\u201d As seen from above, mean fraction of grid column occupied by cloud of optical depths and heights specified by the tau and pressure intervals given above. Dimensions of the histogram are cloud top pressure and cloud optical depth. To distinguish that these are cloud area fractions as seen by a specific satellite instrument simulator, not the same as cloud area fractions diagnosed by the native model, the prefix format of satellite name_ is employed. \"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

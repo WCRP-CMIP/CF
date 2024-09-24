@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/barometric_altitude",
+  "@type": "standard-name",
+  "name": "barometric_altitude",
+  "description": "Barometric altitude is the altitude determined by a pressure measurement which is converted to altitude through interpolation of the International Standard Atmosphere (ICAO, 1976).  A mean sea level pressure of 1013.25 hPa is used for the surface pressure.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

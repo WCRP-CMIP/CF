@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_concentration_of_copper_in_sea_floor_sediment",
+  "@type": "standard-name",
+  "name": "mass_concentration_of_copper_in_sea_floor_sediment",
+  "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Copper means copper in all chemical forms, commonly referred to as \"total copper\". \"Sea floor sediment\" is sediment deposited at the sea bed.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

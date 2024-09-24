@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_speed_shear",
+  "@type": "standard-name",
+  "name": "sea_water_speed_shear",
+  "description": "Speed is the magnitude of velocity. Sea water speed shear is the derivative of sea water speed with respect to depth.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

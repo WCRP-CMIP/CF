@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_limonene_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_limonene_in_air",
+  "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for limonene is C10H16. The IUPAC name for limonene is 1-methyl-4-prop-1-en-2-ylcyclohexene. Limonene is a member of the group of hydrocarbons known as terpenes. There are standard names for the terpene group as well as for some of the individual species.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

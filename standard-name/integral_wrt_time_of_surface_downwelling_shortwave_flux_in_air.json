@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/integral_wrt_time_of_surface_downwelling_shortwave_flux_in_air",
+  "@type": "standard-name",
+  "name": "integral_wrt_time_of_surface_downwelling_shortwave_flux_in_air",
+  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The phrase \"wrt\" means with respect to. The surface called \"surface\" means the lower boundary of the atmosphere. Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. The term \"shortwave\" means shortwave radiation. Surface downwelling shortwave is the sum of direct and diffuse solar radiation incident on the surface, and is sometimes called \"global radiation\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "W s m-2",
+  "amip": null,
+  "grib": null
+}

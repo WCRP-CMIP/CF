@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_148mPm",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_148mPm",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pm\" means the element \"promethium\" and \"148mPm\" is the metastable state of the isotope \"promethium-148\" with a half-life of 4.14e+01 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

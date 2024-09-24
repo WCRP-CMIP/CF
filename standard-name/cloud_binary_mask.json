@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/cloud_binary_mask",
+  "@type": "standard-name",
+  "name": "cloud_binary_mask",
+  "description": "X_binary_mask has 1 where condition X is met, 0 elsewhere. 1 = cloud present, 0 = cloud absent (clear). If no threshold is supplied, the binary mask is 1 if there is any non-zero amount of cloud. if a threshold is supplied, it should be specified by associating a coordinate variable or scalar coordinate variable with the data variable and giving the coordinate variable a standard name of cloud_area_fraction. The values of the coordinate variable are the threshold values for the corresponding subarrays of the data variable.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

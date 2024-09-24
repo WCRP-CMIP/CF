@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_cfc113",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_cfc113",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula of CFC113 is CCl2FCClF2. The IUPAC name for CFC113 is 1,1,2-trichloro-1,2,2-trifluoroethane.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_ice_runoff_flux",
+  "@type": "standard-name",
+  "name": "land_ice_runoff_flux",
+  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage. Runoff flux over land ice is the difference between any available liquid water in the snowpack due to rainfall and melting minus any refreezing and liquid water retained in the snowpack. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

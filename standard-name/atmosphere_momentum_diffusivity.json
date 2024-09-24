@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_momentum_diffusivity",
+  "@type": "standard-name",
+  "name": "atmosphere_momentum_diffusivity",
+  "description": null,
+  "canonical_units": "m2 s-1",
+  "amip": null,
+  "grib": null
+}

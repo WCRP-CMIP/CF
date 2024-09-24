@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nudging_increment_in_snow_and_ice_amount_on_land",
+  "@type": "standard-name",
+  "name": "nudging_increment_in_snow_and_ice_amount_on_land",
+  "description": "A \"nudging increment\" refers to an amount added to parts of a model system. The phrase \"nudging_increment_in_X\" refers to an increment in quantity X over a time period which should be defined in the bounds of the time coordinate. \"Amount\" means mass per unit area. \"Snow and ice on land\" means ice in glaciers, ice caps, ice sheets & shelves, river and lake ice, any other ice on a land surface, such as frozen flood water, and snow lying on such ice or on the land surface.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

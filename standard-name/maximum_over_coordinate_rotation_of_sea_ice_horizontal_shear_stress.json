@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_stress",
+  "@type": "standard-name",
+  "name": "maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_stress",
+  "description": "\"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. Axial stress is the symmetric component of the tensor representing the gradient of internal forces (e.g. in ice). Shear stress refers to off-diagonal element(s) of the stress tensor (a single element for horizontal shear stress). \"Horizontal\" refers to the local horizontal in the location of the sea ice, i.e., perpendicular to the local gravity vector. Each of the stress components is defined with respect to a frame of reference. \"Coordinate rotation\" refers to the range of all possible orientations of the frame of reference. The shear stress has a maximum value relative to one of these orientations. The second invariant of stress, often referred to as the maximum shear stress, is the maximum over coordinate rotations of the shear stress.",
+  "canonical_units": "N m-1",
+  "amip": null,
+  "grib": null
+}

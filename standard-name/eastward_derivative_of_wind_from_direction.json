@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_derivative_of_wind_from_direction",
+  "@type": "standard-name",
+  "name": "eastward_derivative_of_wind_from_direction",
+  "description": "The quantity with standard name eastward_derivative_of_wind_from_direction is the derivative of wind from_direction with respect to the change in eastward lateral position for a given atmospheric level. The phrase \"component_derivative_of_X\" means derivative of X with respect to distance in the component direction, which may be \"northward\", \"southward\", \"eastward\", \"westward\", \"upward\", \"downward\", \"x\" or \"y\". The last two indicate derivatives along the axes of the grid, in the case where they are not true longitude and latitude. A positive value indicates that X is increasing with distance along the positive direction of the axis. The phrase \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. In meteorological reports, the direction of the wind vector is usually (but not always) given as the direction from which it is blowing (\"wind_from_direction\") (westerly, northerly, etc.). In other contexts, such as atmospheric modelling, it is often natural to give the direction in the usual manner of vectors as the heading or the direction to which it is blowing (\"wind_to_direction\") (eastward, southward, etc.). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\").",
+  "canonical_units": "degree m-1",
+  "amip": null,
+  "grib": null
+}

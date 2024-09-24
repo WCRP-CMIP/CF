@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_temperature_anomaly",
+  "@type": "standard-name",
+  "name": "sea_water_temperature_anomaly",
+  "description": "The term \"anomaly\" means difference from climatology. Sea water temperature is the in situ temperature of the sea water. To specify the depth at which the temperature anomaly applies, use a vertical coordinate variable or scalar coordinate variable. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

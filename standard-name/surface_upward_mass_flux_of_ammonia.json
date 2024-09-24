@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_upward_mass_flux_of_ammonia",
+  "@type": "standard-name",
+  "name": "surface_upward_mass_flux_of_ammonia",
+  "description": "Upward\" indicates a vector component which is positive when directed upward (negative downward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The surface called \"surface\" means the lower boundary of the atmosphere. The chemical formula for ammonia is NH3.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_cover_lccs",
+  "@type": "standard-name",
+  "name": "land_cover_lccs",
+  "description": "A variable with the standard name of land_cover_lccs contains strings which indicate the nature of the surface, e.g. cropland_..., tree_... . Each string should represent a land cover class constructed using the Land Cover Classification System (LCCS; Di Gregorio A., 2005, UN Land Cover Classification System (LCCS) - Classification concepts and user manual for Software version 2; available at www.fao.org/DOCREP/003/X0596E/X0596e00.htm). String values should represent the classifiers used to define each class.",
+  "canonical_units": null,
+  "amip": null,
+  "grib": null
+}

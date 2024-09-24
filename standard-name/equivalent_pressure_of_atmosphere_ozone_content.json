@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/equivalent_pressure_of_atmosphere_ozone_content",
+  "@type": "standard-name",
+  "name": "equivalent_pressure_of_atmosphere_ozone_content",
+  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The equivalent pressure of a particular constituent of the atmosphere is the surface pressure exerted by the weight of that constituent alone.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

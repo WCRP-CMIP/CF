@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_peroxyacetyl_nitrate",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_peroxyacetyl_nitrate",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for peroxyacetyl nitrate, sometimes referred to as PAN, is CH3COO2NO2.  The IUPAC name for peroxyacetyl_nitrate is nitroethaneperoxoate.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

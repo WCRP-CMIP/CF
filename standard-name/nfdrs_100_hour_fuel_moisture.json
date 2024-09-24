@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nfdrs_100_hour_fuel_moisture",
+  "@type": "standard-name",
+  "name": "nfdrs_100_hour_fuel_moisture",
+  "description": "100 hour fuel moisture (FM100) represents the modeled moisture content of dead fuels in the 1 to 3 inch diameter class. It can also be used as a very rough estimate of the average moisture content of the forest floor from three-fourths inch to 4 inches below the surface. The 100-hour timelag fuel moisture is a function of length of day (as influenced by latitude and calendar date), maximum and minimum temperature and relative humidity, and precipitation duration in the previous 24 hours. It is a component in the US National Fire Danger Rating System. The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute.",
+  "canonical_units": "%",
+  "amip": null,
+  "grib": null
+}

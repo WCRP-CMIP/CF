@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_convective_inhibition_wrt_surface",
+  "@type": "standard-name",
+  "name": "atmosphere_convective_inhibition_wrt_surface",
+  "description": "Convective inhibition is the amount of energy per unit mass required to overcome the negatively buoyant energy exerted by the environment on a parcel of air.  Convective inhibition is often abbreviated as \"CIN\" or \"CINH\".  It is calculated by integrating the negative temperature difference between the surrounding atmosphere and a parcel of air lifted adiabatically from the surface to its equilibrium level.",
+  "canonical_units": "J kg-1",
+  "amip": null,
+  "grib": null
+}

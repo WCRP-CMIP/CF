@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/temperature_at_base_of_ice_sheet_model",
+  "@type": "standard-name",
+  "name": "temperature_at_base_of_ice_sheet_model",
+  "description": "The quantity with standard name temperature_at_base_of_ice_sheet_model is the lower boundary temperature that is used to force ice sheet models. Beneath ice shelves it is the temperature at the ice-ocean interface. Beneath grounded ice, it is the temperature at the ice-bedrock interface. In all instances the temperature is that of the interface itself and not that of the medium above or below the interface. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

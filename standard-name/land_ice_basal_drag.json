@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_ice_basal_drag",
+  "@type": "standard-name",
+  "name": "land_ice_basal_drag",
+  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. Basal drag is a resistive stress opposing ice flow at the ice bedrock boundary.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_244Pu",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_244Pu",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pu\" means the element \"plutonium\" and \"244Pu\" is the isotope \"plutonium-244\" with a half-life of 2.92e+10 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/air_equivalent_temperature",
+  "@type": "standard-name",
+  "name": "air_equivalent_temperature",
+  "description": "The equivalent temperature is the temperature that an air parcel would have if all water vapor were condensed at contstant pressure and the enthalpy released from the vapor used to heat the air. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Equivalent_temperature. It is the isobaric equivalent temperature and not the adiabatic equivalent temperature, also known as pseudoequivalent temperature, which has the standard name air_pseudo_equivalent_temperature. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

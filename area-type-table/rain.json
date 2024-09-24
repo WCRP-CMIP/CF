@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/rain",
+  "@type": "area-type-table",
+  "name": "rain",
+  "description": "An area_type of \"rain\" indicates that falling rain is present at some level in the atmospheric column above an area on the surface of the Earth."
+}

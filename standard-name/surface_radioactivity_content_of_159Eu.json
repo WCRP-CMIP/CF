@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_159Eu",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_159Eu",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Eu\" means the element \"europium\" and \"159Eu\" is the isotope \"europium-159\" with a half-life of 1.26e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

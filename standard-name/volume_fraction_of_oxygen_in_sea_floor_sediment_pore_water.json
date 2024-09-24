@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/volume_fraction_of_oxygen_in_sea_floor_sediment_pore_water",
+  "@type": "standard-name",
+  "name": "volume_fraction_of_oxygen_in_sea_floor_sediment_pore_water",
+  "description": "\"Volume fraction\" is used in the construction \"volume_fraction_of_X_in_Y\", where X is a material constituent of Y. It is evaluated as the volume of X divided by the volume of Y (including X). It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction.  \"Sea floor sediment\" is sediment deposited at the sea bed. \"Water\" means water in all phases.",
+  "canonical_units": null,
+  "amip": null,
+  "grib": null
+}

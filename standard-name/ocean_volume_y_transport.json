@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_volume_y_transport",
+  "@type": "standard-name",
+  "name": "ocean_volume_y_transport",
+  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
+  "canonical_units": "m3 s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/toa_brightness_temperature_of_standard_scene",
+  "@type": "standard-name",
+  "name": "toa_brightness_temperature_of_standard_scene",
+  "description": "\"toa\" means top of atmosphere. The brightness temperature of a body is the temperature of a black body which radiates the same power per unit solid angle per unit area at a given wavenumber. The standard scene is a target area with typical Earth surface and atmospheric conditions that is accepted as a reference. The toa radiance of the standard scene is calculated using a radiative transfer model for a given viewing geometry. The resultant toa spectral radiance is then integrated with a sensor's spectral response function and converted to equivalent brightness temperature. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

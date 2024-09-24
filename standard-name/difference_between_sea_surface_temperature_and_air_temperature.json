@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/difference_between_sea_surface_temperature_and_air_temperature",
+  "@type": "standard-name",
+  "name": "difference_between_sea_surface_temperature_and_air_temperature",
+  "description": "Sea surface temperature is usually abbreviated as \"SST\". It is the temperature of sea water near the surface (including the part under sea-ice, if any), not the skin or interface temperature, whose standard names are sea_surface_skin_temperature and surface_temperature, respectively. For the temperature of sea water at a particular depth or layer, a data variable of \"sea_water_temperature\" with a vertical coordinate axis should be used. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

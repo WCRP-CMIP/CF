@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/snowfall_flux",
+  "@type": "standard-name",
+  "name": "snowfall_flux",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": "prsn",
+  "grib": "64"
+}

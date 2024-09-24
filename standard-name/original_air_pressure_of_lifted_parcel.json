@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/original_air_pressure_of_lifted_parcel",
+  "@type": "standard-name",
+  "name": "original_air_pressure_of_lifted_parcel",
+  "description": "Various stability and convective potential indices are calculated by \"lifting\" a parcel of air: moving it dry adiabatically from a starting height (often the surface) to the Lifting Condensation Level, and then wet adiabatically from there to an ending height (often the top of the data/model/atmosphere). The quantities with standard names original_air_pressure_of_lifted_parcel and final_air_pressure_of_lifted_parcel are the ambient air pressure at the start and end of lifting, respectively. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

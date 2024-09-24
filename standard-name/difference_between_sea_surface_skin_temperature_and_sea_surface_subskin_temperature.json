@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/difference_between_sea_surface_skin_temperature_and_sea_surface_subskin_temperature",
+  "@type": "standard-name",
+  "name": "difference_between_sea_surface_skin_temperature_and_sea_surface_subskin_temperature",
+  "description": "This variable quantifies the temperature difference between the skin temperature (sea_surface_skin_temperature) and the subskin temperature (sea_surface_subskin_temperature) due to the turbulent and radiative heat fluxes at the air-sea interface. This difference is commonly referred to as the \u201ccool skin effect\u201d as the solar radiation absorbed within the very thin thermal subskin layer is typically negligible compared to ocean surface heat loss from the combined sensible, latent, and net longwave radiation heat fluxes.",
+  "canonical_units": "degree_C",
+  "amip": null,
+  "grib": null
+}

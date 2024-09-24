@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_momentum_xy_biharmonic_diffusivity",
+  "@type": "standard-name",
+  "name": "ocean_momentum_xy_biharmonic_diffusivity",
+  "description": "Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum.  The diffusivity may be very different in the vertical and horizontal directions. \"xy diffusivity\" means the lateral along_coordinate component of diffusivity due to motion which is not resolved on the grid scale of the model.  xy diffusivities are used in some ocean models to counteract the numerical instabilities inherent in certain implementations of rotated neutral diffusion. \"biharmonic diffusivity\" means diffusivity for use with a biharmonic diffusion operator.",
+  "canonical_units": "m4 s-1",
+  "amip": null,
+  "grib": null
+}

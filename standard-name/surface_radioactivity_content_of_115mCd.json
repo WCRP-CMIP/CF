@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_115mCd",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_115mCd",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cd\" means the element \"cadmium\" and \"115mCd\" is the metastable state of the isotope \"cadmium-115\" with a half-life of 4.46e+01 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

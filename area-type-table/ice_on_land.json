@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/ice_on_land",
+  "@type": "area-type-table",
+  "name": "ice_on_land",
+  "description": "The area type \"ice_on_land\" means ice in glaciers, ice caps, grounded ice sheets (grounded and floating shelves), river and lake ice, and any other ice on a land surface, such as frozen flood water. This is distinct from the area type 'land ice' which has a narrower definition."
+}

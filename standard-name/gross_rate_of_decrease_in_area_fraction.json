@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/gross_rate_of_decrease_in_area_fraction",
+  "@type": "standard-name",
+  "name": "gross_rate_of_decrease_in_area_fraction",
+  "description": "The \"gross rate of decrease in area fraction\" is the fraction of a grid cell that transitions from a given area type per unit time, for example, as a result of land use changes. The quantity described by this standard name is a gross decrease because it includes only land where the use transitions away from the given area type and excludes land that transitions to that area type during the same period. The area type should be specified using a coordinate of scalar coordinate variable with standard name area_type. There is also a standard name for gross_rate_of_increase_in_area_fraction.  \"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

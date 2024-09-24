@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_alkalinity_natural_analogue_expressed_as_mole_equivalent",
+  "@type": "standard-name",
+  "name": "sea_water_alkalinity_natural_analogue_expressed_as_mole_equivalent",
+  "description": "sea_water_alkalinity_expressed_as_mole_equivalent is the total alkalinity equivalent concentration (including carbonate, nitrogen, silicate, and borate components). In ocean biogeochemistry models, a \"natural analogue\" is used to simulate the effect on a modelled variable of imposing preindustrial atmospheric carbon dioxide concentrations, even when the model as a whole may be subjected to varying forcings.",
+  "canonical_units": "mol m-3",
+  "amip": null,
+  "grib": null
+}

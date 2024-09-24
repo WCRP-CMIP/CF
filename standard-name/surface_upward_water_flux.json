@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_upward_water_flux",
+  "@type": "standard-name",
+  "name": "surface_upward_water_flux",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Water\" means water in all phases, including frozen i.e. ice and snow. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The surface water flux is the result of precipitation and evaporation. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

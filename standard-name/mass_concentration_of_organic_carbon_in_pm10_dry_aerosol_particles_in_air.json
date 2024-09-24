@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_concentration_of_organic_carbon_in_pm10_dry_aerosol_particles_in_air",
+  "@type": "standard-name",
+  "name": "mass_concentration_of_organic_carbon_in_pm10_dry_aerosol_particles_in_air",
+  "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. \"Pm10 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers. Chemically, \"organic carbon aerosol\" refers to the carbonaceous fraction of particulate matter contained in any of the vast number of compounds where carbon is chemically combined with hydrogen and other elements like O, S, N, P, Cl, etc. In measurements of carbonaceous aerosols, organic carbon samples may also include some inorganic carbon compounds, whose mass is neglected and assumed to be distributed between the elemental and organic carbon components of the aerosol particles. Reference: Petzold, A., Ogren, J. A., Fiebig, M., Laj, P., Li, S.-M., Baltensperger, U., Holzer-Popp, T., Kinne, S., Pappalardo, G., Sugimoto, N., Wehrli, C., Wiedensohler, A., and Zhang, X.-Y.: Recommendations for reporting \"black carbon\" measurements, Atmos. Chem. Phys., 13, 8365\u20138379, https://doi.org/10.5194/acp-13-8365-2013, 2013.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

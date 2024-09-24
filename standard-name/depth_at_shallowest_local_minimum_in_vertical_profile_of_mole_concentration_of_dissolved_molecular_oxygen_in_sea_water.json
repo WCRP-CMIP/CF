@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/depth_at_shallowest_local_minimum_in_vertical_profile_of_mole_concentration_of_dissolved_molecular_oxygen_in_sea_water",
+  "@type": "standard-name",
+  "name": "depth_at_shallowest_local_minimum_in_vertical_profile_of_mole_concentration_of_dissolved_molecular_oxygen_in_sea_water",
+  "description": "Depth is the vertical distance below the surface.   'Mole concentration' means number of moles per unit volume, also called \"molarity\", and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y.  A chemical or biological species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The concentration of any chemical species, whether particulate or dissolved, may vary with depth in the ocean.  A depth profile may go through one or more local minima in concentration. The  depth_at_shallowest_local_minimum_in_vertical_profile_of_mole_concentration_of_dissolved_molecular_oxygen_in_sea_water is the depth of the local minimum in the oxygen concentration that occurs closest to the sea surface.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

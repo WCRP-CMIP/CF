@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/product_of_northward_wind_and_upward_air_velocity",
+  "@type": "standard-name",
+  "name": "product_of_northward_wind_and_upward_air_velocity",
+  "description": "\"product_of_X_and_Y\" means X*Y. A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) Upward air velocity is the vertical component of the 3D air velocity vector.",
+  "canonical_units": "m2 s-2",
+  "amip": null,
+  "grib": null
+}

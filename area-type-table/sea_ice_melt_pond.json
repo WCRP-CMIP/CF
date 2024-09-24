@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/sea_ice_melt_pond",
+  "@type": "area-type-table",
+  "name": "sea_ice_melt_pond",
+  "description": "The area classified as type \"sea_ice\" within a grid cell is unaltered when an area of type \"sea_ice_melt_pond\" is also present because melt ponds occur on top of the existing sea ice."
+}

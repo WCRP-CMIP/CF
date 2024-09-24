@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/log10_size_interval_based_number_size_distribution_of_cloud_condensation_nuclei_in_air",
+  "@type": "standard-name",
+  "name": "log10_size_interval_based_number_size_distribution_of_cloud_condensation_nuclei_in_air",
+  "description": "The cloud condensation nuclei number size distribution is the number concentration of aerosol particles, normalised to the decadal logarithmic size interval the concentration applies to, as a function of particle diameter, where the particle acts as condensation nucleus for liquid-phase clouds. A coordinate variable with the standard name of relative_humidity should be specified to indicate that the property refers to a specific supersaturation with respect to liquid water. A coordinate variable with the standard name of electrical_mobility_particle_diameter should be specified to indicate that the property applies at specific mobility particle sizes. To specify the relative humidity at which the particle sizes were selected, provide a scalar coordinate variable with the standard name of relative_humidity_for_aerosol_particle_size_selection. The ability of a particle to act as a condensation nucleus is determined by its size, chemical composition, and morphology. \"log10_X\" means common logarithm (i.e. base 10) of X.",
+  "canonical_units": "m-3",
+  "amip": null,
+  "grib": null
+}

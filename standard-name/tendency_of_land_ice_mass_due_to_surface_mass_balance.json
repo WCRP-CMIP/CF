@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_land_ice_mass_due_to_surface_mass_balance",
+  "@type": "standard-name",
+  "name": "tendency_of_land_ice_mass_due_to_surface_mass_balance",
+  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The phrase \"tendency_of_X\" means derivative of X with respect to time. The surface called \"surface\" means the lower boundary of the atmosphere. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Mass balance\" means the net rate at which ice is added. A negative value means loss of ice. The tendency in ice mass due to the surface mass balance is the spatial integral of the quantity with standard name land_ice_surface_specific_mass_balance_flux. The horizontal domain over which the quantity is described by the associated coordinate variables and coordinate bounds or by a string valued coordinate variable or scalar coordinate variable with a standard name of \"region\".",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_downward_eastward_stress_due_to_ocean_viscous_dissipation",
+  "@type": "standard-name",
+  "name": "surface_downward_eastward_stress_due_to_ocean_viscous_dissipation",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Surface stress\" means the shear stress (force per unit area) exerted by the wind at the surface. A downward stress is a downward flux of momentum. Over large bodies of water, wind stress can drive near-surface currents. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Eastward\" indicates a vector component which is positive when directed northward (negative southward). \"Downward eastward\" indicates the ZX component of a tensor. A downward eastward stress is a downward flux of eastward momentum, which accelerates the lower medium eastward and the upper medium westward. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Viscosity\" means the stress associated with viscous effects at the sea surface and is equivalent to the turbulent stress just outside the viscous sublayer.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

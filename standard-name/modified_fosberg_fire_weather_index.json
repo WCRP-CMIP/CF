@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/modified_fosberg_fire_weather_index",
+  "@type": "standard-name",
+  "name": "modified_fosberg_fire_weather_index",
+  "description": "The modified Fosberg Fire Weather Index (mFFWI) is a measure of the potential effect of weather conditions on wildland fire. The Fosberg Fire Weather Index is a function of temperature, wind, and humidity. It is modified with a fuel availability factor based on the Keetch Byram Drought Index.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

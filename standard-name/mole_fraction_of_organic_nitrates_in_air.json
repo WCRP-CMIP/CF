@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_fraction_of_organic_nitrates_in_air",
+  "@type": "standard-name",
+  "name": "mole_fraction_of_organic_nitrates_in_air",
+  "description": "Mole fraction is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Organic nitrates are nitrogen-containing compounds having the general formula RONO2, where R is an alkyl (or organic) group; \"organic_nitrates\" is the term used in standard names to describe the group of chemical species having this common structure that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

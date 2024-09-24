@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_sublimation_flux",
+  "@type": "standard-name",
+  "name": "water_sublimation_flux",
+  "description": "\"Water\" means water in all phases. Sublimation is the conversion of solid into vapor. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

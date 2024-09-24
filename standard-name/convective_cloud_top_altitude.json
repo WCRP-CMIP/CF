@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/convective_cloud_top_altitude",
+  "@type": "standard-name",
+  "name": "convective_cloud_top_altitude",
+  "description": "cloud_top refers to the top of the highest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

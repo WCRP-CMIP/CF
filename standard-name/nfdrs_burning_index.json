@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nfdrs_burning_index",
+  "@type": "standard-name",
+  "name": "nfdrs_burning_index",
+  "description": "The Burning Index (BI) is a numeric value closely related to the flame length in feet multiplied by 10, which is related to the contribution of fire behaviour to the effort of containing a fire. The BI is a function of fire spread and fire intensity and is derived from a combination of Spread and Energy Release Components. The Spread Component is a rating of the forward rate of spread of a head fire and wind is a key input. The scale is open ended which allows the range of numbers to adequately define fire problems, even in time of low to moderate fire danger. Computed BI values represent the near upper limit to be expected on the rating area. In other words, if a fire occurs in the worst fuel, weather and topography conditions of the rating area, these numbers indicate its expected fire line intensities and flame length. It is an index in the US National Fire Danger Rating System. The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sound_intensity_in_air",
+  "@type": "standard-name",
+  "name": "sound_intensity_in_air",
+  "description": "Sound intensity is the sound energy per unit time per unit area.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

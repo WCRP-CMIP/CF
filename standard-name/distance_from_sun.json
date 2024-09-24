@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/distance_from_sun",
+  "@type": "standard-name",
+  "name": "distance_from_sun",
+  "description": "The distance from the sun to the point of observation.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

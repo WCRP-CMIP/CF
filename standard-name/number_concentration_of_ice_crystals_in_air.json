@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/number_concentration_of_ice_crystals_in_air",
+  "@type": "standard-name",
+  "name": "number_concentration_of_ice_crystals_in_air",
+  "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume.",
+  "canonical_units": "m-3",
+  "amip": null,
+  "grib": null
+}

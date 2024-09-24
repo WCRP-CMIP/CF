@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/acoustic_area_backscattering_strength_in_sea_water",
+  "@type": "standard-name",
+  "name": "acoustic_area_backscattering_strength_in_sea_water",
+  "description": "Acoustic area backscattering strength is 10 times the log10 of the ratio of the area backscattering coefficient to the reference value, 1 (m2 m-2). Area backscattering coefficient is the integral of the volume backscattering coefficient over a defined distance. Volume backscattering coefficient is the linear form of acoustic_volume_backscattering_strength_in_sea_water. For further details see MacLennan et. al (2002) doi:10.1006/jmsc.2001.1158.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

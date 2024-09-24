@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/change_over_time_in_river_water_amount",
+  "@type": "standard-name",
+  "name": "change_over_time_in_river_water_amount",
+  "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Water\" means water in all phases. \"River\" refers to the water in the fluvial system (stream and floodplain). \"Amount\" means mass per unit area.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

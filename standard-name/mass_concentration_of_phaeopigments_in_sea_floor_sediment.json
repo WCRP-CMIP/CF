@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_concentration_of_phaeopigments_in_sea_floor_sediment",
+  "@type": "standard-name",
+  "name": "mass_concentration_of_phaeopigments_in_sea_floor_sediment",
+  "description": "Concentration of phaeopigment per unit volume of the water body, where the filtration size or collection method is unspecified (equivalent term in the NERC P01 Parameter Usage Vocabulary may be found at http://vocab.nerc.ac.uk/collection/P01/current/. \"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Phaeopigments are a group of non-photosynthetic pigments that are the degradation product of algal chlorophyll pigments. Phaeopigments contain phaeophytin, which fluoresces in response to excitation light, and phaeophorbide, which is colorless and does not fluoresce (source: https://academic.oup.com/plankt/article/24/11/1221/1505482). Phaeopigment concentration commonly increases during the development phase of marine phytoplankton blooms, and declines in the post bloom stage (source: https://www.sciencedirect.com/science/article/pii/0967063793901018). \"Sea floor sediment\" is sediment deposited at the sea bed.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

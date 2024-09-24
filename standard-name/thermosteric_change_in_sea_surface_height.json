@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/thermosteric_change_in_sea_surface_height",
+  "@type": "standard-name",
+  "name": "thermosteric_change_in_sea_surface_height",
+  "description": "\"Sea surface height\" is a time-varying quantity. The thermosteric change in sea surface height is the change in height that a water column having standard temperature zero degrees Celsius would undergo when its temperature is changed to the observed value. The sum of the quantities with standard names thermosteric_change_in_sea_surface_height and halosteric_change_in_sea_surface_height is the total steric change in the water column height, which has the standard name of steric_change_in_sea_surface_height.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/difference_between_sea_surface_subskin_temperature_and_sea_surface_temperature",
+  "@type": "standard-name",
+  "name": "difference_between_sea_surface_subskin_temperature_and_sea_surface_temperature",
+  "description": "This variable quantifies the temperature difference between the top of the diurnal warm layer (sea_surface_subskin_temperature) and the in-situ measured sea surface temperature at depth (sea_surface_temperature). A diurnal warm layer can develop in the top few meters of the ocean through the absorption of solar radiation, if surface mixing is sufficiently weak.",
+  "canonical_units": "degree_C",
+  "amip": null,
+  "grib": null
+}

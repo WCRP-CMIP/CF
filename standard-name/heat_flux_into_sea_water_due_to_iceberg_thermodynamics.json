@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/heat_flux_into_sea_water_due_to_iceberg_thermodynamics",
+  "@type": "standard-name",
+  "name": "heat_flux_into_sea_water_due_to_iceberg_thermodynamics",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \" Iceberg thermodynamics\" refers to the addition or subtraction of mass due to surface and basal fluxes, i.e., due to melting, sublimation and fusion.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

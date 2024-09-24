@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/thunderstorm_probability",
+  "@type": "standard-name",
+  "name": "thunderstorm_probability",
+  "description": "\"probability_of_X\" means the chance that X is true or of at least one occurrence of X. Space and time coordinates must be used to indicate the area and time-interval to which a probability applies.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": "60"
+}

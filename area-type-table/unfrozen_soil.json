@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/unfrozen_soil",
+  "@type": "area-type-table",
+  "name": "unfrozen_soil",
+  "description": "An area type of \"unfrozen_soil\" means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels within a soil model."
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/upwelling_longwave_flux_in_air",
+  "@type": "standard-name",
+  "name": "upwelling_longwave_flux_in_air",
+  "description": "The term \"longwave\" means longwave radiation. Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

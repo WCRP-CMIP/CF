@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/temperature_difference_between_ambient_air_and_air_lifted_adiabatically_from_the_surface",
+  "@type": "standard-name",
+  "name": "temperature_difference_between_ambient_air_and_air_lifted_adiabatically_from_the_surface",
+  "description": "This quantity is defined as the temperature difference between a parcel of air lifted adiabatically from the surface to a finishing air pressure in the troposphere and the ambient air temperature at the finishing air pressure in the troposphere. It is often called the lifted index (LI) and provides a measure of the instability of the atmosphere. The air parcel is \"lifted\" by moving the air parcel from the surface to the Lifting Condensation Level (dry adiabatically) and then from the Lifting Condensation Level to the finishing air pressure (wet adiabatically). Air temperature is the bulk temperature of the air, not the surface (skin) temperature. The term \"surface\" means the lower boundary of the atmosphere. A coordinate variable of  final_air_pressure_of_lifted_parcel should be specified to indicate the specific air pressure that the temperature difference is calculated at. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

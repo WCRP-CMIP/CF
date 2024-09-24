@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/volume_extinction_coefficient_of_radiative_flux_in_air_due_to_cloud_particles",
+  "@type": "standard-name",
+  "name": "volume_extinction_coefficient_of_radiative_flux_in_air_due_to_cloud_particles",
+  "description": "The volume extinction coefficient is the fractional change of radiative flux per unit path length. Extinction is the sum of absorption and scattering, sometimes called \"attenuation\". \"Extinction\" is the term most commonly used at optical wavelengths whereas \"attenuation\" is more often used at radio and radar wavelengths. Radiative flux is the sum of shortwave and longwave radiative fluxes. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Cloud particles\" means suspended liquid or ice water droplets. A coordinate of radiation_wavelength or radiation_frequency should be included to specify either the wavelength or frequency.",
+  "canonical_units": "m-1",
+  "amip": null,
+  "grib": null
+}

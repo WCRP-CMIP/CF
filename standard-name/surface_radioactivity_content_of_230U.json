@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_230U",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_230U",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"U\" means the element \"uranium\" and \"230U\" is the isotope \"uranium-230\" with a half-life of 2.08e+01 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

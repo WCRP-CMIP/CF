@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_86Rb",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_86Rb",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rb\" means the element \"rubidium\" and \"86Rb\" is the isotope \"rubidium-86\" with a half-life of 1.87e+01 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

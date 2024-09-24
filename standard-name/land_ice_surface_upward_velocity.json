@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_ice_surface_upward_velocity",
+  "@type": "standard-name",
+  "name": "land_ice_surface_upward_velocity",
+  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The surface called \"surface\" means the lower boundary of the atmosphere.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

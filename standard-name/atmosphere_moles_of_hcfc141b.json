@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_hcfc141b",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_hcfc141b",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for HCFC141b is CH3CCl2F. The IUPAC name for HCFC141b is 1,1-dichloro-1-fluoroethane.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

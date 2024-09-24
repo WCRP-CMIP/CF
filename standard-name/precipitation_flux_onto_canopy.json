@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/precipitation_flux_onto_canopy",
+  "@type": "standard-name",
+  "name": "precipitation_flux_onto_canopy",
+  "description": "\"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Unless indicated in the cell_methods attribute, a quantity is assumed to apply to the whole area of each horizontal grid box. Previously, the qualifier where_type was used to specify that the quantity applies only to the part of the grid box of the named type. Names containing the where_type qualifier are deprecated and newly created data should use the cell_methods attribute to indicate the horizontal area to which the quantity applies. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": "prveg",
+  "grib": null
+}

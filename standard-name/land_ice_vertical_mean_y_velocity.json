@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_ice_vertical_mean_y_velocity",
+  "@type": "standard-name",
+  "name": "land_ice_vertical_mean_y_velocity",
+  "description": "A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The vertical mean land ice velocity is the average from the bedrock to the surface of the ice.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_classification",
+  "@type": "standard-name",
+  "name": "sea_ice_classification",
+  "description": "A variable with the standard name of sea_ice_classification contains strings which indicate the character of the ice surface e.g. open_ice, or first_year_ice. These strings have not yet been standardised. However, and whenever possible, they should follow the terminology defined in the WMO Standard Nomenclature for Sea Ice Classification. Alternatively, the data variable may contain integers which can be translated to strings using flag_values and flag_meanings attributes. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": null,
+  "amip": null,
+  "grib": null
+}

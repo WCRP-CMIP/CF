@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_mass_content_of_xylene",
+  "@type": "standard-name",
+  "name": "atmosphere_mass_content_of_xylene",
+  "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The chemical formula for xylene is C6H4C2H6. In chemistry, xylene is a generic term for a group of three isomers of dimethylbenzene. The IUPAC names for the isomers are 1,2-dimethylbenzene, 1,3-dimethylbenzene and 1,4-dimethylbenzene. Xylene is an aromatic hydrocarbon. There are standard names that refer to aromatic_compounds as a group, as well as those for individual species.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

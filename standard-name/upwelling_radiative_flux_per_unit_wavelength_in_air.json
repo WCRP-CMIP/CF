@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/upwelling_radiative_flux_per_unit_wavelength_in_air",
+  "@type": "standard-name",
+  "name": "upwelling_radiative_flux_per_unit_wavelength_in_air",
+  "description": "Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength.",
+  "canonical_units": "W m-2 m-1",
+  "amip": null,
+  "grib": null
+}

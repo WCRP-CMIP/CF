@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_ocean_mole_content_of_dissolved_inorganic_phosphorus",
+  "@type": "standard-name",
+  "name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_phosphorus",
+  "description": "\"Content\" indicates a quantity per unit area. \"tendency_of_X\" means derivative of X with respect to time. \"Dissolved inorganic phosphorus\" means the sum of all inorganic phosphorus in solution (including phosphate, hydrogen phosphate, dihydrogen phosphate, and phosphoric acid).",
+  "canonical_units": "mol m-2 s-1",
+  "amip": null,
+  "grib": null
+}

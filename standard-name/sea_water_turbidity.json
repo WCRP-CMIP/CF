@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_turbidity",
+  "@type": "standard-name",
+  "name": "sea_water_turbidity",
+  "description": "Turbidity is a dimensionless quantity which is expressed in NTU (Nephelometric Turbidity Units). Turbidity expressed in NTU is the proportion of white light scattered back to a transceiver by the particulate load in a body of water, represented on an arbitrary scale referenced against measurements made in the laboratory on aqueous suspensions of formazine beads. Sea water turbidity may also be measured by the quantity with standard name secchi_depth_of_sea_water.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

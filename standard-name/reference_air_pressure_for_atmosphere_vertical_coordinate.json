@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/reference_air_pressure_for_atmosphere_vertical_coordinate",
+  "@type": "standard-name",
+  "name": "reference_air_pressure_for_atmosphere_vertical_coordinate",
+  "description": "For models using a dimensionless vertical coordinate, for example, sigma, hybrid sigma-pressure or eta, the values of the vertical coordinate at the model levels are calculated relative to a reference level. \"Reference air pressure\" is the air pressure at the model reference level. It is a model-dependent constant.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_mass",
+  "@type": "standard-name",
+  "name": "sea_water_mass",
+  "description": "The quantity with standard name \"sea_water_mass\" is the total mass of liquid seawater in the global oceans, including enclosed seas.",
+  "canonical_units": "kg",
+  "amip": null,
+  "grib": null
+}

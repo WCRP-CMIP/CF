@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/proportion_of_acceptable_signal_returns_from_acoustic_instrument_in_sea_water",
+  "@type": "standard-name",
+  "name": "proportion_of_acceptable_signal_returns_from_acoustic_instrument_in_sea_water",
+  "description": "The phrase \"proportion_of_acceptable_signal_returns\" means the fraction of a collection (ensemble) of returned signal transmissions that have passed a set of automatic quality control criteria. For an ADCP (acoustic doppler current profiler) the rejection criteria include low correlation, large error velocity and fish detection. The dimensionless proportion is often but not exclusively expressed as a percentage, when it is referred to as \"percent good\".",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

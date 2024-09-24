@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/aerodynamic_particle_diameter",
+  "@type": "standard-name",
+  "name": "aerodynamic_particle_diameter",
+  "description": "The diameter of a spherical particle with density 1000 kg m-3 having the same aerodynamic properties as the particles in question.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

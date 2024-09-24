@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/scene_type_of_dvorak_tropical_cyclone_cloud_region",
+  "@type": "standard-name",
+  "name": "scene_type_of_dvorak_tropical_cyclone_cloud_region",
+  "description": "A variable with the standard name of scene_type_of_dvorak_tropical_cyclone_cloud_region contains integers which can be translated to strings using flag_values and flag_meanings attributes. It indicates the Advanced Dvorak Technique tropical cyclone cloud region scene type chosen from the following list: uniform_central_dense_overcast; embedded_center; irregular_central_dense_overcast; curved_band; shear. Alternatively, the data variable may contain strings chosen from the same standardised list to indicate the scene type. Reference: Olander, T. L., & Velden, C. S., The Advanced Dvorak Technique: Continued Development of an Objective Scheme to Estimate Tropical Cyclone Intensity Using Geostationary Infrared Satellite Imagery (2007). American Meteorological Society Weather and Forecasting, 22, 287-298.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

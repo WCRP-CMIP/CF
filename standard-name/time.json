@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/time",
+  "@type": "standard-name",
+  "name": "time",
+  "description": null,
+  "canonical_units": "s",
+  "amip": "time",
+  "grib": null
+}

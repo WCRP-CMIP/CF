@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_extent",
+  "@type": "standard-name",
+  "name": "sea_ice_extent",
+  "description": "The term sea_ice_extent means the total area of all grid cells in which the sea ice area fraction equals or exceeds a threshold, often chosen to be 15 per cent. The threshold must be specified by supplying a coordinate variable or scalar coordinate variable with the standard name of sea_ice_area_fraction. The horizontal domain over which sea ice extent is calculated is described by the associated coordinate variables and coordinate bounds or by a coordinate variable or scalar coordinate variable with the standard name of \"region\" supplied according to section 6.1.1 of the CF conventions. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m2",
+  "amip": null,
+  "grib": null
+}

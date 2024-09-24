@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_fraction_of_methylglyoxal_in_air",
+  "@type": "standard-name",
+  "name": "mole_fraction_of_methylglyoxal_in_air",
+  "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Methylglyoxal is an organic molecule with the chemical formula CH3COCHO. It is also called pyruvaldehyde or 2-oxopropanal.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

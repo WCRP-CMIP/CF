@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/enrichment_of_14C_in_carbon_dioxide_in_air_expressed_as_uppercase_delta_14C",
+  "@type": "standard-name",
+  "name": "enrichment_of_14C_in_carbon_dioxide_in_air_expressed_as_uppercase_delta_14C",
+  "description": "Isotopic enrichment of 14C, often called d14C or delta14C (lower case delta), is used to calculate the fossil fuel contribution to atmospheric carbon dioxide using isotopic ratios of carbon. It is a parameterisation of the 14C/12C isotopic ratio in the sample with respect to the isotopic ratio in a reference standard. It is computed using the formula (((14C/12C)sample / (14C/12C)standard) - 1) * 1000. The quantity called D14C, or Delta14C (upper case delta) is d14C corrected for isotopic fractionation using the 13C/12C ratio as follows: D14C = d14C - 2(dC13 + 25)(1+d14C/1000). If the sample is enriched in 14C relative to the standard, then the data value is positive. Reference: Stuiver, M. and H.A. Polach, 1977, Discussion reporting of 14C data, Radiocarbon, Volume 19, No. 3, 355-363, doi: 10.1017/S0033822200003672. The reference standard used in the calculation of delta14C should be specified by attaching a long_name attribute to the data variable. \"C\" means the element carbon and \"14C\" is the radioactive isotope \"carbon-14\", having six protons and eight neutrons and used in radiocarbon dating.",
+  "canonical_units": "1e-3",
+  "amip": null,
+  "grib": null
+}

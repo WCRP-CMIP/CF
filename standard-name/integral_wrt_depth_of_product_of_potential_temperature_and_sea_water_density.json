@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/integral_wrt_depth_of_product_of_potential_temperature_and_sea_water_density",
+  "@type": "standard-name",
+  "name": "integral_wrt_depth_of_product_of_potential_temperature_and_sea_water_density",
+  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. The phrase \"wrt\" means \"with respect to\". The phrase \"product_of_X_and_Y\" means X*Y. Depth is the vertical distance below the surface. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. Sea water density is the in-situ density (not the potential density). For Boussinesq models, density is the constant Boussinesq reference density, a quantity which has the standard name reference_sea_water_density_for_boussinesq_approximation. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "kg degree_C m-2",
+  "amip": null,
+  "grib": null
+}

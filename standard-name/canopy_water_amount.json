@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/canopy_water_amount",
+  "@type": "standard-name",
+  "name": "canopy_water_amount",
+  "description": "\"Amount\" means mass per unit area. \"Water\" means water in all phases, including frozen i.e. ice and snow. The canopy water is the water on the canopy. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

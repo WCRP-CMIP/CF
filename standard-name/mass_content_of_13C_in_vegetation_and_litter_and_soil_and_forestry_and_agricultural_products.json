@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_content_of_13C_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products",
+  "@type": "standard-name",
+  "name": "mass_content_of_13C_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products",
+  "description": "\"Content\" indicates a quantity per unit area. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. \"Litter\" is dead plant material in or above the soil. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. Examples of \"forestry and agricultural products\" are paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock. Models that simulate land use changes have one or more pools of carbon that represent these products in order to conserve carbon and allow its eventual release into the atmosphere, for example, when the products decompose in landfill sites. \"C\" means the element carbon and \"13C\" is the stable isotope \"carbon-13\", having six protons and seven neutrons.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_optical_thickness_due_to_black_carbon_ambient_aerosol",
+  "@type": "standard-name",
+  "name": "atmosphere_optical_thickness_due_to_black_carbon_ambient_aerosol",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The optical thickness is the integral along the path of radiation of a volume scattering/absorption/attenuation coefficient. The radiative flux is reduced by a factor exp(-optical_thickness) on traversing the path. The atmosphere optical thickness applies to radiation passing through the entire atmosphere. \"Aerosol\" means the suspended liquid or solid particles in air (except cloud droplets).  \"Ambient aerosol\" is aerosol that has taken up ambient water through hygroscopic growth.  The extent of hygroscopic growth depends on the relative humidity and the composition of the aerosol.  Black carbon aerosol is composed of elemental carbon.  It is strongly light absorbing.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

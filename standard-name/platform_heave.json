@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/platform_heave",
+  "@type": "standard-name",
+  "name": "platform_heave",
+  "description": "Heave is a displacement along the local vertical axis. Heave is relative to the \"at rest\" position of the platform with respect to the axis of displacement. The \"at rest\" position of the platform may change over time. The standard name platform_heave should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the heave is known, a standard name of platform_heave_down or platform_heave_up should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

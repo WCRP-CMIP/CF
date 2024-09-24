@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_northward_stress_due_to_gravity_wave_drag",
+  "@type": "standard-name",
+  "name": "atmosphere_northward_stress_due_to_gravity_wave_drag",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Atmosphere_Xward_stress is a stress which tends to accelerate the atmosphere in direction X.",
+  "canonical_units": "Pa",
+  "amip": "tauvgwd",
+  "grib": null
+}

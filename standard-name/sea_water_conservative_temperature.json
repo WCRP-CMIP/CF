@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_conservative_temperature",
+  "@type": "standard-name",
+  "name": "sea_water_conservative_temperature",
+  "description": "Conservative Temperature is defined as part of the Thermodynamic Equation of Seawater 2010 (TEOS-10) which was adopted in 2010 by the International Oceanographic Commission (IOC). Conservative Temperature is specific potential enthalpy (which has the standard name sea_water_specific_potential_enthalpy) divided by a fixed value of the specific heat capacity of sea water, namely cp_0 = 3991.86795711963 J kg-1 K-1. Conservative Temperature is a more accurate measure of the \"heat content\" of sea water, by a factor of one hundred, than is potential temperature. Because of this, it can be regarded as being proportional to the heat content of sea water per unit mass. Reference: www.teos-10.org; McDougall, 2003 doi: 10.1175/1520-0485(2003)033<0945:PEACOV>2.0.CO;2. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

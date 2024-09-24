@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_104Tc",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_104Tc",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Tc\" means the element \"technetium\" and \"104Tc\" is the isotope \"technetium-104\" with a half-life of 1.25e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

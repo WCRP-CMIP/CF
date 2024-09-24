@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_mass_fraction_of_stratiform_cloud_liquid_water_in_air_due_to_melting_from_cloud_ice",
+  "@type": "standard-name",
+  "name": "tendency_of_mass_fraction_of_stratiform_cloud_liquid_water_in_air_due_to_melting_from_cloud_ice",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).  A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes). \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

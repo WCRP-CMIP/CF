@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_redistributed_potential_temperature",
+  "@type": "standard-name",
+  "name": "sea_water_redistributed_potential_temperature",
+  "description": "The quantity with standard name sea_water_redistributed_potential_temperature is a passive tracer in an ocean model which is subject to an externally imposed perturbative surface heat flux. The passive tracer is initialised to the potential temperature in the control climate before the perturbation is imposed. Its surface flux is the heat flux from the atmosphere, not including the imposed perturbation, and is converted to a passive tracer increment as if it were being added to potential temperature. The passive tracer is transported within the ocean as if it were potential temperature. The passive tracer records redistributed heat, as described for the CMIP6 FAFMIP experiment (doi:10.5194/gmd-9-3993-2016), following earlier ideas. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "degree_C",
+  "amip": null,
+  "grib": null
+}

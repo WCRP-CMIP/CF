@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_preformed_alkalinity_expressed_as_mole_equivalent",
+  "@type": "standard-name",
+  "name": "sea_water_preformed_alkalinity_expressed_as_mole_equivalent",
+  "description": "\"Mole concentration\" means the number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Alkalinity\" refers to total alkalinity equivalent concentration, including carbonate, borate, phosphorus, silicon, and nitrogen components. The subduction and subsequent transport of surface water carry into the interior ocean considerable quantities of alkalinity, which is entirely independent of biological activity (such as organic decomposition and oxidation) after the water leaves the sea surface. Such alkalinity is termed \u201cpreformed\u201d alkalinity (Redfield,1942).",
+  "canonical_units": "mol m-3",
+  "amip": null,
+  "grib": null
+}

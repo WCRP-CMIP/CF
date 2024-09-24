@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_alpha_pinene",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_alpha_pinene",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for alpha_pinene is C10H16. The IUPAC name for alpha-pinene is (1S,5S)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}
