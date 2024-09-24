@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/outgoing_water_volume_transport_along_river_channel",
+  "@type": "standard-name",
+  "name": "outgoing_water_volume_transport_along_river_channel",
+  "description": "\"Water\" means water in all phases. \"River\" refers to water in the fluvial system (stream and floodplain).",
+  "canonical_units": "m3 s-1",
+  "amip": null,
+  "grib": null
+}

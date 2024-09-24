@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_112Pd_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_112Pd_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pd\" means the element \"palladium\" and \"112Pd\" is the isotope \"palladium-112\" with a half-life of 8.37e-01 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

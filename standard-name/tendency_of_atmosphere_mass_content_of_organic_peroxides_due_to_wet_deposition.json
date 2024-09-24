@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_organic_peroxides_due_to_wet_deposition",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_mass_content_of_organic_peroxides_due_to_wet_deposition",
+  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Wet deposition\" means deposition by precipitation. \"tendency_of_X\" means derivative of X with respect to time. Organic peroxides are organic molecules containing an oxygen-oxygen bond. The general chemical formula is ROOR or ROOH, where R is an organic group.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

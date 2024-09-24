@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/primary_evergreen_trees",
+  "@type": "area-type-table",
+  "name": "primary_evergreen_trees",
+  "description": "A primary forest is a naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed. Reference: 'Global Forest Resources Assessment: Terms and Definitions', Forestry Department of Food and Agriculture Organization (FAO) of the United Nations, Rome 2010, www.fao.org/forestry/14241-0d7b74f45b0d2cfef31599cc17e4c28cd.pdf. Evergreen trees have leaves in all seasons."
+}

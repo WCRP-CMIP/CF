@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_cox_salinity",
+  "@type": "standard-name",
+  "name": "sea_water_cox_salinity",
+  "description": "Cox Salinity, S_C, is defined unitless as a mass fraction per mil (0/00) or \"parts per thousand\". S_C was the standard salinity measure from 1967 until Practical Salinity, S_P, was established with PSS-78 (1978). Chlorinity, Cl, is calculated from the conductivity of a sea water sample and since the work of the Joint Panel for Oceanographic Tables and Standards (JPOTS; 1966) is converted into Cox Salinity using S_C = 1.80655Cl. This type of salinity was called simply \"salinity\" from 1967 to 1978. Cox Salinity was replaced by Practical Salinity in 1978. Cox Salinity is converted to Practical Salinity following S_P = S_C, however the accuracy of this is dependent on whether chlorinity or conductivity was used to determine the S_C value, with this inconsistency driving the development of the Practical Salinity Scale 1978 (PSS-78). Reference: Cox et al., 1967 doi: 10.1016/0011-7471(67)90006-X; Lyman, 1969 doi: 10.4319/lo.1969.14.6.0928; Wooster et al., 1969 doi: 10.4319/lo.1969.14.3.0437. There are standard names for the precisely defined salinity quantities sea_water_knudsen_salinity, S_K (used for salinity observations between 1901 and 1966), sea_water_practical_salinity, S_P, sea_water_absolute_salinity, S_A, sea_water_preformed_salinity, S_* and sea_water_reference_salinity. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity.",
+  "canonical_units": "1e-3",
+  "amip": null,
+  "grib": null
+}

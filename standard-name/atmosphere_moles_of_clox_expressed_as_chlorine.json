@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_clox_expressed_as_chlorine",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_clox_expressed_as_chlorine",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"Clox\" describes a family of chemical species consisting of inorganic chlorine compounds with the exception of hydrogen chloride (HCl) and chlorine nitrate (ClONO2). The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Clox\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity with a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"Inorganic chlorine\", sometimes referred to as Cly, describes a family of chemical species which result from the degradation of source gases containing chlorine (CFCs, HCFCs, VSLS) and natural inorganic chlorine sources such as sea salt and other aerosols. Standard names that use the term \"inorganic_chlorine\" are used for quantities that contain all inorganic chlorine species including HCl and ClONO2.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

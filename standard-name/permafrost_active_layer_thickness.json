@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/permafrost_active_layer_thickness",
+  "@type": "standard-name",
+  "name": "permafrost_active_layer_thickness",
+  "description": "The quantity with standard name permafrost_active_layer_thickness is the thickness of the layer of the ground that is subject to annual thawing and freezing in areas underlain by permafrost. \"Thickness\" means the vertical extent of a layer. Permafrost is soil or rock that has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

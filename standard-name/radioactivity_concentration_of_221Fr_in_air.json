@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_221Fr_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_221Fr_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Fr\" means the element \"francium\" and \"221Fr\" is the isotope \"francium-221\" with a half-life of 3.33e-03 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

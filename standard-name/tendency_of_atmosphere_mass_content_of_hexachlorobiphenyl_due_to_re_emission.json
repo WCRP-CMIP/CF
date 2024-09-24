@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_hexachlorobiphenyl_due_to_re_emission",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_mass_content_of_hexachlorobiphenyl_due_to_re_emission",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Re-emission\" refers to emission that is not from a primary source; it refers to emission of a species that has previously been deposited and accumulated in soils or water. \"Re-emission\" is a process entirely distinct from \"emission\" which is used in some standard names. The chemical formula for hexachlorobiphenyl is C12H4Cl6. The structure of this species consists of two linked benzene rings, each of which is additionally bonded to three chlorine atoms.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

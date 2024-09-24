@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/status_flag",
+  "@type": "standard-name",
+  "name": "status_flag",
+  "description": "A variable with the standard name of status_flag contains an indication of quality or other status of another data variable. This may include the status of the instrument producing the data as well as data quality information. The linkage between the data variable and the variable with the standard_name of status_flag is achieved using the ancillary_variables attribute. A variable which contains purely quality information may use the standard name of quality_flag to provide an assessed quality of the corresponding data.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

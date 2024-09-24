@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_speed_due_to_ekman_drift",
+  "@type": "standard-name",
+  "name": "sea_water_speed_due_to_ekman_drift",
+  "description": "Speed is the magnitude of velocity. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Ekman drift\" is the movement of a layer of water (the Ekman layer) due to the combination of wind stress at the sea surface and the Coriolis effect. Ekman drift is to the right of the wind direction in the Northern Hemisphere and the left in the Southern Hemisphere. Reference: https://www.open.edu/openlearn/science-maths-technology/the-oceans/content-section-4.3.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

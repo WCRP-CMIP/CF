@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radius_of_tropical_cyclone_central_dense_overcast_region",
+  "@type": "standard-name",
+  "name": "radius_of_tropical_cyclone_central_dense_overcast_region",
+  "description": "The average radius of a central region of clouds in tropical cyclones lacking well-defined eye features, which is computed by averaging the great circle distance in four cardinal directions. The radius in each direction is measured from the estimated storm center position to a warm point that exceeds a threshold brightness temperature at top of atmosphere limit. The threshold applied should be recorded in a coordinate variable having the standard_name of toa_brightness_temperature. A coordinate variable of radiation_wavelength, sensor_band_central_radiation_wavelength, or radiation_frequency may be specified to indicate that the brightness temperature applies at specific wavelengths or frequencies.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/soil_suction_at_saturation",
+  "@type": "standard-name",
+  "name": "soil_suction_at_saturation",
+  "description": "Soil suction is the tensile stress on water in soil due to molecular forces acting at the water-soil particle boundary. The forces may cause water to be drawn into the spaces within the soil matrix or cause it to be held in the soil without draining. Soil suction occurs in soil above the water table.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/secondary_evergreen_trees",
+  "@type": "area-type-table",
+  "name": "secondary_evergreen_trees",
+  "description": "A secondary forest is a forest that has been logged and has recovered naturally or artificially. Reference: 'Report of the ad hoc technical expert group on forest biological diversity', United Nations Convention on Biological Diversity, www.cbd.int/forest/definitions.shtml. Evergreen trees have leaves in all seasons."
+}

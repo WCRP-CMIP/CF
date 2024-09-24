@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/toa_net_downward_radiative_flux",
+  "@type": "standard-name",
+  "name": "toa_net_downward_radiative_flux",
+  "description": "\"toa\" means top of atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). Radiative flux is the sum of shortwave and longwave radiative fluxes. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

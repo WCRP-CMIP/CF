@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/liquid_water_content_of_soil_layer",
+  "@type": "standard-name",
+  "name": "liquid_water_content_of_soil_layer",
+  "description": "\"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Quantities defined for a soil layer must have a vertical coordinate variable with boundaries indicating the extent of the layer(s).",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

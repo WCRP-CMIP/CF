@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_nitrate_radical",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_nitrate_radical",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. In chemistry, a \"radical\" is a highly reactive, and therefore short lived, species.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

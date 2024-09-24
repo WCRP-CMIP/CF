@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_sulfate_dry_aerosol_particles",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_moles_of_sulfate_dry_aerosol_particles",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. \"tendency_of_X\" means derivative of X with respect to time. The chemical formula for the sulfate anion is SO4(2-).",
+  "canonical_units": "mol s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/platform_sway_rate",
+  "@type": "standard-name",
+  "name": "platform_sway_rate",
+  "description": "\"Sway rate\" is the rate of displacement along an axis that is perpendicular to both the local vertical axis and the nominal forward motion direction of the platform. Sway rate might not include changes to the \"at rest\" position of the platform with respect to the axis of displacement, which may change over time. The standard name platform_sway_rate should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the sway rate is known, a standard name of platform_sway_rate_starboard or platform_sway_rate_port should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

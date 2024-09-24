@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/height_above_sea_floor",
+  "@type": "standard-name",
+  "name": "height_above_sea_floor",
+  "description": null,
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

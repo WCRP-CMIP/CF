@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_160Tb",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_160Tb",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Tb\" means the element \"terbium\" and \"160Tb\" is the isotope \"terbium-160\" with a half-life of 7.23e+01 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_altitude",
+  "@type": "standard-name",
+  "name": "surface_altitude",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+  "canonical_units": "m",
+  "amip": "orog",
+  "grib": null
+}

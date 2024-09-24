@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/richardson_number_in_sea_water",
+  "@type": "standard-name",
+  "name": "richardson_number_in_sea_water",
+  "description": "Richardson number is a measure of dynamic stability and can be used to diagnose the existence of turbulent flow.  It is defined as the ratio of the buoyant suppression of turbulence (i.e. how statically stable or unstable the conditions are)  to the kinetic energy available to generate turbulence  in a shear flow.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

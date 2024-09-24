@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/x_derivative_of_ocean_rigid_lid_pressure",
+  "@type": "standard-name",
+  "name": "x_derivative_of_ocean_rigid_lid_pressure",
+  "description": "\"component_derivative_of_X\" means the derivative of X with respect to distance in the component direction, which may be northward, southward, eastward, westward, x or y. The last two indicate derivatives along the axes of the grid,  whether or not they are true longitude and latitude. x_derivative_of_ocean_rigid_lid_pressure means (d/dx) of the ocean surface pressure, as derived by a rigid lid approximation, keeping the other horizontal coordinate (y, presumably) constant.",
+  "canonical_units": "Pa m-1",
+  "amip": null,
+  "grib": null
+}

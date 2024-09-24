@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/harmonic_period",
+  "@type": "standard-name",
+  "name": "harmonic_period",
+  "description": "A period is an interval of time, or the time-period of an oscillation.",
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
+}

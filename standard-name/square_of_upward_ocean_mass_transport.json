@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/square_of_upward_ocean_mass_transport",
+  "@type": "standard-name",
+  "name": "square_of_upward_ocean_mass_transport",
+  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).  Ocean transport means transport by all processes, both sea water and sea ice.  \"square_of_X\" means X*X.",
+  "canonical_units": "kg2 s-2",
+  "amip": null,
+  "grib": null
+}

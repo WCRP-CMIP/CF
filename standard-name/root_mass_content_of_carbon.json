@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/root_mass_content_of_carbon",
+  "@type": "standard-name",
+  "name": "root_mass_content_of_carbon",
+  "description": "\"Content\" indicates a quantity per unit area.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

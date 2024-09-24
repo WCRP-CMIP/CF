@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/altimeter_range_correction_due_to_ionosphere",
+  "@type": "standard-name",
+  "name": "altimeter_range_correction_due_to_ionosphere",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.   To apply the altimeter range correction it must be added to the quantity with standard name altimeter_range.  \"Correction_due_to_ionosphere\" means a correction for the atmosphere's electron content in the ionosphere. Additional altimeter range corrections are given by the quantities with standard names altimeter_range_correction_due_to_wet_troposphere, altimeter_range_correction_due_to_dry_troposphere, sea_surface_height_correction_due_to_air_pressure_at_low_frequency and sea_surface_height_correction_due_to_air_pressure_and_wind_at_high_frequency.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/integral_wrt_time_of_radioactivity_concentration_of_84mBr_in_air",
+  "@type": "standard-name",
+  "name": "integral_wrt_time_of_radioactivity_concentration_of_84mBr_in_air",
+  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The phrase \"wrt\" means \"with respect to\". \"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Br\" means the element \"bromine\" and \"84mBr\" is the metastable state of the isotope \"bromine-84\" with a half-life of 4.16e-03 days.",
+  "canonical_units": "Bq s m-3",
+  "amip": null,
+  "grib": null
+}

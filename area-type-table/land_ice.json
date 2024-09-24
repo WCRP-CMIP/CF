@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/land_ice",
+  "@type": "area-type-table",
+  "name": "land_ice",
+  "description": "\"Land ice\" means glaciers, ice-caps, grounded ice sheets resting on bedrock and floating ice-shelves."
+}

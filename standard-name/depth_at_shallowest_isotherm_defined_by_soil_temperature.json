@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/depth_at_shallowest_isotherm_defined_by_soil_temperature",
+  "@type": "standard-name",
+  "name": "depth_at_shallowest_isotherm_defined_by_soil_temperature",
+  "description": "Depth is the vertical distance below the surface. A soil temperature profile may go through one or more local minima or maxima. The \"depth at shallowest isotherm\" is the depth of the occurrence closest to the soil surface of an isotherm of the temperature specified by a coordinate variable or scalar coordinate variable with standard name soil_temperature.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

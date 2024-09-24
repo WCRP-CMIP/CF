@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/air_temperature_lapse_rate",
+  "@type": "standard-name",
+  "name": "air_temperature_lapse_rate",
+  "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature. A lapse rate is the negative derivative of a quantity with respect to increasing height above the surface, or the (positive) derivative with respect to increasing depth. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K m-1",
+  "amip": null,
+  "grib": "19"
+}

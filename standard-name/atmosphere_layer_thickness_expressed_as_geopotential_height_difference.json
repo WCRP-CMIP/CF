@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_layer_thickness_expressed_as_geopotential_height_difference",
+  "@type": "standard-name",
+  "name": "atmosphere_layer_thickness_expressed_as_geopotential_height_difference",
+  "description": "The quantity with standard name atmosphere_layer_thickness_expressed_as_geopotential_height_difference is the difference of geopotential height between two atmospheric levels. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be \"model_level_number\", but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. \"Thickness\" means the vertical extent of a layer. Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name \"height\", which is relative to the surface.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

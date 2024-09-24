@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/kinetic_energy_dissipation_in_atmosphere_boundary_layer",
+  "@type": "standard-name",
+  "name": "kinetic_energy_dissipation_in_atmosphere_boundary_layer",
+  "description": null,
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": "E145"
+}

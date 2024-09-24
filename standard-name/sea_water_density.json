@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_density",
+  "@type": "standard-name",
+  "name": "sea_water_density",
+  "description": "Sea water density is the in-situ density (not the potential density). If 1000 kg m-3 is subtracted, the standard name sea_water_sigma_t should be chosen instead.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

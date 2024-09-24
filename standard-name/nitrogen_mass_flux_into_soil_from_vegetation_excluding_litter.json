@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nitrogen_mass_flux_into_soil_from_vegetation_excluding_litter",
+  "@type": "standard-name",
+  "name": "nitrogen_mass_flux_into_soil_from_vegetation_excluding_litter",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. \"Litter\" is dead plant material in or above the soil.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_atmosphere_dry_static_energy_transport_across_unit_distance",
+  "@type": "standard-name",
+  "name": "eastward_atmosphere_dry_static_energy_transport_across_unit_distance",
+  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport. Dry static energy is the sum of enthalpy and potential energy (itself the sum of gravitational and centripetal potential energy). Enthalpy can be written either as (1) CpT, where Cp is heat capacity at constant pressure, T is absolute temperature, or (2) U+pV, where U is internal energy, p is pressure and V is volume.",
+  "canonical_units": "W m-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_sea_ice_amount_due_to_conversion_of_snow_to_sea_ice",
+  "@type": "standard-name",
+  "name": "tendency_of_sea_ice_amount_due_to_conversion_of_snow_to_sea_ice",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Amount\" means mass per unit area. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Conversion of snow to sea ice\" occurs when the mass of snow accumulated on an area of sea ice is sufficient to cause the ice to become mostly submerged. Waves can then wash over the ice and snow surface and freeze into a layer that becomes \"snow ice\".",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

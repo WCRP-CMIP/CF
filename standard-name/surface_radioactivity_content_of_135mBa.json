@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_135mBa",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_135mBa",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ba\" means the element \"barium\" and \"135mBa\" is the metastable state of the isotope \"barium-135\" with a half-life of 1.20e+00 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

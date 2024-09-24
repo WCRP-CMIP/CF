@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/stratiform_snowfall_flux",
+  "@type": "standard-name",
+  "name": "stratiform_snowfall_flux",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

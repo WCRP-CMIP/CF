@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/carbon_mass_content_of_forestry_and_agricultural_products",
+  "@type": "standard-name",
+  "name": "carbon_mass_content_of_forestry_and_agricultural_products",
+  "description": "\"Content\" indicates a quantity per unit area. Examples of \"forestry and agricultural products\" are paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock. Models that simulate land use changes have one or more pools of carbon that represent these products in order to conserve carbon and allow its eventual release into the atmosphere, for example, when the products decompose in landfill sites.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

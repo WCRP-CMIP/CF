@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_volume",
+  "@type": "standard-name",
+  "name": "ocean_volume",
+  "description": null,
+  "canonical_units": "m3",
+  "amip": null,
+  "grib": null
+}

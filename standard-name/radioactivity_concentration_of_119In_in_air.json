@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_119In_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_119In_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"In\" means the element \"indium\" and \"119In\" is the isotope \"indium-119\" with a half-life of 1.74e-03 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

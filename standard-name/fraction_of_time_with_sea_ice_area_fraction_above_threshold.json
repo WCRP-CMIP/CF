@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/fraction_of_time_with_sea_ice_area_fraction_above_threshold",
+  "@type": "standard-name",
+  "name": "fraction_of_time_with_sea_ice_area_fraction_above_threshold",
+  "description": "\"Fraction of time\" is the fraction of a time period defined by the bounds of the time coordinate variable for which a characteristic of interest exists. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction.  \"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. Sea ice area fraction is area of the sea surface occupied by sea ice. The area threshold value must be specified by supplying a coordinate variable or scalar coordinate variable with the standard name of sea_ice_area_fraction. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

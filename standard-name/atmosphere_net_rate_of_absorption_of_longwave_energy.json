@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_net_rate_of_absorption_of_longwave_energy",
+  "@type": "standard-name",
+  "name": "atmosphere_net_rate_of_absorption_of_longwave_energy",
+  "description": "\"longwave\" means longwave radiation. Net absorbed radiation is the difference between absorbed and emitted radiation.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

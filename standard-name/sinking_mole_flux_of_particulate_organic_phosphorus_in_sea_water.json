@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
+  "@type": "standard-name",
+  "name": "sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.",
+  "canonical_units": "mol m-2 s-1",
+  "amip": null,
+  "grib": null
+}

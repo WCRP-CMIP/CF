@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/snow_transport_across_line_due_to_sea_ice_dynamics",
+  "@type": "standard-name",
+  "name": "snow_transport_across_line_due_to_sea_ice_dynamics",
+  "description": "Transport \"across_line\" means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Sea ice dynamics\" refers to advection of sea ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

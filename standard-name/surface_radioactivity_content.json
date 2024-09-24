@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

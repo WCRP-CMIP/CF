@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/area_fraction",
+  "@type": "standard-name",
+  "name": "area_fraction",
+  "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. To specify which area is quantified by a variable with standard name area_fraction, provide a coordinate variable or scalar coordinate variable with standard name area_type. Alternatively, if one is defined, use a more specific standard name of X_area_fraction for the fraction of horizontal area occupied by X.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

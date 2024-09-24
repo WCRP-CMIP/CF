@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_kinetic_energy_dissipation_per_unit_area_due_to_xy_friction",
+  "@type": "standard-name",
+  "name": "ocean_kinetic_energy_dissipation_per_unit_area_due_to_xy_friction",
+  "description": "Friction, leading to the dissipation of kinetic energy, arises in ocean models as a result of the viscosity of sea water.  Generally, the  lateral (xy) viscosity is given a large value to maintain the numerical stability of the model.  In contrast, the vertical viscosity is usually much smaller. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

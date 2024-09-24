@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/specific_humidity",
+  "@type": "standard-name",
+  "name": "specific_humidity",
+  "description": "\"specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air.",
+  "canonical_units": "1",
+  "amip": "hus",
+  "grib": "51 E133"
+}

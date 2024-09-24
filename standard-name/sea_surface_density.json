@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_density",
+  "@type": "standard-name",
+  "name": "sea_surface_density",
+  "description": "Sea surface density is the density of sea water near the surface (including the part under sea-ice, if any).",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

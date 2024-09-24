@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_stability_k_index",
+  "@type": "standard-name",
+  "name": "atmosphere_stability_k_index",
+  "description": "The atmosphere_stability_k_index is an index that indicates the potential of severe convection and is often referred to as simply the k index. The index is calculated as A + B - C, where A is the difference in air temperature between 850 and 500 hPa, B is the dew point temperature at 850 hPa, and C is the dew point depression (i.e. the amount by which the air temperature exceeds its dew point temperature) at 700 hPa. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

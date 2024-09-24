@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/product_of_lagrangian_tendency_of_air_pressure_and_specific_humidity",
+  "@type": "standard-name",
+  "name": "product_of_lagrangian_tendency_of_air_pressure_and_specific_humidity",
+  "description": "The phrase \"product_of_X_and_Y\" means X*Y. The phrase \"tendency_of_X\" means derivative of X with respect to time. The Lagrangian tendency of a quantity is its rate of change following the motion of the fluid, also called the \"material derivative\" or \"convective derivative\". The Lagrangian tendency of air pressure, often called \"omega\", plays the role of the upward component of air velocity when air pressure is being used as the vertical coordinate. If the vertical air velocity is upwards, it is negative when expressed as a tendency of air pressure; downwards is positive. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation. \"Specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air.",
+  "canonical_units": "Pa s-1",
+  "amip": "mpwhusa",
+  "grib": null
+}

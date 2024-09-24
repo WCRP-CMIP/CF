@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_217At",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_217At",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"At\" means the element \"astatine\" and \"217At\" is the isotope \"astatine-217\" with a half-life of 3.70e-07 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

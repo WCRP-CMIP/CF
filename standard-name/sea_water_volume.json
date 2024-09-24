@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_volume",
+  "@type": "standard-name",
+  "name": "sea_water_volume",
+  "description": "The quantity with standard name \"sea_water_volume\" is the total volume of liquid seawater in the global oceans, including enclosed seas.",
+  "canonical_units": "m3",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/horizontal_dry_energy_transport_in_atmosphere_layer",
+  "@type": "standard-name",
+  "name": "horizontal_dry_energy_transport_in_atmosphere_layer",
+  "description": "\"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Dry energy is the sum of dry static energy and kinetic energy. Dry static energy is the sum of enthalpy and potential energy (itself the sum of gravitational and centripetal potential energy). Enthalpy can be written either as (1) CpT, where Cp is heat capacity at constant pressure, T is absolute temperature, or (2) U+pV, where U is internal energy, p is pressure and V is volume.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_transport_across_line",
+  "@type": "standard-name",
+  "name": "sea_water_transport_across_line",
+  "description": "Transport across_line means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport.",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

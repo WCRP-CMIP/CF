@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_242Cm_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_242Cm_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Cm\" means the element \"curium\" and \"242Cm\" is the isotope \"curium-242\" with a half-life of 1.63e+02 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

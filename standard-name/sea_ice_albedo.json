@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_albedo",
+  "@type": "standard-name",
+  "name": "sea_ice_albedo",
+  "description": "The albedo of sea ice. Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

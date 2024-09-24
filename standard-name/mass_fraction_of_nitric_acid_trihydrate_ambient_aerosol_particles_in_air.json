@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_nitric_acid_trihydrate_ambient_aerosol_particles_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_nitric_acid_trihydrate_ambient_aerosol_particles_in_air",
+  "description": "Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. The chemical formula for nitric acid is HNO3. Nitric acid trihydrate, sometimes referred to as NAT, is a stable crystalline substance consisting of three molecules of water to one molecule of nitric acid.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

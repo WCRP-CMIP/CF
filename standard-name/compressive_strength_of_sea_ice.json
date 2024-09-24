@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/compressive_strength_of_sea_ice",
+  "@type": "standard-name",
+  "name": "compressive_strength_of_sea_ice",
+  "description": "\"Compressive strength\" is a measure of the capacity of a material to withstand compressive forces. If compressive forces are exerted on a material in excess of its compressive strength, fracturing will occur. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "Pa m",
+  "amip": null,
+  "grib": null
+}

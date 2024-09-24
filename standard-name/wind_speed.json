@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/wind_speed",
+  "@type": "standard-name",
+  "name": "wind_speed",
+  "description": "Speed is the magnitude of velocity. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) The wind speed is the magnitude of the wind velocity.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": "32"
+}

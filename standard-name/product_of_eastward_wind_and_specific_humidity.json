@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/product_of_eastward_wind_and_specific_humidity",
+  "@type": "standard-name",
+  "name": "product_of_eastward_wind_and_specific_humidity",
+  "description": "\"product_of_X_and_Y\" means X*Y. \"specific\" means per unit mass. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Specific humidity is the mass fraction of water vapor in (moist) air. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

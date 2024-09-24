@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/keetch_byram_drought_index",
+  "@type": "standard-name",
+  "name": "keetch_byram_drought_index",
+  "description": "The Keetch Byram Drought Index (KBDI) is a numerical drought index ranging from 0 to 800 that estimates the cumulative moisture deficiency in soil. It is a cumulative index. It is a function of maximum temperature and precipitation over the previous 24 hours.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

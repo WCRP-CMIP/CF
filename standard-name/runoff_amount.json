@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/runoff_amount",
+  "@type": "standard-name",
+  "name": "runoff_amount",
+  "description": "\"Amount\" means mass per unit area. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

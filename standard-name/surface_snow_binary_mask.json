@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_snow_binary_mask",
+  "@type": "standard-name",
+  "name": "surface_snow_binary_mask",
+  "description": "X\"_binary_mask\" has 1 where condition X is met, 0 elsewhere. The value is 1 where the snow cover area fraction is greater than a threshold, and 0 elsewhere. The threshold must be specified by associating a coordinate variable or scalar coordinate variable with the data variable and giving the coordinate variable a standard name of surface_snow_area_fraction. The values of the coordinate variable are the threshold values for the corresponding subarrays of the data variable. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

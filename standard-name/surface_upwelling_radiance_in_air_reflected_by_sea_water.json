@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_upwelling_radiance_in_air_reflected_by_sea_water",
+  "@type": "standard-name",
+  "name": "surface_upwelling_radiance_in_air_reflected_by_sea_water",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Radiance is the radiative flux in a particular direction, per unit of solid angle. The direction towards which it is going must be specified, for instance with a coordinate of zenith_angle. If the radiation does not depend on direction, a standard name of isotropic radiance should be chosen instead.",
+  "canonical_units": "W m-2 sr-1",
+  "amip": null,
+  "grib": null
+}

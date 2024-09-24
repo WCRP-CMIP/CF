@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_halon2402_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_halon2402_in_air",
+  "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for Halon2402 is C2Br2F4. The IUPAC name for Halon2402 is 1,2-dibromo-1,1,2,2-tetrafluoroethane.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

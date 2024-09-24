@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/platform_roll_rate_starboard_down",
+  "@type": "standard-name",
+  "name": "platform_roll_rate_starboard_down",
+  "description": "\"Roll rate\" is the rate of rotation about an axis that is perpendicular to the local vertical axis and is coplanar with the nominal forward motion direction of the platform. Roll rate might not include changes to the \"at rest\" rotation of the platform with respect to the axis of rotation, which may change over time. \"Starboard down\" indicates that positive values of roll rate represent the right side of the platform falling as viewed by an observer on top of the platform facing forward. The standard name platform_roll_rate_starboard_up should be used for data having the opposite sign convention. The standard name platform_roll_rate should be chosen only if the sign convention of the data is unknown. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+  "canonical_units": "degree s-1",
+  "amip": null,
+  "grib": null
+}

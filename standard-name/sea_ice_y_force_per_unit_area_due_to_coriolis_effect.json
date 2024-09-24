@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_y_force_per_unit_area_due_to_coriolis_effect",
+  "@type": "standard-name",
+  "name": "sea_ice_y_force_per_unit_area_due_to_coriolis_effect",
+  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. In meteorology and oceanography, the Coriolis effect per unit mass arises solely from the earth's rotation and acts as a deflecting force, normal to the velocity, to the right of the motion in the Northern Hemisphere and to the left in the Southern Hemisphere. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Coriolis_force. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "N m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/lwe_thickness_of_soil_moisture_content",
+  "@type": "standard-name",
+  "name": "lwe_thickness_of_soil_moisture_content",
+  "description": "\"lwe\" means liquid water equivalent. \"moisture\" means water in all phases contained in soil. The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area. \"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content_of_soil_layer are used.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": "E140"
+}

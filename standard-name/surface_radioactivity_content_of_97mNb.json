@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_97mNb",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_97mNb",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Nb\" means the element \"niobium\" and \"97mNb\" is the metastable state of the isotope \"niobium-97\" with a half-life of 6.27e-04 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

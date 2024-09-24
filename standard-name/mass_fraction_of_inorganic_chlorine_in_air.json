@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_inorganic_chlorine_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_inorganic_chlorine_in_air",
+  "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Inorganic chlorine\", sometimes referred to as Cly, describes a family of chemical species which result from the degradation of source gases containing chlorine (CFCs, HCFCs, VSLS) and natural inorganic chlorine sources such as sea salt and other aerosols. \"Inorganic chlorine\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names that use the term \"clox\" are used for quantities that contain all inorganic chlorine species except HCl and ClONO2.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

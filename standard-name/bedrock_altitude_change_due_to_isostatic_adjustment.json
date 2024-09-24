@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/bedrock_altitude_change_due_to_isostatic_adjustment",
+  "@type": "standard-name",
+  "name": "bedrock_altitude_change_due_to_isostatic_adjustment",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. \"Bedrock\" is the solid Earth surface beneath land ice, ocean water or soil. The zero of bedrock altitude change is arbitrary. Isostatic adjustment is the vertical movement of the lithosphere due to changing surface ice and water loads.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

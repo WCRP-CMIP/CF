@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/remote_sensing_averaging_kernel_of_logarithm_of_mole_fraction_of_methane_in_air",
+  "@type": "standard-name",
+  "name": "remote_sensing_averaging_kernel_of_logarithm_of_mole_fraction_of_methane_in_air",
+  "description": "Logarithmic scale averaging kernels of the methane mole fractions obtained by a remote sensing observation (Rodgers, 2020). These kernels are also called fractional averaging kernels (Keppens et al., 2015) They represent the fractional changes of methane in the retrieved atmosphere relative to the fractional changes of methane in the true atmosphere.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

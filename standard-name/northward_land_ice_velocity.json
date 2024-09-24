@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/northward_land_ice_velocity",
+  "@type": "standard-name",
+  "name": "northward_land_ice_velocity",
+  "description": "A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Land ice velocity is defined as a two-dimensional vector, with no vertical component. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

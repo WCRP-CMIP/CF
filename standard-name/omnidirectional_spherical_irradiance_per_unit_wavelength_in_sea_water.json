@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/omnidirectional_spherical_irradiance_per_unit_wavelength_in_sea_water",
+  "@type": "standard-name",
+  "name": "omnidirectional_spherical_irradiance_per_unit_wavelength_in_sea_water",
+  "description": "Omnidirectional spherical irradiance is the radiation incident on unit area of a spherical (or \"4-pi\") collector. It is sometimes called \"scalar irradiance\". Radiation incident on a 2-pi collector has standard names of \"spherical irradiance\" which specify up/downwelling. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength.",
+  "canonical_units": "W m-3",
+  "amip": null,
+  "grib": null
+}

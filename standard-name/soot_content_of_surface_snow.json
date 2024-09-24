@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/soot_content_of_surface_snow",
+  "@type": "standard-name",
+  "name": "soot_content_of_surface_snow",
+  "description": "\"Content\" indicates a quantity per unit area. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

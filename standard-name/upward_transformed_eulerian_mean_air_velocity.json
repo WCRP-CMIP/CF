@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/upward_transformed_eulerian_mean_air_velocity",
+  "@type": "standard-name",
+  "name": "upward_transformed_eulerian_mean_air_velocity",
+  "description": "A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector. The \"Transformed Eulerian Mean\" refers to a formulation of the mean equations which incorporates some eddy terms into the definition of the mean, described in Andrews et al (1987): Middle Atmospheric Dynamics. Academic Press.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
+}

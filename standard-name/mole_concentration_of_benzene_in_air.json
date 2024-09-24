@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_concentration_of_benzene_in_air",
+  "@type": "standard-name",
+  "name": "mole_concentration_of_benzene_in_air",
+  "description": "Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y.  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The chemical formula for benzene is C6H6.  Benzene is the simplest aromatic hydrocarbon and has a ring structure consisting of six carbon atoms joined by alternating single and double chemical bonds. Each carbon atom is additionally bonded to one hydrogen atom. There are standard names that refer to aromatic_compounds as a group, as well as those for individual species.",
+  "canonical_units": "mol m-3",
+  "amip": null,
+  "grib": null
+}

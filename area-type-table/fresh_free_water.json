@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/fresh_free_water",
+  "@type": "area-type-table",
+  "name": "fresh_free_water",
+  "description": "An area type of \"fresh_free_water\" means a free interface between freshwater and the atmosphere without vegetation or other obstructions."
+}

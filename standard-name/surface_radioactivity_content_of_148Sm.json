@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_148Sm",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_148Sm",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sm\" means the element \"samarium\" and \"148Sm\" is the isotope \"samarium-148\" with a half-life of 2.92e+18 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

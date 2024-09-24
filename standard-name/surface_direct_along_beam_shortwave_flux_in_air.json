@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_direct_along_beam_shortwave_flux_in_air",
+  "@type": "standard-name",
+  "name": "surface_direct_along_beam_shortwave_flux_in_air",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Direct\" (also known as \"beam\") radiation is radiation that has followed a direct path from the sun and is alternatively known as \"direct insolation\". The phrase \"along_beam\" refers to direct radiation on a plane perpendicular to the direction of the sun. This is in contrast to standard names such as direct_downwelling_shortwave_flux_in_air, where the radiation falls on a horizontal plane at the earth surface. The term \"shortwave\" means shortwave radiation. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The quantity with standard name surface_direct_along_beam_shortwave_flux_in_air is also called Direct Normal Irradiance (DNI) in the solar energy industry.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

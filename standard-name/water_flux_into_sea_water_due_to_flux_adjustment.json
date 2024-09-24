@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_flux_into_sea_water_due_to_flux_adjustment",
+  "@type": "standard-name",
+  "name": "water_flux_into_sea_water_due_to_flux_adjustment",
+  "description": "\"Water\" means water in all phases. Flux correction is also called \"flux adjustment\". A positive flux correction is downward i.e. added to the ocean. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

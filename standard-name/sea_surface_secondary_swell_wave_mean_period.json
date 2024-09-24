@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_secondary_swell_wave_mean_period",
+  "@type": "standard-name",
+  "name": "sea_surface_secondary_swell_wave_mean_period",
+  "description": "The quantity with standard name sea_surface_secondary_swell_wave_mean_period is the mean period of the second most energetic swell waves. Swell waves are waves on the ocean surface and are the low frequency portion of a bimodal wave frequency spectrum.  The secondary swell wave is the second most energetic wave in the low frequency portion of a bimodal wave frequency spectrum. A period is an interval of time, or the time-period of an oscillation. Wave period is the interval of time between repeated features on the waveform such as crests, troughs or upward passes through the mean level. Wave mean period is the mean period measured over the observation duration.",
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
+}

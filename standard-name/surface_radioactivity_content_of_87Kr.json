@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_87Kr",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_87Kr",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Kr\" means the element \"krypton\" and \"87Kr\" is the isotope \"krypton-87\" with a half-life of 5.28e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_average_normal_horizontal_stress",
+  "@type": "standard-name",
+  "name": "sea_ice_average_normal_horizontal_stress",
+  "description": "\"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. Axial stress is the symmetric component of the tensor representing the gradient of internal forces (e.g. in ice). Horizontal stress refers to the stress in the horizontal plane. \"Horizontal\" refers to the local horizontal in the location of the sea ice, i.e., perpendicular to the local gravity vector. Average normal stress refers to the average of the diagonal elements of the stress tensor and represents the first invariant of stress.",
+  "canonical_units": "N m-1",
+  "amip": null,
+  "grib": null
+}

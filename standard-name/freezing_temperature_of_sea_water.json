@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/freezing_temperature_of_sea_water",
+  "@type": "standard-name",
+  "name": "freezing_temperature_of_sea_water",
+  "description": null,
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

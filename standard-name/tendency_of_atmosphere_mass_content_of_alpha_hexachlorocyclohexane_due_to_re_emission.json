@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_alpha_hexachlorocyclohexane_due_to_re_emission",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_mass_content_of_alpha_hexachlorocyclohexane_due_to_re_emission",
+  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"Content\" indicates a quantity per unit area.  \"Re-emission\" refers to emission that is not from a primary source; it refers to emission of a species that has previously been deposited and accumulated in soils or water.  \"Re-emission\" is a process entirely distinct from \"emission\" which is used in some standard names.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

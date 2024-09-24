@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_14C_due_to_all_land_processes",
+  "@type": "standard-name",
+  "name": "surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_14C_due_to_all_land_processes",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The chemical formula for carbon dioxide is CO2. \"C\" means the element carbon and \"14C\" is the radioactive isotope \"carbon-14\", having six protons and eight neutrons and used in radiocarbon dating. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"All land processes\" means plant and soil respiration, photosynthesis, animal grazing, crop harvesting, natural fires and anthropogenic land use change.  \"Anthropogenic land use change\" means human changes to land, excluding forest regrowth. It includes fires ignited by humans for the purpose of land use change and the processes of eventual disposal and decomposition of wood products such as paper, cardboard, furniture and timber for construction.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

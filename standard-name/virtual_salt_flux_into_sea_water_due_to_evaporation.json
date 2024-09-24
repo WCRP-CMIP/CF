@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/virtual_salt_flux_into_sea_water_due_to_evaporation",
+  "@type": "standard-name",
+  "name": "virtual_salt_flux_into_sea_water_due_to_evaporation",
+  "description": "The virtual_salt_flux_into_sea_water_due_to_process is the salt flux that would have the same effect on the sea surface salinity as water_flux_out_of_sea_water_due_to_process. Evaporation is the conversion of liquid or solid into vapor.  (The conversion of solid alone into vapor is called \"sublimation\".)  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

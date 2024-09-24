@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_alpha_pinene_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_alpha_pinene_in_air",
+  "description": "Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The chemical formula for alpha_pinene is C10H16. The IUPAC name for alpha-pinene is (1S,5S)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_mass_of_carbon_dioxide",
+  "@type": "standard-name",
+  "name": "atmosphere_mass_of_carbon_dioxide",
+  "description": "The chemical formula for carbon dioxide is CO2.",
+  "canonical_units": "kg",
+  "amip": null,
+  "grib": null
+}

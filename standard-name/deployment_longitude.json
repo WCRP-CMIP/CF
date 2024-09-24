@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/deployment_longitude",
+  "@type": "standard-name",
+  "name": "deployment_longitude",
+  "description": "The longitude of deployment of a station or instrument. The term can be used whenever the deployment position of a station or instrument needs to be supplied along with other types of positions. If a data variable has only one longitude coordinate variable, the standard name of longitude should generally be preferred to deployment_longitude, because longitude is recognised by generic software. If the deployment longitude is also the nominal longitude for a discrete geometry (as in Section 9.5 of the CF convention), the deployment longitude should also, or instead, be recorded in a coordinate variable with the standard name of longitude and axis=\"X\". Longitude is positive eastward; its units of \"degree_east\" (or equivalent) indicate this explicitly.",
+  "canonical_units": "degree_east",
+  "amip": null,
+  "grib": null
+}

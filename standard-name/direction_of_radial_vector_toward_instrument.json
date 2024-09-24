@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/direction_of_radial_vector_toward_instrument",
+  "@type": "standard-name",
+  "name": "direction_of_radial_vector_toward_instrument",
+  "description": "The phrase \"direction_of_X\" means direction of a vector, a bearing. The direction is measured positive clockwise from due north. The direction_of_radial_vector_toward_instrument is the direction opposite to that in which the instrument itself is pointing. The \"instrument\" (examples are radar and lidar) is the device used to make an observation. The standard name direction_of_radial_vector_away_from_instrument should be used for a data variable having the opposite sign convention.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
+}

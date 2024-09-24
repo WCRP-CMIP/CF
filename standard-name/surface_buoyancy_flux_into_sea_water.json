@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_buoyancy_flux_into_sea_water",
+  "@type": "standard-name",
+  "name": "surface_buoyancy_flux_into_sea_water",
+  "description": "A variable quantifying net density gains or losses in water parcel buoyancy based on thermal (net surface heat flux) and haline (precipitation minus evaporation) forcings at the air-sea interface. A positive value indicates a buoyancy flux into the ocean that will stabilize (i.e., stratify) the surface ocean layer.",
+  "canonical_units": "m2 s-3",
+  "amip": null,
+  "grib": null
+}

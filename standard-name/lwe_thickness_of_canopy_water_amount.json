@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/lwe_thickness_of_canopy_water_amount",
+  "@type": "standard-name",
+  "name": "lwe_thickness_of_canopy_water_amount",
+  "description": "The abbreviation \"lwe\" means liquid water equivalent. \"Amount\" means mass per unit area. The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area. \"Water\" means water in all phases, including frozen i.e. ice and snow. The canopy water is the water on the canopy. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_cfc114",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_moles_of_cfc114",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula of CFC114 is CClF2CClF2. The IUPAC name for CFC114 is 1,2-dichloro-1,1,2,2-tetrafluoroethane.",
+  "canonical_units": "mol s-1",
+  "amip": null,
+  "grib": null
+}

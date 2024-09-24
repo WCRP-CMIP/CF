@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_cfc12",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_moles_of_cfc12",
+  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for CFC12 is CF2Cl2. The IUPAC name for CFC12 is dichloro(difluoro)methane.",
+  "canonical_units": "mol s-1",
+  "amip": null,
+  "grib": null
+}

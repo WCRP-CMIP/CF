@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/angstrom_exponent_of_volume_backwards_scattering_in_air_due_to_ambient_aerosol_particles",
+  "@type": "standard-name",
+  "name": "angstrom_exponent_of_volume_backwards_scattering_in_air_due_to_ambient_aerosol_particles",
+  "description": "The Angstrom exponent of volume backwards scattering is the Angstrom exponent related only to the aerosol backwards scattering component. It is alpha in the following equation relating volume backwards scattering (back) at the wavelength lambda to volume backwards scattering at a different wavelength lambda0: back(lambda) = back(lambda0) * [lambda/lambda0] ** (-1 * alpha). \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/equilibrium_line_altitude",
+  "@type": "standard-name",
+  "name": "equilibrium_line_altitude",
+  "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. The equilibrium line is the locus of points on a land ice surface at which ice accumulation balances ice ablation over the year.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/platform_roll",
+  "@type": "standard-name",
+  "name": "platform_roll",
+  "description": "Roll is a rotation about an axis that is perpendicular to the local vertical axis and is coplanar with the nominal forward motion direction of the platform. Roll is relative to the \"at rest\" rotation of the platform with respect to the axis of rotation. The \"at rest\" rotation of the platform may change over time. The standard name platform_roll should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the roll is known, a standard name of platform_roll_starboard_down or platform_roll_starboard_up should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_derivative_of_northward_wind",
+  "@type": "standard-name",
+  "name": "eastward_derivative_of_northward_wind",
+  "description": "The quantity with standard name eastward_derivative_of_northward_wind is the derivative of the northward component of wind with respect to distance in the eastward direction for a given atmospheric level. The phrase \"component_derivative_of_X\" means derivative of X with respect to distance in the component direction, which may be \"northward\", \"southward\", \"eastward\", \"westward\", \"upward\", \"downward\", \"x\" or \"y\". The last two indicate derivatives along the axes of the grid, in the case where they are not true longitude and latitude. A positive value indicates that X is increasing with distance along the positive direction of the axis. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\").",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

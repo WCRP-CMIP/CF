@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_fraction_of_hfc134a_in_air",
+  "@type": "standard-name",
+  "name": "mole_fraction_of_hfc134a_in_air",
+  "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for hfc134a is CF3CFH2. The IUPAC name for hfc134a is 1,1,1,2-tetrafluoroethane.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

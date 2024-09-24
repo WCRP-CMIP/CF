@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/phosphorus_mass_transport_in_river_channel",
+  "@type": "standard-name",
+  "name": "phosphorus_mass_transport_in_river_channel",
+  "description": "The amount of total phosphorus mass transported in the river channels from land into the ocean. This quantity can be provided at a certain location within the river network and floodplain (over land) or at the river mouth (over ocean) where the river enters the ocean. \"River\" refers to water in the fluvial system (stream and floodplain). Phosphorus means phosphorus in all chemical forms, commonly referred to as \"total phosphorus\".",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

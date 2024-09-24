@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_sigma_theta_difference",
+  "@type": "standard-name",
+  "name": "sea_water_sigma_theta_difference",
+  "description": "Sigma-theta of sea water is the potential density (i.e. the density when moved adiabatically to a reference pressure) of water having the same temperature and salinity, minus 1000 kg m-3.",
+  "canonical_units": "kg m-3",
+  "amip": null,
+  "grib": null
+}

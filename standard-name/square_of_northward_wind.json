@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/square_of_northward_wind",
+  "@type": "standard-name",
+  "name": "square_of_northward_wind",
+  "description": "\"square_of_X\" means X*X. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+  "canonical_units": "m2 s-2",
+  "amip": "mpvva",
+  "grib": null
+}

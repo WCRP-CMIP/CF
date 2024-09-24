@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/region",
+  "@type": "standard-name",
+  "name": "region",
+  "description": "A variable with the standard name of region contains either strings which indicate a geographical region or flags which can be translated to strings using flag_values and flag_meanings attributes. These strings are standardised. Values must be taken from the CF standard region list.",
+  "canonical_units": null,
+  "amip": null,
+  "grib": null
+}

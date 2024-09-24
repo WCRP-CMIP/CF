@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/convective_cloud_base_height",
+  "@type": "standard-name",
+  "name": "convective_cloud_base_height",
+  "description": "cloud_base refers to the base of the lowest cloud. Height is the vertical distance above the surface. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

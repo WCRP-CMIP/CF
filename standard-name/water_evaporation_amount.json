@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_evaporation_amount",
+  "@type": "standard-name",
+  "name": "water_evaporation_amount",
+  "description": "\"Amount\" means mass per unit area. \"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".)",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": "57"
+}

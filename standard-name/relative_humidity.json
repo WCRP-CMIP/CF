@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/relative_humidity",
+  "@type": "standard-name",
+  "name": "relative_humidity",
+  "description": null,
+  "canonical_units": "1",
+  "amip": "hur",
+  "grib": "52 E157"
+}

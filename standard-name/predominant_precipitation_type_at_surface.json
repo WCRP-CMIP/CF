@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/predominant_precipitation_type_at_surface",
+  "@type": "standard-name",
+  "name": "predominant_precipitation_type_at_surface",
+  "description": "A variable with the standard name predominant_precipitation_type_at_surface contains strings which indicate the character of the predominant precipitating hydrometeor at a location or grid cell. These strings have not yet been standardised. Alternatively, the data variable may contain integers which can be translated to strings using flag_values and flag_meanings attributes. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. The surface called \"surface\" means the lower boundary of the atmosphere.",
+  "canonical_units": null,
+  "amip": null,
+  "grib": null
+}

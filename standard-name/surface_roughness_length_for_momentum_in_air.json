@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_roughness_length_for_momentum_in_air",
+  "@type": "standard-name",
+  "name": "surface_roughness_length_for_momentum_in_air",
+  "description": "The height above the displacement plane at which the mean wind becomes zero when extrapolating the logarithmic wind speed profile downward through the surface layer. The surface called \"surface\" means the lower boundary of the atmosphere.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

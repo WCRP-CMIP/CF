@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/dry_atmosphere_mole_fraction_of_methane",
+  "@type": "standard-name",
+  "name": "dry_atmosphere_mole_fraction_of_methane",
+  "description": "Mole fraction is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The construction \"dry_atmosphere_mole_fraction\" means that the quantity refers to the whole atmospheric column and is calculated as the total number of particles of X in the column divided by the number of dry air particles in the same column, i.e. the effect of water vapor is excluded. For localized values within the atmospheric medium, standard names including \"in_air\" are used. Methane is a member of the group of hydrocarbons known as alkanes. There are standard names for the alkane group as well as for some of the individual species. The chemical formula for methane is CH4.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

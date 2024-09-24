@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_air_density",
+  "@type": "standard-name",
+  "name": "tendency_of_air_density",
+  "description": "\"tendency_of_X\" means derivative of X with respect to time.",
+  "canonical_units": "kg m-3 s-1",
+  "amip": null,
+  "grib": null
+}

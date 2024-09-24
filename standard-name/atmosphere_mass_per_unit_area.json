@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_mass_per_unit_area",
+  "@type": "standard-name",
+  "name": "atmosphere_mass_per_unit_area",
+  "description": "\"X_area\" means the horizontal area occupied by X within the grid cell.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

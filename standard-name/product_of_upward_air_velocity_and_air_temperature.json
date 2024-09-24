@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/product_of_upward_air_velocity_and_air_temperature",
+  "@type": "standard-name",
+  "name": "product_of_upward_air_velocity_and_air_temperature",
+  "description": "The phrase \"product_of_X_and_Y\" means X*Y. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K m s-1",
+  "amip": null,
+  "grib": null
+}

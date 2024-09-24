@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/c4_plant_functional_types",
+  "@type": "area-type-table",
+  "name": "c4_plant_functional_types",
+  "description": "A plant that utilizes the C4 carbon fixation pathway in which the CO2 is first bound to a compound containing four carbon atoms before photosynthesis reactions take place. All trees are C3 type. Grasses and crops can be C3 or C4."
+}

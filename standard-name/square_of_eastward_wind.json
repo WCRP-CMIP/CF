@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/square_of_eastward_wind",
+  "@type": "standard-name",
+  "name": "square_of_eastward_wind",
+  "description": "\"square_of_X\" means X*X. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+  "canonical_units": "m2 s-2",
+  "amip": "mpuua",
+  "grib": null
+}

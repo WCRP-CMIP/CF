@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/northward_wind",
+  "@type": "standard-name",
+  "name": "northward_wind",
+  "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+  "canonical_units": "m s-1",
+  "amip": "va",
+  "grib": "34 E132"
+}

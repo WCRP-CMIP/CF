@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_velocity_to_direction_at_sea_floor",
+  "@type": "standard-name",
+  "name": "sea_water_velocity_to_direction_at_sea_floor",
+  "description": "A velocity is a vector quantity. The phrase \"to_direction\" is used in the construction X_to_direction and indicates the direction towards which the velocity vector of X is headed. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. The direction at the sea floor is that adjacent to the ocean bottom, which would be the deepest grid cell in an ocean model and within the benthic boundary layer for measurements.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
+}

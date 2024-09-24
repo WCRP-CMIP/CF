@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_115mIn_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_115mIn_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"In\" means the element \"indium\" and \"115mIn\" is the metastable state of the isotope \"indium-115\" with a half-life of 1.87e-01 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

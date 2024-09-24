@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_sigma_coordinate",
+  "@type": "standard-name",
+  "name": "atmosphere_sigma_coordinate",
+  "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

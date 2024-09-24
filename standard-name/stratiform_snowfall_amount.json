@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/stratiform_snowfall_amount",
+  "@type": "standard-name",
+  "name": "stratiform_snowfall_amount",
+  "description": "Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.  \"Amount\" means mass per unit area.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": "79"
+}

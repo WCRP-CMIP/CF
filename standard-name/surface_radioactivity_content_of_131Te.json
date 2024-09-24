@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_131Te",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_131Te",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Te\" means the element \"tellurium\" and \"131Te\" is the isotope \"tellurium-131\" with a half-life of 1.74e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

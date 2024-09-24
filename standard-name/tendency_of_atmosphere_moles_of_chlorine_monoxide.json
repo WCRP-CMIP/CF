@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_chlorine_monoxide",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_moles_of_chlorine_monoxide",
+  "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for chlorine monoxide is ClO.",
+  "canonical_units": "mol s-1",
+  "amip": null,
+  "grib": null
+}

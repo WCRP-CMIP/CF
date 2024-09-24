@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/projection_x_angular_coordinate",
+  "@type": "standard-name",
+  "name": "projection_x_angular_coordinate",
+  "description": "\"x\" indicates a vector component along the grid x-axis, when this is not true longitude, positive with increasing x. Angular projection coordinates are angular distances in the x- and y-directions on a plane onto which the surface of the Earth has been projected according to a map projection. The relationship between the angular projection coordinates and latitude and longitude is described by the grid_mapping.",
+  "canonical_units": "radian",
+  "amip": null,
+  "grib": null
+}

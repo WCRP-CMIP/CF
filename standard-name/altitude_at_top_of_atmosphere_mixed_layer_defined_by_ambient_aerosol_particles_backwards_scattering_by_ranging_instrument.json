@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/altitude_at_top_of_atmosphere_mixed_layer_defined_by_ambient_aerosol_particles_backwards_scattering_by_ranging_instrument",
+  "@type": "standard-name",
+  "name": "altitude_at_top_of_atmosphere_mixed_layer_defined_by_ambient_aerosol_particles_backwards_scattering_by_ranging_instrument",
+  "description": "The altitude at top of atmosphere mixed layer is the elevation above sea level of the top of the (atmosphere) mixed layer or convective boundary layer. The phrase \"defined_by\" provides the information of the tracer used for identifying the atmospheric boundary layer top. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. \"By ranging instrument\" means that the volume backscattering coefficient is obtained through ranging techniques like lidar and radar.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

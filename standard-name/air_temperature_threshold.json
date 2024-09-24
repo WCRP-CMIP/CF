@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/air_temperature_threshold",
+  "@type": "standard-name",
+  "name": "air_temperature_threshold",
+  "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature. Air temperature excess and deficit are calculated relative to the air temperature threshold. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: on-scale\", meaning that the temperature is relative to the origin of the scale indicated by the units, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/lightning_potential_index",
+  "@type": "standard-name",
+  "name": "lightning_potential_index",
+  "description": "The lightning_potential_index measures the potential for charge generation and separation that leads to lightning flashes in convective thunderstorms. It is derived from the model simulated grid-scale updraft velocity and the mass mixing-ratios of liquid water, cloud ice, snow, and graupel.",
+  "canonical_units": "J kg-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_floor_depth_below_reference_ellipsoid",
+  "@type": "standard-name",
+  "name": "sea_floor_depth_below_reference_ellipsoid",
+  "description": "\"Depth_below_X\" means the vertical distance below the named surface X. A reference ellipsoid is a regular mathematical figure that approximates the irregular shape of the geoid. A number of reference ellipsoids are defined for use in the field of geodesy. To specify which reference ellipsoid is being used, a grid_mapping variable should be attached to the data variable as described in Chapter 5.6 of the CF Convention.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_78As",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_78As",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"As\" means the element \"arsenic\" and \"78As\" is the isotope \"arsenic-78\" with a half-life of 6.32e-02 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

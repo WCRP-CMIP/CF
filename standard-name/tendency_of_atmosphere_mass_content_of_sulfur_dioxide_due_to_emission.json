@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_emission",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_emission",
+  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"Content\" indicates a quantity per unit area.  \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. earth's surface).  \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

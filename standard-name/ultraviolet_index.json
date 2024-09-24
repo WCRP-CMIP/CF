@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ultraviolet_index",
+  "@type": "standard-name",
+  "name": "ultraviolet_index",
+  "description": "The \"Ultraviolet Index\" (UVI) is a measure of the amount of solar ultraviolet radiation that reaches the surface of the earth depending on factors such as time of day and cloud cover. It is often used to alert the public of the need to limit sun exposure and use sun creams to protect the skin. Each point on the Index scale is equivalent to 25 mW m-2 of UV radiation (reference: Australian Bureau of Meteorology, http://www.bom.gov.au/uv/about_uv_index.shtml). The UVI range is expressed as a numeric value from 0 to 20 and sometimes graphically as bands of color indicating the attendant risk of skin damage. A UVI of 0-2 is described as 'Low' (represented graphically in green); a UVI of 11 or greater is described as \"Extreme\" (represented graphically in purple). The higher the UVI, the greater the potential health risk to humans and the less time it takes for harm to occur. To specify the amount of cloud cover at which the data variable applies, provide a scalar coordinate variable with standard name \"cloud_area_fraction\". Standard names are also defined for the quantities ultraviolet_index_assuming_clear_sky and ultraviolet_index_assuming_overcast_sky.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

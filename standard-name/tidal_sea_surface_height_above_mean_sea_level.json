@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tidal_sea_surface_height_above_mean_sea_level",
+  "@type": "standard-name",
+  "name": "tidal_sea_surface_height_above_mean_sea_level",
+  "description": "\"Sea surface height\" is a time-varying quantity. \"Height_above_X\" means the vertical distance above the named surface X. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals. The tidal component of sea surface height describes the predicted variability of the sea surface due to astronomic forcing (chiefly lunar and solar cycles) and shallow water resonance of tidal components; for example as generated based on harmonic analysis, or resulting from the application of harmonic tidal series as boundary conditions to a numerical tidal model.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

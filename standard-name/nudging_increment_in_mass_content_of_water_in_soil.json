@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nudging_increment_in_mass_content_of_water_in_soil",
+  "@type": "standard-name",
+  "name": "nudging_increment_in_mass_content_of_water_in_soil",
+  "description": "A \"nudging increment\" refers to an amount added to parts of a model system. The phrase \"nudging_increment_in_X\" refers to an increment in quantity X over a time period which should be defined in the bounds of the time coordinate. \"Content\" indicates a quantity per unit area. \"Water\" means water in all phases. The mass content of water in soil refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_evaporation_flux_from_soil",
+  "@type": "standard-name",
+  "name": "water_evaporation_flux_from_soil",
+  "description": "\"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".) In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

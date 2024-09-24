@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/land_ice_thickness",
+  "@type": "standard-name",
+  "name": "land_ice_thickness",
+  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. \"Thickness\" means the vertical extent of a layer.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

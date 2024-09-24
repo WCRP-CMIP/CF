@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/number_concentration_of_biological_taxon_pollen_grains_in_air",
+  "@type": "standard-name",
+  "name": "number_concentration_of_biological_taxon_pollen_grains_in_air",
+  "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. \"Pollen grain\" refers to the male gametophyte of seed plants (either angiosperms or gymnosperms). The number concentration of pollen grains refers to the number of individual pollen grains per unit volume. \"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. There must be an auxiliary coordinate variable with standard name biological_taxon_name to identify the taxon in human readable format and optionally an auxiliary coordinate variable with standard name biological_taxon_identifier to provide a machine-readable identifier. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables.",
+  "canonical_units": "m-3",
+  "amip": null,
+  "grib": null
+}

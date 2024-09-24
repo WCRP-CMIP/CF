@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/photolysis_rate_of_molecular_oxygen",
+  "@type": "standard-name",
+  "name": "photolysis_rate_of_molecular_oxygen",
+  "description": "\"Photolysis\" is a chemical reaction in which a chemical compound is broken down by photons. The \"reaction rate\" is the rate at which the reactants of a chemical reaction form the products. The chemical formula for molecular oxygen is O2.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
+}

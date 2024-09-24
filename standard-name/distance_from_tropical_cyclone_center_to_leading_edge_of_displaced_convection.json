@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/distance_from_tropical_cyclone_center_to_leading_edge_of_displaced_convection",
+  "@type": "standard-name",
+  "name": "distance_from_tropical_cyclone_center_to_leading_edge_of_displaced_convection",
+  "description": "The great circle distance measured from the tropical cyclone center to the leading edge of displaced convection, which is defined as the closest point that exceeds a threshold brightness temperature at top of atmosphere limit. The threshold applied should be recorded in a coordinate variable having the standard name of toa_brightness_temperature. A coordinate variable with standard name of radiation_wavelength, sensor_band_central_radiation_wavelength, or radiation_frequency may be specified to indicate that the brightness temperature applies at specific wavelengths or frequencies.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

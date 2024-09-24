@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/bioluminescent_photon_rate_in_sea_water",
+  "@type": "standard-name",
+  "name": "bioluminescent_photon_rate_in_sea_water",
+  "description": null,
+  "canonical_units": "s-1 m-3",
+  "amip": null,
+  "grib": null
+}

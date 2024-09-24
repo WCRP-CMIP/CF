@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/convective_cloud",
+  "@type": "area-type-table",
+  "name": "convective_cloud",
+  "description": "This area type complements the \"stratiform_cloud\" area type, which is the other major category of cloud. The \"cloud\" area type is a more general term and includes both convective_cloud and stratiform_cloud types."
+}

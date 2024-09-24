@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_flux_of_carbon_into_forestry_and_agricultural_products_due_to_crop_harvesting",
+  "@type": "standard-name",
+  "name": "mass_flux_of_carbon_into_forestry_and_agricultural_products_due_to_crop_harvesting",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Examples of \"forestry and agricultural products\" are paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock. Models that simulate land use changes have one or more pools of carbon that represent these products in order to conserve carbon and allow its eventual release into the atmosphere, for example, when the products decompose in landfill sites. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The definition of \"crop\" is model dependent, for example, some models may include fruit trees, trees grown for timber or other types of agricultural and forestry planting as crops. Crop harvesting means the human activity of collecting plant materials for the purpose of turning them into forestry or agricultural products.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

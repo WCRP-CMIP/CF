@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/permafrost_layer_thickness",
+  "@type": "standard-name",
+  "name": "permafrost_layer_thickness",
+  "description": "Permafrost is soil or rock that has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years. \"Thickness\" means the vertical extent of a layer.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

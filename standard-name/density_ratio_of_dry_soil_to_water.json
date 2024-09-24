@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/density_ratio_of_dry_soil_to_water",
+  "@type": "standard-name",
+  "name": "density_ratio_of_dry_soil_to_water",
+  "description": "The phrase \"ratio_of_X_to_Y\" means X/Y. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. Also known as specific gravity, where soil represents a dry soil sample. The density of a substance is its mass per unit volume.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

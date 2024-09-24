@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_water_vapor_due_to_advection",
+  "@type": "standard-name",
+  "name": "tendency_of_atmosphere_mass_content_of_water_vapor_due_to_advection",
+  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. Atmosphere water vapor content is sometimes referred to as \"precipitable water\", although this term does not imply the water could all be precipitated.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

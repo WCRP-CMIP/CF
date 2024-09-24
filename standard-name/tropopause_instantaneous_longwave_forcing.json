@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tropopause_instantaneous_longwave_forcing",
+  "@type": "standard-name",
+  "name": "tropopause_instantaneous_longwave_forcing",
+  "description": "The term \"longwave\" means longwave radiation. Instantaneous forcing is the radiative flux change caused instantaneously by an imposed change in radiative forcing agent (greenhouse gases, aerosol, solar radiation, etc.). A positive radiative forcing or radiative effect is equivalent to a downward radiative flux and contributes to a warming of the earth system.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

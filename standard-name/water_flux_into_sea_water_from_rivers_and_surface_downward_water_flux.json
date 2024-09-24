@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/water_flux_into_sea_water_from_rivers_and_surface_downward_water_flux",
+  "@type": "standard-name",
+  "name": "water_flux_into_sea_water_from_rivers_and_surface_downward_water_flux",
+  "description": "\"Water\" means water in all phases, including frozen i.e. ice and snow. The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). The surface water flux is the result of precipitation and evaporation. The water flux into sea water is the freshwater entering as a result of precipitation, evaporation, river inflow, sea ice effects and water flux correction (if applied). The water flux or volume transport into sea water from rivers is the inflow to the ocean, often applied to the surface in ocean models. \"River\" refers to water in the fluvial system (stream and floodplain). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_radioactivity_content_of_153Sm",
+  "@type": "standard-name",
+  "name": "surface_radioactivity_content_of_153Sm",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sm\" means the element \"samarium\" and \"153Sm\" is the isotope \"samarium-153\" with a half-life of 1.94e+00 days.",
+  "canonical_units": "Bq m-2",
+  "amip": null,
+  "grib": null
+}

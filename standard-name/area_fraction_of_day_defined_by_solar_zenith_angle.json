@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/area_fraction_of_day_defined_by_solar_zenith_angle",
+  "@type": "standard-name",
+  "name": "area_fraction_of_day_defined_by_solar_zenith_angle",
+  "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. A coordinate variable of solar_zenith_angle indicating the day extent should be specified. Solar zenith angle is the the angle between the line of sight to the sun and the local vertical.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

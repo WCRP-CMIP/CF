@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/eastward_sea_ice_displacement",
+  "@type": "standard-name",
+  "name": "eastward_sea_ice_displacement",
+  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Displacement\" means the change in geospatial position of an object that has moved over time. If possible, the time interval over which the motion took place should be specified using a bounds variable for the time coordinate variable. A displacement can be represented as a vector. Such a vector should however not be interpreted as describing a rectilinear, constant speed motion but merely as an indication that the start point of the vector is found at the tip of the vector after the time interval associated with the displacement variable. A displacement does not prescribe a trajectory. Sea ice displacement can be defined as a two-dimensional vector, with no vertical component. An eastward displacement is the distance calculated from the change in a moving object's longitude between the start and end of the time interval associated with the displacement variable. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

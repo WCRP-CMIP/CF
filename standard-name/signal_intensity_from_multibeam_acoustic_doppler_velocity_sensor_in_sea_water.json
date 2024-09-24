@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/signal_intensity_from_multibeam_acoustic_doppler_velocity_sensor_in_sea_water",
+  "@type": "standard-name",
+  "name": "signal_intensity_from_multibeam_acoustic_doppler_velocity_sensor_in_sea_water",
+  "description": "The magnitude of an acoustic signal emitted by the instrument toward a reflecting surface and received again by the instrument.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

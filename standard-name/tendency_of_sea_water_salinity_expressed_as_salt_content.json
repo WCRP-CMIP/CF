@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_sea_water_salinity_expressed_as_salt_content",
+  "@type": "standard-name",
+  "name": "tendency_of_sea_water_salinity_expressed_as_salt_content",
+  "description": "\"Content\" indicates a quantity per unit area. \"tendency_of_X\" means derivative of X with respect to time. This tendency encompasses all processes that impact on the time changes for the salt content within a grid cell.",
+  "canonical_units": "kg m-2 s-1",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/latitude",
+  "@type": "standard-name",
+  "name": "latitude",
+  "description": "Latitude is positive northward; its units of degree_north (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid_latitude should be used instead of latitude. Grid latitude is positive in the grid-northward direction, but its units should be plain degree.",
+  "canonical_units": "degree_north",
+  "amip": "latitude",
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/moles_of_phosphate_per_unit_mass_in_sea_water",
+  "@type": "standard-name",
+  "name": "moles_of_phosphate_per_unit_mass_in_sea_water",
+  "description": "moles_of_X_per_unit_mass_inY is also called \"molality\" of X in Y, where X is a material constituent of Y.",
+  "canonical_units": "mol kg-1",
+  "amip": null,
+  "grib": null
+}

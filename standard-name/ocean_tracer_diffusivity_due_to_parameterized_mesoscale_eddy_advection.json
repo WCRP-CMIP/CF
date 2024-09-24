@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/ocean_tracer_diffusivity_due_to_parameterized_mesoscale_eddy_advection",
+  "@type": "standard-name",
+  "name": "ocean_tracer_diffusivity_due_to_parameterized_mesoscale_eddy_advection",
+  "description": "Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum. The diffusivity may be very different in the vertical and horizontal directions. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Parameterized eddy advection in an ocean model means the part due to a scheme representing parameterized eddy-induced advective effects not included in the resolved model velocity field. Parameterized mesoscale eddy advection occurs on a spatial scale of many tens of kilometres and an evolutionary time of weeks. Reference: James C. McWilliams 2016, Submesoscale currents in the ocean, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, volume 472, issue 2189. DOI: 10.1098/rspa.2016.0117. Parameterized mesoscale eddy advection is represented in ocean models using schemes such as the Gent-McWilliams scheme. There are also standard names for parameterized_submesoscale_eddy_advection which, along with parameterized_mesoscale_eddy_advection, contributes to the total parameterized eddy advection.",
+  "canonical_units": "m2 s-1",
+  "amip": null,
+  "grib": null
+}

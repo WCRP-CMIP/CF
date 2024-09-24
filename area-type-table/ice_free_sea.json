@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/ice_free_sea",
+  "@type": "area-type-table",
+  "name": "ice_free_sea",
+  "description": null
+}

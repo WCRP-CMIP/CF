@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/volume_scattering_function_of_radiative_flux_in_sea_water",
+  "@type": "standard-name",
+  "name": "volume_scattering_function_of_radiative_flux_in_sea_water",
+  "description": "Radiative flux is the sum of shortwave and longwave radiative fluxes. Scattering of radiation is its deflection from its incident path without loss of energy. The volume scattering function is the intensity (flux per unit solid angle) of scattered radiation per unit length of scattering medium, normalised by the incident radiation flux. The (range of) direction(s) of scattering can be specified by a coordinate of scattering_angle. A coordinate variable of radiation_wavelength or radiation_frequency can be specified to indicate that the scattering applies at specific wavelengths or frequencies.",
+  "canonical_units": "m-1 sr-1",
+  "amip": null,
+  "grib": null
+}

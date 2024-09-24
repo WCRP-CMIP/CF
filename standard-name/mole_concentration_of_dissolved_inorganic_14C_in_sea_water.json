@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mole_concentration_of_dissolved_inorganic_14C_in_sea_water",
+  "@type": "standard-name",
+  "name": "mole_concentration_of_dissolved_inorganic_14C_in_sea_water",
+  "description": "Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Dissolved inorganic carbon\" describes a family of chemical species in solution, including carbon dioxide, carbonic acid and the carbonate and bicarbonate anions. \"Dissolved inorganic carbon\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"C\" means the element carbon and \"14C\" is the radioactive isotope \"carbon-14\", having six protons and eight neutrons and used in radiocarbon dating.",
+  "canonical_units": "mol m-3",
+  "amip": null,
+  "grib": null
+}

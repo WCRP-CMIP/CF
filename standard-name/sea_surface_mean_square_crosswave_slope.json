@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_mean_square_crosswave_slope",
+  "@type": "standard-name",
+  "name": "sea_surface_mean_square_crosswave_slope",
+  "description": "Wave slope describes an aspect of sea surface wave geometry related to sea surface roughness. Mean square slope describes a derivation over multiple waves within a sea-state, for example calculated from moments of the wave directional spectrum. The phrase \"crosswave_slope\" means that slope values are derived from vector components across (normal to) the axis from which waves are travelling. The primary directional axis along which wave energy associated with the slope calculation is travelling has the standard name sea_surface_mean_square_upwave_slope_direction.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

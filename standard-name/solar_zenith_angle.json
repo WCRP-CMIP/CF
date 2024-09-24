@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/solar_zenith_angle",
+  "@type": "standard-name",
+  "name": "solar_zenith_angle",
+  "description": "Solar zenith angle is the the angle between the line of sight to the sun and the local vertical.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
+}

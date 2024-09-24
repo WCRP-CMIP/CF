@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_temperature_expressed_as_heat_content",
+  "@type": "standard-name",
+  "name": "sea_ice_temperature_expressed_as_heat_content",
+  "description": "The quantity with standard name sea_ice_temperature_expressed_as_heat_content is calculated relative to the heat content of ice at zero degrees Celsius, which is assumed to have a heat content of zero Joules. The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea ice multiplied by the temperature of the sea ice in the grid cell and integrated over depth. If used for a layer heat content, coordinate bounds should be used to define the extent of the layers. If no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is sea ice the integral is assumed to be calculated over the full depth of the ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "J m-2",
+  "amip": null,
+  "grib": null
+}

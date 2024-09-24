@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/atmosphere_moles_of_molecular_hydrogen",
+  "@type": "standard-name",
+  "name": "atmosphere_moles_of_molecular_hydrogen",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for molecular hydrogen is H2.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
+}

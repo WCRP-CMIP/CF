@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/number_of_missing_observations",
+  "@type": "standard-name",
+  "name": "number_of_missing_observations",
+  "description": "A variable with the standard name of number_of_missing_observations contains the number of discrete observations or measurements that were not available to derive the values of another data variable. The linkage between the data variable and the variable with a standard_name of number_of_missing_observations is achieved using the ancillary_variables attribute.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

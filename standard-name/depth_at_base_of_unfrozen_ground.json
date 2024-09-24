@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/depth_at_base_of_unfrozen_ground",
+  "@type": "standard-name",
+  "name": "depth_at_base_of_unfrozen_ground",
+  "description": "The phrase depth_at_base_of_unfrozen_ground is the instantaneous depth of the downward penetration of thaw from the ground surface at a given time. Permafrost is soil or rock that has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more consecutive years. The maximum measurable depth_at_base_of_unfrozen_ground value as recorded at the end of a thawing season corresponds to the permafrost_active_layer_thickness.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

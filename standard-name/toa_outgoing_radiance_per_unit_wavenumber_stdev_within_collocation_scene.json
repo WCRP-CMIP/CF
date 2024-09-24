@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/toa_outgoing_radiance_per_unit_wavenumber_stdev_within_collocation_scene",
+  "@type": "standard-name",
+  "name": "toa_outgoing_radiance_per_unit_wavenumber_stdev_within_collocation_scene",
+  "description": "toa_outgoing_radiance_per_unit_wavenumber_stdev_within_collocation_scene is the standard deviation of observations of the quantity with standard name toa_outgoing_radiance_per_unit_wavenumber from a sensor's adjacent field-of-views within a collocation scene. \"toa\" means top of atmosphere. The TOA outgoing radiance is the upwelling radiance, i.e., toward outer space. Radiance is the radiative flux in a particular direction, per unit of solid angle. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The \"collocation scene\" is a grouping of a sensor's adjacent field-of-views centered on a collocation target. The size of the collocation scene is typically about twice that of the collocation target. The \"collocation target\" is an area on the Earth's surface at which observations from at least two sensors are collected. Its size is defined by the sensor with the largest field-of-view footprint. Two events are deemed to be collocated based on some set of spatial, temporal, and viewing geometry criteria.",
+  "canonical_units": "W m-2 sr-1 (m-1)-1",
+  "amip": null,
+  "grib": null
+}

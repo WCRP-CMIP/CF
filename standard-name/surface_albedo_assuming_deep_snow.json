@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_albedo_assuming_deep_snow",
+  "@type": "standard-name",
+  "name": "surface_albedo_assuming_deep_snow",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum. A phrase assuming_condition indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

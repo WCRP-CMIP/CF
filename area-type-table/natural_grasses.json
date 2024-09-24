@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/natural_grasses",
+  "@type": "area-type-table",
+  "name": "natural_grasses",
+  "description": "\"Natural grasses\" means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland."
+}

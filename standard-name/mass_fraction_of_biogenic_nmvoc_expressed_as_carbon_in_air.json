@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/mass_fraction_of_biogenic_nmvoc_expressed_as_carbon_in_air",
+  "@type": "standard-name",
+  "name": "mass_fraction_of_biogenic_nmvoc_expressed_as_carbon_in_air",
+  "description": "Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"nmvoc\" means non methane volatile organic compounds; \"nmvoc\" is the term used in standard names to describe the group of chemical species having this classification that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"Biogenic\" means influenced, caused, or created by natural processes.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

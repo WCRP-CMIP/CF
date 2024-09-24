@@ -1,0 +1,6 @@
+{
+  "@id": "cf:area-type-table/sea_ice",
+  "@type": "area-type-table",
+  "name": "sea_ice",
+  "description": "The area occupied by type \"sea_ice\" within a grid cell is the sum of the areas of types \"sea_ice_melt_pond\" and \"melt_pond_free_sea_ice\". Melt ponds occur on top of the existing sea ice. The area occupied by type \"sea\" is equal to the sum of the areas of types \"ice_free_sea\" and \"sea_ice\"."
+}

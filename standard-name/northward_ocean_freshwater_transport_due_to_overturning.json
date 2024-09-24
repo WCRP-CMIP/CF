@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/northward_ocean_freshwater_transport_due_to_overturning",
+  "@type": "standard-name",
+  "name": "northward_ocean_freshwater_transport_due_to_overturning",
+  "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). Northward transport by (meridional) overturning is geometrically defined as being the part due to the vertical integral of the product of zonal means of velocity and tracer. The velocity does not include the parameterized eddy velocity. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
+}

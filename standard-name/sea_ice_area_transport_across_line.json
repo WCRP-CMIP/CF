@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_ice_area_transport_across_line",
+  "@type": "standard-name",
+  "name": "sea_ice_area_transport_across_line",
+  "description": "Transport \"across_line\" means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m2 s-1",
+  "amip": null,
+  "grib": null
+}

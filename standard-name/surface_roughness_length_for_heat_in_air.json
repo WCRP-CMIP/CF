@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_roughness_length_for_heat_in_air",
+  "@type": "standard-name",
+  "name": "surface_roughness_length_for_heat_in_air",
+  "description": "The height above the surface where the mean value of heat assumes its surface value when extrapolated along a logarithmic profile downward towards the surface. The surface called \"surface\" means the lower boundary of the atmosphere.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_water_preformed_salinity",
+  "@type": "standard-name",
+  "name": "sea_water_preformed_salinity",
+  "description": "Preformed Salinity, S*, is defined as part of the Thermodynamic Equation of Seawater 2010 (TEOS-10) which was adopted in 2010 by the Intergovernmental Oceanographic Commission (IOC). Preformed Salinity is a salinity variable that is designed to be as conservative as possible, by removing the estimated biogeochemical influences on the sea water composition. Preformed Salinity is Absolute Salinity, S_A (which has the standard name sea_water_absolute_salinity), minus all contributions to sea water composition from biogeochemical processes. Preformed Salinity is the mass fraction of dissolved material in sea water. Reference: www.teos-10.org; Pawlowicz et al., 2011 doi: 10.5194/os-7-363-2011; Wright et al., 2011 doi: 10.5194/os-7-1-2011. There are also standard names for the precisely defined salinity quantities sea_water_knudsen_salinity, S_K (used for salinity observations between 1901 and 1966), sea_water_cox_salinity, S_C (used for salinity observations between 1967 and 1977), sea_water_practical_salinity, S_P (used for salinity observations from 1978 onwards), and sea_water_reference_salinity. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity.",
+  "canonical_units": "g kg-1",
+  "amip": null,
+  "grib": null
+}

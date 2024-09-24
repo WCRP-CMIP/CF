@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radio_signal_roundtrip_travel_time_in_air",
+  "@type": "standard-name",
+  "name": "radio_signal_roundtrip_travel_time_in_air",
+  "description": "Time it takes for a radio wave, that was transmitted by an instrument to propagate through the air to the volume of air where it is scattered and return back to an instrument. The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities in the air). A standard name referring to time taken for a radio signal to propagate from the emitting instrument to a scattering volume and back to an instrument.",
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
+}

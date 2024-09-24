@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/nfdrs_severe_fire_danger_index",
+  "@type": "standard-name",
+  "name": "nfdrs_severe_fire_danger_index",
+  "description": "Severe Fire Danger Index (SFDI) is the normalized product of normalized Energy Release Component (ERC) and normalized Burning Index (BI) from the United States National Fire Danger Rating System (NFDRS). While SFDI is not officially part of the National Fire Danger Rating System, it is related to and intended to supplement NFDRS. It is commonly categorized into five classes based on percentile: low (0-60), moderate (60-80), high (80-90), very high (90-97), and extreme (97-100). It can be extended to future conditions by introducing an unprecedented category for values above the historical 100th percentile. As it is locally normalized, its interpretation remains the same across space.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

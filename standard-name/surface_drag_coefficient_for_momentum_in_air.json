@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_drag_coefficient_for_momentum_in_air",
+  "@type": "standard-name",
+  "name": "surface_drag_coefficient_for_momentum_in_air",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

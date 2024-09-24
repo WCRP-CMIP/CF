@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_surface_wave_mean_square_y_slope",
+  "@type": "standard-name",
+  "name": "sea_surface_wave_mean_square_y_slope",
+  "description": "Wave slope describes an aspect of sea surface wave geometry related to sea surface roughness. Mean square slope describes a derivation over multiple waves within a sea-state, for example calculated from moments of the wave directional spectrum. The phrase \"y_slope\" indicates that slope values are derived from vector components along the grid y-axis.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

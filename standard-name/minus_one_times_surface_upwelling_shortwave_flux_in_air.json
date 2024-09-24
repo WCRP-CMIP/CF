@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/minus_one_times_surface_upwelling_shortwave_flux_in_air",
+  "@type": "standard-name",
+  "name": "minus_one_times_surface_upwelling_shortwave_flux_in_air",
+  "description": "The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. \"Minus one times\" means that the quantity described takes the opposite sign convention to that for the quantity which has the same standard name apart from this phrase, i.e. the two quantities differ from one another by a factor of -1. The surface called \"surface\" means the lower boundary of the atmosphere. The term \"shortwave\" means shortwave radiation. Upwelling radiation is radiation from below. It does not mean \"net upward\". When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}

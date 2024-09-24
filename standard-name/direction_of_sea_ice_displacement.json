@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/direction_of_sea_ice_displacement",
+  "@type": "standard-name",
+  "name": "direction_of_sea_ice_displacement",
+  "description": "The phrase \"direction_of_X\" means direction of a vector, a bearing. \"Displacement\" means the change in geospatial position of an object that has moved over time. If possible, the time interval over which the motion took place should be specified using a bounds variable for the time coordinate variable. A displacement can be represented as a vector. Such a vector should however not be interpreted as describing a rectilinear, constant speed motion but merely as an indication that the start point of the vector is found at the tip of the vector after the time interval associated with the displacement variable. A displacement does not prescribe a trajectory. Sea ice displacement can be defined as a two-dimensional vector, with no vertical component. In that case, \"displacement\" is also the distance across the earth's surface calculated from the change in a moving object's geospatial position between the start and end of the time interval associated with the displacement variable. The \"direction of displacement\" is the angle between due north and the displacement vector. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "degrees",
+  "amip": null,
+  "grib": null
+}

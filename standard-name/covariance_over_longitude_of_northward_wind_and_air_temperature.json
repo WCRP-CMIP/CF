@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/covariance_over_longitude_of_northward_wind_and_air_temperature",
+  "@type": "standard-name",
+  "name": "covariance_over_longitude_of_northward_wind_and_air_temperature",
+  "description": "Covariance refers to the sample covariance rather than the population covariance. The quantity with standard name covariance_over_longitude_of_northward_wind_and_air_temperature is the covariance of the deviations of meridional air velocity and air temperature about their respective zonal mean values. The data variable must be accompanied by a vertical coordinate variable or scalar coordinate variable and is calculated on an isosurface of that vertical coordinate. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). Air temperature is the bulk temperature of the air, not the surface (skin) temperature. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+  "canonical_units": "K m s-1",
+  "amip": null,
+  "grib": null
+}

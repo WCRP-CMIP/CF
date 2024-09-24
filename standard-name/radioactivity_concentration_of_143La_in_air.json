@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/radioactivity_concentration_of_143La_in_air",
+  "@type": "standard-name",
+  "name": "radioactivity_concentration_of_143La_in_air",
+  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"La\" means the element \"lanthanum\" and \"143La\" is the isotope \"lanthanum-143\" with a half-life of 9.72e-03 days.",
+  "canonical_units": "Bq m-3",
+  "amip": null,
+  "grib": null
+}

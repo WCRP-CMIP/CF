@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/surface_snow_area_fraction",
+  "@type": "standard-name",
+  "name": "surface_snow_area_fraction",
+  "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+  "canonical_units": "1",
+  "amip": "snc",
+  "grib": null
+}

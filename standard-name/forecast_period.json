@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/forecast_period",
+  "@type": "standard-name",
+  "name": "forecast_period",
+  "description": "Forecast period is the time interval between the forecast reference time and the validity time. A period is an interval of time, or the time-period of an oscillation.",
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
+}

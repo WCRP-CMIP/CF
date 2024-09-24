@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/sea_floor_depth_below_sea_surface",
+  "@type": "standard-name",
+  "name": "sea_floor_depth_below_sea_surface",
+  "description": "The sea_floor_depth_below_sea_surface is the vertical distance between the sea surface and the seabed as measured at a given point in space including the variance caused by tides and possibly waves.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

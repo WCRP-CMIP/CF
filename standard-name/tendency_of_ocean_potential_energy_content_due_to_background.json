@@ -1,0 +1,9 @@
+{
+  "@id": "cf:standard_name/tendency_of_ocean_potential_energy_content_due_to_background",
+  "@type": "standard-name",
+  "name": "tendency_of_ocean_potential_energy_content_due_to_background",
+  "description": "\"Content\" indicates a quantity per unit area.  Potential energy is the sum of the gravitational potential energy relative to the geoid and the centripetal potential energy. (The geopotential is the specific potential energy.)  \"Due to background\" means caused by a time invariant imposed field which may be either constant over the globe or spatially varying, depending on the ocean model used. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"tendency_of_X\" means derivative of X with respect to time.",
+  "canonical_units": "W m-2",
+  "amip": null,
+  "grib": null
+}
