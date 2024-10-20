@@ -22,9 +22,9 @@
         }
     },
     {
-        "@id": "./area-type-table/ice_free_sea.json",
+        "@id": "./area-type-table/snow.json",
         "@type": "version",
-        "version:file": "./area-type-table/ice_free_sea.json",
+        "version:file": "./area-type-table/snow.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -40,29 +40,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/ice_free_sea"
-        }
-    },
-    {
-        "@id": "./area-type-table/all_area_types.json",
-        "@type": "version",
-        "version:file": "./area-type-table/all_area_types.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/all_area_types"
+            "@id": "./area-type-table/snow"
         }
     },
     {
@@ -88,9 +66,9 @@
         }
     },
     {
-        "@id": "./area-type-table/floating_ice_shelf.json",
+        "@id": "./area-type-table/ice_free_sea.json",
         "@type": "version",
-        "version:file": "./area-type-table/floating_ice_shelf.json",
+        "version:file": "./area-type-table/ice_free_sea.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -106,7 +84,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/floating_ice_shelf"
+            "@id": "./area-type-table/ice_free_sea"
         }
     },
     {
@@ -132,9 +110,9 @@
         }
     },
     {
-        "@id": "./area-type-table/snow.json",
+        "@id": "./area-type-table/floating_ice_shelf.json",
         "@type": "version",
-        "version:file": "./area-type-table/snow.json",
+        "version:file": "./area-type-table/floating_ice_shelf.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -150,7 +128,29 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/snow"
+            "@id": "./area-type-table/floating_ice_shelf"
+        }
+    },
+    {
+        "@id": "./area-type-table/all_area_types.json",
+        "@type": "version",
+        "version:file": "./area-type-table/all_area_types.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/all_area_types"
         }
     },
     {
@@ -176,9 +176,9 @@
         }
     },
     {
-        "@id": "./area-type-table/sea_ice_melt_pond.json",
+        "@id": "./area-type-table/herbaceous_vegetation.json",
         "@type": "version",
-        "version:file": "./area-type-table/sea_ice_melt_pond.json",
+        "version:file": "./area-type-table/herbaceous_vegetation.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -194,7 +194,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/sea_ice_melt_pond"
+            "@id": "./area-type-table/herbaceous_vegetation"
         }
     },
     {
@@ -242,28 +242,6 @@
         }
     },
     {
-        "@id": "./area-type-table/herbaceous_vegetation.json",
-        "@type": "version",
-        "version:file": "./area-type-table/herbaceous_vegetation.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/herbaceous_vegetation"
-        }
-    },
-    {
         "@id": "./area-type-table/melt_pond_free_sea_ice.json",
         "@type": "version",
         "version:file": "./area-type-table/melt_pond_free_sea_ice.json",
@@ -283,28 +261,6 @@
         },
         "version:data": {
             "@id": "./area-type-table/melt_pond_free_sea_ice"
-        }
-    },
-    {
-        "@id": "./area-type-table/trees.json",
-        "@type": "version",
-        "version:file": "./area-type-table/trees.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/trees"
         }
     },
     {
@@ -330,6 +286,50 @@
         }
     },
     {
+        "@id": "./area-type-table/trees.json",
+        "@type": "version",
+        "version:file": "./area-type-table/trees.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/trees"
+        }
+    },
+    {
+        "@id": "./area-type-table/sea_ice_melt_pond.json",
+        "@type": "version",
+        "version:file": "./area-type-table/sea_ice_melt_pond.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/sea_ice_melt_pond"
+        }
+    },
+    {
         "@id": "./area-type-table/ice_and_snow_on_land.json",
         "@type": "version",
         "version:file": "./area-type-table/ice_and_snow_on_land.json",
@@ -349,50 +349,6 @@
         },
         "version:data": {
             "@id": "./area-type-table/ice_and_snow_on_land"
-        }
-    },
-    {
-        "@id": "./area-type-table/permafrost.json",
-        "@type": "version",
-        "version:file": "./area-type-table/permafrost.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/permafrost"
-        }
-    },
-    {
-        "@id": "./area-type-table/crops.json",
-        "@type": "version",
-        "version:file": "./area-type-table/crops.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/crops"
         }
     },
     {
@@ -418,9 +374,9 @@
         }
     },
     {
-        "@id": "./area-type-table/lake_ice_or_sea_ice.json",
+        "@id": "./area-type-table/crops.json",
         "@type": "version",
-        "version:file": "./area-type-table/lake_ice_or_sea_ice.json",
+        "version:file": "./area-type-table/crops.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -436,51 +392,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/lake_ice_or_sea_ice"
-        }
-    },
-    {
-        "@id": "./area-type-table/secondary_evergreen_trees.json",
-        "@type": "version",
-        "version:file": "./area-type-table/secondary_evergreen_trees.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/secondary_evergreen_trees"
-        }
-    },
-    {
-        "@id": "./area-type-table/clear_sky.json",
-        "@type": "version",
-        "version:file": "./area-type-table/clear_sky.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/clear_sky"
+            "@id": "./area-type-table/crops"
         }
     },
     {
@@ -506,9 +418,9 @@
         }
     },
     {
-        "@id": "./area-type-table/sea_ice_ridges.json",
+        "@id": "./area-type-table/permafrost.json",
         "@type": "version",
-        "version:file": "./area-type-table/sea_ice_ridges.json",
+        "version:file": "./area-type-table/permafrost.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -524,7 +436,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/sea_ice_ridges"
+            "@id": "./area-type-table/permafrost"
         }
     },
     {
@@ -550,9 +462,9 @@
         }
     },
     {
-        "@id": "./area-type-table/ice_free_land.json",
+        "@id": "./area-type-table/secondary_evergreen_trees.json",
         "@type": "version",
-        "version:file": "./area-type-table/ice_free_land.json",
+        "version:file": "./area-type-table/secondary_evergreen_trees.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -568,13 +480,13 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/ice_free_land"
+            "@id": "./area-type-table/secondary_evergreen_trees"
         }
     },
     {
-        "@id": "./area-type-table/land_ice.json",
+        "@id": "./area-type-table/lake_ice_or_sea_ice.json",
         "@type": "version",
-        "version:file": "./area-type-table/land_ice.json",
+        "version:file": "./area-type-table/lake_ice_or_sea_ice.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -590,7 +502,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/land_ice"
+            "@id": "./area-type-table/lake_ice_or_sea_ice"
         }
     },
     {
@@ -616,9 +528,9 @@
         }
     },
     {
-        "@id": "./area-type-table/floating_ice.json",
+        "@id": "./area-type-table/sea_ice_ridges.json",
         "@type": "version",
-        "version:file": "./area-type-table/floating_ice.json",
+        "version:file": "./area-type-table/sea_ice_ridges.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -634,29 +546,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/floating_ice"
-        }
-    },
-    {
-        "@id": "./area-type-table/pastures_of_c4_plant_functional_types.json",
-        "@type": "version",
-        "version:file": "./area-type-table/pastures_of_c4_plant_functional_types.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/pastures_of_c4_plant_functional_types"
+            "@id": "./area-type-table/sea_ice_ridges"
         }
     },
     {
@@ -682,9 +572,9 @@
         }
     },
     {
-        "@id": "./area-type-table/unfrozen_soil.json",
+        "@id": "./area-type-table/clear_sky.json",
         "@type": "version",
-        "version:file": "./area-type-table/unfrozen_soil.json",
+        "version:file": "./area-type-table/clear_sky.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -700,7 +590,29 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/unfrozen_soil"
+            "@id": "./area-type-table/clear_sky"
+        }
+    },
+    {
+        "@id": "./area-type-table/land_ice.json",
+        "@type": "version",
+        "version:file": "./area-type-table/land_ice.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/land_ice"
         }
     },
     {
@@ -723,6 +635,72 @@
         },
         "version:data": {
             "@id": "./area-type-table/ice_on_land"
+        }
+    },
+    {
+        "@id": "./area-type-table/ice_free_land.json",
+        "@type": "version",
+        "version:file": "./area-type-table/ice_free_land.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/ice_free_land"
+        }
+    },
+    {
+        "@id": "./area-type-table/floating_ice.json",
+        "@type": "version",
+        "version:file": "./area-type-table/floating_ice.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/floating_ice"
+        }
+    },
+    {
+        "@id": "./area-type-table/unfrozen_soil.json",
+        "@type": "version",
+        "version:file": "./area-type-table/unfrozen_soil.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/unfrozen_soil"
         }
     },
     {
@@ -770,9 +748,9 @@
         }
     },
     {
-        "@id": "./area-type-table/burnt_vegetation.json",
+        "@id": "./area-type-table/pastures_of_c4_plant_functional_types.json",
         "@type": "version",
-        "version:file": "./area-type-table/burnt_vegetation.json",
+        "version:file": "./area-type-table/pastures_of_c4_plant_functional_types.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -788,29 +766,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/burnt_vegetation"
-        }
-    },
-    {
-        "@id": "./area-type-table/natural_grasses_of_c4_plant_functional_types.json",
-        "@type": "version",
-        "version:file": "./area-type-table/natural_grasses_of_c4_plant_functional_types.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/natural_grasses_of_c4_plant_functional_types"
+            "@id": "./area-type-table/pastures_of_c4_plant_functional_types"
         }
     },
     {
@@ -836,9 +792,9 @@
         }
     },
     {
-        "@id": "./area-type-table/shrubs.json",
+        "@id": "./area-type-table/natural_grasses_of_c4_plant_functional_types.json",
         "@type": "version",
-        "version:file": "./area-type-table/shrubs.json",
+        "version:file": "./area-type-table/natural_grasses_of_c4_plant_functional_types.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -854,29 +810,7 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/shrubs"
-        }
-    },
-    {
-        "@id": "./area-type-table/pastures_of_c3_plant_functional_types.json",
-        "@type": "version",
-        "version:file": "./area-type-table/pastures_of_c3_plant_functional_types.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/pastures_of_c3_plant_functional_types"
+            "@id": "./area-type-table/natural_grasses_of_c4_plant_functional_types"
         }
     },
     {
@@ -902,6 +836,28 @@
         }
     },
     {
+        "@id": "./area-type-table/shrubs.json",
+        "@type": "version",
+        "version:file": "./area-type-table/shrubs.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/shrubs"
+        }
+    },
+    {
         "@id": "./area-type-table/c4_plant_functional_types.json",
         "@type": "version",
         "version:file": "./area-type-table/c4_plant_functional_types.json",
@@ -924,9 +880,9 @@
         }
     },
     {
-        "@id": "./area-type-table/bare_ground.json",
+        "@id": "./area-type-table/burnt_vegetation.json",
         "@type": "version",
-        "version:file": "./area-type-table/bare_ground.json",
+        "version:file": "./area-type-table/burnt_vegetation.json",
         "version:release": {
             "mip-cmor-tables": "v6.5.0.3",
             "cmip6plus": "v6.5.1.4"
@@ -942,7 +898,29 @@
             }
         },
         "version:data": {
-            "@id": "./area-type-table/bare_ground"
+            "@id": "./area-type-table/burnt_vegetation"
+        }
+    },
+    {
+        "@id": "./area-type-table/pastures_of_c3_plant_functional_types.json",
+        "@type": "version",
+        "version:file": "./area-type-table/pastures_of_c3_plant_functional_types.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/pastures_of_c3_plant_functional_types"
         }
     },
     {
@@ -1034,28 +1012,6 @@
         }
     },
     {
-        "@id": "./area-type-table/wetland.json",
-        "@type": "version",
-        "version:file": "./area-type-table/wetland.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/wetland"
-        }
-    },
-    {
         "@id": "./area-type-table/pastures.json",
         "@type": "version",
         "version:file": "./area-type-table/pastures.json",
@@ -1075,6 +1031,50 @@
         },
         "version:data": {
             "@id": "./area-type-table/pastures"
+        }
+    },
+    {
+        "@id": "./area-type-table/bare_ground.json",
+        "@type": "version",
+        "version:file": "./area-type-table/bare_ground.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/bare_ground"
+        }
+    },
+    {
+        "@id": "./area-type-table/wetland.json",
+        "@type": "version",
+        "version:file": "./area-type-table/wetland.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/wetland"
         }
     },
     {
@@ -1119,50 +1119,6 @@
         },
         "version:data": {
             "@id": "./area-type-table/land"
-        }
-    },
-    {
-        "@id": "./area-type-table/natural_grasses.json",
-        "@type": "version",
-        "version:file": "./area-type-table/natural_grasses.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/natural_grasses"
-        }
-    },
-    {
-        "@id": "./area-type-table/stratiform_cloud.json",
-        "@type": "version",
-        "version:file": "./area-type-table/stratiform_cloud.json",
-        "version:release": {
-            "mip-cmor-tables": "v6.5.0.3",
-            "cmip6plus": "v6.5.1.4"
-        },
-        "version:previous_updates": 3,
-        "version:date": "2024-09-24T18:47:44Z",
-        "version:commit": {
-            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
-            "message": "Update to standard-names v86 and area-type-table v11",
-            "author": {
-                "name": "Daniel Ellis",
-                "email": "daniel.ellis@ext.esa.int"
-            }
-        },
-        "version:data": {
-            "@id": "./area-type-table/stratiform_cloud"
         }
     },
     {
@@ -1229,6 +1185,50 @@
         },
         "version:data": {
             "@id": "./area-type-table/secondary_deciduous_trees"
+        }
+    },
+    {
+        "@id": "./area-type-table/natural_grasses.json",
+        "@type": "version",
+        "version:file": "./area-type-table/natural_grasses.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/natural_grasses"
+        }
+    },
+    {
+        "@id": "./area-type-table/stratiform_cloud.json",
+        "@type": "version",
+        "version:file": "./area-type-table/stratiform_cloud.json",
+        "version:release": {
+            "mip-cmor-tables": "v6.5.0.3",
+            "cmip6plus": "v6.5.1.4"
+        },
+        "version:previous_updates": 3,
+        "version:date": "2024-09-24T18:47:44Z",
+        "version:commit": {
+            "hash": "3ea2a5f7c7c83943340f85749fd7e72b571c16aa",
+            "message": "Update to standard-names v86 and area-type-table v11",
+            "author": {
+                "name": "Daniel Ellis",
+                "email": "daniel.ellis@ext.esa.int"
+            }
+        },
+        "version:data": {
+            "@id": "./area-type-table/stratiform_cloud"
         }
     }
 ]
