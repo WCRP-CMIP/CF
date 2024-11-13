@@ -5,5 +5,5 @@
   "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Downward northward\" indicates the ZY component of a tensor. Momentum flux is dimensionally equivalent to stress and pressure. It is a tensor quantity. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
   "canonical_units": "Pa",
   "amip": null,
-  "grib": "125"
+  "grib": null
 }

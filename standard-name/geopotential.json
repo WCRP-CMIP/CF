@@ -5,5 +5,5 @@
   "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",
   "canonical_units": "m2 s-2",
   "amip": null,
-  "grib": "6 E129"
+  "grib": null
 }

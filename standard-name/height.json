@@ -4,6 +4,6 @@
   "name": "height",
   "description": "Height is the vertical distance above the surface.",
   "canonical_units": "m",
-  "amip": "zh",
+  "amip": null,
   "grib": null
 }

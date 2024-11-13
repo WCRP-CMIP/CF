@@ -4,6 +4,6 @@
   "name": "surface_snow_amount",
   "description": "\"Amount\" means mass per unit area. Surface snow amount refers to the amount on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
   "canonical_units": "kg m-2",
-  "amip": "snw",
-  "grib": "65"
+  "amip": null,
+  "grib": null
 }

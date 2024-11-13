@@ -5,5 +5,5 @@
   "description": "\"Horizontal\" indicates that the streamfunction applies to a horizontal velocity field on a particular vertical level.",
   "canonical_units": "m2 s-1",
   "amip": null,
-  "grib": "35"
+  "grib": null
 }

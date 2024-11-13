@@ -5,5 +5,5 @@
   "description": "Significant wave height is a statistic computed from wave measurements and corresponds to the average height of the highest one third of the waves, where the height is defined as the vertical distance from a wave trough to the following wave crest.",
   "canonical_units": "m",
   "amip": null,
-  "grib": "100"
+  "grib": null
 }

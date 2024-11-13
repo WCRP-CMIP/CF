@@ -5,5 +5,5 @@
   "description": "The term \"anomaly\" means difference from climatology. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
   "canonical_units": "Pa",
   "amip": null,
-  "grib": "26"
+  "grib": null
 }

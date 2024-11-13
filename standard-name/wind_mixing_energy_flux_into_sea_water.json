@@ -5,5 +5,5 @@
   "description": "Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
   "canonical_units": "W m-2",
   "amip": null,
-  "grib": "126"
+  "grib": null
 }

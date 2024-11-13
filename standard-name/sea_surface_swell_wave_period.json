@@ -5,5 +5,5 @@
   "description": "A period is an interval of time, or the time-period of an oscillation. Swell waves are waves on the ocean surface.",
   "canonical_units": "s",
   "amip": null,
-  "grib": "106"
+  "grib": null
 }

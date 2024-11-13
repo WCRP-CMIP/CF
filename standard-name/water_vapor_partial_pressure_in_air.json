@@ -5,5 +5,5 @@
   "description": "The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged.",
   "canonical_units": "Pa",
   "amip": null,
-  "grib": "55"
+  "grib": null
 }

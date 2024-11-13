@@ -5,5 +5,5 @@
   "description": "The visibility is the distance at which something can be seen.",
   "canonical_units": "m",
   "amip": null,
-  "grib": "20"
+  "grib": null
 }

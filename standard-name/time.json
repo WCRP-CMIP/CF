@@ -4,6 +4,6 @@
   "name": "time",
   "description": null,
   "canonical_units": "s",
-  "amip": "time",
+  "amip": null,
   "grib": null
 }

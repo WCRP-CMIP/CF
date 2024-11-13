@@ -5,5 +5,5 @@
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",
   "canonical_units": "m",
   "amip": null,
-  "grib": "83 E173"
+  "grib": null
 }
