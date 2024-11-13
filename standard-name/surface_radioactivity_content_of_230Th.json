@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_230Th",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_230Th",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Th\" means the element \"thorium\" and \"230Th\" is the isotope \"thorium-230\" with a half-life of 2.92e+07 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_flux_of_carbon_into_litter_from_vegetation_due_to_mortality",
-  "@type": "standard-name",
-  "name": "mass_flux_of_carbon_into_litter_from_vegetation_due_to_mortality",
-  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. \"Litter\" is dead plant material in or above the soil. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The term \"mortality\" means the loss of living biomass due to plant death. It refers to the death of the whole plant, not only the leaves.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

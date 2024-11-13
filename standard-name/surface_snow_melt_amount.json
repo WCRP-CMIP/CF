@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_snow_melt_amount",
-  "@type": "standard-name",
-  "name": "surface_snow_melt_amount",
-  "description": "Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": "99"
-}

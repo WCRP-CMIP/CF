@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_bidirectional_reflectance",
-  "@type": "standard-name",
-  "name": "surface_bidirectional_reflectance",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Bidirectional_reflectance\" depends on the angles of incident and measured radiation. Reflectance is the ratio of the energy of the reflected to the incident radiation. A coordinate variable of radiation_wavelength or radiation_frequency can be used to specify the wavelength or frequency, respectively, of the radiation.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

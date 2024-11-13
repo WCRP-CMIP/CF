@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_moles_of_radon",
-  "@type": "standard-name",
-  "name": "atmosphere_moles_of_radon",
-  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical symbol for radon is Rn.",
-  "canonical_units": "mol",
-  "amip": null,
-  "grib": null
-}

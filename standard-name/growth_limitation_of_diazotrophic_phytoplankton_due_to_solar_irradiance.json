@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/growth_limitation_of_diazotrophic_phytoplankton_due_to_solar_irradiance",
-  "@type": "standard-name",
-  "name": "growth_limitation_of_diazotrophic_phytoplankton_due_to_solar_irradiance",
-  "description": "\"Growth limitation due to solar irradiance\" means the ratio of the growth rate of a biological population in the environment (where the amount of sunlight reaching a location may be limited) to the theoretical growth rate if there were no such limit on solar irradiance. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Irradiance\" means the power per unit area (called radiative flux in other standard names), the area being normal to the direction of flow of the radiant energy. Solar irradiance is essential to the photosynthesis reaction and its presence promotes the growth of phytoplankton populations. Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. Diazotrophic phytoplankton are phytoplankton (predominantly from Phylum Cyanobacteria) that are able to fix molecular nitrogen (gas or solute) in addition to nitrate and ammonium.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

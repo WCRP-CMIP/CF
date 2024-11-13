@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/minimum_mass_ratio_of_water_to_dry_soil_for_soil_viscous_flow",
-  "@type": "standard-name",
-  "name": "minimum_mass_ratio_of_water_to_dry_soil_for_soil_viscous_flow",
-  "description": "The phrase \"ratio_of_X_to_Y\" means X/Y. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. It is the lower limit of the water content at which a soil sample will flow in a viscous manner. Known as the liquid limit.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

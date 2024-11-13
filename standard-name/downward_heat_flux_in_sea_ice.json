@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_heat_flux_in_sea_ice",
-  "@type": "standard-name",
-  "name": "downward_heat_flux_in_sea_ice",
-  "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

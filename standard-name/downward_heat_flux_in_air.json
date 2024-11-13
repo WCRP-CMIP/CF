@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_heat_flux_in_air",
-  "@type": "standard-name",
-  "name": "downward_heat_flux_in_air",
-  "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). The vertical heat flux in air is the sum of all heat fluxes i.e. radiative, latent and sensible. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

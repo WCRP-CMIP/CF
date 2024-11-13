@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/wood_debris_mass_content_of_nitrogen",
-  "@type": "standard-name",
-  "name": "wood_debris_mass_content_of_nitrogen",
-  "description": "\"Content\" indicates a quantity per unit area. \"Wood debris\" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between \"fine\" and \"coarse\" is model dependent. The sum of the quantities with standard names wood_debris_mass_content_of_nitrogen, surface_litter_mass_content_of_nitrogen and subsurface_litter_mass_content_of_nitrogen is the total nitrogen mass content of dead plant material.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_middle_atmosphere_moles_of_methane",
-  "@type": "standard-name",
-  "name": "tendency_of_middle_atmosphere_moles_of_methane",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"middle_atmosphere_moles_of_X\" means the total number of moles of X contained in the troposphere and stratosphere, i.e, summed over that part of the atmospheric column and over the entire globe.  The chemical formula of methane is CH4.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

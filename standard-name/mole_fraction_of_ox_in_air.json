@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_fraction_of_ox_in_air",
-  "@type": "standard-name",
-  "name": "mole_fraction_of_ox_in_air",
-  "description": "Mole fraction is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The term \"ox\" means a combination of three radical species containing 1 or 3 oxygen atoms: O + O1d + O3.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

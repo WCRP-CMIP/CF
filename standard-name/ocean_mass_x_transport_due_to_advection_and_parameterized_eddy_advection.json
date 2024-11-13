@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mass_x_transport_due_to_advection_and_parameterized_eddy_advection",
-  "@type": "standard-name",
-  "name": "ocean_mass_x_transport_due_to_advection_and_parameterized_eddy_advection",
-  "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase. Parameterized eddy advection in an ocean model means the part due to a scheme representing parameterized eddy-induced advective effects not included in the resolved model velocity field. Parameterized eddy advection can be represented on various spatial scales and there are standard names for parameterized_mesoscale_eddy_advection and parameterized_submesoscale_eddy_advection which both contribute to the total parameterized eddy advection.",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

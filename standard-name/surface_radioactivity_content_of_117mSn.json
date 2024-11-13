@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_117mSn",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_117mSn",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sn\" means the element \"tin\" and \"117mSn\" is the metastable state of the isotope \"tin-117\" with a half-life of 1.40e+01 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

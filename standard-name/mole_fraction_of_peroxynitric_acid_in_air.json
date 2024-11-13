@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_fraction_of_peroxynitric_acid_in_air",
-  "@type": "standard-name",
-  "name": "mole_fraction_of_peroxynitric_acid_in_air",
-  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of peroxynitric acid is HNO4.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

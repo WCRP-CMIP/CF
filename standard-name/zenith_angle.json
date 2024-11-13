@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/zenith_angle",
-  "@type": "standard-name",
-  "name": "zenith_angle",
-  "description": "Zenith angle is the angle to the local vertical; a value of zero is directly overhead.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

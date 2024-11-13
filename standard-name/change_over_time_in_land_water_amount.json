@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/change_over_time_in_land_water_amount",
-  "@type": "standard-name",
-  "name": "change_over_time_in_land_water_amount",
-  "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Amount\" means mass per unit area. \"Water\" means water in all phases. The phrase \"land_water_amount\", often known as \"Terrestrial Water Storage\", includes: surface liquid water (water in rivers, wetlands, lakes, reservoirs, rainfall intercepted by the canopy); surface ice and snow (glaciers, ice caps, grounded ice sheets not displacing sea water, river and lake ice, other surface ice such as frozen flood water, snow lying on the surface and intercepted by the canopy); subsurface water (liquid and frozen soil water, groundwater).",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_troposphere_moles_of_methane",
-  "@type": "standard-name",
-  "name": "tendency_of_troposphere_moles_of_methane",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"troposphere_moles_of_X\" means the total number of moles of X contained in the troposphere, i.e, summed over that part of the atmospheric column and over the entire globe.  The chemical formula of methane is CH4. Methane is a member of the group of hydrocarbons known as alkanes.  There are standard names for the alkane group as well as for some of the individual species.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

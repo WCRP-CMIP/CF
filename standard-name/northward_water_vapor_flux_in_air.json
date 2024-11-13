@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/northward_water_vapor_flux_in_air",
-  "@type": "standard-name",
-  "name": "northward_water_vapor_flux_in_air",
-  "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward).  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

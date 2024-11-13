@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tidal_sea_surface_height_above_mean_lower_low_water",
-  "@type": "standard-name",
-  "name": "tidal_sea_surface_height_above_mean_lower_low_water",
-  "description": "\"Sea surface height\" is a time-varying quantity. \"Height_above_X\" means the vertical distance above the named surface X. \"Mean lower low water\" is the arithmetic mean of the lower low water height of each tidal day observed at a station over a Tidal Datum Epoch, which is a period of time that is usually greater than 18.6 years to include a full lunar cycle. Tidal datums in certain regions with anomalous sea level changes may be calculated using a shorter, or modified, Tidal Datum Epoch (e.g. 5 years). To specify the tidal datum epoch to which the quantity applies, provide a scalar coordinate variable with standard name reference_epoch.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

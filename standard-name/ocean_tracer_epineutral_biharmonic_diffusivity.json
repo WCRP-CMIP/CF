@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_tracer_epineutral_biharmonic_diffusivity",
-  "@type": "standard-name",
-  "name": "ocean_tracer_epineutral_biharmonic_diffusivity",
-  "description": "Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum.  The diffusivity may be very different in the vertical and horizontal directions. \"epineutral diffusivity\" means a lateral diffusivity along a either a neutral or isopycnal density surface due to motion which is not resolved on the grid scale of an ocean model. The type of density surface is dependent on the model formulation. \"biharmonic diffusivity\" means diffusivity for use with a biharmonic diffusion operator.",
-  "canonical_units": "m4 s-1",
-  "amip": null,
-  "grib": null
-}

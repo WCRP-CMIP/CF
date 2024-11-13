@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_ice_salinity",
-  "@type": "standard-name",
-  "name": "sea_ice_salinity",
-  "description": "Sea ice salinity is the salt content of sea ice, often on the Practical Salinity Scale of 1978. However, the unqualified term 'salinity' is generic and does not necessarily imply any particular method of calculation. The units of salinity are dimensionless and normally given as 1e-3 or 0.001 i.e. parts per thousand. Practical Salinity is reported on the Practical Salinity Scale of 1978 (PSS-78), and is usually based on the electrical conductivity of sea water in observations since the 1960s. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "1e-3",
-  "amip": null,
-  "grib": null
-}

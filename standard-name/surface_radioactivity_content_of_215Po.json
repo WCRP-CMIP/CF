@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_215Po",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_215Po",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Po\" means the element \"polonium\" and \"215Po\" is the isotope \"polonium-215\" with a half-life of 2.06e-08 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

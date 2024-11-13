@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_149Nd_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_149Nd_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Nd\" means the element \"neodymium\" and \"149Nd\" is the isotope \"neodymium-149\" with a half-life of 7.23e-02 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_concentration_of_pm10_sea_salt_dry_aerosol_particles_in_air",
-  "@type": "standard-name",
-  "name": "mass_concentration_of_pm10_sea_salt_dry_aerosol_particles_in_air",
-  "description": "Mass concentration means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. \"Pm10 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers.",
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

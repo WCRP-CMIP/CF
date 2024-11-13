@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_x_stress_at_sea_ice_base",
-  "@type": "standard-name",
-  "name": "upward_x_stress_at_sea_ice_base",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). \"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Upward x\" indicates the ZX component of a tensor. An upward x stress is an upward flux of x-ward momentum, which accelerates the upper medium in the positive x direction and the lower medium in the negative x direction.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

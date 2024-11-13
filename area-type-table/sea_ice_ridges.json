@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/sea_ice_ridges",
-  "@type": "area-type-table",
-  "name": "sea_ice_ridges",
-  "description": "Sea ice \"ridging\" occurs in rough sea conditions. The motion of the sea surface can cause areas of sea ice to deform and fold resulting in ridged upper and lower surfaces. The ridges can be as much as twenty metres thick if thick ice is deformed."
-}

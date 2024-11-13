@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation",
-  "@type": "standard-name",
-  "name": "tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes). \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. A variable with the standard name tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation should contain net latent heating effects of all processes which convert stratiform clouds and precipitation between water vapor, liquid or ice phases. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/urban",
-  "@type": "area-type-table",
-  "name": "urban",
-  "description": "Urban land is comprised of areas where much of the land is covered by structures. Included in this category are cities, towns and villages. Reference: Anderson, J.R, E. E. Hardy, J. T. Roach and R. E. Witmer (1976), A Land Use And Land Cover Classification System For Use With Remote Sensor Data, Appendix C Land Use Definitions, Geological Survey Professional Paper 964, A revision of the land use classification system as presented in U.S. Geological Survey Circular 671, https://www.usbr.gov/lc/socal/reports/SMappend_C.pdf."
-}

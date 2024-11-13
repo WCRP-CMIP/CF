@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/potential_vorticity_of_ocean_layer",
-  "@type": "standard-name",
-  "name": "potential_vorticity_of_ocean_layer",
-  "description": "\"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Ocean potential vorticity is the vertically averaged absolute vorticity of a layer of the ocean divided by the thickness of the layer.",
-  "canonical_units": "m-1 s-1",
-  "amip": null,
-  "grib": null
-}

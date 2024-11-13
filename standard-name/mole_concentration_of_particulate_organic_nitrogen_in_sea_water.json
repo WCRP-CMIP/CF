@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_concentration_of_particulate_organic_nitrogen_in_sea_water",
-  "@type": "standard-name",
-  "name": "mole_concentration_of_particulate_organic_nitrogen_in_sea_water",
-  "description": "Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Particulate organic nitrogen\" means the sum of all organic nitrogen compounds that are solid, or bound to solid particles. \"Organic nitrogen\", when measured, always refers to all nitrogen incorporated in carbon compounds in the sample. Models may use the term to refer to nitrogen contained in specific groups of organic compounds in which case the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.",
-  "canonical_units": "mol m-3",
-  "amip": null,
-  "grib": null
-}

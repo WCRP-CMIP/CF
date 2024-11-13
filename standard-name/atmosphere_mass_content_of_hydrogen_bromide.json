@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_mass_content_of_hydrogen_bromide",
-  "@type": "standard-name",
-  "name": "atmosphere_mass_content_of_hydrogen_bromide",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The mass is the total mass of the molecules. The chemical formula for hydrogen bromide is HBr.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

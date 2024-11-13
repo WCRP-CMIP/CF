@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/nfdrs_energy_release_component",
-  "@type": "standard-name",
-  "name": "nfdrs_energy_release_component",
-  "description": "The Energy Release Component (ERC) is a number related to the available energy per unit area within the flaming front at the head of a fire. It is usually given in BTU ft-2. Daily variations in ERC are due to changes in moisture content of the various fuels present, both live and dead. It may also be considered a composite fuel moisture value as it reflects the contribution that all live and dead fuels have to potential fire intensity. Energy Release Component is a cumulative index. The scale is open-ended and relative. Energy Release Component values depend on the fuel model input into the calculations and interpretation of precise values varies with ecology and region. It is an index in the US National Fire Danger Rating System. The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute.",
-  "canonical_units": "J m-2",
-  "amip": null,
-  "grib": null
-}

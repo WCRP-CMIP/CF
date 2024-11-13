@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/apparent_oxygen_utilization",
-  "@type": "standard-name",
-  "name": "apparent_oxygen_utilization",
-  "description": "Apparent Oxygen Utilization (AOU) is the difference between measured dissolved oxygen concentration in water, and the equilibrium saturation concentration of dissolved oxygen in water with the same physical and chemical properties. Reference: Broecker, W. S. and T. H. Peng (1982), Tracers in the Sea, Lamont-Doherty Earth Observatory, Palisades, N. Y.",
-  "canonical_units": "mol kg-1",
-  "amip": null,
-  "grib": null
-}

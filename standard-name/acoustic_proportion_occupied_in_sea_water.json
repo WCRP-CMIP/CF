@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/acoustic_proportion_occupied_in_sea_water",
-  "@type": "standard-name",
-  "name": "acoustic_proportion_occupied_in_sea_water",
-  "description": "Acoustic proportion occupied is occupied volume divided by the volume sampled. Occupied volume is the integral of the ratio of acoustic_volume_backscattering_strength_in_sea_water above -90 dB to the reference value, 1 m2 m-2. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

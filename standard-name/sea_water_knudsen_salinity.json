@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_knudsen_salinity",
-  "@type": "standard-name",
-  "name": "sea_water_knudsen_salinity",
-  "description": "Knudsen Salinity, S_K, is defined unitless as a mass fraction per mil (0/00) or \"parts per thousand\", and was calculated from the titration of inorganic salts from a sample of sea water after a commission to study the problem of determining salinity and density was initiated by the International Council for the Exploration of the Sea (ICES) in 1899. S_K was the standard salinity measure until S_C (Cox Salinity) was established in 1967. Since the work of Knudsen (1901), chlorinity is converted into Knudsen Salinity using S_K = 0.030 + 1.805 Cl. This type of salinity was called simply \"salinity\" from 1901 to 1966. From the 1960s on, electrical conductivity began to be used to estimate the Knudsen Salinity, rather than chemical titration. Knudsen Salinity was replaced by Cox Salinity in 1967 which was in turn replaced by Practical Salinity, S_P, in 1978. Conversion of Knudsen Salinity to Practical Salinity follows S_P = (S_K - 0.03) * (1.80655 / 1.805). Reference: Knudsen, 1901; Thomas et al., 1934 doi: 10.1093/icesjms/9.1.28; Lyman, 1969 doi: 10.4319/lo.1969.14.6.0928; Wooster et al., 1969 doi: 10.4319/lo.1969.14.3.0437; Lewis, 1980 doi: 10.1109/JOE.1980.1145448; Millero et al., 2008 doi: 10.1016/j.dsr.2007.10.001. There are standard names for the precisely defined salinity quantities sea_water_cox_salinity, S_C (used for salinity observations between 1967 and 1977), sea_water_practical_salinity, S_P, sea_water_absolute_salinity, S_A, sea_water_preformed_salinity, S_* and sea_water_reference_salinity. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity.",
-  "canonical_units": "1e-3",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/fire_temperature",
-  "@type": "standard-name",
-  "name": "fire_temperature",
-  "description": "The overall temperature of a fire area due to contributions from smoldering and flaming biomass. A data variable containing the area affected by fire should be given the standard name fire_area. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_234Pa",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_234Pa",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pa\" means the element \"protactinium\" and \"234Pa\" is the isotope \"protactinium-234\" with a half-life of 2.81e-01 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

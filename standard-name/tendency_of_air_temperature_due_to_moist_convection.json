@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_air_temperature_due_to_moist_convection",
-  "@type": "standard-name",
-  "name": "tendency_of_air_temperature_due_to_moist_convection",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K s-1",
-  "amip": "tntmc",
-  "grib": null
-}

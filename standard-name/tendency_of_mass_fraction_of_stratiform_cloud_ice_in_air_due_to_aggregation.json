@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_mass_fraction_of_stratiform_cloud_ice_in_air_due_to_aggregation",
-  "@type": "standard-name",
-  "name": "tendency_of_mass_fraction_of_stratiform_cloud_ice_in_air_due_to_aggregation",
-  "description": "Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. Aggregation is the clumping together of frozen cloud particles to produce snowflakes. In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes).  The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"tendency_of_X\" means derivative of X with respect to time.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

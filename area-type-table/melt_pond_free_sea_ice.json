@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/melt_pond_free_sea_ice",
-  "@type": "area-type-table",
-  "name": "melt_pond_free_sea_ice",
-  "description": "The area occupied by type \"sea_ice\" is the sum of the areas of types \"sea_ice_melt_pond\" and \"melt_pond_free_sea_ice\"."
-}

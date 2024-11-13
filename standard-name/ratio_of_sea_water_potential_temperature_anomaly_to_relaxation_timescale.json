@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ratio_of_sea_water_potential_temperature_anomaly_to_relaxation_timescale",
-  "@type": "standard-name",
-  "name": "ratio_of_sea_water_potential_temperature_anomaly_to_relaxation_timescale",
-  "description": "The quantity with standard name ratio_of_sea_water_potential_temperature_anomaly_to_relaxation_timescale is a correction term applied to modelled sea water potential temperature. The term is estimated as the deviation of model local sea water potential temperature from an observation-based climatology (e.g. World Ocean Database) weighted by a user-specified relaxation coefficient in s-1 (1/(relaxation timescale)). Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. The phrase \"ratio_of_X_to_Y\" means X/Y. The term \"anomaly\" means difference from climatology. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K s-1",
-  "amip": null,
-  "grib": null
-}

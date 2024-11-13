@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_mass_content_of_inorganic_nitrogen_expressed_as_nitrogen",
-  "@type": "standard-name",
-  "name": "soil_mass_content_of_inorganic_nitrogen_expressed_as_nitrogen",
-  "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Inorganic nitrogen\" describes a family of chemical species which, in soil, usually consists of nitrate and ammonium which act as nitrogen nutrients. The quantity with standard name soil_mass_content_of_inorganic_nitrogen_expressed_as_nitrogen is the sum of the quantities with standard names soil_mass_content_of_inorganic_ammonium_expressed_as_nitrogen and soil_mass_content_of_inorganic_nitrate_expressed_as_nitrogen.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

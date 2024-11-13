@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_upward_relative_vorticity",
-  "@type": "standard-name",
-  "name": "atmosphere_upward_relative_vorticity",
-  "description": "Atmosphere upward relative vorticity is the vertical component of the 3D air vorticity vector. The vertical component arises from horizontal velocity only. \"Relative\" in this context means the vorticity of the air relative to the rotating solid earth reference frame, i.e. excluding the Earth's own rotation. In contrast, the quantity with standard name atmosphere_upward_absolute_vorticity includes the Earth's rotation. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). A positive value of atmosphere_upward_relative_vorticity indicates anticlockwise rotation when viewed from above.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": "43 E138"
-}

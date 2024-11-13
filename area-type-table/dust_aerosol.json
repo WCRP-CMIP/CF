@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/dust_aerosol",
-  "@type": "area-type-table",
-  "name": "dust_aerosol",
-  "description": "An area_type of \"dust_aerosol\" indicates that dust aerosol is present at some level in the atmospheric column above an area on the surface of the Earth."
-}

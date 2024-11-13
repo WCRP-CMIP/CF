@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_moles_of_sulfur_dioxide",
-  "@type": "standard-name",
-  "name": "atmosphere_moles_of_sulfur_dioxide",
-  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for sulfur dioxide is SO2.",
-  "canonical_units": "mol",
-  "amip": null,
-  "grib": null
-}

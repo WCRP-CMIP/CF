@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/solar_irradiance",
-  "@type": "standard-name",
-  "name": "solar_irradiance",
-  "description": "The quantity with standard name solar_irradiance, often called Total Solar Irradiance (TSI), is the radiation from the sun integrated over the whole electromagnetic spectrum and over the entire solar disk. The quantity applies outside the atmosphere, by default at a distance of one astronomical unit from the sun, but a coordinate or scalar coordinate variable of distance_from_sun can be used to specify a value other than the default. \"Irradiance\" means the power per unit area (called radiative flux in other standard names), the area being normal to the direction of flow of the radiant energy.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

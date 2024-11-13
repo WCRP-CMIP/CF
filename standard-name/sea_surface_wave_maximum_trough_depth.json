@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_wave_maximum_trough_depth",
-  "@type": "standard-name",
-  "name": "sea_surface_wave_maximum_trough_depth",
-  "description": "The trough is the lowest point of a wave. Trough depth is the vertical distance between the trough and the calm sea surface. Maximum trough depth is the maximum value measured during the observation period.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

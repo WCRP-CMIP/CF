@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_boundary_layer_thickness",
-  "@type": "standard-name",
-  "name": "atmosphere_boundary_layer_thickness",
-  "description": "The atmosphere boundary layer thickness is the \"depth\" or \"height\" of the (atmosphere) planetary boundary layer.",
-  "canonical_units": "m",
-  "amip": "zmla",
-  "grib": null
-}

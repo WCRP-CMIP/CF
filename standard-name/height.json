@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/height",
-  "@type": "standard-name",
-  "name": "height",
-  "description": "Height is the vertical distance above the surface.",
-  "canonical_units": "m",
-  "amip": "zh",
-  "grib": null
-}

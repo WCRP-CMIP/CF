@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_troposphere_moles_of_hcfc22",
-  "@type": "standard-name",
-  "name": "tendency_of_troposphere_moles_of_hcfc22",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"troposphere_moles_of_X\" means the total number of moles of X contained in the troposphere, i.e, summed over that part of the atmospheric column and over the entire globe. The chemical formula of HCFC22 is CHClF2. The IUPAC name for HCFC22 is chloro(difluoro)methane.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

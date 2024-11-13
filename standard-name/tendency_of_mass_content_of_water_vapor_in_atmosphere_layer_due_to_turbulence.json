@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_mass_content_of_water_vapor_in_atmosphere_layer_due_to_turbulence",
-  "@type": "standard-name",
-  "name": "tendency_of_mass_content_of_water_vapor_in_atmosphere_layer_due_to_turbulence",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary variable) as well.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/troposphere_mole_content_of_ozone",
-  "@type": "standard-name",
-  "name": "troposphere_mole_content_of_ozone",
-  "description": "\"Content\" indicates a quantity per unit area. The \"troposphere content\" of a quantity refers to the vertical integral from the surface to the tropopause. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
-  "canonical_units": "mol m-2",
-  "amip": null,
-  "grib": null
-}

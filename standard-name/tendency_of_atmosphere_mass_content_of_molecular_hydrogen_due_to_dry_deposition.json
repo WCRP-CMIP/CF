@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_molecular_hydrogen_due_to_dry_deposition",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_mass_content_of_molecular_hydrogen_due_to_dry_deposition",
-  "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"tendency_of_X\" means derivative of X with respect to time.  \"Dry deposition\" is the sum of turbulent deposition and gravitational settling. The chemical formula for molecular hydrogen is H2.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

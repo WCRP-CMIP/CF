@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/dvorak_tropical_number",
-  "@type": "standard-name",
-  "name": "dvorak_tropical_number",
-  "description": "The Advanced Dvorak Technique (ADT) is used to derive a set of Dvorak Tropical numbers using an objective pattern recognition algorithm to determine the intensity of a tropical cyclone by matching observed brightness temperature patterns, maximum sustained winds and minimum sea level pressure to a set of pre-defined tropical cyclone structures. Dvorak Tropical numbers range from 1.0 to 8.0, increasing with storm intensity. Reference: Olander, T. L., & Velden, C. S., The Advanced Dvorak Technique: Continued Development of an Objective Scheme to Estimate Tropical Cyclone Intensity Using Geostationary Infrared Satellite Imagery (2007). American Meteorological Society Weather and Forecasting, 22, 287-298.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

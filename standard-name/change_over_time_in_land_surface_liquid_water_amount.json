@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/change_over_time_in_land_surface_liquid_water_amount",
-  "@type": "standard-name",
-  "name": "change_over_time_in_land_surface_liquid_water_amount",
-  "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area. \"Land surface liquid water amount\" includes water in rivers, wetlands, lakes, reservoirs and liquid precipitation intercepted by the vegetation canopy.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

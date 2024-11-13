@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/c3_plant_functional_types",
-  "@type": "area-type-table",
-  "name": "c3_plant_functional_types",
-  "description": "A plant that utilizes the C3 carbon fixation pathway as the sole mechanism to bind CO2 before photosynthesis reactions take place.  All trees are C3 type. Grasses and crops can be C3 or C4."
-}

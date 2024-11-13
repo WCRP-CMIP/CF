@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/number_size_distribution_of_aerosol_particles_at_stp_in_air",
-  "@type": "standard-name",
-  "name": "number_size_distribution_of_aerosol_particles_at_stp_in_air",
-  "description": "The aerosol particle number size distribution is the number concentration of aerosol particles as a function of particle diameter. A coordinate variable with the standard name of electrical_mobility_particle_diameter, aerodynamic_particle_diameter, or optical_particle_diameter should be specified to indicate that the property applies at specific particle sizes selected by the indicated method. To specify the relative humidity at which the particle sizes were selected, provide a scalar coordinate variable with the standard name of relative_humidity_for_aerosol_particle_size_selection. \"log10_X\" means common logarithm (i.e. base 10) of X. \"stp\" means standard temperature (0 degC) and pressure (101325 Pa).",
-  "canonical_units": "m-3",
-  "amip": null,
-  "grib": null
-}

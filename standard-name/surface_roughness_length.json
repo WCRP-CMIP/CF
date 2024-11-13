@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_roughness_length",
-  "@type": "standard-name",
-  "name": "surface_roughness_length",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": "83 E173"
-}

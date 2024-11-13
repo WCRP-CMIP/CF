@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_fraction_of_hydroperoxyl_radical_in_air",
-  "@type": "standard-name",
-  "name": "mass_fraction_of_hydroperoxyl_radical_in_air",
-  "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for the hydroperoxyl radical is HO2. In chemistry, a \"radical\" is a highly reactive, and therefore short lived, species.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

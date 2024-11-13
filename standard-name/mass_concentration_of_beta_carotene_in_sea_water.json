@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_concentration_of_beta_carotene_in_sea_water",
-  "@type": "standard-name",
-  "name": "mass_concentration_of_beta_carotene_in_sea_water",
-  "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula of beta-carotene is C40H56. The equivalent term in the NERC P01 Parameter Usage Vocabulary may be found at http://vocab.nerc.ac.uk/collection/P01/current/BBCAXXP1/2/.",
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

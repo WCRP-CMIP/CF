@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/temperature_flux_due_to_rainfall_expressed_as_heat_flux_into_sea_water",
-  "@type": "standard-name",
-  "name": "temperature_flux_due_to_rainfall_expressed_as_heat_flux_into_sea_water",
-  "description": "The quantity with standard name temperature_flux_due_to_rainfall_expressed_as_heat_flux_into_sea_water is the heat energy carried by rainfall entering the sea at the sea surface.  It is calculated relative to the heat that would be carried by rainfall entering the sea at zero degrees Celsius.  It is calculated as the product QrainCpTrain, where Qrain is the mass flux of rainfall entering the sea (kg m-2 s-1), Cp is the specific heat capacity of water and Train is the temperature in degrees Celsius of the rain water entering the sea surface. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

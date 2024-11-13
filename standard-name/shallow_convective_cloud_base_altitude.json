@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/shallow_convective_cloud_base_altitude",
-  "@type": "standard-name",
-  "name": "shallow_convective_cloud_base_altitude",
-  "description": "The phrase \"cloud_base\" refers to the base of the lowest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. Shallow convective cloud is nonprecipitating cumulus cloud with a cloud top below 3000m above the surface produced by the convection schemes in an atmosphere model. Some atmosphere models differentiate between shallow and deep convection.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

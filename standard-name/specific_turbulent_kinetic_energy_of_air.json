@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/specific_turbulent_kinetic_energy_of_air",
-  "@type": "standard-name",
-  "name": "specific_turbulent_kinetic_energy_of_air",
-  "description": "Specific means per unit mass. \"Turbulent kinetic energy\" is the kinetic energy of all eddy-induced motion that is not resolved on the grid scale of the model.",
-  "canonical_units": "m2 s-2",
-  "amip": null,
-  "grib": null
-}

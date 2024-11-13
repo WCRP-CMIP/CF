@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/fire",
-  "@type": "area-type-table",
-  "name": "fire",
-  "description": "An area_type of \"fire\" indicates that biomass fire, either flaming, smouldering, or both, is present."
-}

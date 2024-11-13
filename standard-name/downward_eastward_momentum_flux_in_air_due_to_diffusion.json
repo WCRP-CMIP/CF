@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_eastward_momentum_flux_in_air_due_to_diffusion",
-  "@type": "standard-name",
-  "name": "downward_eastward_momentum_flux_in_air_due_to_diffusion",
-  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Downward eastward\" indicates the ZX component of a tensor. Momentum flux is dimensionally equivalent to stress and pressure. It is a tensor quantity. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

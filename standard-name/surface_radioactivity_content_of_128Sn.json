@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_128Sn",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_128Sn",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sn\" means the element \"tin\" and \"128Sn\" is the isotope \"tin-128\" with a half-life of 4.09e-02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

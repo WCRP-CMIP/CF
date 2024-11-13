@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/geostrophic_northward_sea_water_velocity",
-  "@type": "standard-name",
-  "name": "geostrophic_northward_sea_water_velocity",
-  "description": "A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Geostrophic\" indicates that geostrophic balance is assumed, i.e. that the pressure gradient force and the Coriolis force are balanced and the large scale fluid flow is parallel to the isobars.",
-  "canonical_units": "m s-1",
-  "amip": null,
-  "grib": null
-}

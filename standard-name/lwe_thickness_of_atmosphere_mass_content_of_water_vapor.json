@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/lwe_thickness_of_atmosphere_mass_content_of_water_vapor",
-  "@type": "standard-name",
-  "name": "lwe_thickness_of_atmosphere_mass_content_of_water_vapor",
-  "description": "\"lwe\" means liquid water equivalent. The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. Atmosphere water vapor content is sometimes referred to as \"precipitable water\", although this term does not imply the water could all be precipitated.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": "E137"
-}

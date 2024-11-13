@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/isotropic_longwave_radiance_in_air",
-  "@type": "standard-name",
-  "name": "isotropic_longwave_radiance_in_air",
-  "description": "\"longwave\" means longwave radiation. Radiance is the radiative flux in a particular direction, per unit of solid angle. If radiation is isotropic, the radiance is independent of direction, so the direction should not be specified. If the radiation is directionally dependent, a standard name of upwelling or downwelling radiance should be chosen instead.",
-  "canonical_units": "W m-2 sr-1",
-  "amip": null,
-  "grib": null
-}

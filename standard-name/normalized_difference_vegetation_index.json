@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/normalized_difference_vegetation_index",
-  "@type": "standard-name",
-  "name": "normalized_difference_vegetation_index",
-  "description": "\"Normalized_difference_vegetation_index\", usually abbreviated to NDVI, is an index calculated from reflectances measured in the visible and near infrared channels.  It is calculated as NDVI = (NIR - R) / (NIR + R) where NIR is the reflectance in the near-infrared band and R is the reflectance in the red visible band.  Reflectance is the ratio of the reflected over the incoming radiation in each spectral band.  The calculated value of NDVI depends on the precise definitions of the spectral bands and these definitions may vary between different models and remote sensing instruments.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

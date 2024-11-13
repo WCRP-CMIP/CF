@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/equivalent_reflectivity_factor",
-  "@type": "standard-name",
-  "name": "equivalent_reflectivity_factor",
-  "description": "\"Equivalent reflectivity factor\"  is the radar reflectivity factor that is calculated from the measured radar return power assuming the target is composed of liquid water droplets whose diameter is less than one tenth of the radar wavelength, i.e., treating the droplets as Rayleigh scatterers.  The actual radar reflectivity factor would depend on the size distribution and composition of the particles within the target volume and these are  often unknown.",
-  "canonical_units": "dBZ",
-  "amip": null,
-  "grib": null
-}

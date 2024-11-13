@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_height_amplitude_due_to_pole_tide",
-  "@type": "standard-name",
-  "name": "sea_surface_height_amplitude_due_to_pole_tide",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Tides are a significant contributor to the observed sea surface height; the pole tide occurs due to variations in the earth's rotation.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

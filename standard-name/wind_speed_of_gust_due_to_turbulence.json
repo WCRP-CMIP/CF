@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/wind_speed_of_gust_due_to_turbulence",
-  "@type": "standard-name",
-  "name": "wind_speed_of_gust_due_to_turbulence",
-  "description": "Speed is the magnitude of velocity. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) The wind speed is the magnitude of the wind velocity. A gust is a sudden brief period of high wind speed. In an observed timeseries of wind speed, the gust wind speed can be indicated by a cell_methods of maximum for the time-interval. In an atmospheric model which has a parametrised calculation of gustiness, the gust wind speed may be separately diagnosed from the wind speed. The specification of a physical process by the phrase \"due_to\" process means that the quantity named is a single term in a list of terms, the maximum of which composes the general quantity named by omitting the phrase.",
-  "canonical_units": "m s-1",
-  "amip": null,
-  "grib": null
-}

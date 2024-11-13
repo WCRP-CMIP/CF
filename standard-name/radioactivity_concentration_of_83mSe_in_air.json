@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_83mSe_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_83mSe_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Se\" means the element \"selenium\" and \"83mSe\" is the metastable state of the isotope \"selenium-83\" with a half-life of 8.10e-04 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

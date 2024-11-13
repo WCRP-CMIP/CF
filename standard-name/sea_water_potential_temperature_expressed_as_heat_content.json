@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_potential_temperature_expressed_as_heat_content",
-  "@type": "standard-name",
-  "name": "sea_water_potential_temperature_expressed_as_heat_content",
-  "description": "The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea water multiplied by the potential temperature of the sea water in the grid cell and integrated over depth. If used for a layer heat content, coordinate bounds should be used to define the extent of the layers. If no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is sea water the integral is assumed to be calculated over the full depth of the ocean. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure.",
-  "canonical_units": "J m-2",
-  "amip": null,
-  "grib": null
-}

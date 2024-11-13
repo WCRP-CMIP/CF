@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/toa_outgoing_radiance_per_unit_wavenumber",
-  "@type": "standard-name",
-  "name": "toa_outgoing_radiance_per_unit_wavenumber",
-  "description": "\"toa\" means top of atmosphere. The TOA outgoing radiance is the upwelling radiance, i.e., toward outer space. Radiance is the radiative flux in a particular direction, per unit of solid angle. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2 sr-1 (m-1)-1",
-  "amip": null,
-  "grib": null
-}

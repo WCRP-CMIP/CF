@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_sigma_coordinate",
-  "@type": "standard-name",
-  "name": "ocean_sigma_coordinate",
-  "description": "See Appendix D of the CF convention for information about parametric vertical coordinates. Note that the ocean sigma coordinate is not the same quantity as sea water sigma (excess of density over 1000 kg m-3), for which there are various other standard names.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

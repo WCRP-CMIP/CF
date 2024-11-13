@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_concentration_of_preformed_dissolved_inorganic_phosphorus_in_sea_water",
-  "@type": "standard-name",
-  "name": "mole_concentration_of_preformed_dissolved_inorganic_phosphorus_in_sea_water",
-  "description": "\"Mole concentration\" means the number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Dissolved inorganic phosphorus\" means the sum of all inorganic phosphorus in solution (including phosphate, hydrogen phosphate, dihydrogen phosphate, and phosphoric acid). The subduction and subsequent transport of surface water carry into the interior ocean considerable quantities of nutrients, which are entirely independent of biological activity (such as organic decomposition and oxidation) after the water leaves the sea surface. Such nutrients are termed \u201cpreformed\u201d nutrients (Redfield,1942).",
-  "canonical_units": "mol m-3",
-  "amip": null,
-  "grib": null
-}

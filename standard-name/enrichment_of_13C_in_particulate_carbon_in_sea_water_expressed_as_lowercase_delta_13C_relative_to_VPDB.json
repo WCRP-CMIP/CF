@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/enrichment_of_13C_in_particulate_carbon_in_sea_water_expressed_as_lowercase_delta_13C_relative_to_VPDB",
-  "@type": "standard-name",
-  "name": "enrichment_of_13C_in_particulate_carbon_in_sea_water_expressed_as_lowercase_delta_13C_relative_to_VPDB",
-  "description": "Isotopic enrichment of 13C, often called delta 13C, is a measure of the ratio of stable isotopes 13C:12C. It is a parameterisation of the 13C/12C isotopic ratio in the sample with respect to the isotopic ratio in a reference standard (in this case Vienna Pee Dee Belemnite). It is computed using the formula (((13C/12C)sample / (13C/12C)standard) - 1) * 1000. Particulate means suspended solids of all sizes.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

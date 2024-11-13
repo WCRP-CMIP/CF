@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/to_direction_of_air_velocity_relative_to_sea_water",
-  "@type": "standard-name",
-  "name": "to_direction_of_air_velocity_relative_to_sea_water",
-  "description": "The quantity with standard name to_direction_of_air_velocity_relative_to_sea_water is the difference between the direction of motion of the air and the near-surface current. The phrase \"to_direction\" is used in the construction X_to_direction and indicates the direction towards which the velocity vector of X is headed. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. The components of the relative velocity vector have standard names eastward_air_velocity_relative_to_sea_water and northward_air_velocity_relative_to_sea_water. A vertical coordinate variable or scalar coordinate variable with standard name \"depth\" should be used to indicate the depth of sea water velocity used in the calculation. Similarly, a vertical coordinate variable or scalar coordinate with standard name \"height\" should be used to indicate the height of the the wind component.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

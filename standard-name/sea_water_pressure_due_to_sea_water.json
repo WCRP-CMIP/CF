@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_pressure_due_to_sea_water",
-  "@type": "standard-name",
-  "name": "sea_water_pressure_due_to_sea_water",
-  "description": "The pressure that exists in the medium of sea water due to overlying sea water. Excludes the pressure due to sea ice, air and any other medium that may be present. For sea water pressure including the pressure due to overlying media other than sea water, the standard name sea_water_pressure should be used.",
-  "canonical_units": "dbar",
-  "amip": null,
-  "grib": null
-}

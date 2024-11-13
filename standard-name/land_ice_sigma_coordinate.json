@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/land_ice_sigma_coordinate",
-  "@type": "standard-name",
-  "name": "land_ice_sigma_coordinate",
-  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

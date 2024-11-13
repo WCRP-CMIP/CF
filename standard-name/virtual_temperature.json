@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/virtual_temperature",
-  "@type": "standard-name",
-  "name": "virtual_temperature",
-  "description": "The virtual temperature of air is the temperature at which the dry air constituent of a parcel of moist air would have the same density as the moist air at the same pressure. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K",
-  "amip": null,
-  "grib": "12"
-}

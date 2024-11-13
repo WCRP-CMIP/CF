@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/enrichment_of_15N_in_particulate_nitrogen_in_sea_water_expressed_as_lowercase_delta_15N_relative_to_atmospheric_nitrogen",
-  "@type": "standard-name",
-  "name": "enrichment_of_15N_in_particulate_nitrogen_in_sea_water_expressed_as_lowercase_delta_15N_relative_to_atmospheric_nitrogen",
-  "description": "Isotopic enrichment of 15N, often called delta 15N, is a measure of the ratio of stable isotopes 15N:14N. It is a parameterisation of the 15N/14N isotopic ratio in the sample with respect to the isotopic ratio in a reference standard (in this case atmospheric nitrogen). It is computed using the formula (((15N/14N)sample / (15N/14N)standard) - 1) * 1000. Particulate means suspended solids of all sizes.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/carbon_mass_flux_into_soil_from_vegetation_excluding_litter",
-  "@type": "standard-name",
-  "name": "carbon_mass_flux_into_soil_from_vegetation_excluding_litter",
-  "description": "\"Vegetation\" means any plants e.g. trees, shrubs, grass.  \"Litter\" is dead plant material in or above the soil. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

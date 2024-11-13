@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/received_power_of_radio_wave_scattered_by_air",
-  "@type": "standard-name",
-  "name": "received_power_of_radio_wave_scattered_by_air",
-  "description": "The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities), of whatever kind the instrument detects. A standard name referring to the recieved power of the signal at the instrument.",
-  "canonical_units": "W",
-  "amip": null,
-  "grib": null
-}

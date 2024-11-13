@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_mass_per_unit_area_due_to_advection",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_mass_per_unit_area_due_to_advection",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. \"X_area\" means the horizontal area occupied by X within the grid cell.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_226Th",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_226Th",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Th\" means the element \"thorium\" and \"226Th\" is the isotope \"thorium-226\" with a half-life of 2.15e-02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

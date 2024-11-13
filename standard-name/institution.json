@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/institution",
-  "@type": "standard-name",
-  "name": "institution",
-  "description": "An auxiliary coordinate variable with a standard name of institution contains string values which specify where the original data, with which the coordinate variable is associated, were produced. The use of institution as the standard name for an auxiliary coordinate variable permits the aggregation of data from multiple institutions within a single data file.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

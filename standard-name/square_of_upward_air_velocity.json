@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/square_of_upward_air_velocity",
-  "@type": "standard-name",
-  "name": "square_of_upward_air_velocity",
-  "description": "\"square_of_X\" means X*X. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector.",
-  "canonical_units": "m2 s-2",
-  "amip": null,
-  "grib": null
-}

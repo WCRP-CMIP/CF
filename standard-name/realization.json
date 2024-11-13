@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/realization",
-  "@type": "standard-name",
-  "name": "realization",
-  "description": "Realization is used to label a dimension that can be thought of as a statistical sample, e.g., labelling members of a model ensemble.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

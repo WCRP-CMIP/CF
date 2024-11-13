@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/product_of_eastward_wind_and_lagrangian_tendency_of_air_pressure",
-  "@type": "standard-name",
-  "name": "product_of_eastward_wind_and_lagrangian_tendency_of_air_pressure",
-  "description": "The phrase \"product_of_X_and_Y\" means X*Y. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) The phrase \"tendency_of_X\" means derivative of X with respect to time. The Lagrangian tendency of a quantity is its rate of change following the motion of the fluid, also called the \"material derivative\" or \"convective derivative\". The Lagrangian tendency of air pressure, often called \"omega\", plays the role of the upward component of air velocity when air pressure is being used as the vertical coordinate. If the vertical air velocity is upwards, it is negative when expressed as a tendency of air pressure; downwards is positive. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
-  "canonical_units": "Pa m s-2",
-  "amip": null,
-  "grib": null
-}

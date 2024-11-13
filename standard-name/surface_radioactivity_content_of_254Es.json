@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_254Es",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_254Es",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Es\" means the element \"einsteinium\" and \"254Es\" is the isotope \"einsteinium-254\" with a half-life of 2.76e+02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

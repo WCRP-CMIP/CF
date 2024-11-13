@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/air_pressure_at_mean_sea_level",
-  "@type": "standard-name",
-  "name": "air_pressure_at_mean_sea_level",
-  "description": "Air pressure at sea level is the quantity often abbreviated as MSLP or PMSL. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals.",
-  "canonical_units": "Pa",
-  "amip": "psl",
-  "grib": "2 E151"
-}

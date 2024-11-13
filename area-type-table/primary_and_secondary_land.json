@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/primary_and_secondary_land",
-  "@type": "area-type-table",
-  "name": "primary_and_secondary_land",
-  "description": "\"Primary and secondary land\" is land that is not in use as crop land or pasture land, including forests, grasslands, bare ground and vegetated wetlands. \"Primary land\" is land that has not undergone lulcc (land use or land cover change) due to human disturbance. \"Secondary land\" is land that has previously been used for agriculture, urban development or logging and has subsequently been abandoned. Reference: Hurtt et al. (2011), Climatic Change, 109 - 117, Harmonization of land-use scenarios for the period 1500\u20132100: 600 years of global gridded annual land-use transitions, wood harvest, and resulting secondary lands, doi: 10.1007/s10584-011-0153-2. \"Primary and secondary land\" refers to land use or management, rather than to specific categories of vegetation cover, e.g. the primary and secondary succession of plant species."
-}

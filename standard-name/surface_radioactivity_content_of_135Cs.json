@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_135Cs",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_135Cs",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cs\" means the element \"cesium\" and \"135Cs\" is the isotope \"cesium-135\" with a half-life of 8.39e+08 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

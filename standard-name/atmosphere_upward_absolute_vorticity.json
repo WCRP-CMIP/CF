@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_upward_absolute_vorticity",
-  "@type": "standard-name",
-  "name": "atmosphere_upward_absolute_vorticity",
-  "description": "Atmosphere upward absolute vorticity is the sum of the atmosphere upward relative vorticity and the vertical component of vorticity due to the Earth\u2019s rotation. In contrast, the quantity with standard name atmosphere_upward_relative_vorticity excludes the Earth's rotation. Vorticity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). A positive value of atmosphere_upward_absolute_vorticity indicates anticlockwise rotation when viewed from above.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": "41"
-}

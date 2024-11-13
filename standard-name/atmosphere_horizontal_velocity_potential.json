@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_horizontal_velocity_potential",
-  "@type": "standard-name",
-  "name": "atmosphere_horizontal_velocity_potential",
-  "description": "A velocity is a vector quantity. \"Horizontal\" indicates that the velocity potential applies to a horizontal velocity field on a particular vertical level.",
-  "canonical_units": "m2 s-1",
-  "amip": null,
-  "grib": "36"
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mixed_layer_thickness_defined_by_sigma_theta",
-  "@type": "standard-name",
-  "name": "ocean_mixed_layer_thickness_defined_by_sigma_theta",
-  "description": "The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed.  The base of the mixed layer defined by \"temperature\", \"sigma\", \"sigma_theta\", \"sigma_t\" or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. A coordinate variable or scalar coordinate variable with standard name sea_water_sigma_theta_difference can be used to specify the sigma_theta criterion that determines the layer thickness. Sigma-theta of sea water is the potential density (i.e. the density when moved adiabatically to a reference pressure) of water having the same temperature and salinity, minus 1000 kg m-3. \"Thickness\" means the vertical extent of a layer.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

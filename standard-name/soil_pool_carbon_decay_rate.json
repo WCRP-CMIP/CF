@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_pool_carbon_decay_rate",
-  "@type": "standard-name",
-  "name": "soil_pool_carbon_decay_rate",
-  "description": "\"Soil carbon\" is the organic matter present in soil quantified by the mass of carbon it contains. Soil carbon is returned to the atmosphere as the organic matter decays. Each modelled soil carbon pool has a characteristic turnover time, which is modified by environmental conditions such as temperature and moisture so that the turnover time varies in space and time. The quantity with standard name soil_pool_carbon_decay_rate is defined as 1/(turnover time). The data variable should be accompanied by a string valued coordinate variable or scalar coordinate variable with standard name soil_pool.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_mass_content_of_carbon",
-  "@type": "standard-name",
-  "name": "soil_mass_content_of_carbon",
-  "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content_of_soil_layer are used.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

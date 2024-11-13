@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_tertiary_swell_wave_period_at_variance_spectral_density_maximum",
-  "@type": "standard-name",
-  "name": "sea_surface_tertiary_swell_wave_period_at_variance_spectral_density_maximum",
-  "description": "The quantity with standard name sea_surface_tertiary_swell_wave_period_at_variance_spectral_density_maximum is the period of the most energetic waves within the tertiary swell wave component of a sea. Swell waves are waves on the ocean surface and are the low frequency portion of a bimodal wave frequency spectrum. The tertiary swell wave is the third most energetic swell wave. A period is an interval of time, or the time-period of an oscillation. Wave period is the interval of time between repeated features on the waveform such as crests, troughs or upward passes through the mean level. The phrase \"wave_period_at_variance_spectral_density_maximum\", sometimes called peak wave period, describes the period of the most energetic waves within a given sub-domain of the wave spectrum.",
-  "canonical_units": "s",
-  "amip": null,
-  "grib": null
-}

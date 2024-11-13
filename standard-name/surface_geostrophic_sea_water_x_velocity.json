@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_geostrophic_sea_water_x_velocity",
-  "@type": "standard-name",
-  "name": "surface_geostrophic_sea_water_x_velocity",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. A velocity is a vector quantity. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Geostrophic\" indicates that geostrophic balance is assumed, i.e. that the pressure gradient force and the Coriolis force are balanced and the large scale fluid flow is parallel to the isobars. The quantity with standard name surface_geostrophic_sea_water_x_velocity is the sum of a variable part, surface_geostrophic_sea_water_x_velocity_assuming_mean_sea_level_for_geoid, and a constant part due to the stationary component of ocean circulation.",
-  "canonical_units": "m s-1",
-  "amip": null,
-  "grib": null
-}

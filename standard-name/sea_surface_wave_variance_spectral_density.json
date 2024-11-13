@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_wave_variance_spectral_density",
-  "@type": "standard-name",
-  "name": "sea_surface_wave_variance_spectral_density",
-  "description": "Sea surface wave variance spectral density is the variance of wave amplitude within a range of wave frequency.",
-  "canonical_units": "m2 s",
-  "amip": null,
-  "grib": null
-}

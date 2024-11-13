@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/eastward_mass_flux_of_air",
-  "@type": "standard-name",
-  "name": "eastward_mass_flux_of_air",
-  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_surface_height_above_reference_datum",
-  "@type": "standard-name",
-  "name": "water_surface_height_above_reference_datum",
-  "description": "'Water surface height above reference datum' means the height of the upper surface of a body of liquid water, such as sea, lake or river, above an arbitrary reference datum. The altitude of the datum should be provided in a variable with standard name water_surface_reference_datum_altitude. The surface called \"surface\" means the lower boundary of the atmosphere.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

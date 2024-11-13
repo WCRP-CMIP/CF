@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/change_over_time_in_surface_snow_amount",
-  "@type": "standard-name",
-  "name": "change_over_time_in_surface_snow_amount",
-  "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Amount\" means mass per unit area. Surface snow amount refers to the amount on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

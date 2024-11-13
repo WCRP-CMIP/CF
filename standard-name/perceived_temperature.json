@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/perceived_temperature",
-  "@type": "standard-name",
-  "name": "perceived_temperature",
-  "description": "Perceived temperature (PT) is an equivalent air temperature of the actual thermal condition. It is the air temperature of a reference condition causing the same thermal perception in a human body considering air temperature, wind speed, humidity, solar and thermal radiation as well as clothing and activity level. It is not the perceived air temperature, that derives either from wind chill and heat index and has the standard_name apparent_air_temperature. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "degree_C",
-  "amip": null,
-  "grib": null
-}

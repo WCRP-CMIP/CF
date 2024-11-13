@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/liquid_water_mass_flux_into_soil_due_to_surface_snow_melt",
-  "@type": "standard-name",
-  "name": "liquid_water_mass_flux_into_soil_due_to_surface_snow_melt",
-  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

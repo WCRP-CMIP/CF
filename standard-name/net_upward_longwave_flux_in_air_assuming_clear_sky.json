@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/net_upward_longwave_flux_in_air_assuming_clear_sky",
-  "@type": "standard-name",
-  "name": "net_upward_longwave_flux_in_air_assuming_clear_sky",
-  "description": "A phrase assuming_condition indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"longwave\" means longwave radiation. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Net upward radiation is the difference between radiation from below (upwelling) and radiation from above (downwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": "rlntpcs",
-  "grib": null
-}

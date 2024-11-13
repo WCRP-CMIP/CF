@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/northward_ocean_heat_transport",
-  "@type": "standard-name",
-  "name": "northward_ocean_heat_transport",
-  "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). Ocean transport means transport by all processes, both sea water and sea ice.",
-  "canonical_units": "W",
-  "amip": null,
-  "grib": null
-}

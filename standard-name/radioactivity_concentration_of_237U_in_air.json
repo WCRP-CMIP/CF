@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_237U_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_237U_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"U\" means the element \"uranium\" and \"237U\" is the isotope \"uranium-237\" with a half-life of 6.74e+00 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

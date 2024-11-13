@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/air_pseudo_equivalent_potential_temperature",
-  "@type": "standard-name",
-  "name": "air_pseudo_equivalent_potential_temperature",
-  "description": "The pseudoequivalent potential temperature is the temperature a parcel of air would have if it is expanded by a pseudoadiabatic (irreversible moist-adiabatic) process to zero pressure and afterwards compressed by a dry-adiabatic process to a standard pressure, typically representative of mean sea level pressure. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Pseudoequivalent_potential_temperature. A pseudoadiabatic process means that the liquid water that condenses is assumed to be removed as soon as it is formed. Reference: AMS Glossary http:/glossary.ametsoc.org/wiki/Pseudoadiabatic_process. To specify the standard pressure to which the quantity applies, provide a scalar coordinate variable with the standard name reference_pressure. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K",
-  "amip": null,
-  "grib": "14"
-}

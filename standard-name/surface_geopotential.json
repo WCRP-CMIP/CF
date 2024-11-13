@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_geopotential",
-  "@type": "standard-name",
-  "name": "surface_geopotential",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",
-  "canonical_units": "m2 s-2",
-  "amip": null,
-  "grib": null
-}

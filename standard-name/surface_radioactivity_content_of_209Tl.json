@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_209Tl",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_209Tl",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Tl\" means the element \"thallium\" and \"209Tl\" is the isotope \"thallium-209\" with a half-life of 1.53e-03 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

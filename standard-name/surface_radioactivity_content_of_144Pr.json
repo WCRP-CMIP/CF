@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_144Pr",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_144Pr",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pr\" means the element \"praseodymium\" and \"144Pr\" is the isotope \"praseodymium-144\" with a half-life of 1.20e-02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sound_pressure_level_in_water",
-  "@type": "standard-name",
-  "name": "sound_pressure_level_in_water",
-  "description": "Sound pressure is the difference from the local ambient pressure caused by a sound wave at a particular location and time. Sound pressure level in water is expressed on a logarithmic scale with reference to a sound pressure of 1e-6 Pa. Lp = 20 log10(p/p0) where Lp is the sound pressure level, p is the rms sound pressure and p0 is the reference sound pressure.",
-  "canonical_units": "dB",
-  "amip": null,
-  "grib": null
-}

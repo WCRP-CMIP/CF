@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/volume_mixing_ratio_of_oxygen_at_stp_in_sea_water",
-  "@type": "standard-name",
-  "name": "volume_mixing_ratio_of_oxygen_at_stp_in_sea_water",
-  "description": "\"ratio_of_X_to_Y\" means X/Y. \"stp\" means standard temperature (0 degC) and pressure (101325 Pa).",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

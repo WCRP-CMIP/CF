@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_wave_from_direction",
-  "@type": "standard-name",
-  "name": "sea_surface_wave_from_direction",
-  "description": "The phrase \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_meridional_overturning_streamfunction",
-  "@type": "standard-name",
-  "name": "ocean_meridional_overturning_streamfunction",
-  "description": "The ocean meridional overturning streamfunction should not include not include the parameterized eddy advection velocity.",
-  "canonical_units": "m3 s-1",
-  "amip": "stfmmcgo",
-  "grib": null
-}

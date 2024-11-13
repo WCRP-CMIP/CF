@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_ocean_mole_content_of_aragonite_expressed_as_carbon_due_to_biological_production",
-  "@type": "standard-name",
-  "name": "tendency_of_ocean_mole_content_of_aragonite_expressed_as_carbon_due_to_biological_production",
-  "description": "\"Content\" indicates a quantity per unit area.  The phrase 'expressed_as' is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity  named by omitting the phrase.  \"tendency_of_X\" means derivative of X with respect to time.  Aragonite is a mineral that is a polymorph of calcium carbonate. The chemical formula of aragonite is CaCO3. Standard names also exist for calcite, another polymorph of calcium carbonate.",
-  "canonical_units": "mol m-2 s-1",
-  "amip": null,
-  "grib": null
-}

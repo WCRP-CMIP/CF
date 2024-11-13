@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downwelling_photosynthetic_radiative_flux_in_sea_water",
-  "@type": "standard-name",
-  "name": "downwelling_photosynthetic_radiative_flux_in_sea_water",
-  "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. \"Photosynthetic\" radiation is the part of the spectrum which is used in photosynthesis e.g. 400-700 nm. The range of wavelengths could be specified precisely by the bounds of a coordinate of radiation_wavelength. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/number_concentration_of_cloud_liquid_water_particles_in_air",
-  "@type": "standard-name",
-  "name": "number_concentration_of_cloud_liquid_water_particles_in_air",
-  "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop.",
-  "canonical_units": "m-3",
-  "amip": null,
-  "grib": null
-}

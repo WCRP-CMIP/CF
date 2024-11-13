@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_x_relative_vorticity",
-  "@type": "standard-name",
-  "name": "atmosphere_x_relative_vorticity",
-  "description": "Atmosphere x relative vorticity is the x component of the 3D air vorticity vector. \"Relative\" in this context means the vorticity of the air relative to the rotating solid earth reference frame, i.e. excluding the Earth's own rotation. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. A positive value of atmosphere_x_relative_vorticity indicates anticlockwise rotation when viewed by an observer looking along the axis in the direction of decreasing x, i.e. consistent with the \"right hand screw\" rule.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

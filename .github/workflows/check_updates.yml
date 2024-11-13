@@ -49,3 +49,31 @@ jobs:
         run: python .github/generate.py
         shell: bash
       
+      # - name: Get a list of directories with updated files
+      #   id: updated-dirs
+      #   uses: WCRP-CMIP/CMIP-LD/actions/updated-dirs@main
+      #   with:
+      #     filter_dir: "src-data"
+
+      # - name: Group JSONLD files
+      #   id: group-jsonld
+      #   uses: WCRP-CMIP/CMIP-LD/actions/process_jsonld@main
+      #   with:
+      #     dirs: ${{ env.updated_dirs }}
+
+
+      # - name: Commit All
+      #   uses: WCRP-CMIP/CMIP-LD/actions/commit-all@main
+      #   with:
+      #     message: "Automated Content Update"
+
+      # - name: Push Changes
+      #   run: |
+      #     git push 
+
+      - name: Publish
+        uses: WCRP-CMIP/CMIP-LD/actions/publish2pages@main
+        with:
+          api_key: ${{ secrets.API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch_name: ${{ github.ref_name }}

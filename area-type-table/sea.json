@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/sea",
-  "@type": "area-type-table",
-  "name": "sea",
-  "description": "The area occupied by type \"sea\" is equal to the sum of the areas of types \"ice_free_sea\" and \"sea_ice\"."
-}

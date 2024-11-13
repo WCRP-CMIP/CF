@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/bedrock_altitude",
-  "@type": "standard-name",
-  "name": "bedrock_altitude",
-  "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. \"Bedrock\" is the solid Earth surface beneath land ice, ocean water or soil.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/miscellaneous_living_matter_mass_content_of_nitrogen",
-  "@type": "standard-name",
-  "name": "miscellaneous_living_matter_mass_content_of_nitrogen",
-  "description": "\"Content\" indicates a quantity per unit area. \"Miscellaneous living matter\" means all those parts of plants that are not leaf, stem, root or other separately named components. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

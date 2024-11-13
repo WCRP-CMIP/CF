@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/air_pressure",
-  "@type": "standard-name",
-  "name": "air_pressure",
-  "description": "Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
-  "canonical_units": "Pa",
-  "amip": "plev",
-  "grib": "1"
-}

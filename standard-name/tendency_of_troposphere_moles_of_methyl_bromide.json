@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_troposphere_moles_of_methyl_bromide",
-  "@type": "standard-name",
-  "name": "tendency_of_troposphere_moles_of_methyl_bromide",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"troposphere_moles_of_X\" means the total number of moles of X contained in the troposphere, i.e, summed over that part of the atmospheric column and over the entire globe.  The chemical formula of methyl bromide is CH3Br. The IUPAC name for methyl bromide is bromomethane.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

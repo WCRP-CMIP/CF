@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/area_fraction_below_surface",
-  "@type": "standard-name",
-  "name": "area_fraction_below_surface",
-  "description": "The quantity with standard name area_fraction_below_surface is the fraction of horizontal area where a given isobaric surface is below the (ground or sea) surface. \"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. The surface called \"surface\" means the lower boundary of the atmosphere.",
-  "canonical_units": "1",
-  "amip": "psbg",
-  "grib": null
-}

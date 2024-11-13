@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_potential_evaporation_flux",
-  "@type": "standard-name",
-  "name": "water_potential_evaporation_flux",
-  "description": "\"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".) Potential evaporation is the rate at which evaporation would take place under unaltered ambient conditions (temperature, relative humidity, wind, etc.) if the supply of water were unlimited, as if from an open water surface. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

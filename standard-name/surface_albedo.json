@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_albedo",
-  "@type": "standard-name",
-  "name": "surface_albedo",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum. To specify the nature of the surface a cell_methods attribute should be supplied as described in Chapter 7.3.3 of the CF Conventions.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": "84 E174"
-}

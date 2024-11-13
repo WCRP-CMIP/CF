@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/ice_sheet",
-  "@type": "area-type-table",
-  "name": "ice_sheet",
-  "description": "An area type of \"ice_sheet\" indicates where ice sheets are present. It includes both grounded ice sheets resting over bedrock and any ice shelves flowing over the ocean that are attached to grounded ice sheets. The ice_sheet area type excludes ice-caps and glaciers and any floating ice shelves and ice tongues attached to them, but the land_ice area type includes those as well as the ice_sheet area."
-}

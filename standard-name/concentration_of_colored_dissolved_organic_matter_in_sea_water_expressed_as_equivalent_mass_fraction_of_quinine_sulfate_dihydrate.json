@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate",
-  "@type": "standard-name",
-  "name": "concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate",
-  "description": "The quantity with standard name concentration_of_colored_dissolved_organic_matter_in_sea_water_expressed_as_equivalent_mass_fraction_of_quinine_sulfate_dihydrate is also commonly known as Chromophoric Dissolved Organic Matter (CDOM). CDOM plays an important role in the carbon cycling and biogeochemistry of coastal waters. It occurs naturally in aquatic environments primarily as a result of tannins released from decaying plant and animal matter, which can enter coastal areas in river run-off containing organic materials leached from soils. When present in high concentrations, it imparts a brown or yellowish color to water. Its presence can negatively impact fish populations by reducing dissolved oxygen concentrations to harmful levels and by releasing nutrients and metals that contaminate the water. Increased understanding of the role of CDOM will further our ability to manage and protect coastal ecosystems. Sensors are commonly calibrated against a 100 parts per billion (ppb) quinine sulfate dihydrate solution, a fluorescent reference standard commonly used with CDOM sensors. CDOM sensors therefore report in \"QSDE\" (quinine sulfate dihydrate equivalents). It is important to note, however, that CDOM concentrations in QSDE are not necessarily equivalent to the in situ CDOM concentrations in ppb.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

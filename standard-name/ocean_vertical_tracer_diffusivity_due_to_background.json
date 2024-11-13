@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_vertical_tracer_diffusivity_due_to_background",
-  "@type": "standard-name",
-  "name": "ocean_vertical_tracer_diffusivity_due_to_background",
-  "description": "Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum. The diffusivity may be very different in the vertical and horizontal directions. The construction \"vertical_X_diffusivity\" means the vertical component of the diffusivity of X due to motion which is not resolved on the grid scale of the model. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Due to background\" means caused by a time invariant imposed field which may be either constant over the globe or spatially varying, depending on the ocean model used.",
-  "canonical_units": "m2 s-1",
-  "amip": null,
-  "grib": null
-}

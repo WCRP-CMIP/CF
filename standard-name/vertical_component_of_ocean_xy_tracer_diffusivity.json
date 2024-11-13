@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/vertical_component_of_ocean_xy_tracer_diffusivity",
-  "@type": "standard-name",
-  "name": "vertical_component_of_ocean_xy_tracer_diffusivity",
-  "description": "The vertical_component_of_ocean_xy_tracer_diffusivity means the vertical component of the diffusivity of tracers in the ocean due to lateral mixing. This quantity could appear in formulations of lateral diffusivity in which \"lateral\" does not mean \"iso-level\", e.g. it would not be used for isopycnal diffusivity. \"Tracer diffusivity\" means the diffusivity of heat and salinity due to motion which is not resolved on the grid scale of the model.",
-  "canonical_units": "m2 s-1",
-  "amip": null,
-  "grib": null
-}

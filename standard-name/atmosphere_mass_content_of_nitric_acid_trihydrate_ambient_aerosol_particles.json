@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_mass_content_of_nitric_acid_trihydrate_ambient_aerosol_particles",
-  "@type": "standard-name",
-  "name": "atmosphere_mass_content_of_nitric_acid_trihydrate_ambient_aerosol_particles",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The mass is the total mass of the particles. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. To specify the relative humidity and temperature at which the quantity described by the standard name applies, provide scalar coordinate variables with standard names of \"relative_humidity\" and \"air_temperature\". Nitric acid trihydrate, sometimes referred to as NAT, is a stable crystalline substance consisting of three molecules of water to one molecule of nitric acid. The chemical formula for nitric acid is HNO3.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_y_stress_at_sea_ice_base",
-  "@type": "standard-name",
-  "name": "downward_y_stress_at_sea_ice_base",
-  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

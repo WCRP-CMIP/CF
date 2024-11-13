@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_wave_maximum_crest_height",
-  "@type": "standard-name",
-  "name": "sea_surface_wave_maximum_crest_height",
-  "description": "The crest is the highest point of a wave. Crest height is the vertical distance between the crest and the calm sea surface. Maximum crest height is the maximum value measured during the observation period.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

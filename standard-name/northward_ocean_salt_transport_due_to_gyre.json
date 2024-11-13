@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/northward_ocean_salt_transport_due_to_gyre",
-  "@type": "standard-name",
-  "name": "northward_ocean_salt_transport_due_to_gyre",
-  "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Salt transport\" means the mass of salt being transported. Northward transport by the ocean gyre is geometrically defined as being the part due to the vertical integral of the product of deviations of velocity and tracer from their zonal means. The velocity does not include the parameterized eddy velocity. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "kg s-1",
-  "amip": "sltovgyre",
-  "grib": null
-}

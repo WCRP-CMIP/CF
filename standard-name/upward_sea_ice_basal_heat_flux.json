@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_sea_ice_basal_heat_flux",
-  "@type": "standard-name",
-  "name": "upward_sea_ice_basal_heat_flux",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). The sea ice basal heat flux is the vertical heat flux (apart from radiation i.e. \"diffusive\") in sea water at the base of the sea ice. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/divergence_of_sea_ice_velocity",
-  "@type": "standard-name",
-  "name": "divergence_of_sea_ice_velocity",
-  "description": "The phrase \"[horizontal_]divergence_of_X\" means [horizontal] divergence of a vector X; if X does not have a vertical component then \"horizontal\" should be omitted. A velocity is a vector quantity. Sea ice velocity is defined as a two-dimensional vector, with no vertical component. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": "98"
-}

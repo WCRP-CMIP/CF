@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/canopy_throughfall_flux",
-  "@type": "standard-name",
-  "name": "canopy_throughfall_flux",
-  "description": "\"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy. \"Throughfall\" is the part of the precipitation flux that reaches the ground directly through the vegetative canopy, through spaces in the canopy, and as drip from the leaves, twigs, and stems (but not including snowmelt). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

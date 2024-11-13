@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/cloud",
-  "@type": "area-type-table",
-  "name": "cloud",
-  "description": "The \"cloud\" area type is a general term and includes both convective_cloud and stratiform_cloud types and any additional cloud areas that are not separately named."
-}

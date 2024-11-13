@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/age_of_stratospheric_air",
-  "@type": "standard-name",
-  "name": "age_of_stratospheric_air",
-  "description": "\"Age of stratospheric air\" means an estimate of the time since a parcel of stratospheric air was last in contact with the troposphere.",
-  "canonical_units": "s",
-  "amip": null,
-  "grib": null
-}

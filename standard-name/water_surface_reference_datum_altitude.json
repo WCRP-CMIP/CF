@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_surface_reference_datum_altitude",
-  "@type": "standard-name",
-  "name": "water_surface_reference_datum_altitude",
-  "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. 'Water surface reference datum altitude' means the altitude of the arbitrary datum referred to by a quantity with standard name 'water_surface_height_above_reference_datum'. The surface called \"surface\" means the lower boundary of the atmosphere.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

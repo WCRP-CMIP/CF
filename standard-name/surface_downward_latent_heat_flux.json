@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_downward_latent_heat_flux",
-  "@type": "standard-name",
-  "name": "surface_downward_latent_heat_flux",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). The surface latent heat flux is the exchange of heat between the surface and the air on account of evaporation (including sublimation). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

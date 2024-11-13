@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_125mTe",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_125mTe",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Te\" means the element \"tellurium\" and \"125mTe\" is the metastable state of the isotope \"tellurium-125\" with a half-life of 5.81e+01 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

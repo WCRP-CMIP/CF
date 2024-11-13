@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_ice_x_internal_stress",
-  "@type": "standard-name",
-  "name": "sea_ice_x_internal_stress",
-  "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x. Internal ice stress is a measure of the compactness, or strength, of the ice. Internal ice stress usually acts as a resistance to the motion caused by the wind force. Reference: National Snow and Ice Data Center https://nsidc.org/cryosphere/seaice/processes/dynamics.html. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "N m-2",
-  "amip": null,
-  "grib": null
-}

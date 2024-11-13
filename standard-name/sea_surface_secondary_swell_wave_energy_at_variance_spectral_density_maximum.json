@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_secondary_swell_wave_energy_at_variance_spectral_density_maximum",
-  "@type": "standard-name",
-  "name": "sea_surface_secondary_swell_wave_energy_at_variance_spectral_density_maximum",
-  "description": "The quantity with standard name sea_surface_secondary_swell_wave_energy_at_variance_spectral_density_maximum is the energy of the most energetic waves within the secondary swell wave component of a sea. Swell waves are waves on the ocean surface and are the low frequency portion of a bimodal wave frequency spectrum. The secondary swell wave is the second most energetic wave in the low frequency portion of a bimodal wave frequency spectrum. The phrase \"wave_energy_at_variance_spectral_density_maximum\", sometimes called peak wave energy, describes the maximum value of the wave_variance_spectral_density within a given sub-domain of the wave spectrum.",
-  "canonical_units": "m2 s",
-  "amip": null,
-  "grib": null
-}

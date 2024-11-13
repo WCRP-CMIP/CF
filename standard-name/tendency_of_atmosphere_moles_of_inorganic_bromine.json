@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_inorganic_bromine",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_moles_of_inorganic_bromine",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"Inorganic bromine\", sometimes referred to as Bry, describes a family of chemical species which result from the degradation of source gases containing bromine (halons, methyl bromide, VSLS) and natural inorganic bromine sources such as volcanoes, sea salt and other aerosols. \"Inorganic bromine\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names that use the term \"brox\" are used for quantities that contain all inorganic bromine species except HBr and BrONO2.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

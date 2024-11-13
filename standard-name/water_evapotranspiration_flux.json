@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_evapotranspiration_flux",
-  "@type": "standard-name",
-  "name": "water_evapotranspiration_flux",
-  "description": "Water means water in all phases. \"Evapotranspiration\" means all water vapor fluxes into the atmosphere from the surface: liquid evaporation, sublimation and transpiration. Evaporation is the conversion of liquid or solid into vapor. Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere. (The conversion of solid alone into vapor is called \"sublimation\".) In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Unless indicated in the cell_methods attribute, a quantity is assumed to apply to the whole area of each horizontal grid box.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": "evspsbl",
-  "grib": null
-}

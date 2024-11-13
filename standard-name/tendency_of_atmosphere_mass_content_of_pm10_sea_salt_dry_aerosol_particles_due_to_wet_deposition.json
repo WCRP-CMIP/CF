@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_pm10_sea_salt_dry_aerosol_particles_due_to_wet_deposition",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_mass_content_of_pm10_sea_salt_dry_aerosol_particles_due_to_wet_deposition",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the particles. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. \"Pm10 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Wet deposition\" means deposition by precipitation. \"tendency_of_X\" means derivative of X with respect to time.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_transformed_eulerian_mean_meridional_overturning_mass_streamfunction",
-  "@type": "standard-name",
-  "name": "atmosphere_transformed_eulerian_mean_meridional_overturning_mass_streamfunction",
-  "description": "The \"meridional mass streamfunction\" is a streamfunction of the zonally averaged mass transport in the meridional plane. The \"Transformed Eulerian Mean\" refers to a formulation of the mean equations which incorporates some eddy terms into the definition of the mean, described in Andrews et al (1987): Middle Atmospheric Dynamics. Academic Press.",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

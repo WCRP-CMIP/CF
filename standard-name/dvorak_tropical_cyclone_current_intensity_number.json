@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/dvorak_tropical_cyclone_current_intensity_number",
-  "@type": "standard-name",
-  "name": "dvorak_tropical_cyclone_current_intensity_number",
-  "description": "\"Dvorak current intensity number\" indicates the ranking of tropical cyclone strength (ranging from 1.0 to 8.0, increasing with storm intensity). The current intensity (CI) number is derived using the Advanced Dvorak Technique based on satellite observations over time. The CI number maps to a maximum sustained 1-minute wind speed and is derived by applying a series of intensity constraints to previous Dvorak-calculated trends of the same storm. Reference: Olander, T. L., & Velden, C. S., The Advanced Dvorak Technique: Continued Development of an Objective Scheme to Estimate Tropical Cyclone Intensity Using Geostationary Infrared Satellite Imagery (2007).  American Meteorological Society Weather and Forecasting, 22, 287-298.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

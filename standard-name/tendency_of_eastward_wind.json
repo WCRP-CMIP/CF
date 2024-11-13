@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_eastward_wind",
-  "@type": "standard-name",
-  "name": "tendency_of_eastward_wind",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
-  "canonical_units": "m s-2",
-  "amip": "tnmmutot",
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/fire_area",
-  "@type": "standard-name",
-  "name": "fire_area",
-  "description": "\"X_area\" means the horizontal area occupied by X within the grid cell. The extent of an individual grid cell is defined by the horizontal coordinates and any associated coordinate bounds or by a string valued auxiliary coordinate variable with a standard name of \"region\". \"Fire area\" means the area of detected biomass fire.",
-  "canonical_units": "m2",
-  "amip": null,
-  "grib": null
-}

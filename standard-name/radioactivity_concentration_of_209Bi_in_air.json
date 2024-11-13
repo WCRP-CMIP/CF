@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_209Bi_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_209Bi_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Bi\" means the element \"bismuth\" and \"209Bi\" is the isotope \"bismuth-209\" with a half-life of 7.29e+20 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

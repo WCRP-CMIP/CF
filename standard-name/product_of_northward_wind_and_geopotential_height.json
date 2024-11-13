@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/product_of_northward_wind_and_geopotential_height",
-  "@type": "standard-name",
-  "name": "product_of_northward_wind_and_geopotential_height",
-  "description": "\"product_of_X_and_Y\" means X*Y. Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
-  "canonical_units": "m2 s-1",
-  "amip": "mpvzga",
-  "grib": null
-}

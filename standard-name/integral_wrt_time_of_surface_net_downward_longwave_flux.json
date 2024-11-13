@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/integral_wrt_time_of_surface_net_downward_longwave_flux",
-  "@type": "standard-name",
-  "name": "integral_wrt_time_of_surface_net_downward_longwave_flux",
-  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. \"wrt\" means with respect to. The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). \"longwave\" means longwave radiation. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W s m-2",
-  "amip": null,
-  "grib": null
-}

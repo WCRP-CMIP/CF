@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_ratio_of_nitrate_to_phosphate_in_sea_water",
-  "@type": "standard-name",
-  "name": "mole_ratio_of_nitrate_to_phosphate_in_sea_water",
-  "description": "\"Mole ratio\" is used in the construction \"mole_ratio_of_X_to_Y_in_medium\", where X and Y are both material constituents of the medium. \"Medium\" can take any of the values given in the \"medium\" section of the standard name Guidelines document. The phrase \"ratio_of_X_to_Y\" means X/Y. The chemical formula for the nitrate anion is NO3-. The chemical formula of the phosphate anion is PO4 with a charge of minus three.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

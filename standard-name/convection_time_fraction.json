@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/convection_time_fraction",
-  "@type": "standard-name",
-  "name": "convection_time_fraction",
-  "description": "\"Time fraction\" means a fraction of a time interval. The interval in question must be specified by the values or bounds of the time coordinate variable associated with the data. \"X_time_fraction\" means the fraction of the time interval during which X occurs.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

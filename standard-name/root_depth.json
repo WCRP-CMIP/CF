@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/root_depth",
-  "@type": "standard-name",
-  "name": "root_depth",
-  "description": "Depth is the vertical distance below the surface. The root depth is maximum depth of soil reached by plant roots, from which they can extract moisture.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

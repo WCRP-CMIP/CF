@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_diffuse_downwelling_shortwave_flux_in_air",
-  "@type": "standard-name",
-  "name": "surface_diffuse_downwelling_shortwave_flux_in_air",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The term \"shortwave\" means shortwave radiation. Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. \"Diffuse\" radiation is radiation that has been scattered by gas molecules in the atmosphere and by particles such as cloud droplets and aerosols. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

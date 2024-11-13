@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/toa_outgoing_longwave_flux_assuming_clear_sky",
-  "@type": "standard-name",
-  "name": "toa_outgoing_longwave_flux_assuming_clear_sky",
-  "description": "A phrase assuming_condition indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"longwave\" means longwave radiation. \"toa\" means top of atmosphere. The TOA outgoing longwave flux is the upwelling thermal radiative flux, often called the \"outgoing longwave radiation\" or \"OLR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": "rlutcs",
-  "grib": null
-}

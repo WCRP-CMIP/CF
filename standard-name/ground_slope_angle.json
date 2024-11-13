@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ground_slope_angle",
-  "@type": "standard-name",
-  "name": "ground_slope_angle",
-  "description": "The slope angle is the angle (in degrees) measured between the ground (earth) surface plane and a flat, horizontal surface.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

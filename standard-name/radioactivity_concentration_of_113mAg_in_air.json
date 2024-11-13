@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_113mAg_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_113mAg_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ag\" means the element \"silver\" and \"113mAg\" is the metastable state of the isotope \"silver-113\" with a half-life of 7.64e-04 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

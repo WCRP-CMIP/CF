@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/platform_orientation",
-  "@type": "standard-name",
-  "name": "platform_orientation",
-  "description": "Orientation is the clockwise angle with respect to North of the longitudinal (front-to-back) axis of the platform, which may be different to the platform course (which has the standard name platform_course). A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

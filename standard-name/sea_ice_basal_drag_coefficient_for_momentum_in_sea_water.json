@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_ice_basal_drag_coefficient_for_momentum_in_sea_water",
-  "@type": "standard-name",
-  "name": "sea_ice_basal_drag_coefficient_for_momentum_in_sea_water",
-  "description": "The quantity with standard name sea_ice_basal_drag_coefficient_for_momentum_in_sea_water is used to calculate the oceanic momentum drag on sea ice movement. Basal drag is a resistive stress opposing ice flow at the boundary between sea ice and sea water. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

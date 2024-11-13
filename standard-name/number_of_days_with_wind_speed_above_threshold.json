@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/number_of_days_with_wind_speed_above_threshold",
-  "@type": "standard-name",
-  "name": "number_of_days_with_wind_speed_above_threshold",
-  "description": "Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)  The wind speed is the magnitude of the wind velocity.  A variable whose standard name has the form number_of_days_with_X_below|above_threshold is a count of the number of days on which the condition X_below|above_threshold is satisfied.  It must have a coordinate variable or scalar coordinate variable with the standard name of X to supply the threshold(s). It must have a climatological time variable, and a cell_methods entry for within days which describes the processing of quantity X before the threshold is applied. A number_of_days is an extensive quantity in time, and the cell_methods entry for over days should be \"sum\".",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

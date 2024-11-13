@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/grounded_ice_sheet",
-  "@type": "area-type-table",
-  "name": "grounded_ice_sheet",
-  "description": "An area type of \"grounded ice sheet\" indicates where the ice sheet rest over bedrock and is thus grounded. It excludes ice-caps, glaciers and floating ice shelves."
-}

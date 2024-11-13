@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_sensible_heat_flux_in_air",
-  "@type": "standard-name",
-  "name": "upward_sensible_heat_flux_in_air",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). The sensible heat flux, also called \"turbulent\" heat flux, is the exchange of heat caused by the motion of air. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

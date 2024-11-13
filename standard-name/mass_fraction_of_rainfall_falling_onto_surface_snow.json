@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_fraction_of_rainfall_falling_onto_surface_snow",
-  "@type": "standard-name",
-  "name": "mass_fraction_of_rainfall_falling_onto_surface_snow",
-  "description": "The quantity with standard name mass_fraction_of_rainfall_falling_onto_surface_snow is the mass of rainfall falling onto snow as a fraction of the mass of rainfall falling within the area of interest. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. The surface called \"surface\" means the lower boundary of the atmosphere. Unless indicated in the cell_methods attribute, a quantity is assumed to apply to the whole area of each horizontal grid box.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

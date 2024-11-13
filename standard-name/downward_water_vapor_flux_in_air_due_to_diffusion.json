@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_water_vapor_flux_in_air_due_to_diffusion",
-  "@type": "standard-name",
-  "name": "downward_water_vapor_flux_in_air_due_to_diffusion",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

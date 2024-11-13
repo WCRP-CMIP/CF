@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/burned_area",
-  "@type": "standard-name",
-  "name": "burned_area",
-  "description": "\"X_area\" means the horizontal area occupied by X within the grid cell. The extent of an individual grid cell is defined by the horizontal coordinates and any associated coordinate bounds or by a string valued auxiliary coordinate variable with a standard name of \"region\". \"Burned area\" means the area of burned vegetation.",
-  "canonical_units": "m2",
-  "amip": null,
-  "grib": null
-}

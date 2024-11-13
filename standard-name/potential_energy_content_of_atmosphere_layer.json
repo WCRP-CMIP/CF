@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/potential_energy_content_of_atmosphere_layer",
-  "@type": "standard-name",
-  "name": "potential_energy_content_of_atmosphere_layer",
-  "description": "\"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Potential energy is the sum of the gravitational potential energy relative to the geoid and the centripetal potential energy. (The geopotential is the specific potential energy.)",
-  "canonical_units": "J m-2",
-  "amip": null,
-  "grib": null
-}

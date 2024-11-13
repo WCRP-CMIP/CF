@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/specific_heat_capacity_of_sea_water",
-  "@type": "standard-name",
-  "name": "specific_heat_capacity_of_sea_water",
-  "description": "The specific heat capacity of sea water, Cp(ocean), is used in ocean models to convert between model prognostic temperature (potential or conservative temperature) and model heat content. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "J kg-1 K-1",
-  "amip": null,
-  "grib": null
-}

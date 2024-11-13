@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_montgomery_potential",
-  "@type": "standard-name",
-  "name": "ocean_montgomery_potential",
-  "description": "Montgomery potential is defined as M = ap + gz, where a = specific volume, p = pressure, g = gravity, and z=depth. It represents an exact streamfunction on specific volume anomaly surfaces.",
-  "canonical_units": "m2 s-2",
-  "amip": null,
-  "grib": null
-}

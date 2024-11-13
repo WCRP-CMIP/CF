@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_244Cm",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_244Cm",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cm\" means the element \"curium\" and \"244Cm\" is the isotope \"curium-244\" with a half-life of 6.42e+03 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/land_surface_liquid_water_amount",
-  "@type": "standard-name",
-  "name": "land_surface_liquid_water_amount",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area. The quantity with standard name land_surface_liquid_water_amount includes water in rivers, wetlands, lakes, reservoirs and liquid precipitation intercepted by the vegetation canopy.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

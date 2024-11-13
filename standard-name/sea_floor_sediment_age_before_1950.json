@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_floor_sediment_age_before_1950",
-  "@type": "standard-name",
-  "name": "sea_floor_sediment_age_before_1950",
-  "description": "\"Sea floor sediment\" is sediment deposited at the sea bed. \"Sediment age\" means the length of time elapsed since the sediment was deposited. The phrase \"before_1950\" is a transparent representation of the phrase \"before_present\", often used in the geological and archaeological domains to refer to time elapsed between an event and 1950 AD.",
-  "canonical_units": "s",
-  "amip": null,
-  "grib": null
-}

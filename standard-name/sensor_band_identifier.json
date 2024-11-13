@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sensor_band_identifier",
-  "@type": "standard-name",
-  "name": "sensor_band_identifier",
-  "description": "A variable with the standard name of sensor_band_identifier contains strings which give the alphanumeric identifier of a sensor band. These strings have not yet been standardised.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

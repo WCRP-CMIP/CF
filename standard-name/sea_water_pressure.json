@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_pressure",
-  "@type": "standard-name",
-  "name": "sea_water_pressure",
-  "description": "\"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present. For sea water pressure excluding the pressure due to overlying media other than sea water, the standard name sea_water_pressure_due_to_sea_water should be used.",
-  "canonical_units": "dbar",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mixed_layer_thickness",
-  "@type": "standard-name",
-  "name": "ocean_mixed_layer_thickness",
-  "description": "The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. Various criteria are used to define the mixed layer; this can be specified by using a standard name of ocean_mixed_layer_defined_by_X. \"Thickness\" means the vertical extent of a layer.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": "67"
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/number_of_observations",
-  "@type": "standard-name",
-  "name": "number_of_observations",
-  "description": "A variable with the standard name of number_of_observations contains the number of discrete observations or measurements from which the values of  another data variable have been derived. The linkage between the data variable and the variable with a standard_name of number_of_observations is achieved using the ancillary_variables attribute.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

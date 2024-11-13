@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/relative_humidity_for_aerosol_particle_size_selection",
-  "@type": "standard-name",
-  "name": "relative_humidity_for_aerosol_particle_size_selection",
-  "description": "Relative humidity at which the size of a sampled aerosol particle was selected. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

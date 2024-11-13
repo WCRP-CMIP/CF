@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/visibility_in_air",
-  "@type": "standard-name",
-  "name": "visibility_in_air",
-  "description": "The visibility is the distance at which something can be seen.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": "20"
-}
