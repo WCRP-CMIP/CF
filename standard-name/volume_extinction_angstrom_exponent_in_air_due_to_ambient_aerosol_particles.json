@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/volume_extinction_angstrom_exponent_in_air_due_to_ambient_aerosol_particles",
-  "@type": "standard-name",
-  "name": "volume_extinction_angstrom_exponent_in_air_due_to_ambient_aerosol_particles",
-  "description": "The volume extinction Angstrom exponent is the Angstrom exponent obtained for the aerosol extinction instead that for the aerosol optical thickness. It is alpha in the following equation relating aerosol extinction (ext) at the wavelength lambda to aerosol extinction at a different wavelength lambda0: ext(lambda) = ext(lambda0) * [lambda/lambda0] ** (-1 * alpha). \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

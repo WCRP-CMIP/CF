@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_mass_of_air_per_unit_area",
-  "@type": "standard-name",
-  "name": "atmosphere_mass_of_air_per_unit_area",
-  "description": "\"Mass_of_air\" means the mass due solely to the gaseous constituents of the atmosphere.  The standard name for the mass including precipitation and aerosol particles is atmosphere_mass_per_unit_area.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

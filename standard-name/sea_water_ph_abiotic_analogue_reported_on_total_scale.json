@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_ph_abiotic_analogue_reported_on_total_scale",
-  "@type": "standard-name",
-  "name": "sea_water_ph_abiotic_analogue_reported_on_total_scale",
-  "description": "sea_water_pH_reported_on_total_scale is the measure of acidity of sea water, defined as the negative logarithm of the concentration of dissolved hydrogen ions plus bisulfate ions in a sea water medium; it can be measured or calculated; when measured the scale is defined according to a series of buffers prepared in artificial seawater containing bisulfate. The quantity may be written as pH(total) = -log([H+](free) + [HSO4-]). In ocean biogeochemistry models, an \"abiotic analogue\" is used to simulate the effect on a modelled variable when biological effects on ocean carbon concentration and alkalinity are ignored.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

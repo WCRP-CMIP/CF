@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_ocean_mole_content_of_inorganic_carbon",
-  "@type": "standard-name",
-  "name": "tendency_of_ocean_mole_content_of_inorganic_carbon",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. \"Inorganic carbon\" describes a family of chemical species and is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.",
-  "canonical_units": "mol m-2 s-1",
-  "amip": null,
-  "grib": null
-}

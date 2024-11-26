@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/acoustic_target_strength_in_sea_water",
-  "@type": "standard-name",
-  "name": "acoustic_target_strength_in_sea_water",
-  "description": "Target strength is 10 times the log10 of the ratio of backscattering cross-section to the reference value, 1 m2. Backscattering cross-section is a parameter computed from the intensity of the backscattered sound wave relative to the intensity of the incident sound wave. For further details see MacLennan et. al (2002) doi:10.1006/jmsc.2001.1158.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

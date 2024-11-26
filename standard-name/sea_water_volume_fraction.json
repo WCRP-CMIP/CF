@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_volume_fraction",
-  "@type": "standard-name",
-  "name": "sea_water_volume_fraction",
-  "description": "\"X_volume_fraction\" means the fraction of volume occupied by X. It is evaluated as the volume of interest divided by the grid cell volume. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. A data variable with standard name sea_water_volume_fraction is used to store the fraction of a grid cell underlying sea-water, for example, where part of the grid cell is occupied by land or to record ocean volume on a model's native grid following a regridding operation.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

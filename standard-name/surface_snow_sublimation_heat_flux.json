@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_snow_sublimation_heat_flux",
-  "@type": "standard-name",
-  "name": "surface_snow_sublimation_heat_flux",
-  "description": "Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. Sublimation is the conversion of solid into vapor. The snow sublimation heat flux is the supply of latent heat which is causing evaporation of snow to water vapor. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

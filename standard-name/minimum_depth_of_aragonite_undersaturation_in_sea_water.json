@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/minimum_depth_of_aragonite_undersaturation_in_sea_water",
-  "@type": "standard-name",
-  "name": "minimum_depth_of_aragonite_undersaturation_in_sea_water",
-  "description": "Depth is the vertical distance below the surface.   'Undersaturation' means that a solution is unsaturated with respect to a solute. Aragonite is a mineral that is a polymorph of calcium carbonate. The chemical formula of aragonite is CaCO3. Standard names also exist for calcite, another polymorph of calcium carbonate. The \"minimum depth of undersaturation\", sometimes called the \"saturation horizon\", is the shallowest depth at which a body of water is an undersaturated solution of a named solute.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

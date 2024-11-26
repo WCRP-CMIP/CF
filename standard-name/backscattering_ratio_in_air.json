@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/backscattering_ratio_in_air",
-  "@type": "standard-name",
-  "name": "backscattering_ratio_in_air",
-  "description": "Scattering of radiation is its deflection from its incident path without loss of energy. Backwards scattering refers to the sum of scattering into all backward angles i.e. scattering_angle exceeding pi/2 radians. A scattering_angle should not be specified with this quantity. \"Backscattering ratio\" is the ratio of the  quantity with standard name volume_attenuated_backwards_scattering_function_in_air to the quantity with standard name volume_attenuated_backwards_scattering_function_in_air_assuming_no_aerosol_or_cloud.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

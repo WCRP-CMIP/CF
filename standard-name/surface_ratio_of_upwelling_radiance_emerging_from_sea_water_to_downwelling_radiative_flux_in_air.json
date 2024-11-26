@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_ratio_of_upwelling_radiance_emerging_from_sea_water_to_downwelling_radiative_flux_in_air",
-  "@type": "standard-name",
-  "name": "surface_ratio_of_upwelling_radiance_emerging_from_sea_water_to_downwelling_radiative_flux_in_air",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The phrase \"ratio_of_X_to_Y\" means X/Y. Upwelling radiation is radiation from below. It does not mean \"net upward\". Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Radiance is the radiative flux in a particular direction, per unit of solid angle. The direction towards which it is going must be specified, for instance with a coordinate of angle_of_emergence. Radiative flux is the sum of shortwave and longwave radiative fluxes. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In relation to satellite ocean color products the quantity named surface_ratio_of_upwelling_radiance_emerging_from_sea_water_to_downwelling_radiative_flux_in_air is sometimes called \"remote sensing reflectance\" and has a bidirectional dependence. The direction of the downwelling flux can be specified using a coordinate with the standard name angle_of_incidence.",
-  "canonical_units": "sr-1",
-  "amip": null,
-  "grib": null
-}

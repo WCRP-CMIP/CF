@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downwelling_photon_radiance_per_unit_wavelength_in_sea_water",
-  "@type": "standard-name",
-  "name": "downwelling_photon_radiance_per_unit_wavelength_in_sea_water",
-  "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Photon radiance is the photon flux in a particular direction, per unit of solid angle. The direction from which it is coming must be specified, for instance with a coordinate of zenith_angle. If the radiation does not depend on direction, a standard name of isotropic radiance should be chosen instead. A photon flux is specified in terms of numbers of photons expressed in moles. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength.",
-  "canonical_units": "mol m-2 s-1 m-1 sr-1",
-  "amip": null,
-  "grib": null
-}

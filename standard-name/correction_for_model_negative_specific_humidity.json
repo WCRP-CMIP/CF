@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/correction_for_model_negative_specific_humidity",
-  "@type": "standard-name",
-  "name": "correction_for_model_negative_specific_humidity",
-  "description": "A numerical correction which is added to modelled negative specific humidities in order to obtain a value of zero.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

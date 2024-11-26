@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/difference_of_air_pressure_from_model_reference",
-  "@type": "standard-name",
-  "name": "difference_of_air_pressure_from_model_reference",
-  "description": "In some atmosphere models, the difference of air pressure from model reference is a prognostic variable, instead of the air pressure itself. The model reference air pressure is a model-dependent constant. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

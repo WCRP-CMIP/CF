@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/area_type",
-  "@type": "standard-name",
-  "name": "area_type",
-  "description": "A variable with the standard_name of area_type contains either strings which indicate the nature of the surface e.g. land, sea, sea_ice, or flags which can be translated to strings using flag_values and flag_meanings attributes. These strings are standardised. Values must be taken from the area_type table.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

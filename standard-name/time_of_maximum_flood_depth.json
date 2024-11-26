@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/time_of_maximum_flood_depth",
-  "@type": "standard-name",
-  "name": "time_of_maximum_flood_depth",
-  "description": "The quantity with standard name time_of_maximum_flood_depth is the time elapsed between the breaking of a levee (origin of flood water simulation) and the instant when the flood depth reaches its maximum during the simulation for a given point in space. Flood water is water that covers land which is normally not covered by water.",
-  "canonical_units": "s",
-  "amip": null,
-  "grib": null
-}

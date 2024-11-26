@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/thickness_of_convective_snowfall_amount",
-  "@type": "standard-name",
-  "name": "thickness_of_convective_snowfall_amount",
-  "description": "\"Amount\" means mass per unit area. The construction thickness_of_[X_]snowfall_amount means the accumulated \"depth\" of snow which fell i.e. the thickness of the layer of snow at its own density. There are corresponding standard names for liquid water equivalent (lwe) thickness.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

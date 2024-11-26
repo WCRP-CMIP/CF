@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_height_bias_due_to_sea_surface_roughness",
-  "@type": "standard-name",
-  "name": "sea_surface_height_bias_due_to_sea_surface_roughness",
-  "description": "Altimeter pulses tend to be more strongly reflected by the troughs of sea surface waves than by the crests leading to a bias in the measured sea surface height. This quantity is commonly known as \"sea state bias\". \"Sea surface height\" is a time-varying quantity. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

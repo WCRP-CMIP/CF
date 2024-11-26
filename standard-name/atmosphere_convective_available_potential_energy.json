@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_convective_available_potential_energy",
-  "@type": "standard-name",
-  "name": "atmosphere_convective_available_potential_energy",
-  "description": "Convective(ly) available potential energy (often abbreviated CAPE) is a stability measure calculated by integrating the positive temperature difference between the surrounding atmosphere and a parcel of air lifted adiabatically from a given starting height to its equilibrium level. A coordinate variable of original_air_pressure_of_lifted_parcel should be specified to indicate the starting height of the lifted parcel. CAPE exists under conditions of potential instability, and measures the potential energy per unit mass that would be released by the unstable parcel if it were able to convect upwards to equilibrium.",
-  "canonical_units": "J kg-1",
-  "amip": null,
-  "grib": null
-}

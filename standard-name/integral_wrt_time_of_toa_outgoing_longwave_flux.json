@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/integral_wrt_time_of_toa_outgoing_longwave_flux",
-  "@type": "standard-name",
-  "name": "integral_wrt_time_of_toa_outgoing_longwave_flux",
-  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. \"wrt\" means with respect to. \"toa\" means top of atmosphere. \"Longwave\" means longwave radiation. The TOA outgoing longwave flux is the upwelling thermal radiative flux, often called the \"outgoing longwave radiation\" or \"OLR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W s m-2",
-  "amip": null,
-  "grib": null
-}

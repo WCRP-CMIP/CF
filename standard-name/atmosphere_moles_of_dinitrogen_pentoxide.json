@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_moles_of_dinitrogen_pentoxide",
-  "@type": "standard-name",
-  "name": "atmosphere_moles_of_dinitrogen_pentoxide",
-  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for dinitrogen pentoxide is N2O5.",
-  "canonical_units": "mol",
-  "amip": null,
-  "grib": null
-}

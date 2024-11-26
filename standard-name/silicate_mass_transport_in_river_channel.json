@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/silicate_mass_transport_in_river_channel",
-  "@type": "standard-name",
-  "name": "silicate_mass_transport_in_river_channel",
-  "description": "The amount of silicate mass transported in the river channels from land into the ocean. This quantity can be provided at a certain location within the river network and floodplain (over land) or at the river mouth (over ocean) where the river enters the ocean. \"River\" refers to water in the fluvial system (stream and floodplain).",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/integral_wrt_time_of_air_temperature_excess",
-  "@type": "standard-name",
-  "name": "integral_wrt_time_of_air_temperature_excess",
-  "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. \"wrt\" means with respect to. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. The air temperature excess is the air temperature minus the air temperature threshold, where only positive values are included in the integral. Its integral with respect to time is often called after its units of \"degree-days\". The air_temperature variable, which is the data variable of the integral should have a scalar coordinate variable or a size-one coordinate variable with the standard name of air_temperature_threshold, to indicate the threshold. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K s",
-  "amip": null,
-  "grib": null
-}

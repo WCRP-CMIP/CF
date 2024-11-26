@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/speed_of_sound_in_air",
-  "@type": "standard-name",
-  "name": "speed_of_sound_in_air",
-  "description": "Speed is the magnitude of velocity.",
-  "canonical_units": "m s-1",
-  "amip": null,
-  "grib": null
-}

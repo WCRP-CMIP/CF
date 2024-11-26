@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sunglint_angle",
-  "@type": "standard-name",
-  "name": "sunglint_angle",
-  "description": "The angle between an incident beam of solar radiation and the outgoing beam specularly reflected at a sea surface.",
-  "canonical_units": "rad",
-  "amip": null,
-  "grib": null
-}

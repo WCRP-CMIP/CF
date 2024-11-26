@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_porosity",
-  "@type": "standard-name",
-  "name": "soil_porosity",
-  "description": "The soil porosity is the proportion of its total volume not occupied by soil solids.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

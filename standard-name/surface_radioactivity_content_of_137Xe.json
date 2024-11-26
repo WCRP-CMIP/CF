@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_137Xe",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_137Xe",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Xe\" means the element \"xenon\" and \"137Xe\" is the isotope \"xenon-137\" with a half-life of 2.71e-03 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

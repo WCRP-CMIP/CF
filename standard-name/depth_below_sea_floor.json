@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/depth_below_sea_floor",
-  "@type": "standard-name",
-  "name": "depth_below_sea_floor",
-  "description": "\"Depth_below_X\" means the vertical distance below the named surface X.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

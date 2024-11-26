@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_254Cf",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_254Cf",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cf\" means the element \"californium\" and \"254Cf\" is the isotope \"californium-254\" with a half-life of 6.03e+01 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

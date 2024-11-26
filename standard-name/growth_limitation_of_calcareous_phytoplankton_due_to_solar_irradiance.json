@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/growth_limitation_of_calcareous_phytoplankton_due_to_solar_irradiance",
-  "@type": "standard-name",
-  "name": "growth_limitation_of_calcareous_phytoplankton_due_to_solar_irradiance",
-  "description": "\"Calcareous phytoplankton\" are phytoplankton that produce calcite.  Calcite is a mineral that is a polymorph of calcium carbonate. The chemical formula of calcite is CaCO3. Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Irradiance\" means the power per unit area (called radiative flux in other standard names), the area being normal to the direction of flow of the radiant energy. Solar irradiance is essential to the photosynthesis reaction and its presence promotes the growth of phytoplankton populations. \"Growth limitation due to solar irradiance\" means the ratio of the growth rate of a species population in the environment (where the amount of sunlight reaching a location may be limited) to the theoretical growth rate if there were no such limit on solar irradiance.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

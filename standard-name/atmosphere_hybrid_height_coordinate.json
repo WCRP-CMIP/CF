@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_hybrid_height_coordinate",
-  "@type": "standard-name",
-  "name": "atmosphere_hybrid_height_coordinate",
-  "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

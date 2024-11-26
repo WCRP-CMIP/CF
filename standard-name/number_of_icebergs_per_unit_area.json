@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/number_of_icebergs_per_unit_area",
-  "@type": "standard-name",
-  "name": "number_of_icebergs_per_unit_area",
-  "description": "The number of icebergs per unit area.",
-  "canonical_units": "m-2",
-  "amip": null,
-  "grib": null
-}

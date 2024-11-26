@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_113Cd_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_113Cd_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Cd\" means the element \"cadmium\" and \"113Cd\" is the isotope \"cadmium-113\" with a half-life of 3.29e+18 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

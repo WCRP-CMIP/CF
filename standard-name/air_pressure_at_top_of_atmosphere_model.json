@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/air_pressure_at_top_of_atmosphere_model",
-  "@type": "standard-name",
-  "name": "air_pressure_at_top_of_atmosphere_model",
-  "description": "\"Top of atmosphere model\" means the upper boundary of the top layer of an atmosphere model. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

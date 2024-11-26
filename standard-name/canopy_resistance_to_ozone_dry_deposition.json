@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/canopy_resistance_to_ozone_dry_deposition",
-  "@type": "standard-name",
-  "name": "canopy_resistance_to_ozone_dry_deposition",
-  "description": "\"Canopy\" means the plant or vegetation canopy. The \"canopy_resistance\" is the resistance of a compound to uptake by the vegetation canopy. It varies both with the surface and the chemical species or physical state (gas or particle). Canopy resistance is a function of the canopy stomatal resistance (Rstom), the canopy cuticle resistance (Rcuticle), and the soil resistance (Rsoil). In the case of ozone the uptake by the cuticle is small compared to the uptake through the stomata. Reference: Kerstiens and Lendzian, 1989. This means that the cuticle transfer pathway can be neglected in model parameterizations. Reference: Ganzeveld and Jos Lelieveld , 1995, doi/10.1029/95JD02266/pdf. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
-  "canonical_units": "m-1 s",
-  "amip": null,
-  "grib": null
-}

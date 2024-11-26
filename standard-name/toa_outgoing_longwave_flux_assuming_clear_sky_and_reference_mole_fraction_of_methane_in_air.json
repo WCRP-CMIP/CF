@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/toa_outgoing_longwave_flux_assuming_clear_sky_and_reference_mole_fraction_of_methane_in_air",
-  "@type": "standard-name",
-  "name": "toa_outgoing_longwave_flux_assuming_clear_sky_and_reference_mole_fraction_of_methane_in_air",
-  "description": "The abbreviation \"toa\" means top of atmosphere. The term \"longwave\" means longwave radiation. The TOA outgoing longwave flux is the upwelling thermal radiative flux, often called the \"outgoing longwave radiation\" or \"OLR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  A phrase \"assuming_condition\" indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"Clear sky\" means in the absence of clouds. The chemical formula for methane is CH4.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

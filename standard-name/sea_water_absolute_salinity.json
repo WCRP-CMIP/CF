@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_absolute_salinity",
-  "@type": "standard-name",
-  "name": "sea_water_absolute_salinity",
-  "description": "Absolute Salinity, S_A, is defined as part of the Thermodynamic Equation of Seawater 2010 (TEOS-10) which was adopted in 2010 by the Intergovernmental Oceanographic Commission (IOC). It is the mass fraction of dissolved material in sea water. Absolute Salinity incorporates the spatial variations in the composition of sea water. This type of Absolute Salinity is also called \"Density Salinity\". TEOS-10 estimates Absolute Salinity as the salinity variable that, when used with the TEOS-10 expression for density, yields the correct density of a sea water sample even when the sample is not of Reference Composition. In practice, Absolute Salinity is often calculated from Practical Salinity using a spatial lookup table of pre-defined values of the Absolute Salinity Anomaly. It is recommended that the version of (TEOS-10) software and the associated Absolute Salinity Anomaly climatology be specified within metadata by attaching a comment attribute to the data variable. Reference: www.teos-10.org; Millero et al., 2008 doi: 10.1016/j.dsr.2007.10.001. There are also standard names for the precisely defined salinity quantities sea_water_knudsen_salinity, S_K (used for salinity observations between 1901 and 1966), sea_water_cox_salinity, S_C (used for salinity observations between 1967 and 1977), sea_water_practical_salinity, S_P (used for salinity observations from 1978 onwards), sea_water_preformed_salinity, S_*, and sea_water_reference_salinity. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity.",
-  "canonical_units": "g kg-1",
-  "amip": null,
-  "grib": null
-}

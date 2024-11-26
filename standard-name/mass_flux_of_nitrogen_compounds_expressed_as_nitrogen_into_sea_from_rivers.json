@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_flux_of_nitrogen_compounds_expressed_as_nitrogen_into_sea_from_rivers",
-  "@type": "standard-name",
-  "name": "mass_flux_of_nitrogen_compounds_expressed_as_nitrogen_into_sea_from_rivers",
-  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Nitrogen compounds\" summarizes all chemical species containing nitrogen atoms. The list of individual species that are included in this quantity can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"River\" refers to water in the fluvial system (stream and floodplain).",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

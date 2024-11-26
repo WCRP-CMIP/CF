@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_downward_mole_flux_of_carbon_dioxide",
-  "@type": "standard-name",
-  "name": "surface_downward_mole_flux_of_carbon_dioxide",
-  "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward).  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The surface called \"surface\" means the lower boundary of the atmosphere.  The chemical formula for carbon dioxide is CO2. The standard name surface_upward_mole_flux_of_carbon_dioxide should be used to label data in which the flux is positive when directed upward. The standard name \"surface_carbon_dioxide_mole_flux\" is deprecated because it does not specify in which direction the flux is positive.  Any data having the standard name \"surface_carbon_dioxide_mole_flux\" should be examined carefully to determine which sign convention was used.",
-  "canonical_units": "mol m-2 s-1",
-  "amip": null,
-  "grib": null
-}

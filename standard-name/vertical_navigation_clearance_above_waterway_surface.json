@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/vertical_navigation_clearance_above_waterway_surface",
-  "@type": "standard-name",
-  "name": "vertical_navigation_clearance_above_waterway_surface",
-  "description": "\"Vertical navigation clearance\" is the vertical distance between the surface of a navigable waterway and a hazard above it such as a bridge. It is a time-varying quantity because the clearance distance is due to all processes that change the position of either the surface or the hazard. \"Waterway surface\" means the upper boundary of any body of navigable water.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

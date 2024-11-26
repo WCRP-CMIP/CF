@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/permafrost",
-  "@type": "area-type-table",
-  "name": "permafrost",
-  "description": "An area type of \"permafrost\" indicates where soil or rock has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years."
-}

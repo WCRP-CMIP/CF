@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/volume_backwards_scattering_coefficient_of_radiative_flux_in_air_due_to_pm1_dried_aerosol_particles",
-  "@type": "standard-name",
-  "name": "volume_backwards_scattering_coefficient_of_radiative_flux_in_air_due_to_pm1_dried_aerosol_particles",
-  "description": "The volume scattering/absorption/attenuation coefficient is the fractional change of radiative flux per unit path length due to the stated process. Coefficients with canonical units of m2 s-1 i.e. multiplied by density have standard names with specific_ instead of volume_. Backwards scattering refers to the sum of scattering into all backward angles i.e. scattering_angle exceeds pi/2 radians. A scattering_angle should not be specified with this quantity. The scattering/absorption/attenuation coefficient is assumed to be an integral over all wavelengths, unless a coordinate of radiation_wavelength is included to specify the wavelength. Radiative flux is the sum of shortwave and longwave radiative fluxes. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Dried_aerosol_particles\" means that the aerosol sample has been dried from the ambient state before sizing, but that the dry state (relative humidity less than 40 per cent) has not necessarily been reached. To specify the relative humidity at which the sample was measured, provide a scalar coordinate variable with the standard name of \"relative_humidity\". The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Pm1 aerosol particles\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 1 micrometers.",
-  "canonical_units": "m-1",
-  "amip": null,
-  "grib": null
-}

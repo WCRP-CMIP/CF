@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/model_level_number_at_sea_floor",
-  "@type": "standard-name",
-  "name": "model_level_number_at_sea_floor",
-  "description": "The quantity with standard name model_level_number_at_sea_floor is the depth of the ocean expressed in model levels. This could be a non-integer value because some ocean models use partial cells close to the sea floor.  For example, if this field were 23.4 at some location, it would mean the water column at that point comprised 23 full model levels plus 40% occupancy of the lowest (24th) gridcell.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

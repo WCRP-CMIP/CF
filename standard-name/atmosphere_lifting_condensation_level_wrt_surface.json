@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_lifting_condensation_level_wrt_surface",
-  "@type": "standard-name",
-  "name": "atmosphere_lifting_condensation_level_wrt_surface",
-  "description": "The lifting condensation level is the height at which the relative humidity of an air parcel cooled by dry adiabatic lifting from the surface would reach 100%.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

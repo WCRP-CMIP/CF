@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_electrical_conductivity",
-  "@type": "standard-name",
-  "name": "sea_water_electrical_conductivity",
-  "description": null,
-  "canonical_units": "S m-1",
-  "amip": null,
-  "grib": null
-}

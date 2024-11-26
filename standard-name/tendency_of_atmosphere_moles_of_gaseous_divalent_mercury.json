@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_gaseous_divalent_mercury",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_moles_of_gaseous_divalent_mercury",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"Divalent mercury\" means all compounds in which the mercury has two binding sites to other ion(s) in a salt or to other atom(s) in a molecule.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/angle_of_emergence",
-  "@type": "standard-name",
-  "name": "angle_of_emergence",
-  "description": "The angle of emergence is that between the direction of a beam of radiation emerging from the surface of a medium and the normal to that surface.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

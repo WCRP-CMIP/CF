@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/canadian_fire_weather_index",
-  "@type": "standard-name",
-  "name": "canadian_fire_weather_index",
-  "description": "The Canadian Fire Weather Index (CFWI) is a numerical rating of potential frontal fire intensity from the Canadian Forest Fire Index System. It indicates fire intensity by combining the rate of spread with the amount of fuel being consumed and is also used for general public information about fire danger conditions. It is a function of wind speed, temperature, relative humidity, and precipitation. The calculation accounts for multiple layers of flammable material on the ground as well as fine fuels above the surface, combined with the expected rate of spread of fire. The index is open ended.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

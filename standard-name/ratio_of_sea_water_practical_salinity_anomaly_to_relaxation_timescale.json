@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ratio_of_sea_water_practical_salinity_anomaly_to_relaxation_timescale",
-  "@type": "standard-name",
-  "name": "ratio_of_sea_water_practical_salinity_anomaly_to_relaxation_timescale",
-  "description": "The quantity with standard name ratio_of_sea_water_practical_salinity_anomaly_to_relaxation_timescale is a correction term applied to modelled sea water practical salinity. The term is estimated as the deviation of model local sea water practical salinity from an observation-based climatology (e.g. World Ocean Database) weighted by a user-specified relaxation coefficient in s-1 (1/(relaxation timescale)). The phrase \"ratio_of_X_to_Y\" means X/Y. The term \"anomaly\" means difference from climatology. Practical Salinity, S_P, is a determination of the salinity of sea water, based on its electrical conductance. The measured conductance, corrected for temperature and pressure, is compared to the conductance of a standard potassium chloride solution, producing a value on the Practical Salinity Scale of 1978 (PSS-78). This name should not be used to describe salinity observations made before 1978, or ones not based on conductance measurements. Conversion of Practical Salinity to other precisely defined salinity measures should use the appropriate formulas specified by TEOS-10. Other standard names for precisely defined salinity quantities are sea_water_absolute_salinity (S_A); sea_water_preformed_salinity (S_*), sea_water_reference_salinity (S_R); sea_water_cox_salinity (S_C), used for salinity observations between 1967 and 1977; and sea_water_knudsen_salinity (S_K), used for salinity observations between 1901 and 1966. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity. Reference: www.teos-10.org; Lewis, 1980 doi:10.1109/JOE.1980.1145448.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

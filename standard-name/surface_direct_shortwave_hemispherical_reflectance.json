@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_direct_shortwave_hemispherical_reflectance",
-  "@type": "standard-name",
-  "name": "surface_direct_shortwave_hemispherical_reflectance",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Direct\" (also known as \"beam\") radiation is radiation that has followed a direct path from the sun and is alternatively known as \"direct insolation\". The term \"shortwave\" means shortwave radiation. Hemispherical reflectance is the ratio of the energy of the reflected to the incident radiation. This term gives the fraction of the surface_direct_downwelling_shortwave_flux_in_air which is reflected. It is equivalent to the surface_bidirectional_reflectance at the incident angle of the incoming solar radiation and integrated over all outgoing angles in the hemisphere above the surface. A coordinate variable of radiation_wavelength or radiation_frequency can be used to specify the wavelength or frequency, respectively, of the radiation. Shortwave hemispherical reflectance is related to albedo, but albedo is defined in terms of the fraction of the full spectrum of incident solar radiation which is reflected. It is related to the hemispherical reflectance averaged over all wavelengths using a weighting proportional to the incident radiation flux.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

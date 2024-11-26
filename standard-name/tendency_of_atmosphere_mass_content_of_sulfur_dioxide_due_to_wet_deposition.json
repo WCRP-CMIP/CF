@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_wet_deposition",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_wet_deposition",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"Content\" indicates a quantity per unit area.  \"Wet deposition\" means deposition by precipitation.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

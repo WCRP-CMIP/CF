@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_longwave_emissivity",
-  "@type": "standard-name",
-  "name": "surface_longwave_emissivity",
-  "description": "Emissivity is the ratio of the power emitted by an object to the power that would be emitted by a perfect black body having the same temperature as the object. The emissivity is assumed to be an integral over all wavelengths, unless a coordinate of radiation_wavelength or radiation_frequency is included to specify either the wavelength or frequency. The surface called \"surface\" means the lower boundary of the atmosphere.  \"longwave\" means longwave radiation.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

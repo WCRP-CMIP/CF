@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_downward_mass_flux_of_carbon_dioxide_natural_analogue_expressed_as_carbon",
-  "@type": "standard-name",
-  "name": "surface_downward_mass_flux_of_carbon_dioxide_natural_analogue_expressed_as_carbon",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. In ocean biogeochemistry models, a \"natural analogue\" is used to simulate the effect on a modelled variable of imposing preindustrial atmospheric carbon dioxide concentrations, even when the model as a whole may be subjected to varying forcings. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The chemical formula for carbon dioxide is CO2.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/change_over_time_in_sea_water_potential_temperature",
-  "@type": "standard-name",
-  "name": "change_over_time_in_sea_water_potential_temperature",
-  "description": "Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "K",
-  "amip": null,
-  "grib": null
-}

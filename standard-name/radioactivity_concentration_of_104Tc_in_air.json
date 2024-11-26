@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_104Tc_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_104Tc_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Tc\" means the element \"technetium\" and \"104Tc\" is the isotope \"technetium-104\" with a half-life of 1.25e-02 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

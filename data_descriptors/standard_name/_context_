@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "CFStandardName": {
+      "@id": "CFStandardName",
+      "@type": "@id"
+    },
+    "cannonical_units": {
+      "@type": "@id"
+    }
+  }
+}

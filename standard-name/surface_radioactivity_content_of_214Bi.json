@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_214Bi",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_214Bi",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Bi\" means the element \"bismuth\" and \"214Bi\" is the isotope \"bismuth-214\" with a half-life of 1.37e-02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

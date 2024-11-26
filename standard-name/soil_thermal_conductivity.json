@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_thermal_conductivity",
-  "@type": "standard-name",
-  "name": "soil_thermal_conductivity",
-  "description": "Thermal conductivity is the constant k in the formula q = -k grad T where q is the heat transfer per unit time per unit area of a surface normal to the direction of transfer and grad T is the temperature gradient. Thermal conductivity is a property of the material. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
-  "canonical_units": "W m-1 K-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_165Dy",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_165Dy",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Dy\" means the element \"dysprosium\" and \"165Dy\" is the isotope \"dysprosium-165\" with a half-life of 9.80e-02 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

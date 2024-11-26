@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mass_x_transport_due_to_advection",
-  "@type": "standard-name",
-  "name": "ocean_mass_x_transport_due_to_advection",
-  "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

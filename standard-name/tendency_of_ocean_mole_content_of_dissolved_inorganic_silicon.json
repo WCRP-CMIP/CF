@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_ocean_mole_content_of_dissolved_inorganic_silicon",
-  "@type": "standard-name",
-  "name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_silicon",
-  "description": "\"Content\" indicates a quantity per unit area. \"tendency_of_X\" means derivative of X with respect to time. \"Dissolved inorganic silicon\" means the sum of all inorganic silicon in solution (including silicic acid and its first dissociated anion SiO(OH)3-).",
-  "canonical_units": "mol m-2 s-1",
-  "amip": null,
-  "grib": null
-}

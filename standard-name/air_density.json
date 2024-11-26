@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/air_density",
-  "@type": "standard-name",
-  "name": "air_density",
-  "description": null,
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

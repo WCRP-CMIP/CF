@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_fraction_of_artificial_tracer_with_fixed_lifetime_in_air",
-  "@type": "standard-name",
-  "name": "mole_fraction_of_artificial_tracer_with_fixed_lifetime_in_air",
-  "description": "Mole fraction is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Artificial tracer\" means a passive atmospheric tracer that is used to study atmospheric transport and deposition. To specify the length of the tracer lifetime in the atmosphere, a scalar coordinate variable with the standard name of tracer_lifetime should be used.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/automated_tropical_cyclone_forecasting_system_storm_identifier",
-  "@type": "standard-name",
-  "name": "automated_tropical_cyclone_forecasting_system_storm_identifier",
-  "description": "The Automated Tropical Cyclone Forecasting System (ATCF) storm identifier is an 8 character string which identifies a tropical cyclone. The storm identifier has the form BBCCYYYY, where BB is the ocean basin, specifically: AL - North Atlantic basin, north of the Equator; SL - South Atlantic basin, south of the Equator; EP - North East Pacific basin, eastward of 140 degrees west longitude; CP - North Central Pacific basin, between the dateline and 140 degrees west longitude; WP - North West Pacific basin, westward of the dateline; IO - North Indian Ocean basin, north of the Equator between 40 and 100 degrees east longitude; SH - South Pacific Ocean basin and South Indian Ocean basin. CC is the cyclone number. Numbers 01 through 49 are reserved for tropical and subtropical cyclones. A cyclone number is assigned to each tropical or subtropical cyclone in each basin as it develops. Numbers are assigned in chronological order. Numbers 50 through 79 are reserved for internal use by operational forecast centers. Numbers 80 through 89 are reserved for training, exercises and testing. Numbers 90 through 99 are reserved for tropical disturbances having the potential to become tropical or subtropical cyclones. The 90's are assigned sequentially and reused throughout the calendar year. YYYY is the four-digit year. This is calendar year for the northern hemisphere. For the southern hemisphere, the year begins July 1, with calendar year plus one. Reference: Miller, R.J., Schrader, A.J., Sampson, C.R., & Tsui, T.L. (1990), The Automated Tropical Cyclone Forecasting System (ATCF), American Meteorological Society Computer Techniques, 5, 653 - 660.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

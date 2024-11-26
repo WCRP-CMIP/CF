@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_y_stress_at_sea_ice_base",
-  "@type": "standard-name",
-  "name": "upward_y_stress_at_sea_ice_base",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Upward y\" indicates the ZY component of a tensor. An upward y-ward stress is an upward flux of momentum, which accelerates the upper medium in the positive y direction and the lower medium in the negative y direction.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

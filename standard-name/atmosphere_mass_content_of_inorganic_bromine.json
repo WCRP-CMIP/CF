@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_mass_content_of_inorganic_bromine",
-  "@type": "standard-name",
-  "name": "atmosphere_mass_content_of_inorganic_bromine",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. \"Inorganic bromine\", sometimes referred to as Bry, describes a family of chemical species which result from the degradation of source gases containing bromine (halons, methyl bromide, VSLS) and natural inorganic bromine sources such as volcanoes, sea salt and other aerosols. \"Inorganic bromine\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names that use the term \"brox\" are used for quantities that contain all inorganic bromine species except HBr and BrONO2.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

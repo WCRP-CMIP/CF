@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/smoke",
-  "@type": "area-type-table",
-  "name": "smoke",
-  "description": "An area_type of \"smoke\" indicates that smoke aerosol is present at some level in the atmospheric column above an area on the surface of the Earth."
-}

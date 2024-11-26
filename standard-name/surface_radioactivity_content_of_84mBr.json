@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_84mBr",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_84mBr",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Br\" means the element \"bromine\" and \"84mBr\" is the metastable state of the isotope \"bromine-84\" with a half-life of 4.16e-03 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

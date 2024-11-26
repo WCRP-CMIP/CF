@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/change_over_time_in_thermal_energy_content_of_vegetation_and_litter_and_soil",
-  "@type": "standard-name",
-  "name": "change_over_time_in_thermal_energy_content_of_vegetation_and_litter_and_soil",
-  "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Content\" indicates a quantity per unit area. Thermal energy is the total vibrational energy, kinetic and potential, of all the molecules and atoms in a substance. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used.",
-  "canonical_units": "J m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_age_since_surface_contact",
-  "@type": "standard-name",
-  "name": "sea_water_age_since_surface_contact",
-  "description": "\"Sea water age since surface contact\" means the length of time elapsed since the sea water in a grid cell was last in the surface level of an ocean model.",
-  "canonical_units": "year",
-  "amip": null,
-  "grib": null
-}

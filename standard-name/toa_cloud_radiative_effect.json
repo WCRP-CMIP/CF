@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/toa_cloud_radiative_effect",
-  "@type": "standard-name",
-  "name": "toa_cloud_radiative_effect",
-  "description": "The abbreviation \"toa\" means top of atmosphere. Cloud radiative effect is also commonly known as \"cloud radiative forcing\". It is the sum of the quantities with standard names toa_shortwave_cloud_radiative_effect and toa_longwave_cloud_radiative_effect. A positive radiative forcing or radiative effect is equivalent to a downward radiative flux and contributes to a warming of the earth system.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

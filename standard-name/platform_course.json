@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/platform_course",
-  "@type": "standard-name",
-  "name": "platform_course",
-  "description": "Course is the clockwise angle with respect to North of the nominal forward motion direction of the platform (not necessarily the same as the direction in which it is pointing, called \"platform_orientation\"). A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

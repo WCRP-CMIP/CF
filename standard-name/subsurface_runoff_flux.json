@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/subsurface_runoff_flux",
-  "@type": "standard-name",
-  "name": "subsurface_runoff_flux",
-  "description": "Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

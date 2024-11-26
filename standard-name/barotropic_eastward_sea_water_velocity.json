@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/barotropic_eastward_sea_water_velocity",
-  "@type": "standard-name",
-  "name": "barotropic_eastward_sea_water_velocity",
-  "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward).",
-  "canonical_units": "m s-1",
-  "amip": null,
-  "grib": null
-}

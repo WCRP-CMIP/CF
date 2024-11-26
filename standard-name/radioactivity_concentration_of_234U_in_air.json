@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_234U_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_234U_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"U\" means the element \"uranium\" and \"234U\" is the isotope \"uranium-234\" with a half-life of 9.02e+07 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

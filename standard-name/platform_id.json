@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/platform_id",
-  "@type": "standard-name",
-  "name": "platform_id",
-  "description": "A variable with the standard name of platform_id contains strings which help to identify the platform from which an observation was made. For example, this may be a WMO station identification number. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_222Rn",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_222Rn",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rn\" means the element \"radon\" and \"222Rn\" is the isotope \"radon-222\" with a half-life of 3.82e+00 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

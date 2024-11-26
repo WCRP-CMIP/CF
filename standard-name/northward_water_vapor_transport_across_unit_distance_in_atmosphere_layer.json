@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/northward_water_vapor_transport_across_unit_distance_in_atmosphere_layer",
-  "@type": "standard-name",
-  "name": "northward_water_vapor_transport_across_unit_distance_in_atmosphere_layer",
-  "description": "\"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport.",
-  "canonical_units": "kg m-1 s-1",
-  "amip": null,
-  "grib": null
-}

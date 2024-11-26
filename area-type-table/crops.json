@@ -1,6 +1,0 @@
-{
-  "@id": "cf:area-type-table/crops",
-  "@type": "area-type-table",
-  "name": "crops",
-  "description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops."
-}

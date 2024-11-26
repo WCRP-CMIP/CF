@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/coriolis_parameter",
-  "@type": "standard-name",
-  "name": "coriolis_parameter",
-  "description": "The Coriolis parameter is twice the component of the earth's angular velocity about the local vertical i.e. 2 W sin L, where L is latitude and W the angular speed of the earth.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

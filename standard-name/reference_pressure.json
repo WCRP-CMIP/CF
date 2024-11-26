@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/reference_pressure",
-  "@type": "standard-name",
-  "name": "reference_pressure",
-  "description": "A constant pressure value, typically representative of mean sea level pressure, which can be used in defining coordinates or functions of state.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/height_above_mean_sea_level",
-  "@type": "standard-name",
-  "name": "height_above_mean_sea_level",
-  "description": "\"Height_above_X\" means the vertical distance above the named surface X. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

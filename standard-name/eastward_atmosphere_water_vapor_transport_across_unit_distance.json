@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/eastward_atmosphere_water_vapor_transport_across_unit_distance",
-  "@type": "standard-name",
-  "name": "eastward_atmosphere_water_vapor_transport_across_unit_distance",
-  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport.",
-  "canonical_units": "kg m-1 s-1",
-  "amip": null,
-  "grib": null
-}

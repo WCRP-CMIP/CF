@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/soil_density",
-  "@type": "standard-name",
-  "name": "soil_density",
-  "description": "The density of the soil in its natural condition. Also known as bulk density. The density of a substance is its mass per unit volume.",
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

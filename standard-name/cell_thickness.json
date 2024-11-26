@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/cell_thickness",
-  "@type": "standard-name",
-  "name": "cell_thickness",
-  "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

@@ -2,6 +2,8 @@ import urllib.request
 import json,os,sys
 import xml.etree.ElementTree as ET
 
+base= 'data_descriptors/'
+
 
 def get_github_directories(owner, repo, path=''):
     """
@@ -107,8 +109,9 @@ if int(current[0] or -1) < latest:
     for i in json_data:
         
         out = {
-            "@id":f'cf:standard_name/{i["id"]}',
-            "@type": "standard-name",
+            "@context":'_context_',
+            "id":f'standard_name/{i["id"]}',
+            "type": "standard_name",
             "name": i["id"],
             "description": i["description"],
             "canonical_units": i.get("canonical_units", None),
@@ -116,7 +119,7 @@ if int(current[0] or -1) < latest:
             "grib": i.get("grib", None),            
         }
         
-        json.dump(out,open(f'standard-name/{i["id"]}.json', 'w'), indent=2)
+        json.dump(out,open(f'{base}standard_name/{i["id"]}.json', 'w'), indent=2)
         
 directories2 = get_github_directories('cf-convention', 'cf-convention.github.io', f'Data/area-type-table/')
 
@@ -135,22 +138,25 @@ if int(current[1] or -1) < latest2:
     for i in json_data2:
         
         out = {
-            "@id":f'cf:area-type-table/{i["id"]}',
-            "@type": "area-type-table",
+            "@context":'_context_',
+            "id":f'cf:area-type-table/{i["id"]}',
+            "type": "area-type-table",
             "name": i["id"],
             "description": i["description"],   
         }
         
-        json.dump(out,open(f'area-type-table/{i["id"]}.json', 'w'), indent=2)
+        json.dump(out,open(f'{base}area_type_table/{i["id"]}.json', 'w'), indent=2)
         
 
 tag = f'{latest}.{latest2}'
 if tag != current:
     
     
-    print(os.popen("mkdir -p compiled; updateld --exclude-dirs='compiled' --override --base-dir='./' --type-prefix='cf'").read())
+    # print(os.popen("mkdir -p compiled; updateld --exclude-dirs='compiled' --override --base-dir='./' --type-prefix='cf'").read())
 
-    print(os.popen('combine-graphs compiled/graph_data . graph ./scripts').read())
+    # print(os.popen('combine-graphs compiled/graph_data . graph ./scripts').read())
+    
+    print(os.popen('update_all').read())
     
     
     

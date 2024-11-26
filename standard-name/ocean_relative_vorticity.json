@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_relative_vorticity",
-  "@type": "standard-name",
-  "name": "ocean_relative_vorticity",
-  "description": "Relative vorticity is the upward component of the relative vorticity vector i.e. the component which arises from horizontal velocity.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

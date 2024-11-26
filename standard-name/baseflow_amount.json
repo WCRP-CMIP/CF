@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/baseflow_amount",
-  "@type": "standard-name",
-  "name": "baseflow_amount",
-  "description": "\"Baseflow\" is subsurface runoff which takes place below the level of the water table. Runoff is the liquid water which drains from land. \"Amount\" means mass per unit area.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

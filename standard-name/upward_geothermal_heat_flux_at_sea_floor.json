@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_geothermal_heat_flux_at_sea_floor",
-  "@type": "standard-name",
-  "name": "upward_geothermal_heat_flux_at_sea_floor",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

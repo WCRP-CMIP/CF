@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_obukhov_length",
-  "@type": "standard-name",
-  "name": "ocean_obukhov_length",
-  "description": "The depth in the ocean, L, that buoyant production or destruction of turbulent energy balances the turbulent kinetic energy: L = -u*3 / (kB0), where u* is the oceanic surface frictional velocity, k is the von Karman constant, and B0 is the oceanic surface buoyancy flux. If the buoyancy flux is destabilizing, L is negative.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

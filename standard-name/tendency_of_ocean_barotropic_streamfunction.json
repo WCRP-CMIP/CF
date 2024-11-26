@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_ocean_barotropic_streamfunction",
-  "@type": "standard-name",
-  "name": "tendency_of_ocean_barotropic_streamfunction",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.",
-  "canonical_units": "m3 s-2",
-  "amip": null,
-  "grib": null
-}

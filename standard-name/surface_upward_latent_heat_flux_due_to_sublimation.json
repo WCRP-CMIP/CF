@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_upward_latent_heat_flux_due_to_sublimation",
-  "@type": "standard-name",
-  "name": "surface_upward_latent_heat_flux_due_to_sublimation",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The surface latent heat flux is the exchange of heat between the surface and the air on account of evaporation (including sublimation). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Sublimation is the conversion of solid into vapor.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

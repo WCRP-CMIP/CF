@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_eastward_wind_due_to_advection_by_northward_transformed_eulerian_mean_air_velocity",
-  "@type": "standard-name",
-  "name": "tendency_of_eastward_wind_due_to_advection_by_northward_transformed_eulerian_mean_air_velocity",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The \"Transformed Eulerian Mean\" refers to a formulation of the mean equations which incorporates some eddy terms into the definition of the mean, described in Andrews et al (1987): Middle Atmospheric Dynamics. Academic Press.",
-  "canonical_units": "m s-2",
-  "amip": null,
-  "grib": null
-}

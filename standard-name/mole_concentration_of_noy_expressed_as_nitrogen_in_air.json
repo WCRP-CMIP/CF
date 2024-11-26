@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_concentration_of_noy_expressed_as_nitrogen_in_air",
-  "@type": "standard-name",
-  "name": "mole_concentration_of_noy_expressed_as_nitrogen_in_air",
-  "description": "\"Mole concentration\" means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Noy\" describes a family of chemical species. The family usually includes atomic nitrogen (N), nitrogen monoxide (NO), nitrogen dioxide (NO2), dinitrogen pentoxide (N2O5), nitric acid (HNO3), peroxynitric acid (HNO4), bromine nitrate (BrONO2) , chlorine nitrate (ClONO2) and organic nitrates (most notably peroxyacetyl nitrate, sometimes referred to as PAN, (CH3COO2NO2)). The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.",
-  "canonical_units": "mol m-3",
-  "amip": null,
-  "grib": null
-}

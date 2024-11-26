@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mixed_layer_thickness_defined_by_vertical_tracer_diffusivity_threshold",
-  "@type": "standard-name",
-  "name": "ocean_mixed_layer_thickness_defined_by_vertical_tracer_diffusivity_threshold",
-  "description": "\"Thickness\" means the vertical extent of a layer. The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum. The diffusivity may be very different in the vertical and horizontal directions. The diffusivity threshold should be specified by associating a coordinate variable or scalar coordinate variable with the data variable and giving the coordinate variable a standard name of ocean_vertical_tracer_diffusivity.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

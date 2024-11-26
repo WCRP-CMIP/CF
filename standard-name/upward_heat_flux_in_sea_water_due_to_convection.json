@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/upward_heat_flux_in_sea_water_due_to_convection",
-  "@type": "standard-name",
-  "name": "upward_heat_flux_in_sea_water_due_to_convection",
-  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

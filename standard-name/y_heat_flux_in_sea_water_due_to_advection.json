@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/y_heat_flux_in_sea_water_due_to_advection",
-  "@type": "standard-name",
-  "name": "y_heat_flux_in_sea_water_due_to_advection",
-  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

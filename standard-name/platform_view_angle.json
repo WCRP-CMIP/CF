@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/platform_view_angle",
-  "@type": "standard-name",
-  "name": "platform_view_angle",
-  "description": "Platform view angle is the angle between the line of sight from the platform and the direction straight vertically down. Zero view angle means looking directly beneath the platform. There is no standardized sign convention for platform_view_angle. A standard name also exists for sensor_view_angle. For some viewing geometries the sensor and the platform cannot be assumed to be close enough to neglect the difference in calculated view angle. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

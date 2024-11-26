@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_concentration_of_alkenes_in_air",
-  "@type": "standard-name",
-  "name": "mass_concentration_of_alkenes_in_air",
-  "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y.  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. Alkenes are unsaturated hydrocarbons as they contain chemical double bonds between adjacent carbon atoms.  Alkenes contain only hydrogen and carbon combined in the general proportions C(n)H(2n); \"alkenes\" is the term used in standard names to describe the group of chemical species having this common structure that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models.  Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names exist for some individual alkene species, e.g., ethene and propene.",
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

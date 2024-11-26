@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/biological_taxon_name",
-  "@type": "standard-name",
-  "name": "biological_taxon_name",
-  "description": "\"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. The quantity with standard name biological_taxon_name is the human-readable label for the taxon such as Calanus finmarchicus. The label should be registered in either WoRMS (http://www.marinespecies.org) or ITIS (https://www.itis.gov/) and spelled exactly as registered. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
-}

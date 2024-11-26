@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/downward_y_stress_correction_at_sea_water_surface",
-  "@type": "standard-name",
-  "name": "downward_y_stress_correction_at_sea_water_surface",
-  "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"y\" indicates a vector component along the grid y-axis, positive with increasing y. A downward y stress is a downward flux of momentum towards the positive direction of the model's y-axis. A positive correction is downward i.e. added to the ocean. The phrase \"sea water surface\" means the upper boundary of the liquid portion of an ocean or sea, including the boundary to floating ice if present.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

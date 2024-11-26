@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/nfdrs_1000_hour_fuel_moisture",
-  "@type": "standard-name",
-  "name": "nfdrs_1000_hour_fuel_moisture",
-  "description": "1000 hour fuel moisture (FM1000) represents the modelled moisture content in the dead fuels in the 3 to 8 inch diameter class and the layer of the forest floor about 4 inches below the surface. The value is based on a running 7-day average. The 1000-hour time lag fuel moisture is a function of length of day (as influenced by latitude and calendar date), daily temperature and relative humidity extremes (maximum and minimum values) and the 24-hour precipitation duration values for a 7-day period. It is a component in the US National Fire Danger Rating System. The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute.",
-  "canonical_units": "%",
-  "amip": null,
-  "grib": null
-}

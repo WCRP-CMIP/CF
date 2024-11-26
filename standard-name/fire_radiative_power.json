@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/fire_radiative_power",
-  "@type": "standard-name",
-  "name": "fire_radiative_power",
-  "description": "The product of the irradiance (the power per unit area) of a biomass fire and the corresponding fire area. A data variable containing the area affected by fire should be given the standard name fire_area.",
-  "canonical_units": "W",
-  "amip": null,
-  "grib": null
-}

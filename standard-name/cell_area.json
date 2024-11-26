@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/cell_area",
-  "@type": "standard-name",
-  "name": "cell_area",
-  "description": "\"Cell_area\" is the horizontal area of a gridcell.",
-  "canonical_units": "m2",
-  "amip": null,
-  "grib": null
-}

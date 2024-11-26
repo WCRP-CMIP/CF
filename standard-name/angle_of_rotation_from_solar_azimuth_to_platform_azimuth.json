@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/angle_of_rotation_from_solar_azimuth_to_platform_azimuth",
-  "@type": "standard-name",
-  "name": "angle_of_rotation_from_solar_azimuth_to_platform_azimuth",
-  "description": "An angle of rotation is reckoned positive in the anticlockwise direction. The \"angle_of_rotation_from_solar_azimuth_to_platform_azimuth\" is the angle of rotation between the solar azimuth angle and the platform azimuth angle. Solar azimuth angle is the horizontal angle between the line of sight from the observation point to the sun and a reference direction at the observation point, which is often due north. The angle is measured clockwise, starting from the reference direction. Platform azimuth angle is the horizontal angle between the line of sight from the observation point to the platform and a reference direction at the observation point, which is often due north. The angle is measured clockwise, starting from the reference direction. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

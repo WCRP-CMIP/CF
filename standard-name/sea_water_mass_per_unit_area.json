@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_mass_per_unit_area",
-  "@type": "standard-name",
-  "name": "sea_water_mass_per_unit_area",
-  "description": "Sea_water_mass_per_unit_area is the mass per unit area of the sea water contained within each grid cell.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

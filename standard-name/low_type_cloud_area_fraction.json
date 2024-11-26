@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/low_type_cloud_area_fraction",
-  "@type": "standard-name",
-  "name": "low_type_cloud_area_fraction",
-  "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. Low type clouds are: Stratus, Stratocumulus, Cumulus, Cumulonimbus. X_type_cloud_area_fraction is generally determined on the basis of cloud type, though Numerical Weather Prediction (NWP) models often calculate them based on the vertical location of the cloud. For the cloud area fraction between specified levels in the atmosphere, standard names including \"cloud_area_fraction_in_atmosphere_layer\" are used. Standard names referring only to \"cloud_area_fraction\" should be used for quantities for the whole atmosphere column. Cloud area fraction is also called \"cloud amount\" and \"cloud cover\".",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

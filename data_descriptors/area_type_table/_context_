@@ -1,0 +1,8 @@
+{
+  "@context":["../_context_",{
+    "CFAreaTypeTable": {
+      "@id": "CFAreaTypeTable",
+      "@type": "@id"
+    }
+  }]
+}

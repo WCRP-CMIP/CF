@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_flux_out_of_sea_water_due_to_newtonian_relaxation",
-  "@type": "standard-name",
-  "name": "water_flux_out_of_sea_water_due_to_newtonian_relaxation",
-  "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The water_flux_out_of_sea_water_due_to_newtonian_relaxation is the freshwater leaving as a result of the Newtonian relaxation of the sea surface salinity. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

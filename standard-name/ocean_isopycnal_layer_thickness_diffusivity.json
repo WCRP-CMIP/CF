@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_isopycnal_layer_thickness_diffusivity",
-  "@type": "standard-name",
-  "name": "ocean_isopycnal_layer_thickness_diffusivity",
-  "description": null,
-  "canonical_units": "m2 s-1",
-  "amip": null,
-  "grib": null
-}

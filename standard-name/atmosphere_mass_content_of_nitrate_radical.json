@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_mass_content_of_nitrate_radical",
-  "@type": "standard-name",
-  "name": "atmosphere_mass_content_of_nitrate_radical",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The chemical formula for nitrate is NO3. In chemistry, a \"radical\" is a highly reactive, and therefore short lived, species.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

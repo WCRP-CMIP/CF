@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_parameterized_mesoscale_eddy_diffusion",
-  "@type": "standard-name",
-  "name": "tendency_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_parameterized_mesoscale_eddy_diffusion",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea water multiplied by the potential temperature of the sea water in the grid cell and integrated over depth. If used for a layer heat content, coordinate bounds should be used to define the extent of the layers. If no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is sea water the integral is assumed to be calculated over the full depth of the ocean. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Parameterized mesoscale eddy diffusive processes include diffusion along neutral directions in the interior of the ocean and horizontal diffusion in the surface boundary layer. The processes occur on a spatial scale of many tens of kilometres and an evolutionary time of weeks.",
-  "canonical_units": "W m-2",
-  "amip": null,
-  "grib": null
-}

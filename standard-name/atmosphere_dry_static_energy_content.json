@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_dry_static_energy_content",
-  "@type": "standard-name",
-  "name": "atmosphere_dry_static_energy_content",
-  "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. Dry static energy is the sum of enthalpy and potential energy (itself the sum of gravitational and centripetal potential energy). Enthalpy can be written either as (1) CpT, where Cp is heat capacity at constant pressure, T is absolute temperature, or (2) U+pV, where U is internal energy, p is pressure and V is volume.",
-  "canonical_units": "J m-2",
-  "amip": null,
-  "grib": null
-}

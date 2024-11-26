@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/scattering_angle",
-  "@type": "standard-name",
-  "name": "scattering_angle",
-  "description": "The scattering angle is that between the direction of the beam of incident radiation and the direction into which it is scattered.",
-  "canonical_units": "rad",
-  "amip": null,
-  "grib": null
-}

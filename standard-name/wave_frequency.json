@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/wave_frequency",
-  "@type": "standard-name",
-  "name": "wave_frequency",
-  "description": "Frequency is the number of oscillations of a wave per unit time.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
-}

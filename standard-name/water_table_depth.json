@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_table_depth",
-  "@type": "standard-name",
-  "name": "water_table_depth",
-  "description": "Depth is the vertical distance below the surface. The water table is the surface below which the soil is saturated with water such that all pore spaces are filled.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

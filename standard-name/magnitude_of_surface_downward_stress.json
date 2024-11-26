@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/magnitude_of_surface_downward_stress",
-  "@type": "standard-name",
-  "name": "magnitude_of_surface_downward_stress",
-  "description": "The phrase \"magnitude_of_X\" means magnitude of a vector X. The surface called \"surface\" means the lower boundary of the atmosphere. \"Surface stress\" means the shear stress (force per unit area) exerted by the wind at the surface. A downward stress is a downward flux of momentum. Over large bodies of water, wind stress can drive near-surface currents. \"Downward\" indicates a vector component which is positive when directed downward (negative upward).",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
-}

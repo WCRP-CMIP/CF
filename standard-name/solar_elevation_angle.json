@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/solar_elevation_angle",
-  "@type": "standard-name",
-  "name": "solar_elevation_angle",
-  "description": "Solar elevation angle is the angle between the line of sight to the sun and the local horizontal.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

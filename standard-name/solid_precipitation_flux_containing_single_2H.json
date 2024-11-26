@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/solid_precipitation_flux_containing_single_2H",
-  "@type": "standard-name",
-  "name": "solid_precipitation_flux_containing_single_2H",
-  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Solid precipitation refers to the precipitation of water in the solid phase. Water in the atmosphere exists in one of three phases: solid, liquid or vapor. The solid phase can exist as snow, hail, graupel, cloud ice, or as a component of aerosol. The chemical formula for water is H2O. \"H\" means the element \"hydrogen\" and \"2H\" is the stable isotope \"hydrogen-2\", usually called \"deuterium\". The construction \"X_containing_single_Y\" means the standard name refers to only that part of X composed of molecules containing a single atom of isotope Y.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

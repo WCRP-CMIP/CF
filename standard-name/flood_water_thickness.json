@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/flood_water_thickness",
-  "@type": "standard-name",
-  "name": "flood_water_thickness",
-  "description": "The flood_water_thickness is the vertical distance between the surface of the flood water and the surface of the solid ground, as measured at a given point in space. The standard name ground_level_altitude is used for a data variable giving the geometric height of the ground surface above the geoid. \"Flood water\" is water that covers land which is normally not covered by water.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

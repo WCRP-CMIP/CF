@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/wind_gust_from_direction",
-  "@type": "standard-name",
-  "name": "wind_gust_from_direction",
-  "description": "The phrase \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. A gust is a sudden brief period of high wind speed. In an observed time series of wind speed, the gust wind speed can be indicated by a cell_methods of \"maximum\" for the time-interval. In an atmospheric model which has a parametrised calculation of gustiness, the gust wind speed may be separately diagnosed from the wind speed. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\".) In meteorological reports, the direction of the wind vector is usually (but not always) given as the direction from which it is blowing (\"wind_from_direction\") (westerly, northerly, etc.). In other contexts, such as atmospheric modelling, it is often natural to give the direction in the usual manner of vectors as the heading or the direction to which it is blowing (\"wind_to_direction\") (eastward, southward, etc.).",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

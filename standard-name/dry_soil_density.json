@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/dry_soil_density",
-  "@type": "standard-name",
-  "name": "dry_soil_density",
-  "description": "The density of the soil after oven drying until constant mass is reached. Volume is determined from the field sample volume. The density of a substance is its mass per unit volume.",
-  "canonical_units": "kg m-3",
-  "amip": null,
-  "grib": null
-}

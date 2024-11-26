@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/reference_epoch",
-  "@type": "standard-name",
-  "name": "reference_epoch",
-  "description": "The period of time over which a parameter has been summarised (usually by averaging) in order to provide a reference (baseline) against which data has been compared. When a coordinate, scalar coordinate, or auxiliary coordinate variable with this standard name has bounds, then the bounds specify the beginning and end of the time period over which the reference was determined. If the reference represents an instant in time, rather than a period, then bounds may be omitted. It is not the time for which the actual measurements are valid; the standard name of time should be used for that.",
-  "canonical_units": "s",
-  "amip": null,
-  "grib": null
-}

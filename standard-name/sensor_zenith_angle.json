@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sensor_zenith_angle",
-  "@type": "standard-name",
-  "name": "sensor_zenith_angle",
-  "description": "sensor_zenith_angle is the angle between the line of sight to the sensor and the local zenith at the observation target. This angle is measured starting from directly overhead and its range is from zero (directly overhead the observation target) to 180 degrees (directly below the observation target). Local zenith is a line perpendicular to the Earth's surface at a given location. \"Observation target\" means a location on the Earth defined by the sensor performing the observations.  A standard name also exists for platform_zenith_angle, where \"platform\" refers to the vehicle from which observations are made e.g. aeroplane, ship, or satellite. For some viewing geometries the sensor and the platform cannot be assumed to be close enough to neglect the difference in calculated zenith angle.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

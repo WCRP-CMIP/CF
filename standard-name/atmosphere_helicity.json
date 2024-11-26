@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/atmosphere_helicity",
-  "@type": "standard-name",
-  "name": "atmosphere_helicity",
-  "description": "One-half the scalar product of the air velocity and vorticity vectors, where vorticity refers to the standard name atmosphere_upward_absolute_vorticity. Helicity is proportional to the strength of the flow, the amount of vertical wind shear, and the amount of turning in the flow.",
-  "canonical_units": "m2 s-2",
-  "amip": null,
-  "grib": null
-}

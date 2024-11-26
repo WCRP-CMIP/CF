@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mole_fraction_of_hcfc141b_in_air",
-  "@type": "standard-name",
-  "name": "mole_fraction_of_hcfc141b_in_air",
-  "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for HCFC141b is CH3CCl2F. The IUPAC name for HCFC141b is 1,1-dichloro-1-fluoroethane.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

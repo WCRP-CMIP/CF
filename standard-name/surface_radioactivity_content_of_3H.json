@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_3H",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_3H",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"H\" means the element \"hydrogen\" and \"3H\" is the isotope \"hydrogen-3\" with a half-life of 4.51e+03 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

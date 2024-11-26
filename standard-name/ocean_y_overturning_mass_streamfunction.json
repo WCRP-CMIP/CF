@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_y_overturning_mass_streamfunction",
-  "@type": "standard-name",
-  "name": "ocean_y_overturning_mass_streamfunction",
-  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. In contrast to the quantity with standard name ocean_meridional_overturning_streamfunction, this quantity includes all physical processes, resolved or parameterized, that impact mass/volume transport. Thus it includes contributions from the parameterized eddy velocity.",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

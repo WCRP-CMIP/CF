@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/surface_radioactivity_content_of_226Ra",
-  "@type": "standard-name",
-  "name": "surface_radioactivity_content_of_226Ra",
-  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ra\" means the element \"radium\" and \"226Ra\" is the isotope \"radium-226\" with a half-life of 5.86e+05 days.",
-  "canonical_units": "Bq m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ground_slope_direction",
-  "@type": "standard-name",
-  "name": "ground_slope_direction",
-  "description": "Commonly known as aspect, it is the azimuth (in degrees) of a terrain slope, taken as the direction with the greatest downslope change in elevation on the ground (earth) surface. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
-}

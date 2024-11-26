@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sunlit_binary_mask",
-  "@type": "standard-name",
-  "name": "sunlit_binary_mask",
-  "description": "X_binary_mask has 1 where condition X is met, 0 elsewhere.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/tendency_of_atmosphere_moles_of_toluene",
-  "@type": "standard-name",
-  "name": "tendency_of_atmosphere_moles_of_toluene",
-  "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for toluene is C6H5CH3. Toluene has the same structure as benzene, except that one of the hydrogen atoms is replaced by a methyl group. The IUPAC name for toluene is methylbenzene.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
-}

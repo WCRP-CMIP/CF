@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_water_alkalinity_per_unit_mass_expressed_as_mole_equivalent",
-  "@type": "standard-name",
-  "name": "sea_water_alkalinity_per_unit_mass_expressed_as_mole_equivalent",
-  "description": "The standard name sea_water_alkalinity_per_unit_mass_expressed_as_mole_equivalent is the total alkalinity equivalent concentration (including carbonate, nitrogen, silicate, and borate components) expressed as the number of moles of alkalinity per unit mass of seawater. The phrase \"expressed_as\" is used in the construction \"A_expressed_as_B\", where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The equivalent term in the NERC P01 Parameter Usage Vocabulary may be found at http://vocab.nerc.ac.uk/collection/P01/current/MDMAP014/1/.",
-  "canonical_units": "mol kg-1",
-  "amip": null,
-  "grib": null
-}

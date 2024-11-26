@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_vertical_momentum_diffusivity",
-  "@type": "standard-name",
-  "name": "ocean_vertical_momentum_diffusivity",
-  "description": "\"Vertical momentum diffusivity\" means the vertical component of the diffusivity of momentum due to motion which is not resolved on the grid scale of the model.",
-  "canonical_units": "m2 s-1",
-  "amip": null,
-  "grib": null
-}

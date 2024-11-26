@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/water_potential_evapotranspiration_amount",
-  "@type": "standard-name",
-  "name": "water_potential_evapotranspiration_amount",
-  "description": "Potential evapotranspiration is the rate at which evapotranspiration would occur under ambient conditions from a uniformly vegetated area when the water supply is not limiting. \"Evapotranspiration\" means all water vapor fluxes into the atmosphere from the surface: liquid evaporation, sublimation and transpiration. Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\"). Amount means mass per unit area.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

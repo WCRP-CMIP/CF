@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_surface_wave_energy_flux",
-  "@type": "standard-name",
-  "name": "sea_surface_wave_energy_flux",
-  "description": "Wave energy flux, or wave power, is the average rate of transfer of wave energy through a vertical plane of unit width perpendicular to the direction of wave propagation. It should be understood as omnidirectional, or as the sum of all wave power components regardless of direction. In deep water conditions, the wave energy flux can be obtained with the water density, the wave significant height and the energy period.",
-  "canonical_units": "W m-1",
-  "amip": null,
-  "grib": null
-}

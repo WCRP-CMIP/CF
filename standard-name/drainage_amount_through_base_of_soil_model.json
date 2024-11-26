@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/drainage_amount_through_base_of_soil_model",
-  "@type": "standard-name",
-  "name": "drainage_amount_through_base_of_soil_model",
-  "description": "The quantity with standard name drainage_amount_through_base_of_soil_model is the amount of water that drains through the bottom of a soil column extending from the surface to a specified depth. \"Drainage\" is the process of removal of excess water from soil by gravitational flow. \"Amount\" means mass per unit area. A vertical coordinate variable or scalar coordinate with standard name \"depth\" should be used to specify the depth to which the soil column extends.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

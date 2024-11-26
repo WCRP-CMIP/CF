@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_fraction_of_shallow_convective_cloud_liquid_water_in_air",
-  "@type": "standard-name",
-  "name": "mass_fraction_of_shallow_convective_cloud_liquid_water_in_air",
-  "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Shallow convective cloud is nonprecipitating cumulus cloud with a cloud top below 3000m above the surface produced by the convection schemes in an atmosphere model. Some atmosphere models differentiate between shallow and deep convection. \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

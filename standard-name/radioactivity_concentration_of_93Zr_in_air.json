@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/radioactivity_concentration_of_93Zr_in_air",
-  "@type": "standard-name",
-  "name": "radioactivity_concentration_of_93Zr_in_air",
-  "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Zr\" means the element \"zirconium\" and \"93Zr\" is the isotope \"zirconium-93\" with a half-life of 3.47e+08 days.",
-  "canonical_units": "Bq m-3",
-  "amip": null,
-  "grib": null
-}

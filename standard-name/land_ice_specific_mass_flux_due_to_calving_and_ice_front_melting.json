@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/land_ice_specific_mass_flux_due_to_calving_and_ice_front_melting",
-  "@type": "standard-name",
-  "name": "land_ice_specific_mass_flux_due_to_calving_and_ice_front_melting",
-  "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Specific mass flux due to calving and ice front melting\" means the change in land ice mass per unit area resulting from iceberg calving and melting on the vertical ice front. A negative value means loss of ice. For an area-average, the cell_methods attribute should be used to specify whether the average is over the area of the whole grid cell or the area of land ice only. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
-  "canonical_units": "kg m-2 s-1",
-  "amip": null,
-  "grib": null
-}

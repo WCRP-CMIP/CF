@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/graupel_fall_amount",
-  "@type": "standard-name",
-  "name": "graupel_fall_amount",
-  "description": "\"Amount\" means mass per unit area. Graupel consists of heavily rimed snow particles, often called snow pellets; often indistinguishable from very small soft hail except for the size convention that hail must have a diameter greater than 5 mm. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Graupel.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/beam_consistency_indicator_from_multibeam_acoustic_doppler_velocity_profiler_in_sea_water",
-  "@type": "standard-name",
-  "name": "beam_consistency_indicator_from_multibeam_acoustic_doppler_velocity_profiler_in_sea_water",
-  "description": "The \"beam_consistency_indicator\" is the degree to which the received acoustic pulse is correlated with the transmitted pulse. It is used as a data quality assessment parameter in ADCP (acoustic doppler current profiler) instruments and is frequently referred to as \"correlation magnitude\". Convention is that the larger the value, the higher the signal to noise ratio and therefore the better the quality of the current vector measurements; the maximum value of the indicator is 128.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

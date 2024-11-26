@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/ocean_mass_y_transport",
-  "@type": "standard-name",
-  "name": "ocean_mass_y_transport",
-  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
-  "canonical_units": "kg s-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sea_floor_depth_below_mean_sea_level",
-  "@type": "standard-name",
-  "name": "sea_floor_depth_below_mean_sea_level",
-  "description": "\"Depth_below_X\" means the vertical distance below the named surface X. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}

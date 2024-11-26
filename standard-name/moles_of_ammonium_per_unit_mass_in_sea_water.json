@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/moles_of_ammonium_per_unit_mass_in_sea_water",
-  "@type": "standard-name",
-  "name": "moles_of_ammonium_per_unit_mass_in_sea_water",
-  "description": "The construction \"moles_of_X_per_unit_mass_in_Y\" is also called \"molality\" of X in Y, where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula of ammonium is NH4. The equivalent term in the NERC P01 Parameter Usage Vocabulary may be found at http://vocab.nerc.ac.uk/collection/P01/current/MDMAP004/3/.",
-  "canonical_units": "mol kg-1",
-  "amip": null,
-  "grib": null
-}

@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/mass_fraction_of_pm2p5_sea_salt_dry_aerosol_particles_expressed_as_cations_in_air",
-  "@type": "standard-name",
-  "name": "mass_fraction_of_pm2p5_sea_salt_dry_aerosol_particles_expressed_as_cations_in_air",
-  "description": "Mass fraction is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. \"Pm2p5 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 2.5 micrometers. The phrase \"sea_salt_cation\" is the term used in standard names to describe collectively the group of cationic species that occur in sea salt. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Sea salt cations are mainly sodium (Na+), but also include potassium (K+), magnesium (Mg2+), calcium (Ca2+) and rarer cations. Where possible, the data variable should be accompanied by a complete description of the ions represented, for example, by using a comment attribute.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
-}

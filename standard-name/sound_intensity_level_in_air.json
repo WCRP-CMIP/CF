@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/sound_intensity_level_in_air",
-  "@type": "standard-name",
-  "name": "sound_intensity_level_in_air",
-  "description": "Sound intensity is the sound energy per unit time per unit area. Sound intensity level in air is expressed on a logarithmic scale with reference to a sound intensity of 1e-12 W m-2. LI = 10 log10(I/I0) where LI is sound intensity level, I is sound intensity and I0 is the reference sound intensity.",
-  "canonical_units": "dB",
-  "amip": null,
-  "grib": null
-}

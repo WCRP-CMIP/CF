@@ -1,9 +1,0 @@
-{
-  "@id": "cf:standard_name/thickness_of_stratiform_rainfall_amount",
-  "@type": "standard-name",
-  "name": "thickness_of_stratiform_rainfall_amount",
-  "description": "\"Amount\" means mass per unit area. The construction thickness_of_[X_]rainfall_amount means the accumulated \"depth\" of rainfall i.e. the thickness of a layer of liquid water having the same mass per unit area as the rainfall amount.  Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
-}
