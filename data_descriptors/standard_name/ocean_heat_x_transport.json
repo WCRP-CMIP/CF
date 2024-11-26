@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/ocean_heat_x_transport",
+  "type": "standard_name",
+  "name": "ocean_heat_x_transport",
+  "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x.",
+  "canonical_units": "W",
+  "amip": null,
+  "grib": null
+}

@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/change_in_mean_sea_level_wrt_solid_surface",
+  "type": "standard_name",
+  "name": "change_in_mean_sea_level_wrt_solid_surface",
+  "description": "The change in local mean sea level relative to the local solid surface, i.e. sea floor. The abbreviation \"wrt\" means \"with respect to\". A positive value means sea level rise.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

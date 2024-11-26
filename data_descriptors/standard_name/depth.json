@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/depth",
+  "type": "standard_name",
+  "name": "depth",
+  "description": "Depth is the vertical distance below the surface.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

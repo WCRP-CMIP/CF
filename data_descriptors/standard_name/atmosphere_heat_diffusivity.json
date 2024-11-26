@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/atmosphere_heat_diffusivity",
+  "type": "standard_name",
+  "name": "atmosphere_heat_diffusivity",
+  "description": null,
+  "canonical_units": "m2 s-1",
+  "amip": null,
+  "grib": null
+}
