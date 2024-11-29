@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "atmosphere_moles_of_ethyne",
-    "type": "standard_name",
-    "name": "atmosphere_moles_of_ethyne",
-    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for ethyne is HC2H.  Ethyne is the IUPAC name for this species, which is also commonly known as acetylene.",
-    "canonical_units": "mol",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/atmosphere_moles_of_ethyne",
+  "type": "standard_name",
+  "name": "atmosphere_moles_of_ethyne",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for ethyne is HC2H.  Ethyne is the IUPAC name for this species, which is also commonly known as acetylene.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
 }

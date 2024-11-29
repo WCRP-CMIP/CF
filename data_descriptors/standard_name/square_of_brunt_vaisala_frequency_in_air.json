@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "square_of_brunt_vaisala_frequency_in_air",
-    "type": "standard_name",
-    "name": "square_of_brunt_vaisala_frequency_in_air",
-    "description": "The phrase \"square_of_X\" means X*X. Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.",
-    "canonical_units": "s-2",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/square_of_brunt_vaisala_frequency_in_air",
+  "type": "standard_name",
+  "name": "square_of_brunt_vaisala_frequency_in_air",
+  "description": "The phrase \"square_of_X\" means X*X. Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.",
+  "canonical_units": "s-2",
+  "amip": null,
+  "grib": null
 }

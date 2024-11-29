@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "shrubs",
-    "type": "area-type-table",
-    "name": "shrubs",
-    "description": "The distinction between trees and shrubs is model dependent."
+  "@context": "_context_",
+  "id": "cf:area-type-table/shrubs",
+  "type": "area-type-table",
+  "name": "shrubs",
+  "description": "The distinction between trees and shrubs is model dependent."
 }

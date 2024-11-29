@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "geopotential",
-    "type": "standard_name",
-    "name": "geopotential",
-    "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",
-    "canonical_units": "m2 s-2",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/geopotential",
+  "type": "standard_name",
+  "name": "geopotential",
+  "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",
+  "canonical_units": "m2 s-2",
+  "amip": null,
+  "grib": null
 }

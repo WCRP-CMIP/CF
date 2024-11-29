@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "all_area_types",
-    "type": "area-type-table",
-    "name": "all_area_types",
-    "description": null
+  "@context": "_context_",
+  "id": "cf:area-type-table/all_area_types",
+  "type": "area-type-table",
+  "name": "all_area_types",
+  "description": null
 }

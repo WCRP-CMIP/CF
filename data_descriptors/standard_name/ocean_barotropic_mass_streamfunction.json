@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "ocean_barotropic_mass_streamfunction",
-    "type": "standard_name",
-    "name": "ocean_barotropic_mass_streamfunction",
-    "description": "The barotropic stream function with the dimensions of volume transport has the standard name ocean_barotropic_streamfunction.",
-    "canonical_units": "kg s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/ocean_barotropic_mass_streamfunction",
+  "type": "standard_name",
+  "name": "ocean_barotropic_mass_streamfunction",
+  "description": "The barotropic stream function with the dimensions of volume transport has the standard name ocean_barotropic_streamfunction.",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
 }

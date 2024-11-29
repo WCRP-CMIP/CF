@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "solar_azimuth_angle",
-    "type": "standard_name",
-    "name": "solar_azimuth_angle",
-    "description": "Solar azimuth angle is the horizontal angle between the line of sight to the sun and a reference direction which is often due north. The angle is measured clockwise.",
-    "canonical_units": "degree",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/solar_azimuth_angle",
+  "type": "standard_name",
+  "name": "solar_azimuth_angle",
+  "description": "Solar azimuth angle is the horizontal angle between the line of sight to the sun and a reference direction which is often due north. The angle is measured clockwise.",
+  "canonical_units": "degree",
+  "amip": null,
+  "grib": null
 }

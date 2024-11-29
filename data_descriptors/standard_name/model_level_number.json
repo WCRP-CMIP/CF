@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "model_level_number",
-    "type": "standard_name",
-    "name": "model_level_number",
-    "description": "Model level number should be understood as equivalent to layer number.",
-    "canonical_units": "1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/model_level_number",
+  "type": "standard_name",
+  "name": "model_level_number",
+  "description": "Model level number should be understood as equivalent to layer number.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
 }

@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "upward_ocean_mass_transport",
-    "type": "standard_name",
-    "name": "upward_ocean_mass_transport",
-    "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).",
-    "canonical_units": "kg s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/upward_ocean_mass_transport",
+  "type": "standard_name",
+  "name": "upward_ocean_mass_transport",
+  "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).",
+  "canonical_units": "kg s-1",
+  "amip": null,
+  "grib": null
 }

@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "bare_ground",
-    "type": "area-type-table",
-    "name": "bare_ground",
-    "description": null
+  "@context": "_context_",
+  "id": "cf:area-type-table/bare_ground",
+  "type": "area-type-table",
+  "name": "bare_ground",
+  "description": null
 }

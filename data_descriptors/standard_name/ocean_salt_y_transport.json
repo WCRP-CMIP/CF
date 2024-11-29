@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "ocean_salt_y_transport",
-    "type": "standard_name",
-    "name": "ocean_salt_y_transport",
-    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. Salt transport refers to the mass of salt being transported.",
-    "canonical_units": "1e-3 kg s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/ocean_salt_y_transport",
+  "type": "standard_name",
+  "name": "ocean_salt_y_transport",
+  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. Salt transport refers to the mass of salt being transported.",
+  "canonical_units": "1e-3 kg s-1",
+  "amip": null,
+  "grib": null
 }

@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "atmosphere_moles_of_atomic_nitrogen",
-    "type": "standard_name",
-    "name": "atmosphere_moles_of_atomic_nitrogen",
-    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical symbol for atomic nitrogen is N.",
-    "canonical_units": "mol",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/atmosphere_moles_of_atomic_nitrogen",
+  "type": "standard_name",
+  "name": "atmosphere_moles_of_atomic_nitrogen",
+  "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical symbol for atomic nitrogen is N.",
+  "canonical_units": "mol",
+  "amip": null,
+  "grib": null
 }

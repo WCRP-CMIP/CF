@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "wave_frequency",
-    "type": "standard_name",
-    "name": "wave_frequency",
-    "description": "Frequency is the number of oscillations of a wave per unit time.",
-    "canonical_units": "s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/wave_frequency",
+  "type": "standard_name",
+  "name": "wave_frequency",
+  "description": "Frequency is the number of oscillations of a wave per unit time.",
+  "canonical_units": "s-1",
+  "amip": null,
+  "grib": null
 }

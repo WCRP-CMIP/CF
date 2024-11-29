@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "atmosphere_horizontal_streamfunction",
-    "type": "standard_name",
-    "name": "atmosphere_horizontal_streamfunction",
-    "description": "\"Horizontal\" indicates that the streamfunction applies to a horizontal velocity field on a particular vertical level.",
-    "canonical_units": "m2 s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/atmosphere_horizontal_streamfunction",
+  "type": "standard_name",
+  "name": "atmosphere_horizontal_streamfunction",
+  "description": "\"Horizontal\" indicates that the streamfunction applies to a horizontal velocity field on a particular vertical level.",
+  "canonical_units": "m2 s-1",
+  "amip": null,
+  "grib": null
 }

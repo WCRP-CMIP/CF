@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "downward_eastward_momentum_flux_in_air",
-    "type": "standard_name",
-    "name": "downward_eastward_momentum_flux_in_air",
-    "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Downward eastward\" indicates the ZX component of a tensor. Momentum flux is dimensionally equivalent to stress and pressure. It is a tensor quantity. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
-    "canonical_units": "Pa",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/downward_eastward_momentum_flux_in_air",
+  "type": "standard_name",
+  "name": "downward_eastward_momentum_flux_in_air",
+  "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Downward eastward\" indicates the ZX component of a tensor. Momentum flux is dimensionally equivalent to stress and pressure. It is a tensor quantity. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+  "canonical_units": "Pa",
+  "amip": null,
+  "grib": null
 }

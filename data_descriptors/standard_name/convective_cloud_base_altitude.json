@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "convective_cloud_base_altitude",
-    "type": "standard_name",
-    "name": "convective_cloud_base_altitude",
-    "description": "cloud_base refers to the base of the lowest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. Convective cloud is that produced by the convection schemes in an atmosphere model.",
-    "canonical_units": "m",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/convective_cloud_base_altitude",
+  "type": "standard_name",
+  "name": "convective_cloud_base_altitude",
+  "description": "cloud_base refers to the base of the lowest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
 }

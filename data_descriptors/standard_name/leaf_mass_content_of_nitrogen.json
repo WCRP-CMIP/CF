@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "leaf_mass_content_of_nitrogen",
-    "type": "standard_name",
-    "name": "leaf_mass_content_of_nitrogen",
-    "description": "\"Content\" indicates a quantity per unit area.",
-    "canonical_units": "kg m-2",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/leaf_mass_content_of_nitrogen",
+  "type": "standard_name",
+  "name": "leaf_mass_content_of_nitrogen",
+  "description": "\"Content\" indicates a quantity per unit area.",
+  "canonical_units": "kg m-2",
+  "amip": null,
+  "grib": null
 }

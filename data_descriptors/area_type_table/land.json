@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "land",
-    "type": "area-type-table",
-    "name": "land",
-    "description": null
+  "@context": "_context_",
+  "id": "cf:area-type-table/land",
+  "type": "area-type-table",
+  "name": "land",
+  "description": null
 }

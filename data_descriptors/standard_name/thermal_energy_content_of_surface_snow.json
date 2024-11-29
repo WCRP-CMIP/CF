@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "thermal_energy_content_of_surface_snow",
-    "type": "standard_name",
-    "name": "thermal_energy_content_of_surface_snow",
-    "description": "\"Content\" indicates a quantity per unit area. Thermal energy is the total vibrational energy, kinetic and potential, of all the molecules and atoms in a substance. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
-    "canonical_units": "J m-2",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/thermal_energy_content_of_surface_snow",
+  "type": "standard_name",
+  "name": "thermal_energy_content_of_surface_snow",
+  "description": "\"Content\" indicates a quantity per unit area. Thermal energy is the total vibrational energy, kinetic and potential, of all the molecules and atoms in a substance. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+  "canonical_units": "J m-2",
+  "amip": null,
+  "grib": null
 }

@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "time",
-    "type": "standard_name",
-    "name": "time",
-    "description": null,
-    "canonical_units": "s",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/time",
+  "type": "standard_name",
+  "name": "time",
+  "description": null,
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
 }

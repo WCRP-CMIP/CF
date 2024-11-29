@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "spectral_width_of_radio_wave_in_air_scattered_by_air",
-    "type": "standard_name",
-    "name": "spectral_width_of_radio_wave_in_air_scattered_by_air",
-    "description": "Frequency width of the radio wave, that was transmitted by an instrument and propagates in the air where it's scattered by the air due to which its properties change, and it is received by an instrument. The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities in the air). A standard name referring to frequency spectra width of the signal received at the instrument.",
-    "canonical_units": "Hz",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/spectral_width_of_radio_wave_in_air_scattered_by_air",
+  "type": "standard_name",
+  "name": "spectral_width_of_radio_wave_in_air_scattered_by_air",
+  "description": "Frequency width of the radio wave, that was transmitted by an instrument and propagates in the air where it's scattered by the air due to which its properties change, and it is received by an instrument. The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities in the air). A standard name referring to frequency spectra width of the signal received at the instrument.",
+  "canonical_units": "Hz",
+  "amip": null,
+  "grib": null
 }

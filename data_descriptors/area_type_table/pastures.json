@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "pastures",
-    "type": "area-type-table",
-    "name": "pastures",
-    "description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland."
+  "@context": "_context_",
+  "id": "cf:area-type-table/pastures",
+  "type": "area-type-table",
+  "name": "pastures",
+  "description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland."
 }

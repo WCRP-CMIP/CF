@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "sea_water_electrical_conductivity",
-    "type": "standard_name",
-    "name": "sea_water_electrical_conductivity",
-    "description": null,
-    "canonical_units": "S m-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/sea_water_electrical_conductivity",
+  "type": "standard_name",
+  "name": "sea_water_electrical_conductivity",
+  "description": null,
+  "canonical_units": "S m-1",
+  "amip": null,
+  "grib": null
 }

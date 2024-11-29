@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "tracer_lifetime",
-    "type": "standard_name",
-    "name": "tracer_lifetime",
-    "description": "The quantity with standard name tracer_lifetime is the total length of time a passive tracer exists within a medium. Passive tracers are used in models to study processes such as transport and deposition.",
-    "canonical_units": "s",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/tracer_lifetime",
+  "type": "standard_name",
+  "name": "tracer_lifetime",
+  "description": "The quantity with standard name tracer_lifetime is the total length of time a passive tracer exists within a medium. Passive tracers are used in models to study processes such as transport and deposition.",
+  "canonical_units": "s",
+  "amip": null,
+  "grib": null
 }

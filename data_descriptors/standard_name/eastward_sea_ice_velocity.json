@@ -1,10 +1,10 @@
 {
-    "@context": "_context_",
-    "id": "eastward_sea_ice_velocity",
-    "type": "standard_name",
-    "name": "eastward_sea_ice_velocity",
-    "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Sea ice velocity is defined as a two-dimensional vector, with no vertical component. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
-    "canonical_units": "m s-1",
-    "amip": null,
-    "grib": null
+  "@context": "_context_",
+  "id": "standard_name/eastward_sea_ice_velocity",
+  "type": "standard_name",
+  "name": "eastward_sea_ice_velocity",
+  "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Sea ice velocity is defined as a two-dimensional vector, with no vertical component. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+  "canonical_units": "m s-1",
+  "amip": null,
+  "grib": null
 }

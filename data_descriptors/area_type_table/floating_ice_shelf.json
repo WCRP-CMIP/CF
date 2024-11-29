@@ -1,7 +1,7 @@
 {
-    "@context": "_context_",
-    "id": "floating_ice_shelf",
-    "type": "area-type-table",
-    "name": "floating_ice_shelf",
-    "description": "An area type of \"floating ice shelf\" indicates where ice shelves are present. Ice shelves are the component of ice sheets that flow over the ocean."
+  "@context": "_context_",
+  "id": "cf:area-type-table/floating_ice_shelf",
+  "type": "area-type-table",
+  "name": "floating_ice_shelf",
+  "description": "An area type of \"floating ice shelf\" indicates where ice shelves are present. Ice shelves are the component of ice sheets that flow over the ocean."
 }
