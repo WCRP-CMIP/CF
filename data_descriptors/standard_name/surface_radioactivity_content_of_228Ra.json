@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_228Ra",
+  "id": "surface_radioactivity_content_of_228Ra",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_228Ra",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ra\" means the element \"radium\" and \"228Ra\" is the isotope \"radium-228\" with a half-life of 2.45e+03 days.",

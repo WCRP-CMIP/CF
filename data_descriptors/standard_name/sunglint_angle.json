@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sunglint_angle",
+  "id": "sunglint_angle",
   "type": "standard_name",
   "name": "sunglint_angle",
   "description": "The angle between an incident beam of solar radiation and the outgoing beam specularly reflected at a sea surface.",

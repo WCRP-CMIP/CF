@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_water_electrical_conductivity",
+  "id": "sea_water_electrical_conductivity",
   "type": "standard_name",
   "name": "sea_water_electrical_conductivity",
   "description": null,

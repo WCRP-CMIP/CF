@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "cf:area-type-table/floating_ice",
+  "id": "floating_ice",
   "type": "area-type-table",
   "name": "floating_ice",
   "description": "All ice floating on water including lake-ice, sea-ice, ice-shelves and icebergs."

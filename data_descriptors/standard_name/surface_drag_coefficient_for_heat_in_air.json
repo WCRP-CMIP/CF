@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_drag_coefficient_for_heat_in_air",
+  "id": "surface_drag_coefficient_for_heat_in_air",
   "type": "standard_name",
   "name": "surface_drag_coefficient_for_heat_in_air",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",

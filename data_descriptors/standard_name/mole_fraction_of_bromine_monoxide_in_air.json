@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/mole_fraction_of_bromine_monoxide_in_air",
+  "id": "mole_fraction_of_bromine_monoxide_in_air",
   "type": "standard_name",
   "name": "mole_fraction_of_bromine_monoxide_in_air",
   "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of bromine monoxide is BrO.",

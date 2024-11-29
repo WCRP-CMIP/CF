@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_volume",
+  "id": "ocean_volume",
   "type": "standard_name",
   "name": "ocean_volume",
   "description": null,

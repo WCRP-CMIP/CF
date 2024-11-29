@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/transpiration_flux",
+  "id": "transpiration_flux",
   "type": "standard_name",
   "name": "transpiration_flux",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere.",

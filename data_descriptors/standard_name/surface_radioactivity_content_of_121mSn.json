@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_121mSn",
+  "id": "surface_radioactivity_content_of_121mSn",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_121mSn",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sn\" means the element \"tin\" and \"121mSn\" is the metastable state of the isotope \"tin-121\" with a half-life of 1.82e+04 days.",

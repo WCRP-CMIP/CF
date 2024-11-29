@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/radiation_wavelength",
+  "id": "radiation_wavelength",
   "type": "standard_name",
   "name": "radiation_wavelength",
   "description": "The radiation wavelength can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",

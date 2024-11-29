@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/harmonic_period",
+  "id": "harmonic_period",
   "type": "standard_name",
   "name": "harmonic_period",
   "description": "A period is an interval of time, or the time-period of an oscillation.",

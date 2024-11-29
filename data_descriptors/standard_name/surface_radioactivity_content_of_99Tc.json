@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_99Tc",
+  "id": "surface_radioactivity_content_of_99Tc",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_99Tc",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Tc\" means the element \"technetium\" and \"99Tc\" is the isotope \"technetium-99\" with a half-life of 7.79e+07 days.",

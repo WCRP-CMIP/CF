@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/shear_strength_of_soil",
+  "id": "shear_strength_of_soil",
   "type": "standard_name",
   "name": "shear_strength_of_soil",
   "description": "Shear strength is the amount of force applied to a normal plane required to bring the soil to failure along a tangential plane. Shear strength depends on the angle of friction and cohesion of the soil.",

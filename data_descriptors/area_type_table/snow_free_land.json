@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "cf:area-type-table/snow_free_land",
+  "id": "snow_free_land",
   "type": "area-type-table",
   "name": "snow_free_land",
   "description": null

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sensor_band_central_radiation_wavelength",
+  "id": "sensor_band_central_radiation_wavelength",
   "type": "standard_name",
   "name": "sensor_band_central_radiation_wavelength",
   "description": "sensor_band_central_radiation_wavelength is the central wavelength of a sensor's band, calculated as the first moment of the band's normalized spectral response function.",

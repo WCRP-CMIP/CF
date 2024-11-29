@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/radius_of_tropical_cyclone_eye",
+  "id": "radius_of_tropical_cyclone_eye",
   "type": "standard_name",
   "name": "radius_of_tropical_cyclone_eye",
   "description": "The radius of a tropical cyclone eye is defined to be the great circle distance measured from the cyclone center to the eye wall.",

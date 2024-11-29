@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/storm_motion_speed",
+  "id": "storm_motion_speed",
   "type": "standard_name",
   "name": "storm_motion_speed",
   "description": "Storm motion speed is defined as a two dimensional velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) It is defined as the average speed of a supercell, and the direction the storm will move from. It is not dependent on the orientation of the ground-relative winds. Storm motion speed generally follows the methodology outlined in Bunkers et al. (2000).",

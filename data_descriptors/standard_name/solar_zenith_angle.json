@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/solar_zenith_angle",
+  "id": "solar_zenith_angle",
   "type": "standard_name",
   "name": "solar_zenith_angle",
   "description": "Solar zenith angle is the the angle between the line of sight to the sun and the local vertical.",

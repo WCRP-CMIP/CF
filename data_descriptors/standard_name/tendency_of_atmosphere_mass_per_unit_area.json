@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_atmosphere_mass_per_unit_area",
+  "id": "tendency_of_atmosphere_mass_per_unit_area",
   "type": "standard_name",
   "name": "tendency_of_atmosphere_mass_per_unit_area",
   "description": "\"tendency_of_X\" means derivative of X with respect to time. \"X_area\" means the horizontal area occupied by X within the grid cell.",

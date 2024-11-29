@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/nitrogen_mass_flux_into_soil_from_litter",
+  "id": "nitrogen_mass_flux_into_soil_from_litter",
   "type": "standard_name",
   "name": "nitrogen_mass_flux_into_soil_from_litter",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Litter\" is dead plant material in or above the soil.",

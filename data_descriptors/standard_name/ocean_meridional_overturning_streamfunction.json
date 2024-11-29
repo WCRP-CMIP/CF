@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_meridional_overturning_streamfunction",
+  "id": "ocean_meridional_overturning_streamfunction",
   "type": "standard_name",
   "name": "ocean_meridional_overturning_streamfunction",
   "description": "The ocean meridional overturning streamfunction should not include not include the parameterized eddy advection velocity.",

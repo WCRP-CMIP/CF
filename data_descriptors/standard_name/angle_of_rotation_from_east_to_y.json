@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/angle_of_rotation_from_east_to_y",
+  "id": "angle_of_rotation_from_east_to_y",
   "type": "standard_name",
   "name": "angle_of_rotation_from_east_to_y",
   "description": "The quantity with standard name angle_of_rotation_from_east_to_y is the angle, anticlockwise reckoned positive, between due East and (dr/dj)ik, where r(i,j,k) is the vector 3D position of the point with coordinate indices (i,j,k).  It could be used for rotating vector fields between model space and latitude-longitude space.",

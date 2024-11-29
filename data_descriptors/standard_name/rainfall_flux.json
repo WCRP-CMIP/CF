@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/rainfall_flux",
+  "id": "rainfall_flux",
   "type": "standard_name",
   "name": "rainfall_flux",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",

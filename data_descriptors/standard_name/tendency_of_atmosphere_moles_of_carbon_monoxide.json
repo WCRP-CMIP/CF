@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_atmosphere_moles_of_carbon_monoxide",
+  "id": "tendency_of_atmosphere_moles_of_carbon_monoxide",
   "type": "standard_name",
   "name": "tendency_of_atmosphere_moles_of_carbon_monoxide",
   "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula of carbon monoxide is CO.",

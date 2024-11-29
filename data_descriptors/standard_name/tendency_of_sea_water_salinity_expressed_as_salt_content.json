@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_sea_water_salinity_expressed_as_salt_content",
+  "id": "tendency_of_sea_water_salinity_expressed_as_salt_content",
   "type": "standard_name",
   "name": "tendency_of_sea_water_salinity_expressed_as_salt_content",
   "description": "\"Content\" indicates a quantity per unit area. \"tendency_of_X\" means derivative of X with respect to time. This tendency encompasses all processes that impact on the time changes for the salt content within a grid cell.",

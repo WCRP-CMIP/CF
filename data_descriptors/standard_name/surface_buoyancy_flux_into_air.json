@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_buoyancy_flux_into_air",
+  "id": "surface_buoyancy_flux_into_air",
   "type": "standard_name",
   "name": "surface_buoyancy_flux_into_air",
   "description": "A variable quantifying net density gains or losses in air parcel buoyancy based on turbulent heat and moisture fluxes, represented by virtual temperature flux, at the air-sea interface.  Positive values indicate a buoyancy flux out of the ocean (into the air) that will destabilize the atmosphere.",

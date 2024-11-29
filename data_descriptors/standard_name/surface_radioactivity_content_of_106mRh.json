@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_106mRh",
+  "id": "surface_radioactivity_content_of_106mRh",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_106mRh",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rh\" means the element \"rhodium\" and \"106mRh\" is the metastable state of the isotope \"rhodium-106\" with a half-life of 9.09e-02 days.",

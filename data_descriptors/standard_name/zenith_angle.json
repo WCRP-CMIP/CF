@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/zenith_angle",
+  "id": "zenith_angle",
   "type": "standard_name",
   "name": "zenith_angle",
   "description": "Zenith angle is the angle to the local vertical; a value of zero is directly overhead.",

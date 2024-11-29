@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/outgoing_water_volume_transport_along_river_channel",
+  "id": "outgoing_water_volume_transport_along_river_channel",
   "type": "standard_name",
   "name": "outgoing_water_volume_transport_along_river_channel",
   "description": "\"Water\" means water in all phases. \"River\" refers to water in the fluvial system (stream and floodplain).",

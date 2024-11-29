@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_surface_wave_mean_height",
+  "id": "sea_surface_wave_mean_height",
   "type": "standard_name",
   "name": "sea_surface_wave_mean_height",
   "description": "Wave height is defined as the vertical distance from a wave trough to the following wave crest. The mean wave height is the mean trough to crest distance measured during the observation period.",

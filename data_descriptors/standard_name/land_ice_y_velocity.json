@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/land_ice_y_velocity",
+  "id": "land_ice_y_velocity",
   "type": "standard_name",
   "name": "land_ice_y_velocity",
   "description": "A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.",

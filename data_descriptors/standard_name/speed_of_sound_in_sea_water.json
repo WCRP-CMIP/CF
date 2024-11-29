@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/speed_of_sound_in_sea_water",
+  "id": "speed_of_sound_in_sea_water",
   "type": "standard_name",
   "name": "speed_of_sound_in_sea_water",
   "description": "Speed is the magnitude of velocity.",

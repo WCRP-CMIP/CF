@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sound_intensity_in_water",
+  "id": "sound_intensity_in_water",
   "type": "standard_name",
   "name": "sound_intensity_in_water",
   "description": "Sound intensity is the sound energy per unit time per unit area.",

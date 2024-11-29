@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/soil_mass_content_of_14C",
+  "id": "soil_mass_content_of_14C",
   "type": "standard_name",
   "name": "soil_mass_content_of_14C",
   "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used. \"C\" means the element carbon and \"14C\" is the radioactive isotope \"carbon-14\", having six protons and eight neutrons and used in radiocarbon dating.",

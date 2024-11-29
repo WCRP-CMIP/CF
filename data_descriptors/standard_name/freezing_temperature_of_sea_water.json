@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/freezing_temperature_of_sea_water",
+  "id": "freezing_temperature_of_sea_water",
   "type": "standard_name",
   "name": "freezing_temperature_of_sea_water",
   "description": null,

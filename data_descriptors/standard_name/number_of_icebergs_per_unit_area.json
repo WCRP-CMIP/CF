@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/number_of_icebergs_per_unit_area",
+  "id": "number_of_icebergs_per_unit_area",
   "type": "standard_name",
   "name": "number_of_icebergs_per_unit_area",
   "description": "The number of icebergs per unit area.",

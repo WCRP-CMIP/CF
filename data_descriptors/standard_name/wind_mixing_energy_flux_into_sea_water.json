@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/wind_mixing_energy_flux_into_sea_water",
+  "id": "wind_mixing_energy_flux_into_sea_water",
   "type": "standard_name",
   "name": "wind_mixing_energy_flux_into_sea_water",
   "description": "Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",

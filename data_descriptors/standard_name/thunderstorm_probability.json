@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/thunderstorm_probability",
+  "id": "thunderstorm_probability",
   "type": "standard_name",
   "name": "thunderstorm_probability",
   "description": "\"probability_of_X\" means the chance that X is true or of at least one occurrence of X. Space and time coordinates must be used to indicate the area and time-interval to which a probability applies.",

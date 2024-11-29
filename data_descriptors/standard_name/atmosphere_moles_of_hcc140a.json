@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_moles_of_hcc140a",
+  "id": "atmosphere_moles_of_hcc140a",
   "type": "standard_name",
   "name": "atmosphere_moles_of_hcc140a",
   "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for HCC140a, also called methyl chloroform, is CH3CCl3. The IUPAC name for HCC140a is 1,1,1-trichloroethane.",

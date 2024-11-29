@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/upward_sea_water_velocity",
+  "id": "upward_sea_water_velocity",
   "type": "standard_name",
   "name": "upward_sea_water_velocity",
   "description": "A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward).",

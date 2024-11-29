@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_217Po",
+  "id": "surface_radioactivity_content_of_217Po",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_217Po",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Po\" means the element \"polonium\" and \"217Po\" is the isotope \"polonium-217\" with a half-life of 1.16e-04 days.",

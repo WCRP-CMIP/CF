@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/snow_grain_size",
+  "id": "snow_grain_size",
   "type": "standard_name",
   "name": "snow_grain_size",
   "description": null,

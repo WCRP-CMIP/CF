@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/stratiform_rainfall_flux",
+  "id": "stratiform_rainfall_flux",
   "type": "standard_name",
   "name": "stratiform_rainfall_flux",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",

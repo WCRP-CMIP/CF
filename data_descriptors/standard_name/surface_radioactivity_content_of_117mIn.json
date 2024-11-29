@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_117mIn",
+  "id": "surface_radioactivity_content_of_117mIn",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_117mIn",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"In\" means the element \"indium\" and \"117mIn\" is the metastable state of the isotope \"indium-117\" with a half-life of 8.08e-02 days.",

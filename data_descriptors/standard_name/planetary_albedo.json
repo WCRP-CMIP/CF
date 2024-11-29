@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/planetary_albedo",
+  "id": "planetary_albedo",
   "type": "standard_name",
   "name": "planetary_albedo",
   "description": "Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum.",

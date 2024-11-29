@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_sleve_coordinate",
+  "id": "atmosphere_sleve_coordinate",
   "type": "standard_name",
   "name": "atmosphere_sleve_coordinate",
   "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",

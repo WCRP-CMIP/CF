@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/flood_water_speed",
+  "id": "flood_water_speed",
   "type": "standard_name",
   "name": "flood_water_speed",
   "description": "Speed is the magnitude of velocity. Flood water is water that covers land which is normally not covered by water.",

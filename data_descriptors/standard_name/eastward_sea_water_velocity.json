@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/eastward_sea_water_velocity",
+  "id": "eastward_sea_water_velocity",
   "type": "standard_name",
   "name": "eastward_sea_water_velocity",
   "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward).",

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/wood_debris_mass_content_of_carbon",
+  "id": "wood_debris_mass_content_of_carbon",
   "type": "standard_name",
   "name": "wood_debris_mass_content_of_carbon",
   "description": "\"Content\" indicates a quantity per unit area. \"Wood debris\" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between \"fine\" and \"coarse\" is model dependent.",

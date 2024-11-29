@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/salt_flux_into_sea_water_from_rivers",
+  "id": "salt_flux_into_sea_water_from_rivers",
   "type": "standard_name",
   "name": "salt_flux_into_sea_water_from_rivers",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"River\" refers to water in the fluvial system (stream and floodplain).",

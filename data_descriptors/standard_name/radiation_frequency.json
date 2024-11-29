@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/radiation_frequency",
+  "id": "radiation_frequency",
   "type": "standard_name",
   "name": "radiation_frequency",
   "description": "Frequency is the number of oscillations of a wave per unit time.  The radiation frequency can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",

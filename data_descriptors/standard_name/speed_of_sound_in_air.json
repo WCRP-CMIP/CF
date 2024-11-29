@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/speed_of_sound_in_air",
+  "id": "speed_of_sound_in_air",
   "type": "standard_name",
   "name": "speed_of_sound_in_air",
   "description": "Speed is the magnitude of velocity.",

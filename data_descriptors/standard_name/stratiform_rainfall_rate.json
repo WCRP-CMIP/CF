@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/stratiform_rainfall_rate",
+  "id": "stratiform_rainfall_rate",
   "type": "standard_name",
   "name": "stratiform_rainfall_rate",
   "description": "Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",

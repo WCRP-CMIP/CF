@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_momentum_diffusivity",
+  "id": "atmosphere_momentum_diffusivity",
   "type": "standard_name",
   "name": "atmosphere_momentum_diffusivity",
   "description": null,

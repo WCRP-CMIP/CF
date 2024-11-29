@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/freezing_level_altitude",
+  "id": "freezing_level_altitude",
   "type": "standard_name",
   "name": "freezing_level_altitude",
   "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",

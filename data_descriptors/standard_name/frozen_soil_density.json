@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/frozen_soil_density",
+  "id": "frozen_soil_density",
   "type": "standard_name",
   "name": "frozen_soil_density",
   "description": "The density of the soil in its naturally frozen condition. Also known as frozen bulk density. The density of a substance is its mass per unit volume.",

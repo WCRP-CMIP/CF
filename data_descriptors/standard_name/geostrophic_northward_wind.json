@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/geostrophic_northward_wind",
+  "id": "geostrophic_northward_wind",
   "type": "standard_name",
   "name": "geostrophic_northward_wind",
   "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) \"Geostrophic\" indicates that geostrophic balance is assumed, i.e. that the pressure gradient force and the Coriolis force are balanced and the large scale fluid flow is parallel to the isobars.",

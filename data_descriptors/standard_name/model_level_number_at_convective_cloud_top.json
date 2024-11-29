@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/model_level_number_at_convective_cloud_top",
+  "id": "model_level_number_at_convective_cloud_top",
   "type": "standard_name",
   "name": "model_level_number_at_convective_cloud_top",
   "description": "cloud_top refers to the top of the highest cloud. Model level number should be understood as equivalent to layer number. Convective cloud is that produced by the convection schemes in an atmosphere model.",

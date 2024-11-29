@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/cell_area",
+  "id": "cell_area",
   "type": "standard_name",
   "name": "cell_area",
   "description": "\"Cell_area\" is the horizontal area of a gridcell.",

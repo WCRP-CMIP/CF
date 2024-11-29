@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_surface_wind_wave_period",
+  "id": "sea_surface_wind_wave_period",
   "type": "standard_name",
   "name": "sea_surface_wind_wave_period",
   "description": "A period is an interval of time, or the time-period of an oscillation. Wind waves are waves on the ocean surface. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",

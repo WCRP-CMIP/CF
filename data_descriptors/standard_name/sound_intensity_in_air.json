@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sound_intensity_in_air",
+  "id": "sound_intensity_in_air",
   "type": "standard_name",
   "name": "sound_intensity_in_air",
   "description": "Sound intensity is the sound energy per unit time per unit area.",

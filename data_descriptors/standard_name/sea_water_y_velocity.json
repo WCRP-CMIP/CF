@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_water_y_velocity",
+  "id": "sea_water_y_velocity",
   "type": "standard_name",
   "name": "sea_water_y_velocity",
   "description": "A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y.",

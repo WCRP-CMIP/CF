@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/depth_below_sea_floor",
+  "id": "depth_below_sea_floor",
   "type": "standard_name",
   "name": "depth_below_sea_floor",
   "description": "\"Depth_below_X\" means the vertical distance below the named surface X.",

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/distance_from_sun",
+  "id": "distance_from_sun",
   "type": "standard_name",
   "name": "distance_from_sun",
   "description": "The distance from the sun to the point of observation.",

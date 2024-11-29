@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/compressive_strength_of_unconfined_frozen_soil",
+  "id": "compressive_strength_of_unconfined_frozen_soil",
   "type": "standard_name",
   "name": "compressive_strength_of_unconfined_frozen_soil",
   "description": "The maximum force applied as axial strain to an unconfined frozen soil sample before failure.",

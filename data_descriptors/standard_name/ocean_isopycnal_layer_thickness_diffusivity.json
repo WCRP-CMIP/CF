@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_isopycnal_layer_thickness_diffusivity",
+  "id": "ocean_isopycnal_layer_thickness_diffusivity",
   "type": "standard_name",
   "name": "ocean_isopycnal_layer_thickness_diffusivity",
   "description": null,

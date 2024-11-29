@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/relative_humidity",
+  "id": "relative_humidity",
   "type": "standard_name",
   "name": "relative_humidity",
   "description": null,

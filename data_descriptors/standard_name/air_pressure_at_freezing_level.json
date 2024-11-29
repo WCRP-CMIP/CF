@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/air_pressure_at_freezing_level",
+  "id": "air_pressure_at_freezing_level",
   "type": "standard_name",
   "name": "air_pressure_at_freezing_level",
   "description": "Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",

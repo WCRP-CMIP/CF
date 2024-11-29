@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "cf:area-type-table/burnt_vegetation",
+  "id": "burnt_vegetation",
   "type": "area-type-table",
   "name": "burnt_vegetation",
   "description": null

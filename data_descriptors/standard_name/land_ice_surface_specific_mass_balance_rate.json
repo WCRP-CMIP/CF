@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/land_ice_surface_specific_mass_balance_rate",
+  "id": "land_ice_surface_specific_mass_balance_rate",
   "type": "standard_name",
   "name": "land_ice_surface_specific_mass_balance_rate",
   "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. Specific mass balance means the net rate at which ice is added at the land ice surface due to all processes of surface accumulation and ablation. A negative value means loss of ice.",

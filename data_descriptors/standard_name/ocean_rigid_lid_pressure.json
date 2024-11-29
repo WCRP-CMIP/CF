@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_rigid_lid_pressure",
+  "id": "ocean_rigid_lid_pressure",
   "type": "standard_name",
   "name": "ocean_rigid_lid_pressure",
   "description": "\"Ocean rigid lid pressure\" means the pressure at the surface of an ocean model assuming that it is bounded above by a rigid lid.",

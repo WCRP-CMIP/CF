@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/leaf_mass_content_of_nitrogen",
+  "id": "leaf_mass_content_of_nitrogen",
   "type": "standard_name",
   "name": "leaf_mass_content_of_nitrogen",
   "description": "\"Content\" indicates a quantity per unit area.",

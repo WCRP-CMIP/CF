@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/rainfall_amount",
+  "id": "rainfall_amount",
   "type": "standard_name",
   "name": "rainfall_amount",
   "description": "\"Amount\" means mass per unit area.",

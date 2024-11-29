@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_heat_diffusivity",
+  "id": "atmosphere_heat_diffusivity",
   "type": "standard_name",
   "name": "atmosphere_heat_diffusivity",
   "description": null,

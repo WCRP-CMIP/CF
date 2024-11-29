@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/rainfall_rate",
+  "id": "rainfall_rate",
   "type": "standard_name",
   "name": "rainfall_rate",
   "description": null,

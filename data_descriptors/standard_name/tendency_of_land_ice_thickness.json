@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_land_ice_thickness",
+  "id": "tendency_of_land_ice_thickness",
   "type": "standard_name",
   "name": "tendency_of_land_ice_thickness",
   "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.  \"Thickness\" means the vertical extent of a layer..",

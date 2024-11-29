@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/lwe_convective_snowfall_rate",
+  "id": "lwe_convective_snowfall_rate",
   "type": "standard_name",
   "name": "lwe_convective_snowfall_rate",
   "description": "\"lwe\" means liquid water equivalent.",

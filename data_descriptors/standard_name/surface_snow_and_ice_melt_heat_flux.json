@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_snow_and_ice_melt_heat_flux",
+  "id": "surface_snow_and_ice_melt_heat_flux",
   "type": "standard_name",
   "name": "surface_snow_and_ice_melt_heat_flux",
   "description": "The snow and ice melt heat flux is the supply of latent heat which is melting snow and ice at freezing point. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",

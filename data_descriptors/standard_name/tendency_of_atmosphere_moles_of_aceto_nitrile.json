@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_atmosphere_moles_of_aceto_nitrile",
+  "id": "tendency_of_atmosphere_moles_of_aceto_nitrile",
   "type": "standard_name",
   "name": "tendency_of_atmosphere_moles_of_aceto_nitrile",
   "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for aceto-nitrile is CH3CN. The IUPAC name for aceto-nitrile is ethanenitrile.",

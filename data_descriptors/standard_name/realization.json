@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/realization",
+  "id": "realization",
   "type": "standard_name",
   "name": "realization",
   "description": "Realization is used to label a dimension that can be thought of as a statistical sample, e.g., labelling members of a model ensemble.",

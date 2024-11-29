@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_water_volume",
+  "id": "sea_water_volume",
   "type": "standard_name",
   "name": "sea_water_volume",
   "description": "The quantity with standard name \"sea_water_volume\" is the total volume of liquid seawater in the global oceans, including enclosed seas.",

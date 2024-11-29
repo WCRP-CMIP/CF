@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/specific_kinetic_energy_of_sea_water",
+  "id": "specific_kinetic_energy_of_sea_water",
   "type": "standard_name",
   "name": "specific_kinetic_energy_of_sea_water",
   "description": "\"specific\" means per unit mass.",

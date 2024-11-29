@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/northward_atmosphere_water_transport_across_unit_distance",
+  "id": "northward_atmosphere_water_transport_across_unit_distance",
   "type": "standard_name",
   "name": "northward_atmosphere_water_transport_across_unit_distance",
   "description": "\"Water\" means water in all phases. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport.",

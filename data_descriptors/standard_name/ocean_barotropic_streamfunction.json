@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_barotropic_streamfunction",
+  "id": "ocean_barotropic_streamfunction",
   "type": "standard_name",
   "name": "ocean_barotropic_streamfunction",
   "description": null,

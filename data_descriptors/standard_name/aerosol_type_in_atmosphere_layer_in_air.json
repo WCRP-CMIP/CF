@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/aerosol_type_in_atmosphere_layer_in_air",
+  "id": "aerosol_type_in_atmosphere_layer_in_air",
   "type": "standard_name",
   "name": "aerosol_type_in_atmosphere_layer_in_air",
   "description": "A variable with the standard_name of aerosol_type_in_atmosphere_layer_in_air contains either strings which indicate the type of the aerosol determined following a certain aerosol typing schema, or flags which can be translated to strings using flag_values and flag_meanings attributes. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s).",

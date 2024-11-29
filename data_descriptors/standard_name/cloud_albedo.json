@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/cloud_albedo",
+  "id": "cloud_albedo",
   "type": "standard_name",
   "name": "cloud_albedo",
   "description": "The albedo of cloud. Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum.",

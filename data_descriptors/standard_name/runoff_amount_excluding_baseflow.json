@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/runoff_amount_excluding_baseflow",
+  "id": "runoff_amount_excluding_baseflow",
   "type": "standard_name",
   "name": "runoff_amount_excluding_baseflow",
   "description": "Runoff is the liquid water which drains from land. \"Runoff_excluding_baseflow\" is the sum of surface runoff and subsurface runoff excluding baseflow.  Baseflow is subsurface runoff which takes place below the level of the water table.  \"Amount\" means mass per unit area.",

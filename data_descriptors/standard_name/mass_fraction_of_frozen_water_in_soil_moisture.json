@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/mass_fraction_of_frozen_water_in_soil_moisture",
+  "id": "mass_fraction_of_frozen_water_in_soil_moisture",
   "type": "standard_name",
   "name": "mass_fraction_of_frozen_water_in_soil_moisture",
   "description": "\"frozen_water\" means ice. \"moisture\" means water in all phases contained in soil. Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).",

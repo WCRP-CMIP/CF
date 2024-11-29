@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "cf:area-type-table/clear_sky",
+  "id": "clear_sky",
   "type": "area-type-table",
   "name": "clear_sky",
   "description": null

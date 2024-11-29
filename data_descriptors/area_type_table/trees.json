@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "cf:area-type-table/trees",
+  "id": "trees",
   "type": "area-type-table",
   "name": "trees",
   "description": "The distinction between trees and shrubs is model dependent. All trees are C3 plant functional type."

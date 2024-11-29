@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_209Pb",
+  "id": "surface_radioactivity_content_of_209Pb",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_209Pb",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pb\" means the element \"lead\" and \"209Pb\" is the isotope \"lead-209\" with a half-life of 1.38e-01 days.",

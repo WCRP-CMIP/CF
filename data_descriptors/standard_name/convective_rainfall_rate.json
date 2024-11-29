@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/convective_rainfall_rate",
+  "id": "convective_rainfall_rate",
   "type": "standard_name",
   "name": "convective_rainfall_rate",
   "description": null,

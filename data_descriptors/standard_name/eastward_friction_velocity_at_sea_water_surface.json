@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/eastward_friction_velocity_at_sea_water_surface",
+  "id": "eastward_friction_velocity_at_sea_water_surface",
   "type": "standard_name",
   "name": "eastward_friction_velocity_at_sea_water_surface",
   "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Friction velocity is a reference ocean velocity derived from the relationship between ocean density and downward stress and is usually applied at a level close to the surface where stress is assumed to be independent of height and approximately proportional to the square of mean velocity.",

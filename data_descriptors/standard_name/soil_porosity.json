@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/soil_porosity",
+  "id": "soil_porosity",
   "type": "standard_name",
   "name": "soil_porosity",
   "description": "The soil porosity is the proportion of its total volume not occupied by soil solids.",

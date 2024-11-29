@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/cloud_ice_mixing_ratio",
+  "id": "cloud_ice_mixing_ratio",
   "type": "standard_name",
   "name": "cloud_ice_mixing_ratio",
   "description": "Cloud ice mixing ratio of a parcel of air is the ratio of the mass of ice to the mass of dry air.",

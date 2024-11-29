@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/scattering_angle",
+  "id": "scattering_angle",
   "type": "standard_name",
   "name": "scattering_angle",
   "description": "The scattering angle is that between the direction of the beam of incident radiation and the direction into which it is scattered.",

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_air_density",
+  "id": "tendency_of_air_density",
   "type": "standard_name",
   "name": "tendency_of_air_density",
   "description": "\"tendency_of_X\" means derivative of X with respect to time.",

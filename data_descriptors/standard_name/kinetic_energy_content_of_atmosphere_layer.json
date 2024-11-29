@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/kinetic_energy_content_of_atmosphere_layer",
+  "id": "kinetic_energy_content_of_atmosphere_layer",
   "type": "standard_name",
   "name": "kinetic_energy_content_of_atmosphere_layer",
   "description": "\"Content\" indicates a quantity per unit area. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well.",

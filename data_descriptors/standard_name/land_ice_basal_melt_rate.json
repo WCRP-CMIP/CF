@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/land_ice_basal_melt_rate",
+  "id": "land_ice_basal_melt_rate",
   "type": "standard_name",
   "name": "land_ice_basal_melt_rate",
   "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.  The land ice basal melt rate is the rate at which ice is lost per unit area at the base of the ice.",

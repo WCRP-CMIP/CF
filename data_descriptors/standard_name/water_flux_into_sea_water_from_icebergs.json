@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/water_flux_into_sea_water_from_icebergs",
+  "id": "water_flux_into_sea_water_from_icebergs",
   "type": "standard_name",
   "name": "water_flux_into_sea_water_from_icebergs",
   "description": "The water flux into sea water is the freshwater entering as a result of precipitation, evaporation, river inflow, sea ice effects and water flux correction (if applied).  The water flux into sea water from icebergs is due to the melting of the iceberg. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",

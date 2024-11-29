@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/convective_snowfall_flux",
+  "id": "convective_snowfall_flux",
   "type": "standard_name",
   "name": "convective_snowfall_flux",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",

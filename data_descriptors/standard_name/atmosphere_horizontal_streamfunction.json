@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_horizontal_streamfunction",
+  "id": "atmosphere_horizontal_streamfunction",
   "type": "standard_name",
   "name": "atmosphere_horizontal_streamfunction",
   "description": "\"Horizontal\" indicates that the streamfunction applies to a horizontal velocity field on a particular vertical level.",

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_radioactivity_content_of_83Br",
+  "id": "surface_radioactivity_content_of_83Br",
   "type": "standard_name",
   "name": "surface_radioactivity_content_of_83Br",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Br\" means the element \"bromine\" and \"83Br\" is the isotope \"bromine-83\" with a half-life of 1.00e-01 days.",

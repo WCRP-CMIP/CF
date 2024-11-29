@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/upward_eliassen_palm_flux_in_air",
+  "id": "upward_eliassen_palm_flux_in_air",
   "type": "standard_name",
   "name": "upward_eliassen_palm_flux_in_air",
   "description": "\"Eliassen Palm flux\" is a widely used vector in the meridional plane, and the divergence of this flux appears as a forcing in the Transformed Eulerian mean formulation of the zonal mean zonal wind equation.  \"Upward\" indicates a vector component which is positive when directed upward (negative downward).",

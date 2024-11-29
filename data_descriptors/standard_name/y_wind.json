@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/y_wind",
+  "id": "y_wind",
   "type": "standard_name",
   "name": "y_wind",
   "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",

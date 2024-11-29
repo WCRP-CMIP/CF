@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_water_speed",
+  "id": "sea_water_speed",
   "type": "standard_name",
   "name": "sea_water_speed",
   "description": "Speed is the magnitude of velocity.",

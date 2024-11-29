@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_ice_mole_content_of_silicon",
+  "id": "sea_ice_mole_content_of_silicon",
   "type": "standard_name",
   "name": "sea_ice_mole_content_of_silicon",
   "description": "Mole amount means moles of substance per unit area. \"Content\" indicates a quantity per unit area. The \"sea_ice content\" of a quantity refers to the vertical integral from the surface down to the bottom of the sea ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",

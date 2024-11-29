@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/atmosphere_hybrid_height_coordinate",
+  "id": "atmosphere_hybrid_height_coordinate",
   "type": "standard_name",
   "name": "atmosphere_hybrid_height_coordinate",
   "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",

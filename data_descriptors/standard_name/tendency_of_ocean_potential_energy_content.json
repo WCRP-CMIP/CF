@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_ocean_potential_energy_content",
+  "id": "tendency_of_ocean_potential_energy_content",
   "type": "standard_name",
   "name": "tendency_of_ocean_potential_energy_content",
   "description": "\"Content\" indicates a quantity per unit area.  Potential energy is the sum of the gravitational potential energy relative to the geoid and the centripetal potential energy. (The geopotential is the specific potential energy.)  \"tendency_of_X\" means derivative of X with respect to time.",

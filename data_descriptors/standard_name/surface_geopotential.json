@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/surface_geopotential",
+  "id": "surface_geopotential",
   "type": "standard_name",
   "name": "surface_geopotential",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",

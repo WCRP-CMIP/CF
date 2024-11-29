@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/tendency_of_atmosphere_moles_of_formic_acid",
+  "id": "tendency_of_atmosphere_moles_of_formic_acid",
   "type": "standard_name",
   "name": "tendency_of_atmosphere_moles_of_formic_acid",
   "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for formic acid is HCOOH.  The IUPAC name for formic acid is methanoic acid.",

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/model_level_number_at_top_of_atmosphere_boundary_layer",
+  "id": "model_level_number_at_top_of_atmosphere_boundary_layer",
   "type": "standard_name",
   "name": "model_level_number_at_top_of_atmosphere_boundary_layer",
   "description": "Model level number should be understood as equivalent to layer number.",

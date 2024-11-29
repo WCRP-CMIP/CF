@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/air_density",
+  "id": "air_density",
   "type": "standard_name",
   "name": "air_density",
   "description": null,

@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/bioluminescent_photon_rate_in_sea_water",
+  "id": "bioluminescent_photon_rate_in_sea_water",
   "type": "standard_name",
   "name": "bioluminescent_photon_rate_in_sea_water",
   "description": null,

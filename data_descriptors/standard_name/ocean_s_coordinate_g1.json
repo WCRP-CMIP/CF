@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/ocean_s_coordinate_g1",
+  "id": "ocean_s_coordinate_g1",
   "type": "standard_name",
   "name": "ocean_s_coordinate_g1",
   "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",

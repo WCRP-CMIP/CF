@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/sea_water_mass_per_unit_area",
+  "id": "sea_water_mass_per_unit_area",
   "type": "standard_name",
   "name": "sea_water_mass_per_unit_area",
   "description": "Sea_water_mass_per_unit_area is the mass per unit area of the sea water contained within each grid cell.",

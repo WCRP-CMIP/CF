@@ -1,6 +1,6 @@
 {
   "@context": "_context_",
-  "id": "standard_name/water_volume_transport_in_river_channel",
+  "id": "water_volume_transport_in_river_channel",
   "type": "standard_name",
   "name": "water_volume_transport_in_river_channel",
   "description": "The water flux or volume transport in rivers is the amount of water flowing in the river channel and flood plain. \"Water\" means water in all phases.",
