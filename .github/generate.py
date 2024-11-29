@@ -110,7 +110,7 @@ if int(current[0] or -1) < latest:
         
         out = {
             "@context":'_context_',
-            "id":f'standard_name/{i["id"]}',
+            "id":f'{i["id"]}',
             "type": "standard_name",
             "name": i["id"],
             "description": i["description"],
@@ -139,7 +139,7 @@ if int(current[1] or -1) < latest2:
         
         out = {
             "@context":'_context_',
-            "id":f'cf:area-type-table/{i["id"]}',
+            "id":f'{i["id"]}',
             "type": "area-type-table",
             "name": i["id"],
             "description": i["description"],   
