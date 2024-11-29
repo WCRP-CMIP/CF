@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/mole_fraction_of_hypobromous_acid_in_air",
-  "type": "standard_name",
-  "name": "mole_fraction_of_hypobromous_acid_in_air",
-  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of hypobromous acid is HOBr.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "mole_fraction_of_hypobromous_acid_in_air",
+    "type": "standard_name",
+    "name": "mole_fraction_of_hypobromous_acid_in_air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of hypobromous acid is HOBr.",
+    "canonical_units": "1",
+    "amip": null,
+    "grib": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/compressive_strength_of_unconfined_soil",
-  "type": "standard_name",
-  "name": "compressive_strength_of_unconfined_soil",
-  "description": "The maximum force applied as axial strain to an unconfined soil sample before failure.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "compressive_strength_of_unconfined_soil",
+    "type": "standard_name",
+    "name": "compressive_strength_of_unconfined_soil",
+    "description": "The maximum force applied as axial strain to an unconfined soil sample before failure.",
+    "canonical_units": "Pa",
+    "amip": null,
+    "grib": null
 }

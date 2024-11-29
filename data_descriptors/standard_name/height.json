@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/height",
-  "type": "standard_name",
-  "name": "height",
-  "description": "Height is the vertical distance above the surface.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "height",
+    "type": "standard_name",
+    "name": "height",
+    "description": "Height is the vertical distance above the surface.",
+    "canonical_units": "m",
+    "amip": null,
+    "grib": null
 }

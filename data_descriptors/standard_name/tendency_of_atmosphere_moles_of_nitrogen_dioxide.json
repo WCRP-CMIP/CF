@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/tendency_of_atmosphere_moles_of_nitrogen_dioxide",
-  "type": "standard_name",
-  "name": "tendency_of_atmosphere_moles_of_nitrogen_dioxide",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for nitrogen dioxide is NO2.",
-  "canonical_units": "mol s-1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "tendency_of_atmosphere_moles_of_nitrogen_dioxide",
+    "type": "standard_name",
+    "name": "tendency_of_atmosphere_moles_of_nitrogen_dioxide",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for nitrogen dioxide is NO2.",
+    "canonical_units": "mol s-1",
+    "amip": null,
+    "grib": null
 }

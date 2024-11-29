@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/sound_pressure_in_air",
-  "type": "standard_name",
-  "name": "sound_pressure_in_air",
-  "description": "Sound pressure is the difference from the local ambient pressure caused by a sound wave at a particular location and time.",
-  "canonical_units": "Pa",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "sound_pressure_in_air",
+    "type": "standard_name",
+    "name": "sound_pressure_in_air",
+    "description": "Sound pressure is the difference from the local ambient pressure caused by a sound wave at a particular location and time.",
+    "canonical_units": "Pa",
+    "amip": null,
+    "grib": null
 }

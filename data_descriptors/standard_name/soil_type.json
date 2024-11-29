@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/soil_type",
-  "type": "standard_name",
-  "name": "soil_type",
-  "description": "A variable with the standard name of soil_type contains strings which indicate the character of the soil e.g. clay. These strings have not yet been standardised. Alternatively, the data variable may contain integers which can be translated to strings using flag_values and flag_meanings attributes.",
-  "canonical_units": null,
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "soil_type",
+    "type": "standard_name",
+    "name": "soil_type",
+    "description": "A variable with the standard name of soil_type contains strings which indicate the character of the soil e.g. clay. These strings have not yet been standardised. Alternatively, the data variable may contain integers which can be translated to strings using flag_values and flag_meanings attributes.",
+    "canonical_units": null,
+    "amip": null,
+    "grib": null
 }

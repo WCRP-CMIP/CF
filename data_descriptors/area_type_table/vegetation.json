@@ -1,7 +1,7 @@
 {
-  "@context": "_context_",
-  "id": "cf:area-type-table/vegetation",
-  "type": "area-type-table",
-  "name": "vegetation",
-  "description": null
+    "@context": "_context_",
+    "id": "vegetation",
+    "type": "area-type-table",
+    "name": "vegetation",
+    "description": null
 }

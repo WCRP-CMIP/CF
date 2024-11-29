@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/tendency_of_air_pressure",
-  "type": "standard_name",
-  "name": "tendency_of_air_pressure",
-  "description": "\"tendency_of_X\" means derivative of X with respect to time. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
-  "canonical_units": "Pa s-1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "tendency_of_air_pressure",
+    "type": "standard_name",
+    "name": "tendency_of_air_pressure",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa s-1",
+    "amip": null,
+    "grib": null
 }

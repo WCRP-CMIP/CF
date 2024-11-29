@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/floating_ice_thickness",
-  "type": "standard_name",
-  "name": "floating_ice_thickness",
-  "description": "\"Floating ice\" means any ice that is floating on water, e.g. on a sea or lake surface.  \"Thickness\" means the vertical extent of the ice.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "floating_ice_thickness",
+    "type": "standard_name",
+    "name": "floating_ice_thickness",
+    "description": "\"Floating ice\" means any ice that is floating on water, e.g. on a sea or lake surface.  \"Thickness\" means the vertical extent of the ice.",
+    "canonical_units": "m",
+    "amip": null,
+    "grib": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/age_of_surface_snow",
-  "type": "standard_name",
-  "name": "age_of_surface_snow",
-  "description": "\"Age of surface snow\" means the length of time elapsed since the snow accumulated on the earth's surface. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
-  "canonical_units": "day",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "age_of_surface_snow",
+    "type": "standard_name",
+    "name": "age_of_surface_snow",
+    "description": "\"Age of surface snow\" means the length of time elapsed since the snow accumulated on the earth's surface. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "day",
+    "amip": null,
+    "grib": null
 }

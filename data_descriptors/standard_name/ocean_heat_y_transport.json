@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/ocean_heat_y_transport",
-  "type": "standard_name",
-  "name": "ocean_heat_y_transport",
-  "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
-  "canonical_units": "W",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "ocean_heat_y_transport",
+    "type": "standard_name",
+    "name": "ocean_heat_y_transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
+    "canonical_units": "W",
+    "amip": null,
+    "grib": null
 }

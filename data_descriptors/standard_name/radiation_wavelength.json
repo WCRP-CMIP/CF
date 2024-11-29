@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/radiation_wavelength",
-  "type": "standard_name",
-  "name": "radiation_wavelength",
-  "description": "The radiation wavelength can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "radiation_wavelength",
+    "type": "standard_name",
+    "name": "radiation_wavelength",
+    "description": "The radiation wavelength can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",
+    "canonical_units": "m",
+    "amip": null,
+    "grib": null
 }

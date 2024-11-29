@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/atmosphere_ln_pressure_coordinate",
-  "type": "standard_name",
-  "name": "atmosphere_ln_pressure_coordinate",
-  "description": "\"ln_X\" means natural logarithm of X. X must be dimensionless. See Appendix D of the CF convention for information about parametric vertical coordinates.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "atmosphere_ln_pressure_coordinate",
+    "type": "standard_name",
+    "name": "atmosphere_ln_pressure_coordinate",
+    "description": "\"ln_X\" means natural logarithm of X. X must be dimensionless. See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "1",
+    "amip": null,
+    "grib": null
 }

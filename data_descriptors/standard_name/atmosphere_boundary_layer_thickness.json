@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/atmosphere_boundary_layer_thickness",
-  "type": "standard_name",
-  "name": "atmosphere_boundary_layer_thickness",
-  "description": "The atmosphere boundary layer thickness is the \"depth\" or \"height\" of the (atmosphere) planetary boundary layer.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "atmosphere_boundary_layer_thickness",
+    "type": "standard_name",
+    "name": "atmosphere_boundary_layer_thickness",
+    "description": "The atmosphere boundary layer thickness is the \"depth\" or \"height\" of the (atmosphere) planetary boundary layer.",
+    "canonical_units": "m",
+    "amip": null,
+    "grib": null
 }

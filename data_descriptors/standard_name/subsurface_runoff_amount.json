@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/subsurface_runoff_amount",
-  "type": "standard_name",
-  "name": "subsurface_runoff_amount",
-  "description": "\"Amount\" means mass per unit area. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
-  "canonical_units": "kg m-2",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "subsurface_runoff_amount",
+    "type": "standard_name",
+    "name": "subsurface_runoff_amount",
+    "description": "\"Amount\" means mass per unit area. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
+    "canonical_units": "kg m-2",
+    "amip": null,
+    "grib": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/frequency_of_lightning_flashes_per_unit_area",
-  "type": "standard_name",
-  "name": "frequency_of_lightning_flashes_per_unit_area",
-  "description": "A lightning flash is a compound event, usually consisting of several discharges. Frequency is the number of oscillations of a wave, or the number of occurrences of an event, per unit time.",
-  "canonical_units": "m-2 s-1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "frequency_of_lightning_flashes_per_unit_area",
+    "type": "standard_name",
+    "name": "frequency_of_lightning_flashes_per_unit_area",
+    "description": "A lightning flash is a compound event, usually consisting of several discharges. Frequency is the number of oscillations of a wave, or the number of occurrences of an event, per unit time.",
+    "canonical_units": "m-2 s-1",
+    "amip": null,
+    "grib": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/angle_of_incidence",
-  "type": "standard_name",
-  "name": "angle_of_incidence",
-  "description": "The angle of incidence is that between the direction of approach of a beam of radiation toward a surface and the normal to that surface.",
-  "canonical_units": "degree",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "angle_of_incidence",
+    "type": "standard_name",
+    "name": "angle_of_incidence",
+    "description": "The angle of incidence is that between the direction of approach of a beam of radiation toward a surface and the normal to that surface.",
+    "canonical_units": "degree",
+    "amip": null,
+    "grib": null
 }

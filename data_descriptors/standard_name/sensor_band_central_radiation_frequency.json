@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/sensor_band_central_radiation_frequency",
-  "type": "standard_name",
-  "name": "sensor_band_central_radiation_frequency",
-  "description": "sensor_band_central_radiation_frequency is the central frequency of a sensor's band, calculated as the first moment of the band's normalized spectral response function.",
-  "canonical_units": "s-1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "sensor_band_central_radiation_frequency",
+    "type": "standard_name",
+    "name": "sensor_band_central_radiation_frequency",
+    "description": "sensor_band_central_radiation_frequency is the central frequency of a sensor's band, calculated as the first moment of the band's normalized spectral response function.",
+    "canonical_units": "s-1",
+    "amip": null,
+    "grib": null
 }

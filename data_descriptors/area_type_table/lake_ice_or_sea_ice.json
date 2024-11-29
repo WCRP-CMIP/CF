@@ -1,7 +1,7 @@
 {
-  "@context": "_context_",
-  "id": "cf:area-type-table/lake_ice_or_sea_ice",
-  "type": "area-type-table",
-  "name": "lake_ice_or_sea_ice",
-  "description": "Floating ice excluding ice-shelves and icebergs."
+    "@context": "_context_",
+    "id": "lake_ice_or_sea_ice",
+    "type": "area-type-table",
+    "name": "lake_ice_or_sea_ice",
+    "description": "Floating ice excluding ice-shelves and icebergs."
 }

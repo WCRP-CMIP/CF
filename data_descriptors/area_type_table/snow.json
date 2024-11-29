@@ -1,7 +1,7 @@
 {
-  "@context": "_context_",
-  "id": "cf:area-type-table/snow",
-  "type": "area-type-table",
-  "name": "snow",
-  "description": null
+    "@context": "_context_",
+    "id": "snow",
+    "type": "area-type-table",
+    "name": "snow",
+    "description": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/land_binary_mask",
-  "type": "standard_name",
-  "name": "land_binary_mask",
-  "description": "X_binary_mask has 1 where condition X is met, 0 elsewhere. 1 = land, 0 = sea.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "land_binary_mask",
+    "type": "standard_name",
+    "name": "land_binary_mask",
+    "description": "X_binary_mask has 1 where condition X is met, 0 elsewhere. 1 = land, 0 = sea.",
+    "canonical_units": "1",
+    "amip": null,
+    "grib": null
 }

@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/lightning_radiant_energy",
-  "type": "standard_name",
-  "name": "lightning_radiant_energy",
-  "description": "The standard name \"lightning radiant energy\" means the energy emitted as electromagnetic radiation due to lightning. A coordinate variable of radiation_wavelength, radiation_frequency, or sensor_band_central_wavelength may be specified to indicate that the lightning_radiant_energy applies at specific wavelengths or frequencies. Bounds of the time and spatial coordinates may be specified to indicate the time interval and spatial extent over which the energy is emitted.",
-  "canonical_units": "J",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "lightning_radiant_energy",
+    "type": "standard_name",
+    "name": "lightning_radiant_energy",
+    "description": "The standard name \"lightning radiant energy\" means the energy emitted as electromagnetic radiation due to lightning. A coordinate variable of radiation_wavelength, radiation_frequency, or sensor_band_central_wavelength may be specified to indicate that the lightning_radiant_energy applies at specific wavelengths or frequencies. Bounds of the time and spatial coordinates may be specified to indicate the time interval and spatial extent over which the energy is emitted.",
+    "canonical_units": "J",
+    "amip": null,
+    "grib": null
 }

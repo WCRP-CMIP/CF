@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/relative_humidity",
-  "type": "standard_name",
-  "name": "relative_humidity",
-  "description": null,
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "relative_humidity",
+    "type": "standard_name",
+    "name": "relative_humidity",
+    "description": null,
+    "canonical_units": "1",
+    "amip": null,
+    "grib": null
 }

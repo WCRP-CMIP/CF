@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/quality_flag",
-  "type": "standard_name",
-  "name": "quality_flag",
-  "description": "A variable with the standard name of quality_flag contains an indication of assessed quality information of another data variable. The linkage between the data variable and the variable or variables with the standard_name of quality_flag is achieved using the ancillary_variables attribute.",
-  "canonical_units": "1",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "quality_flag",
+    "type": "standard_name",
+    "name": "quality_flag",
+    "description": "A variable with the standard name of quality_flag contains an indication of assessed quality information of another data variable. The linkage between the data variable and the variable or variables with the standard_name of quality_flag is achieved using the ancillary_variables attribute.",
+    "canonical_units": "1",
+    "amip": null,
+    "grib": null
 }

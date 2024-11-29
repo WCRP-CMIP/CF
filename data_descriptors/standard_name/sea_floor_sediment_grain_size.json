@@ -1,10 +1,10 @@
 {
-  "@context": "_context_",
-  "id": "standard_name/sea_floor_sediment_grain_size",
-  "type": "standard_name",
-  "name": "sea_floor_sediment_grain_size",
-  "description": "The average size of grains (also known as particles) in a sediment sample.",
-  "canonical_units": "m",
-  "amip": null,
-  "grib": null
+    "@context": "_context_",
+    "id": "sea_floor_sediment_grain_size",
+    "type": "standard_name",
+    "name": "sea_floor_sediment_grain_size",
+    "description": "The average size of grains (also known as particles) in a sediment sample.",
+    "canonical_units": "m",
+    "amip": null,
+    "grib": null
 }
