@@ -1,11 +1,17 @@
 {
-  "@context": {
-    "CFStandardName": {
-      "@id": "CFStandardName",
-      "@type": "@id"
-    },
-    "cannonical_units": {
-      "@type": "@id"
-    }
-  }
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/CF/standard_name/",
+            "@vocab": "https://wcrp-cmip.github.io/CF/standard_name/",
+            "CFStandardName": {
+                "@id": "CFStandardName",
+                "@type": "@id"
+            },
+            "cannonical_units": {
+                "@type": "@id"
+            }
+        }
+    ],
+    "@embed": "@always"
 }
