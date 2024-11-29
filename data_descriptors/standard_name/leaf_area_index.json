@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/leaf_area_index",
+  "type": "standard_name",
+  "name": "leaf_area_index",
+  "description": "\"X_area\" means the horizontal area occupied by X within the grid cell.",
+  "canonical_units": "1",
+  "amip": null,
+  "grib": null
+}

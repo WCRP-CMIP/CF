@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/thickness_of_liquid_water_cloud",
+  "type": "standard_name",
+  "name": "thickness_of_liquid_water_cloud",
+  "description": "\"Thickness\" means the vertical extent of a layer.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}

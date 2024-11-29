@@ -1,0 +1,10 @@
+{
+  "@context": "_context_",
+  "id": "standard_name/visibility_in_air",
+  "type": "standard_name",
+  "name": "visibility_in_air",
+  "description": "The visibility is the distance at which something can be seen.",
+  "canonical_units": "m",
+  "amip": null,
+  "grib": null
+}
