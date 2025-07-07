@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-78As-in-air",
+    "validation-key": "radioactivity-concentration-of-78as-in-air",
+    "ui-label": "Radioactivity Concentration Of 78as In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"As\" means the element \"arsenic\" and \"78As\" is the isotope \"arsenic-78\" with a half-life of 6.32e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_78As_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

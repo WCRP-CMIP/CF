@@ -1,0 +1,13 @@
+{
+    "id": "mole-concentration-of-silicate-in-sea-water",
+    "validation-key": "mole-concentration-of-silicate-in-sea-water",
+    "ui-label": "Mole Concentration Of Silicate In Sea Water",
+    "description": "Mole concentration means moles (amount of substance) per unit volume and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y.",
+    "canonical_units": "mol m-3",
+    "cf-name": "mole_concentration_of_silicate_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-y-transport",
+    "validation-key": "sea-ice-y-transport",
+    "ui-label": "Sea Ice Y Transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "kg s-1",
+    "cf-name": "sea_ice_y_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

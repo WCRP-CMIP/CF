@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-231Th-in-air",
+    "validation-key": "radioactivity-concentration-of-231th-in-air",
+    "ui-label": "Radioactivity Concentration Of 231th In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Th\" means the element \"thorium\" and \"231Th\" is the isotope \"thorium-231\" with a half-life of 1.06e+00 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_231Th_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-carbon-monoxide-due-to-emission",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-carbon-monoxide-due-to-emission",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Carbon Monoxide Due To Emission",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time.  \"Content\" indicates a quantity per unit area.  \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. earth's surface).  \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_carbon_monoxide_due_to_emission",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

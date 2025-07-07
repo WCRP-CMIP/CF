@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-troposphere-moles-of-hcc140a",
+    "validation-key": "tendency-of-troposphere-moles-of-hcc140a",
+    "ui-label": "Tendency Of Troposphere Moles Of Hcc140a",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"troposphere_moles_of_X\" means the total number of moles of X contained in the troposphere, i.e, summed over that part of the atmospheric column and over the entire globe. The chemical formula of HCC140a, also called methyl chloroform, is CH3CCl3. The IUPAC name for HCC140a is 1,1,1-trichloroethane.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_troposphere_moles_of_hcc140a",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

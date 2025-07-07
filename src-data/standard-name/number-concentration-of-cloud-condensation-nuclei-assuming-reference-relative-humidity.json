@@ -1,0 +1,13 @@
+{
+    "id": "number-concentration-of-cloud-condensation-nuclei-assuming-reference-relative-humidity",
+    "validation-key": "number-concentration-of-cloud-condensation-nuclei-assuming-reference-relative-humidity",
+    "ui-label": "Number Concentration Of Cloud Condensation Nuclei Assuming Reference Relative Humidity",
+    "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. The cloud condensation nuclei number concentration is the total number of aerosol particles per unit volume independent of and integrated over particle size that act as condensation nuclei for liquid-phase clouds. A coordinate variable with the standard name of relative_humidity should be specified to indicate that the property refers to a specific supersaturation with respect to liquid water. The ability of a particle to act as a condensation nucleus is determined by its size, chemical composition, and morphology.",
+    "canonical_units": "m-3",
+    "cf-name": "number_concentration_of_cloud_condensation_nuclei_assuming_reference_relative_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

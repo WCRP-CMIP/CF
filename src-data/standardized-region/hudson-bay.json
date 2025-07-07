@@ -1,0 +1,12 @@
+{
+    "id": "hudson-bay",
+    "validation-key": "hudson-bay",
+    "ui-label": "Hudson Bay",
+    "description": "",
+    "cf-name": "hudson_bay",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

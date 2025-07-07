@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-mean-square-upwave-slope",
+    "validation-key": "sea-surface-mean-square-upwave-slope",
+    "ui-label": "Sea Surface Mean Square Upwave Slope",
+    "description": "Wave slope describes an aspect of sea surface wave geometry related to sea surface roughness. Mean square slope describes a derivation over multiple waves within a sea-state, for example calculated from moments of the wave directional spectrum. The phrase \"upwave_slope\" means that slope values are derived from vector components along (parallel to) the axis from which waves are travelling. The primary directional axis along which wave energy associated with the slope calculation is travelling has the standard name sea_surface_mean_square_upwave_slope_direction.",
+    "canonical_units": "1",
+    "cf-name": "sea_surface_mean_square_upwave_slope",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-downward-y-stress",
+    "validation-key": "surface-downward-y-stress",
+    "ui-label": "Surface Downward Y Stress",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Surface stress\" means the shear stress (force per unit area) exerted by the wind at the surface. A downward stress is a downward flux of momentum. Over large bodies of water, wind stress can drive near-surface currents. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Downward y\" indicates the ZY component of a tensor. A downward y stress is a downward flux of momentum, which accelerates the lower medium in the direction of increasing y and and the upper medium in the direction of decreasing y.",
+    "canonical_units": "Pa",
+    "cf-name": "surface_downward_y_stress",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

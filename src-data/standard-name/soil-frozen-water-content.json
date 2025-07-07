@@ -1,0 +1,13 @@
+{
+    "id": "soil-frozen-water-content",
+    "validation-key": "soil-frozen-water-content",
+    "ui-label": "Soil Frozen Water Content",
+    "description": "\"frozen_water\" means ice. \"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content_of_soil_layer are used.",
+    "canonical_units": "kg m-2",
+    "cf-name": "soil_frozen_water_content",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

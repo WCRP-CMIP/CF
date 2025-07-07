@@ -1,0 +1,13 @@
+{
+    "id": "surface-net-downward-longwave-flux",
+    "validation-key": "surface-net-downward-longwave-flux",
+    "ui-label": "Surface Net Downward Longwave Flux",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"longwave\" means longwave radiation. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "surface_net_downward_longwave_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

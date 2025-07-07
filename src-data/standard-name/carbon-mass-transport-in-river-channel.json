@@ -1,0 +1,13 @@
+{
+    "id": "carbon-mass-transport-in-river-channel",
+    "validation-key": "carbon-mass-transport-in-river-channel",
+    "ui-label": "Carbon Mass Transport In River Channel",
+    "description": "The amount of total carbon mass transported in the river channels from land into the ocean. This quantity can be provided at a certain location within the river network and floodplain (over land) or at the river mouth (over ocean) where the river enters the ocean. \"River\" refers to water in the fluvial system (stream and floodplain).",
+    "canonical_units": "kg s-1",
+    "cf-name": "carbon_mass_transport_in_river_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

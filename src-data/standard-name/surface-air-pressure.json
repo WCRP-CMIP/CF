@@ -1,0 +1,13 @@
+{
+    "id": "surface-air-pressure",
+    "validation-key": "surface-air-pressure",
+    "ui-label": "Surface Air Pressure",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa",
+    "cf-name": "surface_air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

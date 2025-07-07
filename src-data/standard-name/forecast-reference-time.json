@@ -1,0 +1,13 @@
+{
+    "id": "forecast-reference-time",
+    "validation-key": "forecast-reference-time",
+    "ui-label": "Forecast Reference Time",
+    "description": "The forecast reference time in NWP is the \"data time\", the time of the analysis from which the forecast was made. It is not the time for which the forecast is valid; the standard name of time should be used for that time.",
+    "canonical_units": "s",
+    "cf-name": "forecast_reference_time",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

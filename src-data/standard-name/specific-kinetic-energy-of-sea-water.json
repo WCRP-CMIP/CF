@@ -1,0 +1,13 @@
+{
+    "id": "specific-kinetic-energy-of-sea-water",
+    "validation-key": "specific-kinetic-energy-of-sea-water",
+    "ui-label": "Specific Kinetic Energy Of Sea Water",
+    "description": "\"specific\" means per unit mass.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "specific_kinetic_energy_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

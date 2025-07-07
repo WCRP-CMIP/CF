@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-petroleum-hydrocarbons-in-sea-water",
+    "validation-key": "mass-concentration-of-petroleum-hydrocarbons-in-sea-water",
+    "ui-label": "Mass Concentration Of Petroleum Hydrocarbons In Sea Water",
+    "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Petroleum hydrocarbons are compounds containing just carbon and hydrogen originating from the fossil fuel crude oil.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_petroleum_hydrocarbons_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

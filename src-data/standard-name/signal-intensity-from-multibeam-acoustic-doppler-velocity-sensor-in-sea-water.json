@@ -1,0 +1,13 @@
+{
+    "id": "signal-intensity-from-multibeam-acoustic-doppler-velocity-sensor-in-sea-water",
+    "validation-key": "signal-intensity-from-multibeam-acoustic-doppler-velocity-sensor-in-sea-water",
+    "ui-label": "Signal Intensity From Multibeam Acoustic Doppler Velocity Sensor In Sea Water",
+    "description": "The magnitude of an acoustic signal emitted by the instrument toward a reflecting surface and received again by the instrument.",
+    "canonical_units": "1",
+    "cf-name": "signal_intensity_from_multibeam_acoustic_doppler_velocity_sensor_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

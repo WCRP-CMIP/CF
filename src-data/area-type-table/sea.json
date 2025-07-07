@@ -1,0 +1,12 @@
+{
+    "id": "sea",
+    "validation-key": "sea",
+    "ui-label": "Sea",
+    "description": "The area occupied by type \"sea\" is equal to the sum of the areas of types \"ice_free_sea\" and \"sea_ice\".",
+    "cf-name": "sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

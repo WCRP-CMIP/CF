@@ -1,0 +1,13 @@
+{
+    "id": "spectral-width-of-radio-wave-in-air-scattered-by-air",
+    "validation-key": "spectral-width-of-radio-wave-in-air-scattered-by-air",
+    "ui-label": "Spectral Width Of Radio Wave In Air Scattered By Air",
+    "description": "Frequency width of the radio wave, that was transmitted by an instrument and propagates in the air where it's scattered by the air due to which its properties change, and it is received by an instrument. The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities in the air). A standard name referring to frequency spectra width of the signal received at the instrument.",
+    "canonical_units": "Hz",
+    "cf-name": "spectral_width_of_radio_wave_in_air_scattered_by_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

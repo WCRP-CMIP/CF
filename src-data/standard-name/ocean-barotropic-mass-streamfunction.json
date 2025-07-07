@@ -1,0 +1,13 @@
+{
+    "id": "ocean-barotropic-mass-streamfunction",
+    "validation-key": "ocean-barotropic-mass-streamfunction",
+    "ui-label": "Ocean Barotropic Mass Streamfunction",
+    "description": "The barotropic stream function with the dimensions of volume transport has the standard name ocean_barotropic_streamfunction.",
+    "canonical_units": "kg s-1",
+    "cf-name": "ocean_barotropic_mass_streamfunction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

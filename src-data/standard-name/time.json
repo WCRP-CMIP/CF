@@ -1,0 +1,13 @@
+{
+    "id": "time",
+    "validation-key": "time",
+    "ui-label": "Time",
+    "description": null,
+    "canonical_units": "s",
+    "cf-name": "time",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

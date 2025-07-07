@@ -1,0 +1,13 @@
+{
+    "id": "lwe-water-evaporation-rate",
+    "validation-key": "lwe-water-evaporation-rate",
+    "ui-label": "Lwe Water Evaporation Rate",
+    "description": "\"lwe\" means liquid water equivalent. \"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".)",
+    "canonical_units": "m s-1",
+    "cf-name": "lwe_water_evaporation_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

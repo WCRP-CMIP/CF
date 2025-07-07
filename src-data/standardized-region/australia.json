@@ -1,0 +1,12 @@
+{
+    "id": "australia",
+    "validation-key": "australia",
+    "ui-label": "Australia",
+    "description": "",
+    "cf-name": "australia",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-102Tc-in-air",
+    "validation-key": "radioactivity-concentration-of-102tc-in-air",
+    "ui-label": "Radioactivity Concentration Of 102tc In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Tc\" means the element \"technetium\" and \"102Tc\" is the isotope \"technetium-102\" with a half-life of 6.12e-05 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_102Tc_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

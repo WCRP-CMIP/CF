@@ -1,0 +1,13 @@
+{
+    "id": "specific-dry-energy-of-air",
+    "validation-key": "specific-dry-energy-of-air",
+    "ui-label": "Specific Dry Energy Of Air",
+    "description": "\"specific\" means per unit mass. Dry energy is the sum of dry static energy and kinetic energy. Dry static energy is the sum of enthalpy and potential energy (itself the sum of gravitational and centripetal potential energy). Enthalpy can be written either as (1) CpT, where Cp is heat capacity at constant pressure, T is absolute temperature, or (2) U+pV, where U is internal energy, p is pressure and V is volume.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "specific_dry_energy_of_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

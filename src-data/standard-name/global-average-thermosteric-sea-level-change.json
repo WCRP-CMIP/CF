@@ -1,0 +1,13 @@
+{
+    "id": "global-average-thermosteric-sea-level-change",
+    "validation-key": "global-average-thermosteric-sea-level-change",
+    "ui-label": "Global Average Thermosteric Sea Level Change",
+    "description": "Global average thermosteric sea level change is the part caused by change in density due to change in temperature i.e. thermal expansion. This in turn results in a change in volume of the world ocean. Zero sea level change is an arbitrary level. Because global average sea level change quantifies the change in volume of the world ocean, it is not calculated necessarily by considering local changes in mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "global_average_thermosteric_sea_level_change",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

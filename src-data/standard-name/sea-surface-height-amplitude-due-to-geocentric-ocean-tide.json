@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-height-amplitude-due-to-geocentric-ocean-tide",
+    "validation-key": "sea-surface-height-amplitude-due-to-geocentric-ocean-tide",
+    "ui-label": "Sea Surface Height Amplitude Due To Geocentric Ocean Tide",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Tides are a significant contributor to the observed sea surface height; geocentric ocean tide means the sum total of ocean tide and load tide.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_height_amplitude_due_to_geocentric_ocean_tide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-area-fraction",
+    "validation-key": "sea-ice-area-fraction",
+    "ui-label": "Sea Ice Area Fraction",
+    "description": "A variable with this standard name represents the fractional area of some region of earth's surface covered by sea ice. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. In general, for a grid cell, an area fraction is evaluated as the area of interest in the cell divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea\"), then it is the area of interest divided by the area of the identified portion. Consequently, a variable with a standard name of sea_ice_area_fraction and a cell_methods attribute that includes \"area:mean where sea\" represents what is defined as the \"sea-ice concentration\": the area fraction of the sea surface that is covered by sea ice. Except when the concentration is 0, the sea ice area fraction and the sea-ice concentration will differ in grid cells that are partly sea, e.g. in coastal grid cells. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "1",
+    "cf-name": "sea_ice_area_fraction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

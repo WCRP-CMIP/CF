@@ -1,0 +1,13 @@
+{
+    "id": "product-of-deviations-of-northward-wind-and-air-temperature-wrt-zonal-means",
+    "validation-key": "product-of-deviations-of-northward-wind-and-air-temperature-wrt-zonal-means",
+    "ui-label": "Product Of Deviations Of Northward Wind And Air Temperature Wrt Zonal Means",
+    "description": "The phrase \"product_of_X_and_Y\" means X*Y. The abbreviation \"wrt\" means \"with respect to\". The phrase \"deviations_of_X_and_Y_wrt_zonal_means\" means the deviations of X and Y about their respective zonal mean values. The product of the deviations of X and Y about their respective zonal mean values is sometimes referred to as a zonal eddy covariance when averaged over longitude. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). Air temperature is the bulk temperature of the air, not the surface (skin) temperature.",
+    "canonical_units": "K m s-1",
+    "cf-name": "product_of_deviations_of_northward_wind_and_air_temperature_wrt_zonal_means",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

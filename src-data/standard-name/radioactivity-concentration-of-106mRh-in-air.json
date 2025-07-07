@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-106mRh-in-air",
+    "validation-key": "radioactivity-concentration-of-106mrh-in-air",
+    "ui-label": "Radioactivity Concentration Of 106mrh In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Rh\" means the element \"rhodium\" and \"106mRh\" is the metastable state of the isotope \"rhodium-106\" with a half-life of 9.09e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_106mRh_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

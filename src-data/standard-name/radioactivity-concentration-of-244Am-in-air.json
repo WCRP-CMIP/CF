@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-244Am-in-air",
+    "validation-key": "radioactivity-concentration-of-244am-in-air",
+    "ui-label": "Radioactivity Concentration Of 244am In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Am\" means the element \"americium\" and \"244Am\" is the isotope \"americium-244\" with a half-life of 4.20e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_244Am_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

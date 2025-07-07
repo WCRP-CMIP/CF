@@ -1,0 +1,12 @@
+{
+    "id": "soil-type",
+    "validation-key": "soil-type",
+    "ui-label": "Soil Type",
+    "description": "A variable with the standard name of soil_type contains strings which indicate the character of the soil e.g. clay. These strings have not yet been standardised. Alternatively, the data variable may contain integers which can be translated to strings using flag_values and flag_meanings attributes.",
+    "cf-name": "soil_type",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

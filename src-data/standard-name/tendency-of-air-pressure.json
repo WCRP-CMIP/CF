@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-air-pressure",
+    "validation-key": "tendency-of-air-pressure",
+    "ui-label": "Tendency Of Air Pressure",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa s-1",
+    "cf-name": "tendency_of_air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

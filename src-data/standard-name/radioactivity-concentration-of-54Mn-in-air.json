@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-54Mn-in-air",
+    "validation-key": "radioactivity-concentration-of-54mn-in-air",
+    "ui-label": "Radioactivity Concentration Of 54mn In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Mn\" means the element \"manganese\" and \"54Mn\" is the isotope \"manganese-54\" with a half-life of 3.12e+02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_54Mn_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

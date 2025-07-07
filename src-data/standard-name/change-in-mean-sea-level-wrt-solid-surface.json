@@ -1,0 +1,13 @@
+{
+    "id": "change-in-mean-sea-level-wrt-solid-surface",
+    "validation-key": "change-in-mean-sea-level-wrt-solid-surface",
+    "ui-label": "Change In Mean Sea Level Wrt Solid Surface",
+    "description": "The change in local mean sea level relative to the local solid surface, i.e. sea floor. The abbreviation \"wrt\" means \"with respect to\". A positive value means sea level rise.",
+    "canonical_units": "m",
+    "cf-name": "change_in_mean_sea_level_wrt_solid_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

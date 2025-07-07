@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-organic-carbon-in-sea-floor-sediment",
+    "validation-key": "mass-concentration-of-organic-carbon-in-sea-floor-sediment",
+    "ui-label": "Mass Concentration Of Organic Carbon In Sea Floor Sediment",
+    "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Organic carbon describes a family of chemical species and is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"Sea floor sediment\" is sediment deposited at the sea bed.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_organic_carbon_in_sea_floor_sediment",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

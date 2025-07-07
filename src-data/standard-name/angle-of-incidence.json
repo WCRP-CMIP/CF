@@ -1,0 +1,13 @@
+{
+    "id": "angle-of-incidence",
+    "validation-key": "angle-of-incidence",
+    "ui-label": "Angle Of Incidence",
+    "description": "The angle of incidence is that between the direction of approach of a beam of radiation toward a surface and the normal to that surface.",
+    "canonical_units": "degree",
+    "cf-name": "angle_of_incidence",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

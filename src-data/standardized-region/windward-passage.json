@@ -1,0 +1,12 @@
+{
+    "id": "windward-passage",
+    "validation-key": "windward-passage",
+    "ui-label": "Windward Passage",
+    "description": "",
+    "cf-name": "windward_passage",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

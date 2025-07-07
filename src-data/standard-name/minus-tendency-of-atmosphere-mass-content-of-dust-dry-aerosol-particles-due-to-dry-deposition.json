@@ -1,0 +1,13 @@
+{
+    "id": "minus-tendency-of-atmosphere-mass-content-of-dust-dry-aerosol-particles-due-to-dry-deposition",
+    "validation-key": "minus-tendency-of-atmosphere-mass-content-of-dust-dry-aerosol-particles-due-to-dry-deposition",
+    "ui-label": "Minus Tendency Of Atmosphere Mass Content Of Dust Dry Aerosol Particles Due To Dry Deposition",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The phrase \"minus_tendency\" means that the quantity described takes the opposite sign convention to that for the quantity which has the same standard name apart from this phrase, i.e. the two quantities differ from one another by a factor of -1. Thus a \"minus_tendency\" in the atmosphere means a positive deposition rate onto the underlying surface. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the particles. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Dry deposition\" is the sum of turbulent deposition and gravitational settling.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "minus_tendency_of_atmosphere_mass_content_of_dust_dry_aerosol_particles_due_to_dry_deposition",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

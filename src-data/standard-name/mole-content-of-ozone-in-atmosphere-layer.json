@@ -1,0 +1,13 @@
+{
+    "id": "mole-content-of-ozone-in-atmosphere-layer",
+    "validation-key": "mole-content-of-ozone-in-atmosphere-layer",
+    "ui-label": "Mole Content Of Ozone In Atmosphere Layer",
+    "description": "\"Content\" indicates a quantity per unit area. The \"content_of_X_in_atmosphere_layer\" refers to the vertical integral between two specified levels in the atmosphere. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. For the mole content integrated from the surface to the top of the atmosphere, standard names including \"atmosphere_mole_content_of_X\" are used. The chemical formula for ozone is O3. \"mole_content_of_ozone_in_atmosphere_layer\" is usually measured in Dobson Units which are equivalent to 446.2 micromoles m-2. N.B. Data variables containing column content of ozone can be given the standard name of either equivalent_thickness_at_stp_of_atmosphere_ozone_content or atmosphere_mole_content_of_ozone. The latter name is recommended for consistency with mole content names for chemical species other than ozone.",
+    "canonical_units": "mol m-2",
+    "cf-name": "mole_content_of_ozone_in_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

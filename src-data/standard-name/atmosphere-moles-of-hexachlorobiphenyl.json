@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-hexachlorobiphenyl",
+    "validation-key": "atmosphere-moles-of-hexachlorobiphenyl",
+    "ui-label": "Atmosphere Moles Of Hexachlorobiphenyl",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for hexachlorobiphenyl is C12H4Cl6.  This structure of this species consists of two linked benzene rings, each of which is additionally bonded to three chlorine atoms.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_hexachlorobiphenyl",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

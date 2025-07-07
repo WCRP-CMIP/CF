@@ -1,0 +1,13 @@
+{
+    "id": "eastward-atmosphere-water-transport-across-unit-distance",
+    "validation-key": "eastward-atmosphere-water-transport-across-unit-distance",
+    "ui-label": "Eastward Atmosphere Water Transport Across Unit Distance",
+    "description": "\"Water\" means water in all phases. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport.",
+    "canonical_units": "kg s-1 m-1",
+    "cf-name": "eastward_atmosphere_water_transport_across_unit_distance",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

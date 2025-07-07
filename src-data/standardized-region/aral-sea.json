@@ -1,0 +1,12 @@
+{
+    "id": "aral-sea",
+    "validation-key": "aral-sea",
+    "ui-label": "Aral Sea",
+    "description": "",
+    "cf-name": "aral_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

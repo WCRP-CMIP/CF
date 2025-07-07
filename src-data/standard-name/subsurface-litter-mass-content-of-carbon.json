@@ -1,0 +1,13 @@
+{
+    "id": "subsurface-litter-mass-content-of-carbon",
+    "validation-key": "subsurface-litter-mass-content-of-carbon",
+    "ui-label": "Subsurface Litter Mass Content Of Carbon",
+    "description": "\"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Subsurface litter\" means the part of the litter mixed within the soil below the surface. \"Content\" indicates a quantity per unit area. The sum of the quantities with standard names surface_litter_mass_content_of_carbon and subsurface_litter_mass_content_of_carbon has the standard name litter_mass_content_of_carbon.",
+    "canonical_units": "kg m-2",
+    "cf-name": "subsurface_litter_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

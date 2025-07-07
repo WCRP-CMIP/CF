@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-133Te",
+    "validation-key": "surface-radioactivity-content-of-133te",
+    "ui-label": "Surface Radioactivity Content Of 133te",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Te\" means the element \"tellurium\" and \"133Te\" is the isotope \"tellurium-133\" with a half-life of 8.68e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_133Te",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

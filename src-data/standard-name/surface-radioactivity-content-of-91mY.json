@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-91mY",
+    "validation-key": "surface-radioactivity-content-of-91my",
+    "ui-label": "Surface Radioactivity Content Of 91my",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Y\" means the element \"yttrium\" and \"91mY\" is the metastable state of the isotope \"yttrium-91\" with a half-life of 3.46e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_91mY",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

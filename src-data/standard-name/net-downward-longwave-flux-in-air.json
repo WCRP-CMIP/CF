@@ -1,0 +1,13 @@
+{
+    "id": "net-downward-longwave-flux-in-air",
+    "validation-key": "net-downward-longwave-flux-in-air",
+    "ui-label": "Net Downward Longwave Flux In Air",
+    "description": "\"longwave\" means longwave radiation. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "net_downward_longwave_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

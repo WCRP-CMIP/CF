@@ -1,0 +1,13 @@
+{
+    "id": "reference-sea-water-density-for-boussinesq-approximation",
+    "validation-key": "reference-sea-water-density-for-boussinesq-approximation",
+    "ui-label": "Reference Sea Water Density For Boussinesq Approximation",
+    "description": "Sea water density is the in-situ density (not the potential density). For a rigid lid Boussinesq geopotential ocean model the density of the sea water is maintained at a constant reference density.  In a model using the rigid lid Boussinesq approximation , the vertical grid coordinates (and hence the grid cell volumes) are time invariant.",
+    "canonical_units": "kg m-3",
+    "cf-name": "reference_sea_water_density_for_boussinesq_approximation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

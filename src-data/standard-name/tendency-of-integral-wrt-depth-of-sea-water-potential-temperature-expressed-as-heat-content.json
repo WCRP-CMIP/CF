@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content",
+    "validation-key": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content",
+    "ui-label": "Tendency Of Integral Wrt Depth Of Sea Water Potential Temperature Expressed As Heat Content",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. This tendency encompasses all processes that impact on the time changes for the heat content within a grid cell. The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. The abbreviation \"wrt\" means \"with respect to\". Depth is the vertical distance below the surface. Sea water potential temperature is the temperature a parcel of sea water would have if moved adiabatically to sea level pressure. The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea water multiplied by the potential temperature of the sea water in the grid cell and integrated over depth.",
+    "canonical_units": "W m-2",
+    "cf-name": "tendency_of_integral_wrt_depth_of_sea_water_potential_temperature_expressed_as_heat_content",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

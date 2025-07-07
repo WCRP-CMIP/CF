@@ -1,0 +1,13 @@
+{
+    "id": "shallow-convective-cloud-top-altitude",
+    "validation-key": "shallow-convective-cloud-top-altitude",
+    "ui-label": "Shallow Convective Cloud Top Altitude",
+    "description": "The phrase \"cloud_top\" refers to the top of the highest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level. Shallow convective cloud is nonprecipitating cumulus cloud with a cloud top below 3000m above the surface produced by the convection schemes in an atmosphere model. Some atmosphere models differentiate between shallow and deep convection.",
+    "canonical_units": "m",
+    "cf-name": "shallow_convective_cloud_top_altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

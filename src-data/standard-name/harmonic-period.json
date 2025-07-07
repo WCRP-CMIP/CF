@@ -1,0 +1,13 @@
+{
+    "id": "harmonic-period",
+    "validation-key": "harmonic-period",
+    "ui-label": "Harmonic Period",
+    "description": "A period is an interval of time, or the time-period of an oscillation.",
+    "canonical_units": "s",
+    "cf-name": "harmonic_period",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

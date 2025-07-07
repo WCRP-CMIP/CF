@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-lwe-calving-rate",
+    "validation-key": "land-ice-lwe-calving-rate",
+    "ui-label": "Land Ice Lwe Calving Rate",
+    "description": "\"lwe\" means liquid water equivalent. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The land ice calving rate is the rate at which ice is lost per unit area through calving into the ocean.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_lwe_calving_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "davis-strait",
+    "validation-key": "davis-strait",
+    "ui-label": "Davis Strait",
+    "description": "",
+    "cf-name": "davis_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "land-ice",
+    "validation-key": "land-ice",
+    "ui-label": "Land Ice",
+    "description": "\"Land ice\" means glaciers, ice-caps, grounded ice sheets resting on bedrock and floating ice-shelves.",
+    "cf-name": "land_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

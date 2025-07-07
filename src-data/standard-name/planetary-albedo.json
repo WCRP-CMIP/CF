@@ -1,0 +1,13 @@
+{
+    "id": "planetary-albedo",
+    "validation-key": "planetary-albedo",
+    "ui-label": "Planetary Albedo",
+    "description": "Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum.",
+    "canonical_units": "1",
+    "cf-name": "planetary_albedo",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

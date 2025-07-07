@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-soil-mass-content-of-nitrogen-compounds-expressed-as-nitrogen-due-to-fertilization",
+    "validation-key": "tendency-of-soil-mass-content-of-nitrogen-compounds-expressed-as-nitrogen-due-to-fertilization",
+    "ui-label": "Tendency Of Soil Mass Content Of Nitrogen Compounds Expressed As Nitrogen Due To Fertilization",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Nitrogen compounds\" summarizes all chemical species containing nitrogen atoms. The list of individual species that are included in this quantity can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"Fertilization\" means the addition of artificial fertilizers and animal manure to soil for the purpose of increasing plant nutrient concentrations.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_soil_mass_content_of_nitrogen_compounds_expressed_as_nitrogen_due_to_fertilization",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "depth",
+    "validation-key": "depth",
+    "ui-label": "Depth",
+    "description": "Depth is the vertical distance below the surface.",
+    "canonical_units": "m",
+    "cf-name": "depth",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

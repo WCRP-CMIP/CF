@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-138Xe-in-air",
+    "validation-key": "radioactivity-concentration-of-138xe-in-air",
+    "ui-label": "Radioactivity Concentration Of 138xe In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Xe\" means the element \"xenon\" and \"138Xe\" is the isotope \"xenon-138\" with a half-life of 9.84e-03 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_138Xe_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

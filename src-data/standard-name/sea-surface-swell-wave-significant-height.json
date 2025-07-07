@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-swell-wave-significant-height",
+    "validation-key": "sea-surface-swell-wave-significant-height",
+    "ui-label": "Sea Surface Swell Wave Significant Height",
+    "description": "Swell waves are waves on the ocean surface and are the low frequency portion of a bimodal wave frequency spectrum. Significant wave height is a statistic computed from wave measurements and corresponds to the average height of the highest one third of the waves, where the height is defined as the vertical distance from a wave trough to the following wave crest.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_swell_wave_significant_height",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

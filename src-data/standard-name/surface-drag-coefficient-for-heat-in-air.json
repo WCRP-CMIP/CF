@@ -1,0 +1,13 @@
+{
+    "id": "surface-drag-coefficient-for-heat-in-air",
+    "validation-key": "surface-drag-coefficient-for-heat-in-air",
+    "ui-label": "Surface Drag Coefficient For Heat In Air",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "1",
+    "cf-name": "surface_drag_coefficient_for_heat_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

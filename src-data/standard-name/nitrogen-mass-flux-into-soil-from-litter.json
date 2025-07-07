@@ -1,0 +1,13 @@
+{
+    "id": "nitrogen-mass-flux-into-soil-from-litter",
+    "validation-key": "nitrogen-mass-flux-into-soil-from-litter",
+    "ui-label": "Nitrogen Mass Flux Into Soil From Litter",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Litter\" is dead plant material in or above the soil.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "nitrogen_mass_flux_into_soil_from_litter",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

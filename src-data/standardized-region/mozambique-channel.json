@@ -1,0 +1,12 @@
+{
+    "id": "mozambique-channel",
+    "validation-key": "mozambique-channel",
+    "ui-label": "Mozambique Channel",
+    "description": "",
+    "cf-name": "mozambique_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

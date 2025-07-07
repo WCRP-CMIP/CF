@@ -1,0 +1,13 @@
+{
+    "id": "forecast-period",
+    "validation-key": "forecast-period",
+    "ui-label": "Forecast Period",
+    "description": "Forecast period is the time interval between the forecast reference time and the validity time. A period is an interval of time, or the time-period of an oscillation.",
+    "canonical_units": "s",
+    "cf-name": "forecast_period",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

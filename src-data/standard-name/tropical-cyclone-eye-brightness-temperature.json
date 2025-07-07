@@ -1,0 +1,13 @@
+{
+    "id": "tropical-cyclone-eye-brightness-temperature",
+    "validation-key": "tropical-cyclone-eye-brightness-temperature",
+    "ui-label": "Tropical Cyclone Eye Brightness Temperature",
+    "description": "The quantity with standard name tropical_cyclone_eye_brightness_temperature is the warmest brightness temperature value in the eye region of a tropical cyclone (0 - 24 km from the storm center) derived using the Advanced Dvorak Technique, based on satellite observations. Reference: Olander, T. L., & Velden, C. S., The Advanced Dvorak Technique: Continued Development of an Objective Scheme to Estimate Tropical Cyclone Intensity Using Geostationary Infrared Satellite Imagery (2007).  American Meteorological Society Weather and Forecasting, 22, 287-298. The brightness temperature of a body is the temperature of a black body which radiates the same power per unit solid angle per unit area. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "tropical_cyclone_eye_brightness_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

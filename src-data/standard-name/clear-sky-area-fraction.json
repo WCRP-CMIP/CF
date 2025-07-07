@@ -1,0 +1,13 @@
+{
+    "id": "clear-sky-area-fraction",
+    "validation-key": "clear-sky-area-fraction",
+    "ui-label": "Clear Sky Area Fraction",
+    "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. The clear_sky area fraction is for the whole atmosphere column, as seen from the surface or the top of the atmosphere. \"Clear sky\" means in the absence of clouds.",
+    "canonical_units": "1",
+    "cf-name": "clear_sky_area_fraction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

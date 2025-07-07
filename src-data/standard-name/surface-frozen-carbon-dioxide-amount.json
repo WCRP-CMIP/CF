@@ -1,0 +1,13 @@
+{
+    "id": "surface-frozen-carbon-dioxide-amount",
+    "validation-key": "surface-frozen-carbon-dioxide-amount",
+    "ui-label": "Surface Frozen Carbon Dioxide Amount",
+    "description": "\"Amount\" means mass per unit area. The surface called \"surface\" means the lower boundary of the atmosphere. The chemical formula for carbon dioxide is CO2. Frozen carbon dioxide is found on the surface of Mars.",
+    "canonical_units": "kg m-2",
+    "cf-name": "surface_frozen_carbon_dioxide_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

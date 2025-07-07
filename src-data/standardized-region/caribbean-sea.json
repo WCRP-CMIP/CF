@@ -1,0 +1,12 @@
+{
+    "id": "caribbean-sea",
+    "validation-key": "caribbean-sea",
+    "ui-label": "Caribbean Sea",
+    "description": "",
+    "cf-name": "caribbean_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

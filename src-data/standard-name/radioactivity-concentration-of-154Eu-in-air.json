@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-154Eu-in-air",
+    "validation-key": "radioactivity-concentration-of-154eu-in-air",
+    "ui-label": "Radioactivity Concentration Of 154eu In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Eu\" means the element \"europium\" and \"154Eu\" is the isotope \"europium-154\" with a half-life of 3.13e+03 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_154Eu_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

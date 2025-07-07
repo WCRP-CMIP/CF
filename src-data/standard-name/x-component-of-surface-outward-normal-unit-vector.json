@@ -1,0 +1,13 @@
+{
+    "id": "x-component-of-surface-outward-normal-unit-vector",
+    "validation-key": "x-component-of-surface-outward-normal-unit-vector",
+    "ui-label": "X Component Of Surface Outward Normal Unit Vector",
+    "description": "The X-component of the surface outward normal unit vector at a specified location, indicating the orientation of the surface at that point. \"x\" indicates a vector component along the grid x-axis, positive with increasing x.",
+    "canonical_units": "1",
+    "cf-name": "x_component_of_surface_outward_normal_unit_vector",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

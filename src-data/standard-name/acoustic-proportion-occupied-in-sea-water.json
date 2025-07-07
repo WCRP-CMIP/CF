@@ -1,0 +1,13 @@
+{
+    "id": "acoustic-proportion-occupied-in-sea-water",
+    "validation-key": "acoustic-proportion-occupied-in-sea-water",
+    "ui-label": "Acoustic Proportion Occupied In Sea Water",
+    "description": "Acoustic proportion occupied is occupied volume divided by the volume sampled. Occupied volume is the integral of the ratio of acoustic_volume_backscattering_strength_in_sea_water above -90 dB to the reference value, 1 m2 m-2. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205.",
+    "canonical_units": "1",
+    "cf-name": "acoustic_proportion_occupied_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

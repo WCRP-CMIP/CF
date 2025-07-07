@@ -1,0 +1,13 @@
+{
+    "id": "specific-heat-capacity-of-frozen-ground",
+    "validation-key": "specific-heat-capacity-of-frozen-ground",
+    "ui-label": "Specific Heat Capacity Of Frozen Ground",
+    "description": "Thermal capacity, or heat capacity, is the amount of heat energy required to increase the temperature of 1 kg of material by 1 K. It is a property of the material. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "J kg-1 K-1",
+    "cf-name": "specific_heat_capacity_of_frozen_ground",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

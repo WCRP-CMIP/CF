@@ -1,0 +1,12 @@
+{
+    "id": "platform-name",
+    "validation-key": "platform-name",
+    "ui-label": "Platform Name",
+    "description": "A variable with the standard name of platform_name contains strings which help to identify the platform from which an observation was made. For example, this may be a geographical place name such as \"South Pole\" or the name of a meteorological observing station. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "cf-name": "platform_name",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

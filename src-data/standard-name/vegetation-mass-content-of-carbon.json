@@ -1,0 +1,13 @@
+{
+    "id": "vegetation-mass-content-of-carbon",
+    "validation-key": "vegetation-mass-content-of-carbon",
+    "ui-label": "Vegetation Mass Content Of Carbon",
+    "description": "\"Content\" indicates a quantity per unit area. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
+    "canonical_units": "kg m-2",
+    "cf-name": "vegetation_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "red-sea",
+    "validation-key": "red-sea",
+    "ui-label": "Red Sea",
+    "description": "",
+    "cf-name": "red_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

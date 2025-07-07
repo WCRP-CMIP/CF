@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-228Ac-in-air",
+    "validation-key": "radioactivity-concentration-of-228ac-in-air",
+    "ui-label": "Radioactivity Concentration Of 228ac In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ac\" means the element \"actinium\" and \"228Ac\" is the isotope \"actinium-228\" with a half-life of 2.55e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_228Ac_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

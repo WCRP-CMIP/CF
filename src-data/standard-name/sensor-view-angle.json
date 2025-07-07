@@ -1,0 +1,13 @@
+{
+    "id": "sensor-view-angle",
+    "validation-key": "sensor-view-angle",
+    "ui-label": "Sensor View Angle",
+    "description": "Sensor view angle is the angle between the line of sight from the sensor and the direction straight vertically down. Zero view angle means looking directly beneath the sensor. There is no standardized sign convention for sensor_view_angle. A standard name also exists for platform_view_angle, where \"platform\" refers to the vehicle from which observations are made e.g. aeroplane, ship, or satellite. For some viewing geometries the sensor and the platform cannot be assumed to be close enough to neglect the difference in calculated view angle.",
+    "canonical_units": "degree",
+    "cf-name": "sensor_view_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

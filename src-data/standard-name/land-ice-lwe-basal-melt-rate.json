@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-lwe-basal-melt-rate",
+    "validation-key": "land-ice-lwe-basal-melt-rate",
+    "ui-label": "Land Ice Lwe Basal Melt Rate",
+    "description": "\"lwe\" means liquid water equivalent. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The land ice basal melt rate is the rate at which ice is lost per unit area at the base of the ice.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_lwe_basal_melt_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

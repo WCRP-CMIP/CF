@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-precipitation-in-air",
+    "validation-key": "mass-fraction-of-precipitation-in-air",
+    "ui-label": "Mass Fraction Of Precipitation In Air",
+    "description": "Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases.",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_precipitation_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

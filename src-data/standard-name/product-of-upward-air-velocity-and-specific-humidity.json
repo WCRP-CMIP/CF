@@ -1,0 +1,13 @@
+{
+    "id": "product-of-upward-air-velocity-and-specific-humidity",
+    "validation-key": "product-of-upward-air-velocity-and-specific-humidity",
+    "ui-label": "Product Of Upward Air Velocity And Specific Humidity",
+    "description": "\"product_of_X_and_Y\" means X*Y. \"specific\" means per unit mass. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Specific humidity is the mass fraction of water vapor in (moist) air. Upward air velocity is the vertical component of the 3D air velocity vector.",
+    "canonical_units": "m s-1",
+    "cf-name": "product_of_upward_air_velocity_and_specific_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

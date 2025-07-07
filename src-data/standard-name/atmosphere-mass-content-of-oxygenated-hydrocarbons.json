@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-oxygenated-hydrocarbons",
+    "validation-key": "atmosphere-mass-content-of-oxygenated-hydrocarbons",
+    "ui-label": "Atmosphere Mass Content Of Oxygenated Hydrocarbons",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.   \"Oxygenated\" means containing oxygen. \"Hydrocarbon\" means a compound containing hydrogen and carbon.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_oxygenated_hydrocarbons",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

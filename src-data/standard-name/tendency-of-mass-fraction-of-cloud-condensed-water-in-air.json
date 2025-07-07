@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-mass-fraction-of-cloud-condensed-water-in-air",
+    "validation-key": "tendency-of-mass-fraction-of-cloud-condensed-water-in-air",
+    "ui-label": "Tendency Of Mass Fraction Of Cloud Condensed Water In Air",
+    "description": "\"Tendency_of_X\" means derivative of X with respect to time. Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).  \"Condensed_water\" means liquid and ice.",
+    "canonical_units": "s-1",
+    "cf-name": "tendency_of_mass_fraction_of_cloud_condensed_water_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

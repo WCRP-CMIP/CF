@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-beta-pinene",
+    "validation-key": "tendency-of-atmosphere-moles-of-beta-pinene",
+    "ui-label": "Tendency Of Atmosphere Moles Of Beta Pinene",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for beta_pinene is C10H16.  The IUPAC name for beta-pinene is (1S,5S)-6,6-dimethyl-2-methylenebicyclo[3.1.1]heptane.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_beta_pinene",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

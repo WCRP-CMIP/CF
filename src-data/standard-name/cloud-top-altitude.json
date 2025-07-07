@@ -1,0 +1,13 @@
+{
+    "id": "cloud-top-altitude",
+    "validation-key": "cloud-top-altitude",
+    "ui-label": "Cloud Top Altitude",
+    "description": "cloud_top refers to the top of the highest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "cloud_top_altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

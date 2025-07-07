@@ -1,0 +1,13 @@
+{
+    "id": "tracer-lifetime",
+    "validation-key": "tracer-lifetime",
+    "ui-label": "Tracer Lifetime",
+    "description": "The quantity with standard name tracer_lifetime is the total length of time a passive tracer exists within a medium. Passive tracers are used in models to study processes such as transport and deposition.",
+    "canonical_units": "s",
+    "cf-name": "tracer_lifetime",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

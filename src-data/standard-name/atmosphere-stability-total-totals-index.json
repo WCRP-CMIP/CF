@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-stability-total-totals-index",
+    "validation-key": "atmosphere-stability-total-totals-index",
+    "ui-label": "Atmosphere Stability Total Totals Index",
+    "description": "The atmosphere_stability_total_totals_index indicates thelikelihood of severe convection and is often referred to as simply thetotal totals index. The index is derived from the difference in airtemperature between 850 and 500 hPa (the vertical totals) and thedifference between the dew point temperature at 850 hPa and the airtemperature at 500 hPa (the cross totals). The vertical totals and crosstotals are summed to obtain the index. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "atmosphere_stability_total_totals_index",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

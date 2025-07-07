@@ -1,0 +1,13 @@
+{
+    "id": "water-flux-into-sea-water-without-flux-correction",
+    "validation-key": "water-flux-into-sea-water-without-flux-correction",
+    "ui-label": "Water Flux Into Sea Water Without Flux Correction",
+    "description": "Water means water in all phases. The water_flux_into_sea_water_without_flux_correction  is the freshwater entering as a result of precipitation, evaporation, river inflow and sea ice effects.  The total water flux including any flux relaxation(s) or correction(s) is described by the standard name water_flux_into_sea_water.  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "water_flux_into_sea_water_without_flux_correction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

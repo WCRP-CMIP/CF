@@ -1,0 +1,13 @@
+{
+    "id": "pressure-at-effective-cloud-top-defined-by-infrared-radiation",
+    "validation-key": "pressure-at-effective-cloud-top-defined-by-infrared-radiation",
+    "ui-label": "Pressure At Effective Cloud Top Defined By Infrared Radiation",
+    "description": "The \"effective cloud top defined by infrared radiation\" is (approximately) the geometric height above the surface that is one optical depth at infrared wavelengths (in the region of 11 micrometers) below the cloud top that would be detected by visible and lidar techniques. Reference: Minnis, P. et al 2011 CERES Edition-2 Cloud Property Retrievals Using TRMM VIRS and Terra and Aqua MODIS Data x2014; Part I: Algorithms IEEE Transactions on Geoscience and Remote Sensing, 49(11), 4374-4400. doi: http://dx.doi.org/10.1109/TGRS.2011.2144601.",
+    "canonical_units": "Pa",
+    "cf-name": "pressure_at_effective_cloud_top_defined_by_infrared_radiation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

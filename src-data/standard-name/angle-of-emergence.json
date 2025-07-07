@@ -1,0 +1,13 @@
+{
+    "id": "angle-of-emergence",
+    "validation-key": "angle-of-emergence",
+    "ui-label": "Angle Of Emergence",
+    "description": "The angle of emergence is that between the direction of a beam of radiation emerging from the surface of a medium and the normal to that surface.",
+    "canonical_units": "degree",
+    "cf-name": "angle_of_emergence",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

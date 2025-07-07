@@ -1,0 +1,13 @@
+{
+    "id": "radiation-frequency",
+    "validation-key": "radiation-frequency",
+    "ui-label": "Radiation Frequency",
+    "description": "Frequency is the number of oscillations of a wave per unit time.  The radiation frequency can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",
+    "canonical_units": "s-1",
+    "cf-name": "radiation_frequency",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

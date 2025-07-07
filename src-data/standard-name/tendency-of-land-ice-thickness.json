@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-land-ice-thickness",
+    "validation-key": "tendency-of-land-ice-thickness",
+    "ui-label": "Tendency Of Land Ice Thickness",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.  \"Thickness\" means the vertical extent of a layer..",
+    "canonical_units": "m s-1",
+    "cf-name": "tendency_of_land_ice_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

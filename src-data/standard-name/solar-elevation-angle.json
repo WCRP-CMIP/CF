@@ -1,0 +1,13 @@
+{
+    "id": "solar-elevation-angle",
+    "validation-key": "solar-elevation-angle",
+    "ui-label": "Solar Elevation Angle",
+    "description": "Solar elevation angle is the angle between the line of sight to the sun and the local horizontal.",
+    "canonical_units": "degree",
+    "cf-name": "solar_elevation_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

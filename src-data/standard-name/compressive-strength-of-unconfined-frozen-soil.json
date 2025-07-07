@@ -1,0 +1,13 @@
+{
+    "id": "compressive-strength-of-unconfined-frozen-soil",
+    "validation-key": "compressive-strength-of-unconfined-frozen-soil",
+    "ui-label": "Compressive Strength Of Unconfined Frozen Soil",
+    "description": "The maximum force applied as axial strain to an unconfined frozen soil sample before failure.",
+    "canonical_units": "Pa",
+    "cf-name": "compressive_strength_of_unconfined_frozen_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

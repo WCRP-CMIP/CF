@@ -1,0 +1,13 @@
+{
+    "id": "cloud-base-altitude",
+    "validation-key": "cloud-base-altitude",
+    "ui-label": "Cloud Base Altitude",
+    "description": "cloud_base refers to the base of the lowest cloud. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "cloud_base_altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

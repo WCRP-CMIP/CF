@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-canopy-water-amount-due-to-evaporation-of-intercepted-precipitation",
+    "validation-key": "tendency-of-canopy-water-amount-due-to-evaporation-of-intercepted-precipitation",
+    "ui-label": "Tendency Of Canopy Water Amount Due To Evaporation Of Intercepted Precipitation",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Amount\" means mass per unit area. \"Water\" means water in all phases. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\"). Canopy interception is the precipitation, including snow, that is intercepted by the canopy of a tree and then evaporates from the leaves. Evaporation of intercepted precipitation excludes plant transpiration and evaporation from the surface beneath the canopy.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_canopy_water_amount_due_to_evaporation_of_intercepted_precipitation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-yy-radiation-stress",
+    "validation-key": "sea-surface-wave-yy-radiation-stress",
+    "ui-label": "Sea Surface Wave Yy Radiation Stress",
+    "description": "\"Sea surface wave radiation stress\" describes the excess momentum flux caused by sea surface waves. Radiation stresses behave as a second-order tensor. \"yy\" indicates the component of the tensor along the grid y_ axis.",
+    "canonical_units": "Pa",
+    "cf-name": "sea_surface_wave_yy_radiation_stress",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

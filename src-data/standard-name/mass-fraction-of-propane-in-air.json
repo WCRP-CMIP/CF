@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-propane-in-air",
+    "validation-key": "mass-fraction-of-propane-in-air",
+    "ui-label": "Mass Fraction Of Propane In Air",
+    "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for propane is C3H8. Propane is a member of the group of hydrocarbons known as alkanes. There are standard names for the alkane group as well as for some of the individual species.",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_propane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

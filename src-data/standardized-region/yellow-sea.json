@@ -1,0 +1,12 @@
+{
+    "id": "yellow-sea",
+    "validation-key": "yellow-sea",
+    "ui-label": "Yellow Sea",
+    "description": "",
+    "cf-name": "yellow_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

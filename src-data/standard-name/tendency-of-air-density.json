@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-air-density",
+    "validation-key": "tendency-of-air-density",
+    "ui-label": "Tendency Of Air Density",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.",
+    "canonical_units": "kg m-3 s-1",
+    "cf-name": "tendency_of_air_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

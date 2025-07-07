@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-cfc13-in-air",
+    "validation-key": "mole-fraction-of-cfc13-in-air",
+    "ui-label": "Mole Fraction Of Cfc13 In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for CFC13 is CF3Cl. The IUPAC name for CFC13 is chloro(trifluoro)methane.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_cfc13_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

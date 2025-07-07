@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-aldehydes-in-air",
+    "validation-key": "mole-fraction-of-aldehydes-in-air",
+    "ui-label": "Mole Fraction Of Aldehydes In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Aldehydes are organic compounds with a CHO group; \"aldehydes\" is the term used in standard names to describe the group of chemical species having this common structure that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names exist for formaldehyde as the simplest member of the aldehydes group.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_aldehydes_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-mercury-dry-aerosol-particles-due-to-emission",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-mercury-dry-aerosol-particles-due-to-emission",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Mercury Dry Aerosol Particles Due To Emission",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol particles take up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the particles. \"Dry aerosol particles\" means aerosol particles without any water uptake. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. the surface of the earth). \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_mercury_dry_aerosol_particles_due_to_emission",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

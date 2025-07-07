@@ -1,0 +1,13 @@
+{
+    "id": "stem-mass-content-of-carbon",
+    "validation-key": "stem-mass-content-of-carbon",
+    "ui-label": "Stem Mass Content Of Carbon",
+    "description": "\"Content\" indicates a quantity per unit area. The stem of a plant is the axis that bears buds and shoots with leaves and, at its basal end, roots. Its function is to carry water and nutrients. Examples include the stalk of a plant or the main trunk of a tree.",
+    "canonical_units": "kg m-2",
+    "cf-name": "stem_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

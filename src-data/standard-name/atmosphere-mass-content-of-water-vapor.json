@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-water-vapor",
+    "validation-key": "atmosphere-mass-content-of-water-vapor",
+    "ui-label": "Atmosphere Mass Content Of Water Vapor",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. Atmosphere water vapor content is sometimes referred to as \"precipitable water\", although this term does not imply the water could all be precipitated.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_water_vapor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

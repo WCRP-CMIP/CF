@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-elemental-carbon-dry-aerosol-particles-due-to-wet-deposition",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-elemental-carbon-dry-aerosol-particles-due-to-wet-deposition",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Elemental Carbon Dry Aerosol Particles Due To Wet Deposition",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the particles. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. Aerosol takes up ambient water (a process known as hygroscopic growth) depending on the relative humidity and the composition of the aerosol. \"Dry aerosol particles\" means aerosol particles without any water uptake. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Wet deposition\" means deposition by precipitation. Chemically, \"elemental carbon\" is the carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000K and can only be gasified by oxidation starting at temperatures above 340 C. It is assumed to be inert and non-volatile under atmospheric conditions and insoluble in any solvent (Ogren and Charlson, 1983).",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_elemental_carbon_dry_aerosol_particles_due_to_wet_deposition",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

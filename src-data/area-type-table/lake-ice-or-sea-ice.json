@@ -1,0 +1,12 @@
+{
+    "id": "lake-ice-or-sea-ice",
+    "validation-key": "lake-ice-or-sea-ice",
+    "ui-label": "Lake Ice Or Sea Ice",
+    "description": "Floating ice excluding ice-shelves and icebergs.",
+    "cf-name": "lake_ice_or_sea_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

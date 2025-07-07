@@ -1,0 +1,13 @@
+{
+    "id": "beaufort-wind-force",
+    "validation-key": "beaufort-wind-force",
+    "ui-label": "Beaufort Wind Force",
+    "description": "\"Beaufort wind force\" is an index assigned on the Beaufort wind force scale and relates a qualitative description of the degree of disturbance or destruction caused by wind to the speed of the wind.  The Beaufort wind scale varies between 0 (qualitatively described as calm, smoke rises vertically, sea appears glassy) (wind speeds in the range 0 - 0.2 m s-1) and 12 (hurricane, wave heights in excess of 14 m) (wind speeds in excess of 32.7 m s-1).",
+    "canonical_units": "1",
+    "cf-name": "beaufort_wind_force",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

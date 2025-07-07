@@ -1,0 +1,13 @@
+{
+    "id": "upward-eastward-stress-at-sea-ice-base",
+    "validation-key": "upward-eastward-stress-at-sea-ice-base",
+    "ui-label": "Upward Eastward Stress At Sea Ice Base",
+    "description": "\"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Upward\" indicates a vector component which is positive when directed upward (negative downward). \"Upward eastward\" indicates the ZX component of a tensor. An upward eastward stress is an upward flux of eastward momentum, which accelerates the upper medium eastward and the lower medium westward.",
+    "canonical_units": "Pa",
+    "cf-name": "upward_eastward_stress_at_sea_ice_base",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

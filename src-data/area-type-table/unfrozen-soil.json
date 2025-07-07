@@ -1,0 +1,12 @@
+{
+    "id": "unfrozen-soil",
+    "validation-key": "unfrozen-soil",
+    "ui-label": "Unfrozen Soil",
+    "description": "An area type of \"unfrozen_soil\" means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels within a soil model.",
+    "cf-name": "unfrozen_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

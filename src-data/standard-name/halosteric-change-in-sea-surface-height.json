@@ -1,0 +1,13 @@
+{
+    "id": "halosteric-change-in-sea-surface-height",
+    "validation-key": "halosteric-change-in-sea-surface-height",
+    "ui-label": "Halosteric Change In Sea Surface Height",
+    "description": "\"Sea surface height\" is a time-varying quantity. The halosteric change in sea surface height is the change in height that a water column of standard practical salinity S=35.0 would undergo when its salinity is changed to the observed value. The sum of the quantities with standard names thermosteric_change_in_sea_surface_height and halosteric_change_in_sea_surface_height is the total steric change in the water column height, which has the standard name of steric_change_in_sea_surface_height.",
+    "canonical_units": "m",
+    "cf-name": "halosteric_change_in_sea_surface_height",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-added-potential-temperature",
+    "validation-key": "sea-water-added-potential-temperature",
+    "ui-label": "Sea Water Added Potential Temperature",
+    "description": "The quantity with standard name sea_water_added_potential_temperature is a passive tracer in an ocean model whose surface flux does not come from the atmosphere but is imposed externally upon the simulated climate system. The surface flux is expressed as a heat flux and converted to a passive tracer increment as if it were a heat flux being added to potential temperature. The passive tracer is transported within the ocean as if it were potential temperature. The passive tracer is zero in the control climate of the model. The passive tracer records added heat, as described for the CMIP6 FAFMIP experiment (doi:10.5194/gmd-9-3993-2016), following earlier ideas. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "degree_C",
+    "cf-name": "sea_water_added_potential_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

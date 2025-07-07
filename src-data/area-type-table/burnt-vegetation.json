@@ -1,0 +1,12 @@
+{
+    "id": "burnt-vegetation",
+    "validation-key": "burnt-vegetation",
+    "ui-label": "Burnt Vegetation",
+    "description": null,
+    "cf-name": "burnt_vegetation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

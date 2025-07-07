@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-directional-spread",
+    "validation-key": "sea-surface-wave-directional-spread",
+    "ui-label": "Sea Surface Wave Directional Spread",
+    "description": "Directional spread is the (one-sided) directional width within a given sub-domain of the wave directional spectrum, S(t,x,y,f,theta) where t is time, x and y are horizontal coordinates (such as longitude and latitude), f is frequency and theta is direction. For a given mean wave (beam) direction the quantity approximates half the root mean square width about the beam axis, as derived either directly from circular moments or via the Fourier components of the wave directional spectrum.",
+    "canonical_units": "degree",
+    "cf-name": "sea_surface_wave_directional_spread",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

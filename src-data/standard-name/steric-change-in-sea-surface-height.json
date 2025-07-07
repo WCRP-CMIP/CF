@@ -1,0 +1,13 @@
+{
+    "id": "steric-change-in-sea-surface-height",
+    "validation-key": "steric-change-in-sea-surface-height",
+    "ui-label": "Steric Change In Sea Surface Height",
+    "description": "\"Sea surface height\" is a time-varying quantity. The steric change in sea surface height is the change in height that a water column of standard temperature zero degrees Celsius and practical salinity S=35.0 would undergo when its temperature and salinity are changed to the observed values. The sum of the quantities with standard names thermosteric_change_in_sea_surface_height and halosteric_change_in_sea_surface_height is the total steric change in the water column height, which has the standard name of steric_change_in_sea_surface_height. The sum of the quantities with standard names sea_water_mass_per_unit_area_expressed_as_thickness and steric_change_in_sea_surface_height is the total thickness of the sea water column.",
+    "canonical_units": "m",
+    "cf-name": "steric_change_in_sea_surface_height",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "downward-component-of-surface-outward-normal-unit-vector",
+    "validation-key": "downward-component-of-surface-outward-normal-unit-vector",
+    "ui-label": "Downward Component Of Surface Outward Normal Unit Vector",
+    "description": "The vertical component of the surface outward normal unit vector at a specified location, indicating the orientation of the surface at that point. \"downward\" indicates a vector component which is positive when directed downward (negative upward).",
+    "canonical_units": "1",
+    "cf-name": "downward_component_of_surface_outward_normal_unit_vector",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

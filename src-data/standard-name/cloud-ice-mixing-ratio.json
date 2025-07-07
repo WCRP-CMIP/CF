@@ -1,0 +1,13 @@
+{
+    "id": "cloud-ice-mixing-ratio",
+    "validation-key": "cloud-ice-mixing-ratio",
+    "ui-label": "Cloud Ice Mixing Ratio",
+    "description": "Cloud ice mixing ratio of a parcel of air is the ratio of the mass of ice to the mass of dry air.",
+    "canonical_units": "1",
+    "cf-name": "cloud_ice_mixing_ratio",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

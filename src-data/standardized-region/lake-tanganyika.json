@@ -1,0 +1,12 @@
+{
+    "id": "lake-tanganyika",
+    "validation-key": "lake-tanganyika",
+    "ui-label": "Lake Tanganyika",
+    "description": "",
+    "cf-name": "lake_tanganyika",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

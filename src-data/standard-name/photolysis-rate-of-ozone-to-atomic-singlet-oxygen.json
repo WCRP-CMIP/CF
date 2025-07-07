@@ -1,0 +1,13 @@
+{
+    "id": "photolysis-rate-of-ozone-to-atomic-singlet-oxygen",
+    "validation-key": "photolysis-rate-of-ozone-to-atomic-singlet-oxygen",
+    "ui-label": "Photolysis Rate Of Ozone To Atomic Singlet Oxygen",
+    "description": "\"Photolysis\" is a chemical reaction in which a chemical compound is broken down by photons. The \"reaction rate\" is the rate at which the reactants of a chemical reaction form the products. The phrase \"atomic_singlet_oxygen\" means the singlet D state, an excited state, of the oxygen atom. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.  The combined photolysis rate of ozone to both excited and ground state oxygen atoms has the standard name photolysis_rate_of_ozone.",
+    "canonical_units": "s-1",
+    "cf-name": "photolysis_rate_of_ozone_to_atomic_singlet_oxygen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

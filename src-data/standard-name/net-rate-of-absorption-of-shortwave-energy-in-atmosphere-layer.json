@@ -1,0 +1,13 @@
+{
+    "id": "net-rate-of-absorption-of-shortwave-energy-in-atmosphere-layer",
+    "validation-key": "net-rate-of-absorption-of-shortwave-energy-in-atmosphere-layer",
+    "ui-label": "Net Rate Of Absorption Of Shortwave Energy In Atmosphere Layer",
+    "description": "\"shortwave\" means shortwave radiation. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Net absorbed radiation is the difference between absorbed and emitted radiation.",
+    "canonical_units": "W m-2",
+    "cf-name": "net_rate_of_absorption_of_shortwave_energy_in_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

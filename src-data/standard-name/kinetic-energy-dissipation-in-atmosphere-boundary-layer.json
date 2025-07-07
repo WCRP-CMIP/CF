@@ -1,0 +1,13 @@
+{
+    "id": "kinetic-energy-dissipation-in-atmosphere-boundary-layer",
+    "validation-key": "kinetic-energy-dissipation-in-atmosphere-boundary-layer",
+    "ui-label": "Kinetic Energy Dissipation In Atmosphere Boundary Layer",
+    "description": null,
+    "canonical_units": "W m-2",
+    "cf-name": "kinetic_energy_dissipation_in_atmosphere_boundary_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

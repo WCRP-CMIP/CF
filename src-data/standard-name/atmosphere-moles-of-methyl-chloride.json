@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-methyl-chloride",
+    "validation-key": "atmosphere-moles-of-methyl-chloride",
+    "ui-label": "Atmosphere Moles Of Methyl Chloride",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for methyl chloride is CH3Cl. The IUPAC name for methyl chloride is chloromethane.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_methyl_chloride",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

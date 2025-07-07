@@ -1,0 +1,13 @@
+{
+    "id": "scattering-angle",
+    "validation-key": "scattering-angle",
+    "ui-label": "Scattering Angle",
+    "description": "The scattering angle is that between the direction of the beam of incident radiation and the direction into which it is scattered.",
+    "canonical_units": "rad",
+    "cf-name": "scattering_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

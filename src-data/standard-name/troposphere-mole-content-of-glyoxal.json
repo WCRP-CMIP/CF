@@ -1,0 +1,13 @@
+{
+    "id": "troposphere-mole-content-of-glyoxal",
+    "validation-key": "troposphere-mole-content-of-glyoxal",
+    "ui-label": "Troposphere Mole Content Of Glyoxal",
+    "description": "\"Content\" indicates a quantity per unit area. The \"troposphere content\" of a quantity refers to the vertical integral from the surface to the tropopause. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The chemical formula for glyoxal is CHOCHO. The IUPAC name for glyoxal is ethanedial.",
+    "canonical_units": "mol m-2",
+    "cf-name": "troposphere_mole_content_of_glyoxal",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

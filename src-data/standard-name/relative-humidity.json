@@ -1,0 +1,13 @@
+{
+    "id": "relative-humidity",
+    "validation-key": "relative-humidity",
+    "ui-label": "Relative Humidity",
+    "description": null,
+    "canonical_units": "1",
+    "cf-name": "relative_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

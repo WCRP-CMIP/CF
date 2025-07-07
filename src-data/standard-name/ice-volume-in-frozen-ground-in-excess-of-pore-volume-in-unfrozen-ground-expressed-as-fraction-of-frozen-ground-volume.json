@@ -1,0 +1,13 @@
+{
+    "id": "ice-volume-in-frozen-ground-in-excess-of-pore-volume-in-unfrozen-ground-expressed-as-fraction-of-frozen-ground-volume",
+    "validation-key": "ice-volume-in-frozen-ground-in-excess-of-pore-volume-in-unfrozen-ground-expressed-as-fraction-of-frozen-ground-volume",
+    "ui-label": "Ice Volume In Frozen Ground In Excess Of Pore Volume In Unfrozen Ground Expressed As Fraction Of Frozen Ground Volume",
+    "description": "ice_volume_in_frozen_ground_in_excess_of_pore_volume_in_unfrozen_ground_expressed_as_fraction_of_frozen_ground_volume represents the fractional amount of \"excess ice\" in frozen ground. Excess ice is the volume of ice in the ground which exceeds the total pore volume that the ground would have under natural unfrozen conditions. Due to the presence of ground ice, the total water content of a frozen soil may exceed that corresponding to its normally consolidated state when unfrozen. As a result, upon thawing, a soil containing excess ice will settle under its own weight until it attains its consolidated state. Reference: van Everdingen, R. O. editor 1998: Multi-language glossary of permafrost and related ground ice terms. International Permafrost Association.",
+    "canonical_units": "1",
+    "cf-name": "ice_volume_in_frozen_ground_in_excess_of_pore_volume_in_unfrozen_ground_expressed_as_fraction_of_frozen_ground_volume",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-methyl-bromide",
+    "validation-key": "atmosphere-moles-of-methyl-bromide",
+    "ui-label": "Atmosphere Moles Of Methyl Bromide",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for methyl bromide is CH3Br. The IUPAC name for methyl bromide is bromomethane.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_methyl_bromide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

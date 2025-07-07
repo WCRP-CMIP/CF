@@ -1,0 +1,13 @@
+{
+    "id": "ocean-wet-mass-content-of-migrant-lower-mesopelagic-micronekton",
+    "validation-key": "ocean-wet-mass-content-of-migrant-lower-mesopelagic-micronekton",
+    "ui-label": "Ocean Wet Mass Content Of Migrant Lower Mesopelagic Micronekton",
+    "description": "Component of the micronekton that inhabits the lower mesopelagic layer during daytime, and the upper mesopelagic layer during nighttime. The lower mesopelagic layer is the lower half of the ocean layer that isn't totally dark but has light levels that are insufficient for photosynthesis. The upper mesopelagic layer is the upper half of the ocean layer that isn't totally dark but has light levels that are insufficient for photosynthesis. \"Content\" indicates a quantity per unit area. The \"ocean content\" of a quantity refers to the vertical integral within the specified vertical bounds. Micronekton is a group of organisms that range in size from 2 to 20 cm and are capable of swimming independently of ocean currents.",
+    "canonical_units": "g m-2",
+    "cf-name": "ocean_wet_mass_content_of_migrant_lower_mesopelagic_micronekton",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "crops",
+    "validation-key": "crops",
+    "ui-label": "Crops",
+    "description": "The definition of \"crops\" is model dependent, for example, some models may include fruit trees as crops.",
+    "cf-name": "crops",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

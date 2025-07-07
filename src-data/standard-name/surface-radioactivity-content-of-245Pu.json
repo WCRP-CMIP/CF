@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-245Pu",
+    "validation-key": "surface-radioactivity-content-of-245pu",
+    "ui-label": "Surface Radioactivity Content Of 245pu",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pu\" means the element \"plutonium\" and \"245Pu\" is the isotope \"plutonium-245\" with a half-life of 4.16e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_245Pu",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

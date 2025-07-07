@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-vertical-mean-x-velocity",
+    "validation-key": "land-ice-vertical-mean-x-velocity",
+    "ui-label": "Land Ice Vertical Mean X Velocity",
+    "description": "A velocity is a vector quantity. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. The vertical mean land ice velocity is the average from the bedrock to the surface of the ice.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_vertical_mean_x_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}
