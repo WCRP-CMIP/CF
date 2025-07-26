@@ -1,0 +1,13 @@
+{
+    "id": "projection-y-angular-coordinate",
+    "validation-key": "projection-y-angular-coordinate",
+    "ui-label": "Projection Y Angular Coordinate",
+    "description": "\"y\" indicates a vector component along the grid y-axis, when this is not true latitude, positive with increasing y. Angular projection coordinates are angular distances in the x- and y-directions on a plane onto which the surface of the Earth has been projected according to a map projection. The relationship between the angular projection coordinates and latitude and longitude is described by the grid_mapping.",
+    "canonical_units": "rad",
+    "cf-name": "projection_y_angular_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

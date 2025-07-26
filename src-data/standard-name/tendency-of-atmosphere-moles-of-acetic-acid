@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-acetic-acid",
+    "validation-key": "tendency-of-atmosphere-moles-of-acetic-acid",
+    "ui-label": "Tendency Of Atmosphere Moles Of Acetic Acid",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for acetic_acid is CH3COOH. The IUPAC name for acetic acid is ethanoic acid.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_acetic_acid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-sigma-coordinate",
+    "validation-key": "atmosphere-sigma-coordinate",
+    "ui-label": "Atmosphere Sigma Coordinate",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "1",
+    "cf-name": "atmosphere_sigma_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

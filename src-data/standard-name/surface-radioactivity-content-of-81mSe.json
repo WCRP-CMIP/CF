@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-81mSe",
+    "validation-key": "surface-radioactivity-content-of-81mse",
+    "ui-label": "Surface Radioactivity Content Of 81mse",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Se\" means the element \"selenium\" and \"81mSe\" is the metastable state of the isotope \"selenium-81\" with a half-life of 3.97e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_81mSe",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

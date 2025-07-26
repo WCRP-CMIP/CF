@@ -1,0 +1,12 @@
+{
+    "id": "gibraltar-strait",
+    "validation-key": "gibraltar-strait",
+    "ui-label": "Gibraltar Strait",
+    "description": "",
+    "cf-name": "gibraltar_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

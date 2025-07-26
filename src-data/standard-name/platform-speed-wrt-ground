@@ -1,0 +1,13 @@
+{
+    "id": "platform-speed-wrt-ground",
+    "validation-key": "platform-speed-wrt-ground",
+    "ui-label": "Platform Speed Wrt Ground",
+    "description": "Speed is the magnitude of velocity. The abbreviation \"wrt\" means with respect to. The platform speed with respect to ground is relative to the solid Earth beneath it, i.e. the sea floor for a ship. It is often called the \"ground speed\" of the platform. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "m s-1",
+    "cf-name": "platform_speed_wrt_ground",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

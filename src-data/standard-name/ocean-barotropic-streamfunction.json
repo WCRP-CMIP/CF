@@ -1,0 +1,13 @@
+{
+    "id": "ocean-barotropic-streamfunction",
+    "validation-key": "ocean-barotropic-streamfunction",
+    "ui-label": "Ocean Barotropic Streamfunction",
+    "description": null,
+    "canonical_units": "m3 s-1",
+    "cf-name": "ocean_barotropic_streamfunction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

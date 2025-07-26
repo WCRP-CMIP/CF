@@ -1,0 +1,13 @@
+{
+    "id": "snowfall-amount",
+    "validation-key": "snowfall-amount",
+    "ui-label": "Snowfall Amount",
+    "description": "\"Amount\" means mass per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "snowfall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

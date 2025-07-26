@@ -1,0 +1,12 @@
+{
+    "id": "ross-sea",
+    "validation-key": "ross-sea",
+    "ui-label": "Ross Sea",
+    "description": "",
+    "cf-name": "ross_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

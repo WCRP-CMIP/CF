@@ -1,0 +1,12 @@
+{
+    "id": "air",
+    "validation-key": "air",
+    "ui-label": "Air",
+    "description": "The area type of \"air\" distinguishes the atmospheric portion of a domain from the land portion (or any other non-air portion). It is needed when a variable such as wind speed is reported, for example, on a surface at mean sea level pressure. At most locations over land, this surface would be underground and would need to be excluded from consideration, which could be indicated by specifying a cell_ methods \"where air\".",
+    "cf-name": "air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

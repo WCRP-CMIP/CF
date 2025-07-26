@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-reference-salinity",
+    "validation-key": "sea-water-reference-salinity",
+    "ui-label": "Sea Water Reference Salinity",
+    "description": "If a sea water sample has the Reference Composition (defined in Millero et al., 2008), then its Reference Salinity is the best available estimate of its Absolute Salinity. For general purposes, Reference Salinity is (35.16504 g kg-1)/35 times Practical Salinity. Reference: www.teos-10.org; Millero et al., 2008 doi: 10.1016/j.dsr.2007.10.001. There are also standard names for the precisely defined salinity quantities sea_water_knudsen_salinity, S_K (used for salinity observations between 1901 and 1966), sea_water_cox_salinity, S_C (used for salinity observations between 1967 and 1977), sea_water_practical_salinity (used for salinity observations from 1978 onwards), sea_water_absolute_salinity, S_A, and sea_water_preformed_salinity, S_*. Salinity quantities that do not match any of the precise definitions should be given the more general standard name of sea_water_salinity.",
+    "canonical_units": "g kg-1",
+    "cf-name": "sea_water_reference_salinity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

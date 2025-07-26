@@ -1,0 +1,13 @@
+{
+    "id": "surface-downward-mole-flux-of-cfc12",
+    "validation-key": "surface-downward-mole-flux-of-cfc12",
+    "ui-label": "Surface Downward Mole Flux Of Cfc12",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The chemical formula for CFC12 is CF2Cl2. The IUPAC name for CFC12 is dichloro(difluoro)methane.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "surface_downward_mole_flux_of_cfc12",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

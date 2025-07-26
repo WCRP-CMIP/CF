@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-eastward-stress-due-to-sea-surface-waves",
+    "validation-key": "surface-upward-eastward-stress-due-to-sea-surface-waves",
+    "ui-label": "Surface Upward Eastward Stress Due To Sea Surface Waves",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Surface stress\" means the shear stress (force per unit area) exerted at the surface. An upward stress is an upward flux of momentum into the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). \"Eastward\" indicates a vector component which is positive when directed northward (negative southward). \"Upward eastward\" indicates the ZX component of a tensor. An upward eastward stress is an upward flux of eastward momentum, which accelerates the upper medium eastward and the lower medium westward. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Sea surface waves\" means the stress associated with oscillatory motions of a wavy sea surface.",
+    "canonical_units": "Pa",
+    "cf-name": "surface_upward_eastward_stress_due_to_sea_surface_waves",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

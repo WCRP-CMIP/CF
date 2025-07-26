@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-horizontal-velocity-potential",
+    "validation-key": "atmosphere-horizontal-velocity-potential",
+    "ui-label": "Atmosphere Horizontal Velocity Potential",
+    "description": "A velocity is a vector quantity. \"Horizontal\" indicates that the velocity potential applies to a horizontal velocity field on a particular vertical level.",
+    "canonical_units": "m2 s-1",
+    "cf-name": "atmosphere_horizontal_velocity_potential",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

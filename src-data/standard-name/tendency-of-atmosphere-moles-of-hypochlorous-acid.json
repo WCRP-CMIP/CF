@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-hypochlorous-acid",
+    "validation-key": "tendency-of-atmosphere-moles-of-hypochlorous-acid",
+    "ui-label": "Tendency Of Atmosphere Moles Of Hypochlorous Acid",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for hypochlorous acid is HOCl.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_hypochlorous_acid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

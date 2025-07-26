@@ -1,0 +1,13 @@
+{
+    "id": "flood-water-duration-above-threshold",
+    "validation-key": "flood-water-duration-above-threshold",
+    "ui-label": "Flood Water Duration Above Threshold",
+    "description": "The  quantity with standard name flood_water_duration_above_threshold is the time elapsed between the instant when the flood depth first rises above a given threshold until the time falls below the same threshold for the last time at a given point in space. If a threshold is supplied, it should be specified by associating a coordinate variable or scalar coordinate variable with the data variable and giving the coordinate variable a standard name of flood_water_thickness. The values of the coordinate variable are the threshold values for the corresponding subarrays of the data variable. If no threshold is specified, its value is taken to be zero. Flood water is water that covers land which is normally not covered by water.",
+    "canonical_units": "s",
+    "cf-name": "flood_water_duration_above_threshold",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

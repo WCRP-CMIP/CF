@@ -1,0 +1,13 @@
+{
+    "id": "sea-floor-horizontal-stress-due-to-sea-surface-waves",
+    "validation-key": "sea-floor-horizontal-stress-due-to-sea-surface-waves",
+    "ui-label": "Sea Floor Horizontal Stress Due To Sea Surface Waves",
+    "description": "Ocean processes such as waves and currents can generate forces (or stress) on the sea floor. The surface called \"sea floor\" means the lower boundary of the ocean. \"Horizontal\" refers to the local horizontal, i.e. perpendicular to the local gravity vector at the location in which the quantity is calculated. \"Stress\" means the shear stress (force per unit area) exerted at the sea floor. Horizontal stress refers to the stress in the horizontal plane. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The phrase \"sea_surface_waves\" means the stress associated with sea surface waves dissipation processes through bottom friction.",
+    "canonical_units": "N m-2",
+    "cf-name": "sea_floor_horizontal_stress_due_to_sea_surface_waves",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

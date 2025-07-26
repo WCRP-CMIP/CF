@@ -1,0 +1,13 @@
+{
+    "id": "sound-pressure-level-in-air",
+    "validation-key": "sound-pressure-level-in-air",
+    "ui-label": "Sound Pressure Level In Air",
+    "description": "Sound pressure is the difference from the local ambient pressure caused by a sound wave at a particular location and time. Sound pressure level in air is expressed on a logarithmic scale with reference to a sound pressure of 2e-5 Pa. Lp = 20 log10(p/p0) where Lp is the sound pressure level, p is the rms sound pressure and p0 is the reference sound pressure.",
+    "canonical_units": "dB",
+    "cf-name": "sound_pressure_level_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

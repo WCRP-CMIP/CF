@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-coarse-mode-ambient-aerosol-particles-in-air",
+    "validation-key": "mass-concentration-of-coarse-mode-ambient-aerosol-particles-in-air",
+    "ui-label": "Mass Concentration Of Coarse Mode Ambient Aerosol Particles In Air",
+    "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. Coarse mode aerosol particles have a diameter of more than 1 micrometer.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_coarse_mode_ambient_aerosol_particles_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

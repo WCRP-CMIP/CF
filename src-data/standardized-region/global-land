@@ -1,0 +1,12 @@
+{
+    "id": "global-land",
+    "validation-key": "global-land",
+    "ui-label": "Global Land",
+    "description": "",
+    "cf-name": "global_land",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

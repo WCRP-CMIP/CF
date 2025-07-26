@@ -1,0 +1,13 @@
+{
+    "id": "surface-snow-amount",
+    "validation-key": "surface-snow-amount",
+    "ui-label": "Surface Snow Amount",
+    "description": "\"Amount\" means mass per unit area. Surface snow amount refers to the amount on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "kg m-2",
+    "cf-name": "surface_snow_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

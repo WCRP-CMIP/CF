@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-gaseous-divalent-mercury",
+    "validation-key": "atmosphere-mass-content-of-gaseous-divalent-mercury",
+    "ui-label": "Atmosphere Mass Content Of Gaseous Divalent Mercury",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  \"Divalent mercury\" means all compounds in which the mercury has two binding sites to other ion(s) in a salt or to other atom(s) in a molecule.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_gaseous_divalent_mercury",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

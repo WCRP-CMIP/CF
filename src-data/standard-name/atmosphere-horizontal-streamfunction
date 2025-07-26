@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-horizontal-streamfunction",
+    "validation-key": "atmosphere-horizontal-streamfunction",
+    "ui-label": "Atmosphere Horizontal Streamfunction",
+    "description": "\"Horizontal\" indicates that the streamfunction applies to a horizontal velocity field on a particular vertical level.",
+    "canonical_units": "m2 s-1",
+    "cf-name": "atmosphere_horizontal_streamfunction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

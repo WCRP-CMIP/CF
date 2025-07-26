@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-time-of-radioactivity-concentration-of-90Y-in-air",
+    "validation-key": "integral-wrt-time-of-radioactivity-concentration-of-90y-in-air",
+    "ui-label": "Integral Wrt Time Of Radioactivity Concentration Of 90y In Air",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The phrase \"wrt\" means \"with respect to\". \"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Y\" means the element \"yttrium\" and \"90Y\" is the isotope \"yttrium-90\" with a half-life of 2.67e+00 days.",
+    "canonical_units": "Bq s m-3",
+    "cf-name": "integral_wrt_time_of_radioactivity_concentration_of_90Y_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

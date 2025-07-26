@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-117Cd-in-air",
+    "validation-key": "radioactivity-concentration-of-117cd-in-air",
+    "ui-label": "Radioactivity Concentration Of 117cd In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Cd\" means the element \"cadmium\" and \"117Cd\" is the isotope \"cadmium-117\" with a half-life of 1.08e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_117Cd_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

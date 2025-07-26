@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-number-content-of-aerosol-particles",
+    "validation-key": "atmosphere-number-content-of-aerosol-particles",
+    "ui-label": "Atmosphere Number Content Of Aerosol Particles",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself.",
+    "canonical_units": "m-2",
+    "cf-name": "atmosphere_number_content_of_aerosol_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

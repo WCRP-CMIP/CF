@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-94Y",
+    "validation-key": "surface-radioactivity-content-of-94y",
+    "ui-label": "Surface Radioactivity Content Of 94y",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Y\" means the element \"yttrium\" and \"94Y\" is the isotope \"yttrium-94\" with a half-life of 1.32e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_94Y",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "virtual-salt-flux-into-sea-water-due-to-sea-ice-thermodynamics",
+    "validation-key": "virtual-salt-flux-into-sea-water-due-to-sea-ice-thermodynamics",
+    "ui-label": "Virtual Salt Flux Into Sea Water Due To Sea Ice Thermodynamics",
+    "description": "The virtual_salt_flux_into_sea_water_due_to_process is the salt flux that would have the same effect on the sea surface salinity as water_flux_out_of_sea_water_due_to_process. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Sea ice thermodynamics\" refers to the addition or subtraction of mass due to surface and basal fluxes, i.e., due to melting, sublimation and fusion. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "virtual_salt_flux_into_sea_water_due_to_sea_ice_thermodynamics",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

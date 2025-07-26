@@ -1,0 +1,12 @@
+{
+    "id": "convective-cloud",
+    "validation-key": "convective-cloud",
+    "ui-label": "Convective Cloud",
+    "description": "This area type complements the \"stratiform_cloud\" area type, which is the other major category of cloud. The \"cloud\" area type is a more general term and includes both convective_cloud and stratiform_cloud types.",
+    "cf-name": "convective_cloud",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

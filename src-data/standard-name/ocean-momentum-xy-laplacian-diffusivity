@@ -1,0 +1,13 @@
+{
+    "id": "ocean-momentum-xy-laplacian-diffusivity",
+    "validation-key": "ocean-momentum-xy-laplacian-diffusivity",
+    "ui-label": "Ocean Momentum Xy Laplacian Diffusivity",
+    "description": "Diffusivity is also sometimes known as the coefficient of diffusion. Diffusion occurs as a result of a gradient in the spatial distribution of mass concentration, temperature or momentum.  The diffusivity may be very different in the vertical and horizontal directions. \"xy diffusivity\" means the lateral along_coordinate component of diffusivity due to motion which is not resolved on the grid scale of the model.  xy diffusivities are used in some ocean models to counteract the numerical instabilities inherent in certain implementations of rotated neutral diffusion. \"laplacian diffusivity\" means diffusivity for use with a Laplacian diffusion operator.",
+    "canonical_units": "m2 s-1",
+    "cf-name": "ocean_momentum_xy_laplacian_diffusivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

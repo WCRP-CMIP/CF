@@ -1,0 +1,12 @@
+{
+    "id": "drake-passage",
+    "validation-key": "drake-passage",
+    "ui-label": "Drake Passage",
+    "description": "",
+    "cf-name": "drake_passage",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

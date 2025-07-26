@@ -1,0 +1,13 @@
+{
+    "id": "projection-y-coordinate",
+    "validation-key": "projection-y-coordinate",
+    "ui-label": "Projection Y Coordinate",
+    "description": "\"y\" indicates a vector component along the grid y-axis, when this is not true latitude, positive with increasing y. Projection coordinates are distances in the x- and y-directions on a plane onto which the surface of the Earth has been projected according to a map projection. The relationship between the projection coordinates and latitude and longitude is described by the grid_mapping.",
+    "canonical_units": "m",
+    "cf-name": "projection_y_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

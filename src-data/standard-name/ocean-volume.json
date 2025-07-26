@@ -1,0 +1,13 @@
+{
+    "id": "ocean-volume",
+    "validation-key": "ocean-volume",
+    "ui-label": "Ocean Volume",
+    "description": null,
+    "canonical_units": "m3",
+    "cf-name": "ocean_volume",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

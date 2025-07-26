@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-propane-in-air",
+    "validation-key": "mass-concentration-of-propane-in-air",
+    "ui-label": "Mass Concentration Of Propane In Air",
+    "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y.  A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The chemical formula for propane is C3H8. Propane is a member of the group of hydrocarbons known as alkanes.  There are standard names for the alkane group as well as for some of the individual species.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_propane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

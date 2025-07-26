@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mole-concentration-of-ozone-due-to-net-chemical-production",
+    "validation-key": "tendency-of-atmosphere-mole-concentration-of-ozone-due-to-net-chemical-production",
+    "ui-label": "Tendency Of Atmosphere Mole Concentration Of Ozone Due To Net Chemical Production",
+    "description": "\"Mole concentration\" means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"tendency_of_X\" means derivative of X with respect to time. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Net chemical production\" means the net result (calculated as production minus destruction) of all chemical reactions within the medium (here, atmosphere) that produce or destroy a particular species. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
+    "canonical_units": "mol m-3 s-1",
+    "cf-name": "tendency_of_atmosphere_mole_concentration_of_ozone_due_to_net_chemical_production",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

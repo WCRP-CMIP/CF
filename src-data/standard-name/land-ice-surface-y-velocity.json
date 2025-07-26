@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-surface-y-velocity",
+    "validation-key": "land-ice-surface-y-velocity",
+    "ui-label": "Land Ice Surface Y Velocity",
+    "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_surface_y_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

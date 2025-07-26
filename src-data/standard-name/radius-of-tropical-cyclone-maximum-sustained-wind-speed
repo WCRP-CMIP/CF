@@ -1,0 +1,13 @@
+{
+    "id": "radius-of-tropical-cyclone-maximum-sustained-wind-speed",
+    "validation-key": "radius-of-tropical-cyclone-maximum-sustained-wind-speed",
+    "ui-label": "Radius Of Tropical Cyclone Maximum Sustained Wind Speed",
+    "description": "The great circle distance measured from the tropical cyclone center to the region of sustained 1-minute duration maximum wind speed, as defined by the standard name, tropical_cyclone_maximum_sustained_wind_speed.",
+    "canonical_units": "m",
+    "cf-name": "radius_of_tropical_cyclone_maximum_sustained_wind_speed",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

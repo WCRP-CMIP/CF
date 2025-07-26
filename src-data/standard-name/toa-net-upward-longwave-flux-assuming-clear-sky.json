@@ -1,0 +1,13 @@
+{
+    "id": "toa-net-upward-longwave-flux-assuming-clear-sky",
+    "validation-key": "toa-net-upward-longwave-flux-assuming-clear-sky",
+    "ui-label": "Toa Net Upward Longwave Flux Assuming Clear Sky",
+    "description": "A phrase assuming_condition indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"longwave\" means longwave radiation. \"toa\" means top of atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Net upward radiation is the difference between radiation from below (upwelling) and radiation from above (downwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_net_upward_longwave_flux_assuming_clear_sky",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

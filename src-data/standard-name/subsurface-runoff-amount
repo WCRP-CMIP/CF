@@ -1,0 +1,13 @@
+{
+    "id": "subsurface-runoff-amount",
+    "validation-key": "subsurface-runoff-amount",
+    "ui-label": "Subsurface Runoff Amount",
+    "description": "\"Amount\" means mass per unit area. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
+    "canonical_units": "kg m-2",
+    "cf-name": "subsurface_runoff_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

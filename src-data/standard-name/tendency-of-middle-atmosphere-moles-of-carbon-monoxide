@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-middle-atmosphere-moles-of-carbon-monoxide",
+    "validation-key": "tendency-of-middle-atmosphere-moles-of-carbon-monoxide",
+    "ui-label": "Tendency Of Middle Atmosphere Moles Of Carbon Monoxide",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  \"middle_atmosphere_moles_of_X\" means the total number of moles of X contained in the troposphere and stratosphere, i.e, summed over that part of the atmospheric column and over the entire globe.  The chemical formula of carbon monoxide is CO.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_middle_atmosphere_moles_of_carbon_monoxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "northward-sea-water-velocity-at-sea-floor",
+    "validation-key": "northward-sea-water-velocity-at-sea-floor",
+    "ui-label": "Northward Sea Water Velocity At Sea Floor",
+    "description": "A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). The velocity at the sea floor is that adjacent to the ocean bottom, which would be the deepest grid cell in an ocean model and within the benthic boundary layer for measurements.",
+    "canonical_units": "m s-1",
+    "cf-name": "northward_sea_water_velocity_at_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

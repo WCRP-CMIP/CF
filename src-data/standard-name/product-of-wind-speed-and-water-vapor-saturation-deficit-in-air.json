@@ -1,0 +1,13 @@
+{
+    "id": "product-of-wind-speed-and-water-vapor-saturation-deficit-in-air",
+    "validation-key": "product-of-wind-speed-and-water-vapor-saturation-deficit-in-air",
+    "ui-label": "Product Of Wind Speed And Water Vapor Saturation Deficit In Air",
+    "description": "The product of windspeed and vapor pressure deficit is referred to as the Hot-Dry-Windy Index (HDW) for interpreting fire weather. It is a fire weather index that indicates the influence that the atmosphere has on a fire through wind, heat, and moisture (cf. https://www.bia.gov/sites/default/files/dup/assets/public/pdf/idc-020513.pdf). The units of HDW do not have an established physical significance for fire processes. As a fire weather index, it should be expressed in units of hPa m s-1.",
+    "canonical_units": "Pa m s-1",
+    "cf-name": "product_of_wind_speed_and_water_vapor_saturation_deficit_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

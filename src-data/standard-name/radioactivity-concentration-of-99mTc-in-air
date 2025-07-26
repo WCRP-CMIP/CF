@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-99mTc-in-air",
+    "validation-key": "radioactivity-concentration-of-99mtc-in-air",
+    "ui-label": "Radioactivity Concentration Of 99mtc In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Tc\" means the element \"technetium\" and \"99mTc\" is the metastable state of the isotope \"technetium-99\" with a half-life of 2.51e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_99mTc_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "denmark-strait",
+    "validation-key": "denmark-strait",
+    "ui-label": "Denmark Strait",
+    "description": "",
+    "cf-name": "denmark_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

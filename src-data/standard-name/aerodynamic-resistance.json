@@ -1,0 +1,13 @@
+{
+    "id": "aerodynamic-resistance",
+    "validation-key": "aerodynamic-resistance",
+    "ui-label": "Aerodynamic Resistance",
+    "description": "The \"aerodynamic_resistance\" is the resistance to mixing through the boundary layer toward the surface by means of the dominant process, turbulent transport. Reference: Wesely, M. L., 1989,  doi:10.1016/0004-6981(89)90153-4.",
+    "canonical_units": "m-1 s",
+    "cf-name": "aerodynamic_resistance",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "snowfall-flux",
+    "validation-key": "snowfall-flux",
+    "ui-label": "Snowfall Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "snowfall_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

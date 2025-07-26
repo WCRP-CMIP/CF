@@ -1,0 +1,13 @@
+{
+    "id": "soil-liquid-water-content",
+    "validation-key": "soil-liquid-water-content",
+    "ui-label": "Soil Liquid Water Content",
+    "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used.",
+    "canonical_units": "kg m-2",
+    "cf-name": "soil_liquid_water_content",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

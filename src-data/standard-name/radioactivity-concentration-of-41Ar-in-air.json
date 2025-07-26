@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-41Ar-in-air",
+    "validation-key": "radioactivity-concentration-of-41ar-in-air",
+    "ui-label": "Radioactivity Concentration Of 41ar In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ar\" means the element \"argon\" and \"41Ar\" is the isotope \"argon-41\" with a half-life of 7.64e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_41Ar_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

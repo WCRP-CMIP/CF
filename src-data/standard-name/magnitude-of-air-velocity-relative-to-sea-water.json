@@ -1,0 +1,13 @@
+{
+    "id": "magnitude-of-air-velocity-relative-to-sea-water",
+    "validation-key": "magnitude-of-air-velocity-relative-to-sea-water",
+    "ui-label": "Magnitude Of Air Velocity Relative To Sea Water",
+    "description": "The quantity with standard name magnitude_of_air_velocity_relative_to_sea_water is the speed of the motion of the air relative to the near-surface current, usually derived from vectors. The components of the relative velocity vector have standard names eastward_air_velocity_relative_to_sea_water and northward_air_velocity_relative_to_sea_water. A vertical coordinate variable or scalar coordinate variable with standard name \"depth\" should be used to indicate the depth of sea water velocity used in the calculation. Similarly, a vertical coordinate variable or scalar coordinate with standard name \"height\" should be used to indicate the height of the the wind component.",
+    "canonical_units": "m s-1",
+    "cf-name": "magnitude_of_air_velocity_relative_to_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

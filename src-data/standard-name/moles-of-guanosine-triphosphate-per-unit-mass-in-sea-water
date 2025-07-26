@@ -1,0 +1,13 @@
+{
+    "id": "moles-of-guanosine-triphosphate-per-unit-mass-in-sea-water",
+    "validation-key": "moles-of-guanosine-triphosphate-per-unit-mass-in-sea-water",
+    "ui-label": "Moles Of Guanosine Triphosphate Per Unit Mass In Sea Water",
+    "description": "The construction \"moles_of_X_per_unit_mass_in_Y\" is also called \"molality\" of X in Y, where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula of guanosine triphosphate is C10H16N5O14P3.",
+    "canonical_units": "mol kg-1",
+    "cf-name": "moles_of_guanosine_triphosphate_per_unit_mass_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

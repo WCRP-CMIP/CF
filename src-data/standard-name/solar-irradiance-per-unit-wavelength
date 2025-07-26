@@ -1,0 +1,13 @@
+{
+    "id": "solar-irradiance-per-unit-wavelength",
+    "validation-key": "solar-irradiance-per-unit-wavelength",
+    "ui-label": "Solar Irradiance Per Unit Wavelength",
+    "description": "The quantity with standard name solar_irradiance_per_unit_wavelength, often called Solar Spectral Irradiance (SSI), is the radiation from the sun as a function of wavelength integrated over the entire solar disk. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength. The quantity applies outside the atmosphere, by default at a distance of one astronomical unit from the sun, but a coordinate or scalar coordinate variable of distance_from_sun can be used to specify a value other than the default. \"Irradiance\" means the power per unit area (called radiative flux in other standard names), the area being normal to the direction of flow of the radiant energy.",
+    "canonical_units": "W m-2 m-1",
+    "cf-name": "solar_irradiance_per_unit_wavelength",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

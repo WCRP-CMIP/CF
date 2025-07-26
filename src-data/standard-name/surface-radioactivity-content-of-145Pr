@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-145Pr",
+    "validation-key": "surface-radioactivity-content-of-145pr",
+    "ui-label": "Surface Radioactivity Content Of 145pr",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pr\" means the element \"praseodymium\" and \"145Pr\" is the isotope \"praseodymium-145\" with a half-life of 2.49e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_145Pr",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

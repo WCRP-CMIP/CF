@@ -1,0 +1,13 @@
+{
+    "id": "water-evaporation-amount",
+    "validation-key": "water-evaporation-amount",
+    "ui-label": "Water Evaporation Amount",
+    "description": "\"Amount\" means mass per unit area. \"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".)",
+    "canonical_units": "kg m-2",
+    "cf-name": "water_evaporation_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

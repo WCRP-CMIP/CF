@@ -1,0 +1,13 @@
+{
+    "id": "brightness-temperature",
+    "validation-key": "brightness-temperature",
+    "ui-label": "Brightness Temperature",
+    "description": "The brightness temperature of a body is the temperature of a black body which radiates the same power per unit solid angle per unit area. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units)..",
+    "canonical_units": "K",
+    "cf-name": "brightness_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

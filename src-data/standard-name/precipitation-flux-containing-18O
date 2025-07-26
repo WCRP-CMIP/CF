@@ -1,0 +1,13 @@
+{
+    "id": "precipitation-flux-containing-18O",
+    "validation-key": "precipitation-flux-containing-18o",
+    "ui-label": "Precipitation Flux Containing 18o",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. The chemical formula for water is H2O. \"O\" means the element \"oxygen\" and \"18O\" is the stable isotope \"oxygen-18\".",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "precipitation_flux_containing_18O",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

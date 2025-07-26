@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-250Cm",
+    "validation-key": "surface-radioactivity-content-of-250cm",
+    "ui-label": "Surface Radioactivity Content Of 250cm",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cm\" means the element \"curium\" and \"250Cm\" is the isotope \"curium-250\" with a half-life of 2.52e+06 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_250Cm",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

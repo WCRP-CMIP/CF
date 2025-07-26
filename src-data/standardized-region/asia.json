@@ -1,0 +1,12 @@
+{
+    "id": "asia",
+    "validation-key": "asia",
+    "ui-label": "Asia",
+    "description": "",
+    "cf-name": "asia",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

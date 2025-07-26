@@ -1,0 +1,12 @@
+{
+    "id": "global-ocean",
+    "validation-key": "global-ocean",
+    "ui-label": "Global Ocean",
+    "description": "",
+    "cf-name": "global_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

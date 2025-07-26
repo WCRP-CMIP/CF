@@ -1,0 +1,13 @@
+{
+    "id": "square-of-northward-wind",
+    "validation-key": "square-of-northward-wind",
+    "ui-label": "Square Of Northward Wind",
+    "description": "\"square_of_X\" means X*X. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+    "canonical_units": "m2 s-2",
+    "cf-name": "square_of_northward_wind",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

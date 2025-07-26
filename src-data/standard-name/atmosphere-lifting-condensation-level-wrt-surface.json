@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-lifting-condensation-level-wrt-surface",
+    "validation-key": "atmosphere-lifting-condensation-level-wrt-surface",
+    "ui-label": "Atmosphere Lifting Condensation Level Wrt Surface",
+    "description": "The lifting condensation level is the height at which the relative humidity of an air parcel cooled by dry adiabatic lifting from the surface would reach 100%.",
+    "canonical_units": "m",
+    "cf-name": "atmosphere_lifting_condensation_level_wrt_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

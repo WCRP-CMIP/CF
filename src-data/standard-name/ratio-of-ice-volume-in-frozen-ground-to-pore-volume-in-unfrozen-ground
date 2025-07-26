@@ -1,0 +1,13 @@
+{
+    "id": "ratio-of-ice-volume-in-frozen-ground-to-pore-volume-in-unfrozen-ground",
+    "validation-key": "ratio-of-ice-volume-in-frozen-ground-to-pore-volume-in-unfrozen-ground",
+    "ui-label": "Ratio Of Ice Volume In Frozen Ground To Pore Volume In Unfrozen Ground",
+    "description": "The phrase \"ratio_of_X_to_Y\" means X/Y. \"X_volume\" means the volume occupied by X within the grid cell. Pore volume is the volume of the porosity of the ground under natural, unfrozen conditions. This is often known as \"ice saturation index\".",
+    "canonical_units": "1",
+    "cf-name": "ratio_of_ice_volume_in_frozen_ground_to_pore_volume_in_unfrozen_ground",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

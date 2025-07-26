@@ -1,0 +1,13 @@
+{
+    "id": "wind-speed-shear",
+    "validation-key": "wind-speed-shear",
+    "ui-label": "Wind Speed Shear",
+    "description": "Speed is the magnitude of velocity. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) The wind speed is the magnitude of the wind velocity. Wind speed shear is the derivative of wind speed with respect to height.",
+    "canonical_units": "s-1",
+    "cf-name": "wind_speed_shear",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

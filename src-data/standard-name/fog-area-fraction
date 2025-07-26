@@ -1,0 +1,13 @@
+{
+    "id": "fog-area-fraction",
+    "validation-key": "fog-area-fraction",
+    "ui-label": "Fog Area Fraction",
+    "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. Fog means water droplets or minute ice crystals close to the surface which reduce visibility in air to less than 1000m.",
+    "canonical_units": "1",
+    "cf-name": "fog_area_fraction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

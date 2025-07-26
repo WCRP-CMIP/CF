@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-gaseous-divalent-mercury-in-air",
+    "validation-key": "mass-fraction-of-gaseous-divalent-mercury-in-air",
+    "ui-label": "Mass Fraction Of Gaseous Divalent Mercury In Air",
+    "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Divalent mercury\" means all compounds in which the mercury has two binding sites to other ion(s) in a salt or to other atom(s) in a molecule.",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_gaseous_divalent_mercury_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

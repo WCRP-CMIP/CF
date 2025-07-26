@@ -1,0 +1,13 @@
+{
+    "id": "platform-roll-rate",
+    "validation-key": "platform-roll-rate",
+    "ui-label": "Platform Roll Rate",
+    "description": "\"Roll rate\" is the rate of rotation about an axis that is perpendicular to the local vertical axis and is coplanar with the nominal forward motion direction of the platform. Roll rate might not include changes to the \"at rest\" rotation of the platform with respect to the axis of rotation, which may change over time. The standard name platform_roll_rate should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the roll rate is known, a standard name of platform_roll_rate_starboard_down or platform_roll_rate_starboard_up should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "degree s-1",
+    "cf-name": "platform_roll_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

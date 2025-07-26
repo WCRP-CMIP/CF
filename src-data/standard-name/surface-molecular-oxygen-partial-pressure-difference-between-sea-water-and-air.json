@@ -1,0 +1,13 @@
+{
+    "id": "surface-molecular-oxygen-partial-pressure-difference-between-sea-water-and-air",
+    "validation-key": "surface-molecular-oxygen-partial-pressure-difference-between-sea-water-and-air",
+    "ui-label": "Surface Molecular Oxygen Partial Pressure Difference Between Sea Water And Air",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The chemical formula for molecular oxygen is O2. The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged. The partial pressure difference between sea water and air is positive when the partial pressure of the dissolved gas in sea water is greater than the partial pressure in air.",
+    "canonical_units": "Pa",
+    "cf-name": "surface_molecular_oxygen_partial_pressure_difference_between_sea_water_and_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

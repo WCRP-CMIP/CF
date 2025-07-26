@@ -1,0 +1,12 @@
+{
+    "id": "smoke",
+    "validation-key": "smoke",
+    "ui-label": "Smoke",
+    "description": "An area_type of \"smoke\" indicates that smoke aerosol is present at some level in the atmospheric column above an area on the surface of the Earth.",
+    "cf-name": "smoke",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

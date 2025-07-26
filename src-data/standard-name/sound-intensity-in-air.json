@@ -1,0 +1,13 @@
+{
+    "id": "sound-intensity-in-air",
+    "validation-key": "sound-intensity-in-air",
+    "ui-label": "Sound Intensity In Air",
+    "description": "Sound intensity is the sound energy per unit time per unit area.",
+    "canonical_units": "W m-2",
+    "cf-name": "sound_intensity_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

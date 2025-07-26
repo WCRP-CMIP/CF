@@ -1,0 +1,12 @@
+{
+    "id": "all-area-types",
+    "validation-key": "all-area-types",
+    "ui-label": "All Area Types",
+    "description": null,
+    "cf-name": "all_area_types",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

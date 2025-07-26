@@ -1,0 +1,12 @@
+{
+    "id": "lake-victoria",
+    "validation-key": "lake-victoria",
+    "ui-label": "Lake Victoria",
+    "description": "",
+    "cf-name": "lake_victoria",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

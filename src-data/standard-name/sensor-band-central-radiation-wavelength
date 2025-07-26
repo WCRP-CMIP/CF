@@ -1,0 +1,13 @@
+{
+    "id": "sensor-band-central-radiation-wavelength",
+    "validation-key": "sensor-band-central-radiation-wavelength",
+    "ui-label": "Sensor Band Central Radiation Wavelength",
+    "description": "sensor_band_central_radiation_wavelength is the central wavelength of a sensor's band, calculated as the first moment of the band's normalized spectral response function.",
+    "canonical_units": "m",
+    "cf-name": "sensor_band_central_radiation_wavelength",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-maximum-period",
+    "validation-key": "sea-surface-wave-maximum-period",
+    "ui-label": "Sea Surface Wave Maximum Period",
+    "description": "The maximum wave period is the longest wave period measured during the observation period. A period is an interval of time, or the time-period of an oscillation. Wave period is the interval of time between repeated features on the waveform such as crests, troughs or upward passes through the mean level.",
+    "canonical_units": "s",
+    "cf-name": "sea_surface_wave_maximum_period",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

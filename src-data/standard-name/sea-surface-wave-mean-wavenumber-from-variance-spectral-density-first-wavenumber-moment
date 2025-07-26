@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-mean-wavenumber-from-variance-spectral-density-first-wavenumber-moment",
+    "validation-key": "sea-surface-wave-mean-wavenumber-from-variance-spectral-density-first-wavenumber-moment",
+    "ui-label": "Sea Surface Wave Mean Wavenumber From Variance Spectral Density First Wavenumber Moment",
+    "description": "The wave directional spectrum can be written as a five dimensional function S(t,x,y,k,theta) where t is time, x and y are horizontal coordinates (such as longitude and latitude), k is wavenumber and theta is direction. S has the standard name sea_surface_wave_directional_variance_spectral_density. S can be integrated over direction to give S1= integral(S dtheta) and this quantity has the standard name sea_surface_wave_variance_spectral_density. Wavenumber is the number of oscillations of a wave per unit distance. Wavenumber moments, M(n) of S1 can then be calculated as follows: M(n) = integral(S1 k^n dk), where k^n is k to the power of n. The mean wavenumber, k(1), is calculated as the ratio M(1)/M(0).",
+    "canonical_units": "m-1",
+    "cf-name": "sea_surface_wave_mean_wavenumber_from_variance_spectral_density_first_wavenumber_moment",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

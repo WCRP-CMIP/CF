@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-anthropogenic-nmvoc-expressed-as-carbon",
+    "validation-key": "atmosphere-mass-content-of-anthropogenic-nmvoc-expressed-as-carbon",
+    "ui-label": "Atmosphere Mass Content Of Anthropogenic Nmvoc Expressed As Carbon",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. \"nmvoc\" means non methane volatile organic compounds; \"nmvoc\" is the term used in standard names to describe the group of chemical species having this classification that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. \"Anthropogenic\" means influenced, caused, or created by human activity. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_anthropogenic_nmvoc_expressed_as_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

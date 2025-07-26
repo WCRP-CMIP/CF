@@ -1,0 +1,13 @@
+{
+    "id": "surface-runoff-amount",
+    "validation-key": "surface-runoff-amount",
+    "ui-label": "Surface Runoff Amount",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
+    "canonical_units": "kg m-2",
+    "cf-name": "surface_runoff_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

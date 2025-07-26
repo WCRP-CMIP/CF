@@ -1,0 +1,13 @@
+{
+    "id": "number-of-days-with-lwe-thickness-of-precipitation-amount-above-threshold",
+    "validation-key": "number-of-days-with-lwe-thickness-of-precipitation-amount-above-threshold",
+    "ui-label": "Number Of Days With Lwe Thickness Of Precipitation Amount Above Threshold",
+    "description": "The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. The abbreviation \"lwe\" means liquid water equivalent. A variable whose standard name has the form number_of_days_with_X_below|above_threshold is a count of the number of days on which the condition X_below|above_threshold is satisfied. It must have a coordinate variable or scalar coordinate variable with the standard name of X to supply the threshold(s). It must have a climatological time variable, and a cell_methods entry for within days which describes the processing of quantity X before the threshold is applied. A number_of_days is an extensive quantity in time, and the cell_methods entry for over days should be \"sum\".",
+    "canonical_units": "1",
+    "cf-name": "number_of_days_with_lwe_thickness_of_precipitation_amount_above_threshold",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

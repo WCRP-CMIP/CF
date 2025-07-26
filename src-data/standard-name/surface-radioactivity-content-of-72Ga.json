@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-72Ga",
+    "validation-key": "surface-radioactivity-content-of-72ga",
+    "ui-label": "Surface Radioactivity Content Of 72ga",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ga\" means the element \"gallium\" and \"72Ga\" is the isotope \"gallium-72\" with a half-life of 5.86e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_72Ga",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

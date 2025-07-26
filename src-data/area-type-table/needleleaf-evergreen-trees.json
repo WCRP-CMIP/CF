@@ -1,0 +1,12 @@
+{
+    "id": "needleleaf-evergreen-trees",
+    "validation-key": "needleleaf-evergreen-trees",
+    "ui-label": "Needleleaf Evergreen Trees",
+    "description": "Needleleaf trees, often referred to as conifers, have long, thin needle-shaped leaves that are well adapted to retaining water. Evergreen plants retain their leaves through the year and into the following growing season (reference: https://www.britannica.com/plant/evergreen-plant).",
+    "cf-name": "needleleaf_evergreen_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

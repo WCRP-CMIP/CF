@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-surface-snow-amount",
+    "validation-key": "tendency-of-surface-snow-amount",
+    "ui-label": "Tendency Of Surface Snow Amount",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Amount\" means mass per unit area. Surface snow amount refers to the amount on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_surface_snow_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "platform-surge-rate",
+    "validation-key": "platform-surge-rate",
+    "ui-label": "Platform Surge Rate",
+    "description": "\"Surge rate\" is the rate of displacement along an axis that is perpendicular to the local vertical axis and is coplanar with the nominal forward motion direction of the platform. Surge rate might not include changes to the \"at rest\" position of the platform with respect to the axis of displacement, which may change over time. The standard name platform_surge_rate should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the surge rate is known, a standard name of platform_surge_rate_fore or platform_surge_rate_aft should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "m s-1",
+    "cf-name": "platform_surge_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

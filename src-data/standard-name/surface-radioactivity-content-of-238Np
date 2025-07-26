@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-238Np",
+    "validation-key": "surface-radioactivity-content-of-238np",
+    "ui-label": "Surface Radioactivity Content Of 238np",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Np\" means the element \"neptunium\" and \"238Np\" is the isotope \"neptunium-238\" with a half-life of 2.10e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_238Np",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

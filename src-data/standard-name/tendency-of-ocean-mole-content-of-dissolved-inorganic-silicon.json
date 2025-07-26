@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-ocean-mole-content-of-dissolved-inorganic-silicon",
+    "validation-key": "tendency-of-ocean-mole-content-of-dissolved-inorganic-silicon",
+    "ui-label": "Tendency Of Ocean Mole Content Of Dissolved Inorganic Silicon",
+    "description": "\"Content\" indicates a quantity per unit area. \"tendency_of_X\" means derivative of X with respect to time. \"Dissolved inorganic silicon\" means the sum of all inorganic silicon in solution (including silicic acid and its first dissociated anion SiO(OH)3-).",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_silicon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

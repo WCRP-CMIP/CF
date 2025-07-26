@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-bromine-chloride",
+    "validation-key": "atmosphere-mass-content-of-bromine-chloride",
+    "ui-label": "Atmosphere Mass Content Of Bromine Chloride",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The chemical formula for bromine chloride is BrCl.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_bromine_chloride",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

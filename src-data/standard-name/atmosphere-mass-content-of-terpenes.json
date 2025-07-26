@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-terpenes",
+    "validation-key": "atmosphere-mass-content-of-terpenes",
+    "ui-label": "Atmosphere Mass Content Of Terpenes",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  Terpenes are hydrocarbons, that is, they contain only hydrogen and carbon combined in the general proportions (C5H8)n where n is an integer greater than on equal to one. The term \"terpenes\" is used in standard names to describe the group of chemical species having this common structure that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models.  Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.  Standard names exist for some individual terpene species, e.g., isoprene and limonene.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_terpenes",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

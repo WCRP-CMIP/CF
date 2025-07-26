@@ -1,0 +1,13 @@
+{
+    "id": "wet-bulb-globe-temperature",
+    "validation-key": "wet-bulb-globe-temperature",
+    "ui-label": "Wet Bulb Globe Temperature",
+    "description": "Wet Bulb Globe Temperature (WBGT) is a particularly effective indicator of heat stress for active populations such as outdoor workers and athletes. In weather model calculations, WBGT is a derived value that represents the combined effects of air temperature, relative humidity, wind speed, and solar radiation. Outdoor WBGT is calculated as the weighted sum of natural (static) wet-bulb temperature (Tw), black globe temperature (Tg), and dry bulb temperature (Td): WBGT = 0.7Tw + 0.2 Tg + 0.1 Td. References: Liljegren, J. C., Carhart, R. A., Lawday, P., Tschopp, S. & Sharp, R. Modeling the wet bulb globe temperature using standard meteorological measurements. Journal of Occupational and Environmental Hygiene, 5(10), pp. 645–655 (2008). https://doi.org/10.1080/15459620802310770; Kamal, A.S.M.M., Fahim, A.K.F. & Shahid, S. Changes in wet bulb globe temperature and risk to heat-related hazards in Bangladesh. Sci Rep 14, 10417 (2024). https://doi.org/10.1038/s41598-024-61138-8.",
+    "canonical_units": "degree_C",
+    "cf-name": "wet_bulb_globe_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

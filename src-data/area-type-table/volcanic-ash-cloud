@@ -1,0 +1,12 @@
+{
+    "id": "volcanic-ash-cloud",
+    "validation-key": "volcanic-ash-cloud",
+    "ui-label": "Volcanic Ash Cloud",
+    "description": "An area_type of \"volcanic_ash_cloud\" indicates that volcanic ash aerosol is present at some level in the atmospheric column above an area on the surface of the Earth.",
+    "cf-name": "volcanic_ash_cloud",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

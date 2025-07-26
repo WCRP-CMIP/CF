@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-heat-flux-in-air",
+    "validation-key": "surface-upward-heat-flux-in-air",
+    "ui-label": "Surface Upward Heat Flux In Air",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The vertical heat flux in air is the sum of all heat fluxes i.e. radiative, latent and sensible. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "surface_upward_heat_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

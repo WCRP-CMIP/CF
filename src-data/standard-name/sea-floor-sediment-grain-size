@@ -1,0 +1,13 @@
+{
+    "id": "sea-floor-sediment-grain-size",
+    "validation-key": "sea-floor-sediment-grain-size",
+    "ui-label": "Sea Floor Sediment Grain Size",
+    "description": "The average size of grains (also known as particles) in a sediment sample.",
+    "canonical_units": "m",
+    "cf-name": "sea_floor_sediment_grain_size",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

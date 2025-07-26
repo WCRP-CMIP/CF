@@ -1,0 +1,12 @@
+{
+    "id": "lake-baykal",
+    "validation-key": "lake-baykal",
+    "ui-label": "Lake Baykal",
+    "description": "",
+    "cf-name": "lake_baykal",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

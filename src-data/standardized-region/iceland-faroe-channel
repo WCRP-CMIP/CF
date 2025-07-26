@@ -1,0 +1,12 @@
+{
+    "id": "iceland-faroe-channel",
+    "validation-key": "iceland-faroe-channel",
+    "ui-label": "Iceland Faroe Channel",
+    "description": "",
+    "cf-name": "iceland_faroe_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

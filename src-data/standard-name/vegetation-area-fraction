@@ -1,0 +1,13 @@
+{
+    "id": "vegetation-area-fraction",
+    "validation-key": "vegetation-area-fraction",
+    "ui-label": "Vegetation Area Fraction",
+    "description": "\"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. \"Vegetation\" means any plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
+    "canonical_units": "1",
+    "cf-name": "vegetation_area_fraction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

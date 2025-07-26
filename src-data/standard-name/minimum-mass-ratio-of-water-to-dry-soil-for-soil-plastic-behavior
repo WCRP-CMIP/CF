@@ -1,0 +1,13 @@
+{
+    "id": "minimum-mass-ratio-of-water-to-dry-soil-for-soil-plastic-behavior",
+    "validation-key": "minimum-mass-ratio-of-water-to-dry-soil-for-soil-plastic-behavior",
+    "ui-label": "Minimum Mass Ratio Of Water To Dry Soil For Soil Plastic Behavior",
+    "description": "The phrase \"ratio_of_X_to_Y\" means X/Y. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. It is the lower limit of the water content at which a 3 mm diameter cylindrical soil sample will break in 3 to 10 mm pieces. It is the lower limit of the plastic state, which has the liquid limit as the upper bound. Known as the plastic limit.",
+    "canonical_units": "1",
+    "cf-name": "minimum_mass_ratio_of_water_to_dry_soil_for_soil_plastic_behavior",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

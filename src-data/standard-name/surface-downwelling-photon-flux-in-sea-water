@@ -1,0 +1,13 @@
+{
+    "id": "surface-downwelling-photon-flux-in-sea-water",
+    "validation-key": "surface-downwelling-photon-flux-in-sea-water",
+    "ui-label": "Surface Downwelling Photon Flux In Sea Water",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. A photon flux is specified in terms of numbers of photons expressed in moles. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "surface_downwelling_photon_flux_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

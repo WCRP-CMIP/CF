@@ -1,0 +1,13 @@
+{
+    "id": "realization",
+    "validation-key": "realization",
+    "ui-label": "Realization",
+    "description": "Realization is used to label a dimension that can be thought of as a statistical sample, e.g., labelling members of a model ensemble.",
+    "canonical_units": "1",
+    "cf-name": "realization",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

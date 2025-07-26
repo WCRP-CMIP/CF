@@ -1,0 +1,13 @@
+{
+    "id": "sound-frequency",
+    "validation-key": "sound-frequency",
+    "ui-label": "Sound Frequency",
+    "description": "Frequency is the number of oscillations of a wave per unit time.",
+    "canonical_units": "s-1",
+    "cf-name": "sound_frequency",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-eastward-wind-due-to-advection-by-upward-transformed-eulerian-mean-air-velocity",
+    "validation-key": "tendency-of-eastward-wind-due-to-advection-by-upward-transformed-eulerian-mean-air-velocity",
+    "ui-label": "Tendency Of Eastward Wind Due To Advection By Upward Transformed Eulerian Mean Air Velocity",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The \"Transformed Eulerian Mean\" refers to a formulation of the mean equations which incorporates some eddy terms into the definition of the mean, described in Andrews et al (1987): Middle Atmospheric Dynamics. Academic Press.",
+    "canonical_units": "m s-2",
+    "cf-name": "tendency_of_eastward_wind_due_to_advection_by_upward_transformed_eulerian_mean_air_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

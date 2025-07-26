@@ -1,0 +1,13 @@
+{
+    "id": "secchi-depth-of-sea-water",
+    "validation-key": "secchi-depth-of-sea-water",
+    "ui-label": "Secchi Depth Of Sea Water",
+    "description": "Depth is the vertical distance below the surface. A Secchi disk is a patterned disk that is used to measure water transparency, also called turbidity, in oceans and lakes. The disk is lowered into the water and the depth at which the pattern is no longer visible is the called the secchi depth. Sea water turbidity may also be measured by the quantity with standard name sea_water_turbidity.",
+    "canonical_units": "m",
+    "cf-name": "secchi_depth_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

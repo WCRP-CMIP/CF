@@ -1,0 +1,13 @@
+{
+    "id": "sound-intensity-in-water",
+    "validation-key": "sound-intensity-in-water",
+    "ui-label": "Sound Intensity In Water",
+    "description": "Sound intensity is the sound energy per unit time per unit area.",
+    "canonical_units": "W m-2",
+    "cf-name": "sound_intensity_in_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

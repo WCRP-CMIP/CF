@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-103mRh",
+    "validation-key": "surface-radioactivity-content-of-103mrh",
+    "ui-label": "Surface Radioactivity Content Of 103mrh",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rh\" means the element \"rhodium\" and \"103mRh\" is the metastable state of the isotope \"rhodium-103\" with a half-life of 3.89e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_103mRh",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

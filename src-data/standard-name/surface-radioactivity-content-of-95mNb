@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-95mNb",
+    "validation-key": "surface-radioactivity-content-of-95mnb",
+    "ui-label": "Surface Radioactivity Content Of 95mnb",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Nb\" means the element \"niobium\" and \"95mNb\" is the metastable state of the isotope \"niobium-95\" with a half-life of 3.61e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_95mNb",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

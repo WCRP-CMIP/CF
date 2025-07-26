@@ -1,0 +1,13 @@
+{
+    "id": "surface-diffuse-shortwave-hemispherical-reflectance",
+    "validation-key": "surface-diffuse-shortwave-hemispherical-reflectance",
+    "ui-label": "Surface Diffuse Shortwave Hemispherical Reflectance",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Diffuse\" radiation is radiation that has been scattered by gas molecules in the atmosphere and by particles such as cloud droplets and aerosols. The term \"shortwave\" means shortwave radiation. Hemispherical reflectance is the ratio of the energy of the reflected to the incident radiation. This term gives the fraction of the surface_diffuse_downwelling_shortwave_flux_in_air which is reflected. If the diffuse radiation is isotropic, this term is equivalent to the integral of surface_bidirectional_reflectance over all incident angles and over all outgoing angles in the hemisphere above the surface. A coordinate variable of radiation_wavelength or radiation_frequency can be used to specify the wavelength or frequency, respectively, of the radiation. Shortwave hemispherical reflectance is related to albedo, but albedo is defined in terms of the fraction of the full spectrum of incident solar radiation which is reflected. It is related to the hemispherical reflectance averaged over all wavelengths using a weighting proportional to the incident radiative flux.",
+    "canonical_units": "1",
+    "cf-name": "surface_diffuse_shortwave_hemispherical_reflectance",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

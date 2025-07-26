@@ -1,0 +1,13 @@
+{
+    "id": "height-at-cloud-top",
+    "validation-key": "height-at-cloud-top",
+    "ui-label": "Height At Cloud Top",
+    "description": "cloud_top refers to the top of the highest cloud. Height is the vertical distance above the surface.",
+    "canonical_units": "m",
+    "cf-name": "height_at_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

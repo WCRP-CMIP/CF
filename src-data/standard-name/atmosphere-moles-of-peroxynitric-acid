@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-peroxynitric-acid",
+    "validation-key": "atmosphere-moles-of-peroxynitric-acid",
+    "ui-label": "Atmosphere Moles Of Peroxynitric Acid",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for peroxynitric acid, sometimes referred to as PNA, is HO2NO2.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_peroxynitric_acid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

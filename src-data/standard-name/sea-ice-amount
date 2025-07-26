@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-amount",
+    "validation-key": "sea-ice-amount",
+    "ui-label": "Sea Ice Amount",
+    "description": "\"Amount\" means mass per unit area. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "kg m-2",
+    "cf-name": "sea_ice_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

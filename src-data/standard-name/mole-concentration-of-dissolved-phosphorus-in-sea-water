@@ -1,0 +1,13 @@
+{
+    "id": "mole-concentration-of-dissolved-phosphorus-in-sea-water",
+    "validation-key": "mole-concentration-of-dissolved-phosphorus-in-sea-water",
+    "ui-label": "Mole Concentration Of Dissolved Phosphorus In Sea Water",
+    "description": "\"Mole concentration\" means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Phosphorus means phosphorus in all chemical forms, commonly referred to as \"total phosphorus\". The equivalent term in the NERC P01 Parameter Usage Vocabulary may be found at http://vocab.nerc.ac.uk/collection/P01/current/TPHSDSZZ/6/.",
+    "canonical_units": "mol m-3",
+    "cf-name": "mole_concentration_of_dissolved_phosphorus_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

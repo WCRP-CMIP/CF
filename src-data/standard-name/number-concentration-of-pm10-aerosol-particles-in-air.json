@@ -1,0 +1,13 @@
+{
+    "id": "number-concentration-of-pm10-aerosol-particles-in-air",
+    "validation-key": "number-concentration-of-pm10-aerosol-particles-in-air",
+    "ui-label": "Number Concentration Of Pm10 Aerosol Particles In Air",
+    "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. \"Pm10 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers. To specify the relative humidity and temperature at which the particle size applies, provide scalar coordinate variables with the standard names of, respectively, \"relative_humidity\" and \"air_temperature\".",
+    "canonical_units": "m-3",
+    "cf-name": "number_concentration_of_pm10_aerosol_particles_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-downward-mass-flux-of-water-due-to-irrigation",
+    "validation-key": "surface-downward-mass-flux-of-water-due-to-irrigation",
+    "ui-label": "Surface Downward Mass Flux Of Water Due To Irrigation",
+    "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). The surface called \"surface\" means the lower boundary of the atmosphere. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Irrigation\" includes water used to sustain crops, trees, pastures and urban lawns.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "surface_downward_mass_flux_of_water_due_to_irrigation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

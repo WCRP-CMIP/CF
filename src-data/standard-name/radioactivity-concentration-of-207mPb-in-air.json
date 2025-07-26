@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-207mPb-in-air",
+    "validation-key": "radioactivity-concentration-of-207mpb-in-air",
+    "ui-label": "Radioactivity Concentration Of 207mpb In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pb\" means the element \"lead\" and \"207mPb\" is the metastable state of the isotope \"lead-207\" with a half-life of 9.26e-06 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_207mPb_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

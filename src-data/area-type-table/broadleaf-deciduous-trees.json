@@ -1,0 +1,12 @@
+{
+    "id": "broadleaf-deciduous-trees",
+    "validation-key": "broadleaf-deciduous-trees",
+    "ui-label": "Broadleaf Deciduous Trees",
+    "description": "Broadleaf trees are characterized by leaves that are broad, flat and thin with networked veins (reference: https://treeterms.co.uk/broadleaf/). Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall.",
+    "cf-name": "broadleaf_deciduous_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

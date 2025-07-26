@@ -1,0 +1,13 @@
+{
+    "id": "soil-porosity",
+    "validation-key": "soil-porosity",
+    "ui-label": "Soil Porosity",
+    "description": "The soil porosity is the proportion of its total volume not occupied by soil solids.",
+    "canonical_units": "1",
+    "cf-name": "soil_porosity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

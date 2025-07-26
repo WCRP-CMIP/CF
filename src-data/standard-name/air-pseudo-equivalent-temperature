@@ -1,0 +1,13 @@
+{
+    "id": "air-pseudo-equivalent-temperature",
+    "validation-key": "air-pseudo-equivalent-temperature",
+    "ui-label": "Air Pseudo Equivalent Temperature",
+    "description": "The pseudoequivalent temperature is also known as the adiabatic equivalent temperature. It is the temperature that an air parcel would have after undergoing the following process: dry-adiabatic expansion until saturated; pseudoadiabatic expansion until all moisture is precipitated out; dry-adiabatic compression to the initial pressure. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Equivalent_temperature. This quantity is distinct from the isobaric equivalent temperature, also known as equivalent temperature, which has the standard name air_equivalent_temperature. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "air_pseudo_equivalent_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

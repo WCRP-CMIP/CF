@@ -1,0 +1,13 @@
+{
+    "id": "soil-albedo",
+    "validation-key": "soil-albedo",
+    "ui-label": "Soil Albedo",
+    "description": "Soil albedo is the albedo of the soil surface assuming no snow. Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum.",
+    "canonical_units": "1",
+    "cf-name": "soil_albedo",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

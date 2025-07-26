@@ -1,0 +1,13 @@
+{
+    "id": "toa-outgoing-shortwave-flux-assuming-clear-sky",
+    "validation-key": "toa-outgoing-shortwave-flux-assuming-clear-sky",
+    "ui-label": "Toa Outgoing Shortwave Flux Assuming Clear Sky",
+    "description": "A phrase assuming_condition indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"shortwave\" means shortwave radiation. \"toa\" means top of atmosphere. The TOA outgoing shortwave flux is the reflected and scattered solar radiative flux i.e. the \"upwelling\" TOA shortwave flux, sometimes called the \"outgoing shortwave radiation\" or \"OSR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_outgoing_shortwave_flux_assuming_clear_sky",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

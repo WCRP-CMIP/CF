@@ -1,0 +1,13 @@
+{
+    "id": "mass-flux-of-carbon-into-sea-water-from-rivers",
+    "validation-key": "mass-flux-of-carbon-into-sea-water-from-rivers",
+    "ui-label": "Mass Flux Of Carbon Into Sea Water From Rivers",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"River\" refers to water in the fluvial system (stream and floodplain).",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "mass_flux_of_carbon_into_sea_water_from_rivers",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

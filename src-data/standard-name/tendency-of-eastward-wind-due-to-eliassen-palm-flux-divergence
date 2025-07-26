@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-eastward-wind-due-to-eliassen-palm-flux-divergence",
+    "validation-key": "tendency-of-eastward-wind-due-to-eliassen-palm-flux-divergence",
+    "ui-label": "Tendency Of Eastward Wind Due To Eliassen Palm Flux Divergence",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward).  \"Eliassen Palm flux\" is a widely used vector in the meridional plane, and the divergence of this flux appears as a forcing in the Transformed Eulerian mean formulation of the zonal mean zonal wind equation.  Thus, \"eastward_wind\" here will generally be the zonally averaged eastward wind.",
+    "canonical_units": "m s-2",
+    "cf-name": "tendency_of_eastward_wind_due_to_eliassen_palm_flux_divergence",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

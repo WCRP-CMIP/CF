@@ -1,0 +1,12 @@
+{
+    "id": "bering-sea",
+    "validation-key": "bering-sea",
+    "ui-label": "Bering Sea",
+    "description": "",
+    "cf-name": "bering_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

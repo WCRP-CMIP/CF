@@ -1,0 +1,13 @@
+{
+    "id": "convective-liquid-precipitation-flux",
+    "validation-key": "convective-liquid-precipitation-flux",
+    "ui-label": "Convective Liquid Precipitation Flux",
+    "description": "Convective precipitation is that produced by the convection schemes in an atmosphere model. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases, but liquid precipitation refers to non-frozen water. \"Liquid_precipitation\" includes both \"rain\" and \"drizzle\". \"Rain\" means drops of water falling through the atmosphere that have a diameter greater than 0.5 mm. \"Drizzle\" means drops of water falling through the atmosphere that have a diameter typically in the range 0.2-0.5 mm. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "convective_liquid_precipitation_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

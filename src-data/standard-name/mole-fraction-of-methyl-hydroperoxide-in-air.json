@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-methyl-hydroperoxide-in-air",
+    "validation-key": "mole-fraction-of-methyl-hydroperoxide-in-air",
+    "ui-label": "Mole Fraction Of Methyl Hydroperoxide In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of methyl hydroperoxide is CH3OOH.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_methyl_hydroperoxide_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

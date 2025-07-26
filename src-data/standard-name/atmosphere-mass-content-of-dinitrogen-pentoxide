@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-dinitrogen-pentoxide",
+    "validation-key": "atmosphere-mass-content-of-dinitrogen-pentoxide",
+    "ui-label": "Atmosphere Mass Content Of Dinitrogen Pentoxide",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The chemical formula for dinitrogen pentoxide is N2O5.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_dinitrogen_pentoxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

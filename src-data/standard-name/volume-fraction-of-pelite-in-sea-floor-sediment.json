@@ -1,0 +1,13 @@
+{
+    "id": "volume-fraction-of-pelite-in-sea-floor-sediment",
+    "validation-key": "volume-fraction-of-pelite-in-sea-floor-sediment",
+    "ui-label": "Volume Fraction Of Pelite In Sea Floor Sediment",
+    "description": "\"Volume fraction\" is used in the construction volume_fraction_of_X_in_Y, where X is a material constituent of Y. It is evaluated as the volume of X divided by the volume of Y (including X). It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. \"Sea floor sediment\" is sediment deposited at the sea bed. \"Pelite\" is sediment less than 0.063 millimeters in diameter.",
+    "canonical_units": "1",
+    "cf-name": "volume_fraction_of_pelite_in_sea_floor_sediment",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

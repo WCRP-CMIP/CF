@@ -1,0 +1,13 @@
+{
+    "id": "minus-one-times-water-flux-into-sea-water-from-rivers",
+    "validation-key": "minus-one-times-water-flux-into-sea-water-from-rivers",
+    "ui-label": "Minus One Times Water Flux Into Sea Water From Rivers",
+    "description": "The quantity minus_one_times_water_flux_into_sea_water_from_rivers is the quantity with standard name water_flux_into_sea_water_from_rivers multiplied by -1. \"Water\" means water in all phases. The water flux or volume transport into sea water from rivers is the inflow to the ocean, often applied to the surface in ocean models. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"River\" refers to water in the fluvial system (stream and floodplain).",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "minus_one_times_water_flux_into_sea_water_from_rivers",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

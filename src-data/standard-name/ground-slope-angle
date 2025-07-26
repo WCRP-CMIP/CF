@@ -1,0 +1,13 @@
+{
+    "id": "ground-slope-angle",
+    "validation-key": "ground-slope-angle",
+    "ui-label": "Ground Slope Angle",
+    "description": "The slope angle is the angle (in degrees) measured between the ground (earth) surface plane and a flat, horizontal surface.",
+    "canonical_units": "degree",
+    "cf-name": "ground_slope_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

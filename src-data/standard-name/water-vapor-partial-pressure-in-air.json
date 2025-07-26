@@ -1,0 +1,13 @@
+{
+    "id": "water-vapor-partial-pressure-in-air",
+    "validation-key": "water-vapor-partial-pressure-in-air",
+    "ui-label": "Water Vapor Partial Pressure In Air",
+    "description": "The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged.",
+    "canonical_units": "Pa",
+    "cf-name": "water_vapor_partial_pressure_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "litter-mass-content-of-13C",
+    "validation-key": "litter-mass-content-of-13c",
+    "ui-label": "Litter Mass Content Of 13c",
+    "description": "\"Content\" indicates a quantity per unit area. \"Litter\" is dead plant material in or above the soil. \"C\" means the element carbon and \"13C\" is the stable isotope \"carbon-13\", having six protons and seven neutrons.",
+    "canonical_units": "kg m-2",
+    "cf-name": "litter_mass_content_of_13C",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

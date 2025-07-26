@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-bromine-monoxide",
+    "validation-key": "atmosphere-moles-of-bromine-monoxide",
+    "ui-label": "Atmosphere Moles Of Bromine Monoxide",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for bromine monoxide is BrO.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_bromine_monoxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

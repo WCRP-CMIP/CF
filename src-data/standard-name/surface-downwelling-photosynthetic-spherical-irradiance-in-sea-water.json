@@ -1,0 +1,13 @@
+{
+    "id": "surface-downwelling-photosynthetic-spherical-irradiance-in-sea-water",
+    "validation-key": "surface-downwelling-photosynthetic-spherical-irradiance-in-sea-water",
+    "ui-label": "Surface Downwelling Photosynthetic Spherical Irradiance In Sea Water",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. \"Photosynthetic\" radiation is the part of the spectrum which is used in photosynthesis e.g. 400-700 nm. The range of wavelengths could be specified precisely by the bounds of a coordinate of radiation_wavelength. Spherical irradiance is the radiation incident on unit area of a hemispherical (or \"2-pi\") collector. It is sometimes called \"scalar irradiance\". The direction (up/downwelling) is specified. Radiation incident on a 4-pi collector has standard names of \"omnidirectional spherical irradiance\".",
+    "canonical_units": "W m-2",
+    "cf-name": "surface_downwelling_photosynthetic_spherical_irradiance_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

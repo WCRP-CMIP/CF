@@ -1,0 +1,13 @@
+{
+    "id": "surface-carbon-dioxide-partial-pressure-difference-between-air-and-sea-water",
+    "validation-key": "surface-carbon-dioxide-partial-pressure-difference-between-air-and-sea-water",
+    "ui-label": "Surface Carbon Dioxide Partial Pressure Difference Between Air And Sea Water",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The chemical formula for carbon dioxide is CO2. The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. The partial pressure of a gaseous constituent of air is the pressure that it would exert if all other gaseous constituents were removed, assuming the volume, the temperature, and its number of moles remain unchanged. The partial pressure difference between air and sea water is positive when the partial pressure in air is greater than the partial pressure of the dissolved gas in sea water.",
+    "canonical_units": "Pa",
+    "cf-name": "surface_carbon_dioxide_partial_pressure_difference_between_air_and_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

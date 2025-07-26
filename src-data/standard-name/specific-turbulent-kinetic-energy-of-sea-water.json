@@ -1,0 +1,13 @@
+{
+    "id": "specific-turbulent-kinetic-energy-of-sea-water",
+    "validation-key": "specific-turbulent-kinetic-energy-of-sea-water",
+    "ui-label": "Specific Turbulent Kinetic Energy Of Sea Water",
+    "description": "\"Specific\" means per unit mass. \"Turbulent kinetic energy\" is the kinetic energy of chaotic fluctuations of the fluid flow.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "specific_turbulent_kinetic_energy_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

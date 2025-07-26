@@ -1,0 +1,12 @@
+{
+    "id": "volume-fraction-of-oxygen-in-sea-floor-sediment-pore-water",
+    "validation-key": "volume-fraction-of-oxygen-in-sea-floor-sediment-pore-water",
+    "ui-label": "Volume Fraction Of Oxygen In Sea Floor Sediment Pore Water",
+    "description": "\"Volume fraction\" is used in the construction \"volume_fraction_of_X_in_Y\", where X is a material constituent of Y. It is evaluated as the volume of X divided by the volume of Y (including X). It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction.  \"Sea floor sediment\" is sediment deposited at the sea bed. \"Water\" means water in all phases.",
+    "cf-name": "volume_fraction_of_oxygen_in_sea_floor_sediment_pore_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

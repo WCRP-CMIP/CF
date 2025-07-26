@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-methyl-peroxy-radical",
+    "validation-key": "tendency-of-atmosphere-moles-of-methyl-peroxy-radical",
+    "ui-label": "Tendency Of Atmosphere Moles Of Methyl Peroxy Radical",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for methyl_peroxy_radical is CH3O2. In chemistry, a \"radical\" is a highly reactive, and therefore short lived, species.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_methyl_peroxy_radical",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

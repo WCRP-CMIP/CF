@@ -1,0 +1,13 @@
+{
+    "id": "difference-between-sea-surface-subskin-temperature-and-sea-surface-foundation-temperature",
+    "validation-key": "difference-between-sea-surface-subskin-temperature-and-sea-surface-foundation-temperature",
+    "ui-label": "Difference Between Sea Surface Subskin Temperature And Sea Surface Foundation Temperature",
+    "description": "This variable quantifies the temperature difference between the top (sea_surface_subskin_temperature) and bottom (sea_surface_foundation_temperature) of the diurnal warm layer. This diurnal warm layer, caused by absorption of solar radiation in the absence of strong mixing, together with a cool skin effect, account for the total temperature difference between the sea_surface_skin_temperature and the sea_surface_foundation_temperature. The cool skin effect is associated with the turbulent and infrared radiative heat loss at the air-sea interface. Freshwater fluxes may also affect this variable (sea_surface_subskin_temperature_minus_sea_surface_foundation_temperature).",
+    "canonical_units": "degree_C",
+    "cf-name": "difference_between_sea_surface_subskin_temperature_and_sea_surface_foundation_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

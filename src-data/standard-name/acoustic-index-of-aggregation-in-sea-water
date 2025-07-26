@@ -1,0 +1,13 @@
+{
+    "id": "acoustic-index-of-aggregation-in-sea-water",
+    "validation-key": "acoustic-index-of-aggregation-in-sea-water",
+    "ui-label": "Acoustic Index Of Aggregation In Sea Water",
+    "description": "Acoustic index of aggregation is the depth integral of squared volume backscattering coefficient divided by the squared area backscattering coefficient. Volume backscattering coefficient is the linear form of acoustic_volume_backscattering_strength_in_sea_water. Area backscattering coefficient is the integral of the volume backscattering coefficient over a defined distance. The parameter is computed to provide a value that represents the patchiness of biomass in the water column in the field of fisheries acoustics - the value is high when small areas are much denser than the rest of the distribution. The parameter is also the reciprocal of acoustic_equivalent_area_in_sea_water. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205 and Woillez et. al (2007) doi.org/10.1093/icesjms/fsm025.",
+    "canonical_units": "m-1",
+    "cf-name": "acoustic_index_of_aggregation_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "derivative-wrt-wavelength-of-volume-absorption-coefficient-of-radiative-flux-in-sea-water-due-to-dissolved-organic-matter",
+    "validation-key": "derivative-wrt-wavelength-of-volume-absorption-coefficient-of-radiative-flux-in-sea-water-due-to-dissolved-organic-matter",
+    "ui-label": "Derivative Wrt Wavelength Of Volume Absorption Coefficient Of Radiative Flux In Sea Water Due To Dissolved Organic Matter",
+    "description": "A measure of the dependency of the volume_absorption_coefficient_of_radiative_flux_in_sea_water_due_to_dissolved_organic_matter on wavelength, also commonly known as spectral slope. The wavelength range it has been calculated over is stated as an radiation_wavelength attribute (e.g. “275-295 nm”).",
+    "canonical_units": "m-1",
+    "cf-name": "derivative_wrt_wavelength_of_volume_absorption_coefficient_of_radiative_flux_in_sea_water_due_to_dissolved_organic_matter",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

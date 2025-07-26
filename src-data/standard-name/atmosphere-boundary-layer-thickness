@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-boundary-layer-thickness",
+    "validation-key": "atmosphere-boundary-layer-thickness",
+    "ui-label": "Atmosphere Boundary Layer Thickness",
+    "description": "The atmosphere boundary layer thickness is the \"depth\" or \"height\" of the (atmosphere) planetary boundary layer.",
+    "canonical_units": "m",
+    "cf-name": "atmosphere_boundary_layer_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

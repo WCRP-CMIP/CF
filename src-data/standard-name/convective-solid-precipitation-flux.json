@@ -1,0 +1,13 @@
+{
+    "id": "convective-solid-precipitation-flux",
+    "validation-key": "convective-solid-precipitation-flux",
+    "ui-label": "Convective Solid Precipitation Flux",
+    "description": "Convective precipitation is that produced by the convection schemes in an atmosphere model. Solid precipitation refers to the precipitation of water in the solid phase. Water in the atmosphere exists in one of three phases: solid, liquid or vapor. The solid phase can exist as snow, hail, graupel, cloud ice, or as a component of aerosol. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "convective_solid_precipitation_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

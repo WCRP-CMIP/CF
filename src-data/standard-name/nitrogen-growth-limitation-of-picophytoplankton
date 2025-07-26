@@ -1,0 +1,13 @@
+{
+    "id": "nitrogen-growth-limitation-of-picophytoplankton",
+    "validation-key": "nitrogen-growth-limitation-of-picophytoplankton",
+    "ui-label": "Nitrogen Growth Limitation Of Picophytoplankton",
+    "description": "Picophytoplankton are phytoplankton of less than 2 micrometers in size. Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. \"Nitrogen growth limitation\" means the ratio of the growth rate of a species population in the environment (where there is a finite availability of nitrogen) to the theoretical growth rate if there were no such limit on nitrogen availability.",
+    "canonical_units": "1",
+    "cf-name": "nitrogen_growth_limitation_of_picophytoplankton",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

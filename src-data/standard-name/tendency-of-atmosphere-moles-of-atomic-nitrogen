@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-atomic-nitrogen",
+    "validation-key": "tendency-of-atmosphere-moles-of-atomic-nitrogen",
+    "ui-label": "Tendency Of Atmosphere Moles Of Atomic Nitrogen",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical symbol for atomic nitrogen is N.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_atomic_nitrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

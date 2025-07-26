@@ -1,0 +1,13 @@
+{
+    "id": "northward-atmosphere-heat-transport",
+    "validation-key": "northward-atmosphere-heat-transport",
+    "ui-label": "Northward Atmosphere Heat Transport",
+    "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Atmosphere heat transport\" means total heat transport by the atmosphere by all processes.",
+    "canonical_units": "W",
+    "cf-name": "northward_atmosphere_heat_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

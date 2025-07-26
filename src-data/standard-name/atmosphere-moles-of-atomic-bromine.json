@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-atomic-bromine",
+    "validation-key": "atmosphere-moles-of-atomic-bromine",
+    "ui-label": "Atmosphere Moles Of Atomic Bromine",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical symbol for atomic bromine is Br.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_atomic_bromine",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

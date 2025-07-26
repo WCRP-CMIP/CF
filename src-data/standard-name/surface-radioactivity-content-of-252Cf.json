@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-252Cf",
+    "validation-key": "surface-radioactivity-content-of-252cf",
+    "ui-label": "Surface Radioactivity Content Of 252cf",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cf\" means the element \"californium\" and \"252Cf\" is the isotope \"californium-252\" with a half-life of 9.68e+02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_252Cf",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

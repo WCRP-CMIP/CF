@@ -1,0 +1,13 @@
+{
+    "id": "surface-water-amount",
+    "validation-key": "surface-water-amount",
+    "ui-label": "Surface Water Amount",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area. \"Water\" means water in all phases, including frozen i.e. ice and snow. Surface amount refers to the amount on the ground, excluding that on the plant or vegetation canopy.",
+    "canonical_units": "kg m-2",
+    "cf-name": "surface_water_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

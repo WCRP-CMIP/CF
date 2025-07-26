@@ -1,0 +1,13 @@
+{
+    "id": "northward-sea-water-velocity",
+    "validation-key": "northward-sea-water-velocity",
+    "ui-label": "Northward Sea Water Velocity",
+    "description": "A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward).",
+    "canonical_units": "m s-1",
+    "cf-name": "northward_sea_water_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

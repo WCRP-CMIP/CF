@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-236Np-in-air",
+    "validation-key": "radioactivity-concentration-of-236np-in-air",
+    "ui-label": "Radioactivity Concentration Of 236np In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Np\" means the element \"neptunium\" and \"236Np\" is the isotope \"neptunium-236\" with a half-life of 9.17e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_236Np_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

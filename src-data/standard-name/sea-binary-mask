@@ -1,0 +1,13 @@
+{
+    "id": "sea-binary-mask",
+    "validation-key": "sea-binary-mask",
+    "ui-label": "Sea Binary Mask",
+    "description": "X\"_binary_mask\" has 1 where condition X is met, 0 elsewhere. 1 = sea, 0 = land.",
+    "canonical_units": "1",
+    "cf-name": "sea_binary_mask",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

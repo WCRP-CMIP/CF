@@ -1,0 +1,13 @@
+{
+    "id": "upwelling-longwave-radiance-in-air",
+    "validation-key": "upwelling-longwave-radiance-in-air",
+    "ui-label": "Upwelling Longwave Radiance In Air",
+    "description": "The term \"longwave\" means longwave radiation. Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Radiance is the radiative flux in a particular direction, per unit of solid angle. The direction towards which it is going must be specified, for instance with a coordinate of zenith_angle. If the radiation does not depend on direction, a standard name of isotropic radiance should be chosen instead.",
+    "canonical_units": "W m-2 sr-1",
+    "cf-name": "upwelling_longwave_radiance_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

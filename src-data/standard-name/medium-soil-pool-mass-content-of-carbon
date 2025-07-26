@@ -1,0 +1,13 @@
+{
+    "id": "medium-soil-pool-mass-content-of-carbon",
+    "validation-key": "medium-soil-pool-mass-content-of-carbon",
+    "ui-label": "Medium Soil Pool Mass Content Of Carbon",
+    "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content_of_soil_layer are used. Soil carbon is returned to the atmosphere as the organic matter decays. The decay process takes varying amounts of time depending on the composition of the organic matter, the temperature and the availability of moisture. A carbon \"soil pool\" means the carbon contained in organic matter which has a characteristic period over which it decays and releases carbon into the atmosphere. \"Medium soil pool\" refers to the decay of organic matter in soil with a characteristic period of between ten and one hundred years under reference climate conditions of a temperature of 20 degrees Celsius and no water limitations.",
+    "canonical_units": "kg m-2",
+    "cf-name": "medium_soil_pool_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

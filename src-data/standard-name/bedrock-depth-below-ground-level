@@ -1,0 +1,13 @@
+{
+    "id": "bedrock-depth-below-ground-level",
+    "validation-key": "bedrock-depth-below-ground-level",
+    "ui-label": "Bedrock Depth Below Ground Level",
+    "description": "The bedrock_depth_below_ground_level is the vertical distance between the ground and the bedrock. \"Bedrock\" refers to the surface of the consolidated rock, beneath any unconsolidated rock, sediment, soil, water or land ice. \"Ground level\" means the level of the solid surface in land areas without permanent inland water, beneath any snow, ice or surface water.",
+    "canonical_units": "m",
+    "cf-name": "bedrock_depth_below_ground_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "downward-heat-flux-at-ground-level-in-soil",
+    "validation-key": "downward-heat-flux-at-ground-level-in-soil",
+    "ui-label": "Downward Heat Flux At Ground Level In Soil",
+    "description": "ground_level means the land surface (beneath the snow and surface water, if any). \"Downward\" indicates a vector component which is positive when directed downward (negative upward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "downward_heat_flux_at_ground_level_in_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

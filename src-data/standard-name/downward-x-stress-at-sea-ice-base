@@ -1,0 +1,13 @@
+{
+    "id": "downward-x-stress-at-sea-ice-base",
+    "validation-key": "downward-x-stress-at-sea-ice-base",
+    "ui-label": "Downward X Stress At Sea Ice Base",
+    "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "Pa",
+    "cf-name": "downward_x_stress_at_sea_ice_base",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

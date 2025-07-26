@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content-due-to-residual-mean-advection",
+    "validation-key": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content-due-to-residual-mean-advection",
+    "ui-label": "Tendency Of Integral Wrt Depth Of Sea Water Potential Temperature Expressed As Heat Content Due To Residual Mean Advection",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. The abbreviation \"wrt\" means \"with respect to\".  Depth is the vertical distance below the surface. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea water multiplied by the potential temperature of the sea water in the grid cell and integrated over depth. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The phrase \"residual_mean_advection\" refers to the sum of the model's resolved advective transport plus any parameterized advective transport. Parameterized advective transport includes processes such as parameterized mesoscale and submesoscale transport, as well as any other advectively parameterized transport. When the parameterized advective transport is represented in the model as a skew-diffusion rather than an advection, then the parameterized skew diffusion should be included in this diagnostic, since the convergence of skew-fluxes are identical (in the continuous formulation) to the convergence of advective fluxes.",
+    "canonical_units": "W m-2",
+    "cf-name": "tendency_of_integral_wrt_depth_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_residual_mean_advection",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "remote-sensing-averaging-kernel-of-mole-fraction-of-methane-in-air",
+    "validation-key": "remote-sensing-averaging-kernel-of-mole-fraction-of-methane-in-air",
+    "ui-label": "Remote Sensing Averaging Kernel Of Mole Fraction Of Methane In Air",
+    "description": "Averaging kernels of the methane mole fractions obtained by a remote sensing observation (changes of methane in the retrieved atmosphere relative to the changes of methane in the true atmosphere, Rodgers 2000).",
+    "canonical_units": "1",
+    "cf-name": "remote_sensing_averaging_kernel_of_mole_fraction_of_methane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

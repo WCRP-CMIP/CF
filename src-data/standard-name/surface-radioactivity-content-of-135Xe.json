@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-135Xe",
+    "validation-key": "surface-radioactivity-content-of-135xe",
+    "ui-label": "Surface Radioactivity Content Of 135xe",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Xe\" means the element \"xenon\" and \"135Xe\" is the isotope \"xenon-135\" with a half-life of 3.82e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_135Xe",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

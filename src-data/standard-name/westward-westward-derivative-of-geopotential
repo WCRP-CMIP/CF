@@ -1,0 +1,13 @@
+{
+    "id": "westward-westward-derivative-of-geopotential",
+    "validation-key": "westward-westward-derivative-of-geopotential",
+    "ui-label": "Westward Westward Derivative Of Geopotential",
+    "description": "A quantity with standard name Xward_Yward_derivative_of_geopotential is a second spatial derivative of geopotential, P, in the direction specified by X and Y, i.e., d2P/dXdY. Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. \"Westward\" indicates a vector component which is positive when directed westward (negative eastward). \"component_derivative_of_X\" means derivative of X with respect to distance in the component direction, which may be \"northward\", \"southward\", \"eastward\", \"westward\", \"x\" or \"y\". The last two indicate derivatives along the axes of the grid, in the case where they are not true longitude and latitude.",
+    "canonical_units": "s-2",
+    "cf-name": "westward_westward_derivative_of_geopotential",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

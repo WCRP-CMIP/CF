@@ -1,0 +1,13 @@
+{
+    "id": "specific-enthalpy-of-air",
+    "validation-key": "specific-enthalpy-of-air",
+    "ui-label": "Specific Enthalpy Of Air",
+    "description": "The specific_enthalpy_of_air is the enthalpy of air per unit mass, which can be computed for an air sample as the sum of the enthalpy of the dry air and the enthalpy of the water vapor in that air, divided by the mass of dry air.",
+    "canonical_units": "J kg-1",
+    "cf-name": "specific_enthalpy_of_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

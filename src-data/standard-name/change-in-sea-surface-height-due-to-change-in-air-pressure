@@ -1,0 +1,13 @@
+{
+    "id": "change-in-sea-surface-height-due-to-change-in-air-pressure",
+    "validation-key": "change-in-sea-surface-height-due-to-change-in-air-pressure",
+    "ui-label": "Change In Sea Surface Height Due To Change In Air Pressure",
+    "description": "Sea surface height is a time-varying quantity. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "m",
+    "cf-name": "change_in_sea_surface_height_due_to_change_in_air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

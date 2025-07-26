@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-dimethyl-sulfide",
+    "validation-key": "atmosphere-moles-of-dimethyl-sulfide",
+    "ui-label": "Atmosphere Moles Of Dimethyl Sulfide",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for dimethyl sulfide is (CH3)2S.  Dimethyl sulfide is sometimes referred to as DMS.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_dimethyl_sulfide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "geopotential-height-at-volcanic-ash-cloud-top",
+    "validation-key": "geopotential-height-at-volcanic-ash-cloud-top",
+    "ui-label": "Geopotential Height At Volcanic Ash Cloud Top",
+    "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name \"height\", which is relative to the surface. \"Volcanic_ash\" means the fine-grained products of explosive volcanic eruptions, such as minerals or crystals, older fragmented rock (e.g. andesite), and glass. Particles within a volcanic ash cloud have diameters less than 2 mm. \"Volcanic_ash\" does not include non-volcanic dust.",
+    "canonical_units": "m",
+    "cf-name": "geopotential_height_at_volcanic_ash_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

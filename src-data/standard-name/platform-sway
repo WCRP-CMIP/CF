@@ -1,0 +1,13 @@
+{
+    "id": "platform-sway",
+    "validation-key": "platform-sway",
+    "ui-label": "Platform Sway",
+    "description": "Sway is a displacement along an axis that is perpendicular to both the local vertical axis and the nominal forward motion direction of the platform. Sway is relative to the \"at rest\" position of the platform with respect to the axis of displacement. The \"at rest\" position of the platform may change over time. The standard name platform_sway should be chosen only if the sign convention of the data is unknown. For cases where the sign convention of the sway is known, a standard name of platform_sway_starboard or platform_sway_port should be chosen, as appropriate. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "m",
+    "cf-name": "platform_sway",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

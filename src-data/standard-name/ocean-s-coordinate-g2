@@ -1,0 +1,13 @@
+{
+    "id": "ocean-s-coordinate-g2",
+    "validation-key": "ocean-s-coordinate-g2",
+    "ui-label": "Ocean S Coordinate G2",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "1",
+    "cf-name": "ocean_s_coordinate_g2",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mole-concentration-of-hydroxyl-radical-due-to-chemical-production-from-atomic-singlet-oxygen-and-water-vapor",
+    "validation-key": "tendency-of-atmosphere-mole-concentration-of-hydroxyl-radical-due-to-chemical-production-from-atomic-singlet-oxygen-and-water-vapor",
+    "ui-label": "Tendency Of Atmosphere Mole Concentration Of Hydroxyl Radical Due To Chemical Production From Atomic Singlet Oxygen And Water Vapor",
+    "description": "\"Mole concentration\" means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"tendency_of_X\" means derivative of X with respect to time. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Chemical production\" means the result of all chemical reactions within the medium (here, atmosphere) that produce a certain amount of the particular species. In chemistry, a \"radical\" is a highly reactive, and therefore short lived, species. The chemical formula for the hydroxyl radical is OH. The chemical formula for atomic_singlet_oxygen is O1D. The chemical formula for water vapor is H2O. Here, the production of hydroxyl radical is equal to 2k[O1D][H2O], i.e., 2 hydroxyl radicals are formed from the reaction of O1D with H2O. For models that do not have O1D as a species, the production of hydroxyl radical may be represented differently but the chemical production should take account of the hydroxyl yield.",
+    "canonical_units": "mol m-3 s-1",
+    "cf-name": "tendency_of_atmosphere_mole_concentration_of_hydroxyl_radical_due_to_chemical_production_from_atomic_singlet_oxygen_and_water_vapor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

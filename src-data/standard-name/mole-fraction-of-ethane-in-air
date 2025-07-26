@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-ethane-in-air",
+    "validation-key": "mole-fraction-of-ethane-in-air",
+    "ui-label": "Mole Fraction Of Ethane In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_ethane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

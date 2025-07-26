@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-133Te-in-air",
+    "validation-key": "radioactivity-concentration-of-133te-in-air",
+    "ui-label": "Radioactivity Concentration Of 133te In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Te\" means the element \"tellurium\" and \"133Te\" is the isotope \"tellurium-133\" with a half-life of 8.68e-03 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_133Te_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

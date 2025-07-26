@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-per-unit-area",
+    "validation-key": "tendency-of-atmosphere-mass-per-unit-area",
+    "ui-label": "Tendency Of Atmosphere Mass Per Unit Area",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"X_area\" means the horizontal area occupied by X within the grid cell.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_per_unit_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

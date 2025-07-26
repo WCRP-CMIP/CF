@@ -1,0 +1,13 @@
+{
+    "id": "mass-content-of-cloud-liquid-water-in-atmosphere-layer",
+    "validation-key": "mass-content-of-cloud-liquid-water-in-atmosphere-layer",
+    "ui-label": "Mass Content Of Cloud Liquid Water In Atmosphere Layer",
+    "description": "The \"content_of_X_in_atmosphere_layer\" refers to the vertical integral between two specified levels in the atmosphere. \"Content\" indicates a quantity per unit area. \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well.",
+    "canonical_units": "kg m-2",
+    "cf-name": "mass_content_of_cloud_liquid_water_in_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

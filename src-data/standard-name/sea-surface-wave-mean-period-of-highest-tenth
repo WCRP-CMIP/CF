@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-mean-period-of-highest-tenth",
+    "validation-key": "sea-surface-wave-mean-period-of-highest-tenth",
+    "ui-label": "Sea Surface Wave Mean Period Of Highest Tenth",
+    "description": "Wave mean period is the mean period measured over the observation duration. The quantity with standard name sea_surface_wave_mean_period_of_highest_tenth is the mean period of the highest one-tenth of waves during the observation duration. A period is an interval of time, or the time-period of an oscillation. Wave period is the interval of time between repeated features on the waveform such as crests, troughs or upward passes through the mean level.",
+    "canonical_units": "s",
+    "cf-name": "sea_surface_wave_mean_period_of_highest_tenth",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

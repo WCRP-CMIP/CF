@@ -1,0 +1,12 @@
+{
+    "id": "snow",
+    "validation-key": "snow",
+    "ui-label": "Snow",
+    "description": null,
+    "cf-name": "snow",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

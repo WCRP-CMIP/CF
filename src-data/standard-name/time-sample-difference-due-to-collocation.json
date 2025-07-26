@@ -1,0 +1,13 @@
+{
+    "id": "time-sample-difference-due-to-collocation",
+    "validation-key": "time-sample-difference-due-to-collocation",
+    "ui-label": "Time Sample Difference Due To Collocation",
+    "description": "time_sample_difference_due_to_collocation is the difference in time between two events that are collocated. Two events are deemed to be collocated based on some set of spatial, temporal, and viewing geometry criteria.",
+    "canonical_units": "s",
+    "cf-name": "time_sample_difference_due_to_collocation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

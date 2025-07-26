@@ -1,0 +1,13 @@
+{
+    "id": "downward-x-stress-correction-at-sea-water-surface",
+    "validation-key": "downward-x-stress-correction-at-sea-water-surface",
+    "ui-label": "Downward X Stress Correction At Sea Water Surface",
+    "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"x\" indicates a vector component along the grid x-axis, positive with increasing x. A downward x stress is a downward flux of momentum towards the positive direction of the model's x-axis. A positive correction is downward i.e. added to the ocean. The phrase \"sea water surface\" means the upper boundary of the liquid portion of an ocean or sea, including the boundary to floating ice if present.",
+    "canonical_units": "Pa",
+    "cf-name": "downward_x_stress_correction_at_sea_water_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

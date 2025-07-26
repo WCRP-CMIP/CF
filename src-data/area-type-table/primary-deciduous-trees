@@ -1,0 +1,12 @@
+{
+    "id": "primary-deciduous-trees",
+    "validation-key": "primary-deciduous-trees",
+    "ui-label": "Primary Deciduous Trees",
+    "description": "A primary forest is a naturally regenerated forest of native species, where there are no clearly visible indications of human activities and the ecological processes are not significantly disturbed. Reference: 'Global Forest Resources Assessment: Terms and Definitions', Forestry Department of Food and Agriculture Organization (FAO) of the United Nations, Rome 2010, www.fao.org/forestry/14241-0d7b74f45b0d2cfef31599cc17e4c28cd.pdf. Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall.",
+    "cf-name": "primary_deciduous_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

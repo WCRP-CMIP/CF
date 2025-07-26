@@ -1,0 +1,13 @@
+{
+    "id": "tropopause-air-pressure",
+    "validation-key": "tropopause-air-pressure",
+    "ui-label": "Tropopause Air Pressure",
+    "description": "Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa",
+    "cf-name": "tropopause_air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

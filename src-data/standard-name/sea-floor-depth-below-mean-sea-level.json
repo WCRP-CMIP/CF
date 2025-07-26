@@ -1,0 +1,13 @@
+{
+    "id": "sea-floor-depth-below-mean-sea-level",
+    "validation-key": "sea-floor-depth-below-mean-sea-level",
+    "ui-label": "Sea Floor Depth Below Mean Sea Level",
+    "description": "\"Depth_below_X\" means the vertical distance below the named surface X. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals.",
+    "canonical_units": "m",
+    "cf-name": "sea_floor_depth_below_mean_sea_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

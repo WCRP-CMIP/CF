@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-swell-wave-period",
+    "validation-key": "sea-surface-swell-wave-period",
+    "ui-label": "Sea Surface Swell Wave Period",
+    "description": "A period is an interval of time, or the time-period of an oscillation. Swell waves are waves on the ocean surface.",
+    "canonical_units": "s",
+    "cf-name": "sea_surface_swell_wave_period",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ocean-volume-y-transport",
+    "validation-key": "ocean-volume-y-transport",
+    "ui-label": "Ocean Volume Y Transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
+    "canonical_units": "m3 s-1",
+    "cf-name": "ocean_volume_y_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

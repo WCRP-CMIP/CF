@@ -1,0 +1,13 @@
+{
+    "id": "moles-of-nitrate-per-unit-mass-in-sea-water",
+    "validation-key": "moles-of-nitrate-per-unit-mass-in-sea-water",
+    "ui-label": "Moles Of Nitrate Per Unit Mass In Sea Water",
+    "description": "moles_of_X_per_unit_mass_inY is also called \"molality\" of X in Y, where X is a material constituent of Y.",
+    "canonical_units": "mol kg-1",
+    "cf-name": "moles_of_nitrate_per_unit_mass_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

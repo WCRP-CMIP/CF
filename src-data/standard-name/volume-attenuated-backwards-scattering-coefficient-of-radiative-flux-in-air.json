@@ -1,0 +1,13 @@
+{
+    "id": "volume-attenuated-backwards-scattering-coefficient-of-radiative-flux-in-air",
+    "validation-key": "volume-attenuated-backwards-scattering-coefficient-of-radiative-flux-in-air",
+    "ui-label": "Volume Attenuated Backwards Scattering Coefficient Of Radiative Flux In Air",
+    "description": "Attenuation is the sum of absorption and scattering. Attenuation is sometimes called \"extinction\".  The attenuated backwards scattering function includes the effects of two-way attenuation by the medium between a radar source and receiver. The volume scattering function is the fraction of incident radiative flux scattered into unit solid angle per unit path length.  Backwards scattering refers to the sum of scattering into all backward angles i.e. scattering_angle exceeding pi/2 radians. A scattering_angle should not be specified with this quantity.",
+    "canonical_units": "m-1 sr-1",
+    "cf-name": "volume_attenuated_backwards_scattering_coefficient_of_radiative_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

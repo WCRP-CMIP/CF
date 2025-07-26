@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-sea-ice-thickness-due-to-thermodynamics",
+    "validation-key": "tendency-of-sea-ice-thickness-due-to-thermodynamics",
+    "ui-label": "Tendency Of Sea Ice Thickness Due To Thermodynamics",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Thickness\" means the vertical extent of a layer. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms named by omitting the phrase. \"Sea ice thermodynamics\" refers to the addition or subtraction of mass due to surface and basal fluxes.",
+    "canonical_units": "m s-1",
+    "cf-name": "tendency_of_sea_ice_thickness_due_to_thermodynamics",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

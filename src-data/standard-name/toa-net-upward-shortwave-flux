@@ -1,0 +1,13 @@
+{
+    "id": "toa-net-upward-shortwave-flux",
+    "validation-key": "toa-net-upward-shortwave-flux",
+    "ui-label": "Toa Net Upward Shortwave Flux",
+    "description": "\"shortwave\" means shortwave radiation. \"toa\" means top of atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Net upward radiation is the difference between radiation from below (upwelling) and radiation from above (downwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_net_upward_shortwave_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

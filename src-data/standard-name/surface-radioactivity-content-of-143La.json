@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-143La",
+    "validation-key": "surface-radioactivity-content-of-143la",
+    "ui-label": "Surface Radioactivity Content Of 143la",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"La\" means the element \"lanthanum\" and \"143La\" is the isotope \"lanthanum-143\" with a half-life of 9.72e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_143La",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

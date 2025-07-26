@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-transport-across-line",
+    "validation-key": "sea-ice-transport-across-line",
+    "ui-label": "Sea Ice Transport Across Line",
+    "description": "Transport across_line means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. Positive and negative numbers refer to total northward/eastward and southward/westward transports, respectively.",
+    "canonical_units": "kg s-1",
+    "cf-name": "sea_ice_transport_across_line",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "bare-ground",
+    "validation-key": "bare-ground",
+    "ui-label": "Bare Ground",
+    "description": null,
+    "cf-name": "bare_ground",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "southern-hemisphere",
+    "validation-key": "southern-hemisphere",
+    "ui-label": "Southern Hemisphere",
+    "description": "",
+    "cf-name": "southern_hemisphere",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

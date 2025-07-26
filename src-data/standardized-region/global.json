@@ -1,0 +1,12 @@
+{
+    "id": "global",
+    "validation-key": "global",
+    "ui-label": "Global",
+    "description": "",
+    "cf-name": "global",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

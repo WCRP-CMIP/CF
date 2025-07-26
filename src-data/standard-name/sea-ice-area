@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-area",
+    "validation-key": "sea-ice-area",
+    "ui-label": "Sea Ice Area",
+    "description": "\"X_area\" means the horizontal area occupied by X within the grid cell. The extent of an individual grid cell is defined by the horizontal coordinates and any associated coordinate bounds or by a string valued auxiliary coordinate variable with a standard name of \"region\". \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "m2",
+    "cf-name": "sea_ice_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

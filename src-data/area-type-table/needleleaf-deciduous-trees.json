@@ -1,0 +1,12 @@
+{
+    "id": "needleleaf-deciduous-trees",
+    "validation-key": "needleleaf-deciduous-trees",
+    "ui-label": "Needleleaf Deciduous Trees",
+    "description": "Needleleaf trees, often referred to as conifers, have long, thin needle-shaped leaves that are well adapted to retaining water. Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall.",
+    "cf-name": "needleleaf_deciduous_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

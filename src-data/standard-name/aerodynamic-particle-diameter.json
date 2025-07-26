@@ -1,0 +1,13 @@
+{
+    "id": "aerodynamic-particle-diameter",
+    "validation-key": "aerodynamic-particle-diameter",
+    "ui-label": "Aerodynamic Particle Diameter",
+    "description": "The diameter of a spherical particle with density 1000 kg m-3 having the same aerodynamic properties as the particles in question.",
+    "canonical_units": "m",
+    "cf-name": "aerodynamic_particle_diameter",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

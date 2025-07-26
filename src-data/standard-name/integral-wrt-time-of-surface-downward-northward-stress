@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-time-of-surface-downward-northward-stress",
+    "validation-key": "integral-wrt-time-of-surface-downward-northward-stress",
+    "ui-label": "Integral Wrt Time Of Surface Downward Northward Stress",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The abbreviation \"wrt\" means \"with respect to\". The surface called \"surface\" means the lower boundary of the atmosphere. \"Surface stress\" means the shear stress (force per unit area) exerted by the wind at the surface. A downward stress is a downward flux of momentum. Over large bodies of water, wind stress can drive near-surface currents. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Downward northward\" indicates the ZY component of a tensor. A downward northward stress is a downward flux of northward momentum, which accelerates the lower medium northward and the upper medium southward.",
+    "canonical_units": "Pa s",
+    "cf-name": "integral_wrt_time_of_surface_downward_northward_stress",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

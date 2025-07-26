@@ -1,0 +1,13 @@
+{
+    "id": "aggregate-quality-flag",
+    "validation-key": "aggregate-quality-flag",
+    "ui-label": "Aggregate Quality Flag",
+    "description": "This flag is an algorithmic combination of the results of all relevant quality tests run for the related ancillary parent data variable. The linkage between the data variable and this variable is achieved using the ancillary_variables attribute. The aggregate quality flag provides a summary of all quality tests performed on the data variable (both automated and manual) whether present in the dataset as independent ancillary variables to the parent data variable or not.",
+    "canonical_units": "1",
+    "cf-name": "aggregate_quality_flag",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

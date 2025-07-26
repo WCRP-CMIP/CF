@@ -1,0 +1,13 @@
+{
+    "id": "x-component-of-unit-vector-away-from-instrument",
+    "validation-key": "x-component-of-unit-vector-away-from-instrument",
+    "ui-label": "X Component Of Unit Vector Away From Instrument",
+    "description": "X-component of the unit vector describing the direction from the sensor to a point of interest, relative to the sensor. \"x\" indicates a vector component along the grid x-axis, positive with increasing x.",
+    "canonical_units": "1",
+    "cf-name": "x_component_of_unit_vector_away_from_instrument",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

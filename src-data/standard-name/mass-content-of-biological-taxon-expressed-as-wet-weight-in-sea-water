@@ -1,0 +1,13 @@
+{
+    "id": "mass-content-of-biological-taxon-expressed-as-wet-weight-in-sea-water",
+    "validation-key": "mass-content-of-biological-taxon-expressed-as-wet-weight-in-sea-water",
+    "ui-label": "Mass Content Of Biological Taxon Expressed As Wet Weight In Sea Water",
+    "description": "Total biomass or biomass per age group in years (standard birth date January 1) of various fish species as identified by their taxonomic name (e.g. Sardina pilchardus) in gram per m2. \"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. There must be an auxiliary coordinate variable with standard name biological_taxon_name to identify the taxon in human readable format and optionally an auxiliary coordinate variable with standard name biological_taxon_identifier to provide a machine-readable identifier. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables.",
+    "canonical_units": "g m-2",
+    "cf-name": "mass_content_of_biological_taxon_expressed_as_wet_weight_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

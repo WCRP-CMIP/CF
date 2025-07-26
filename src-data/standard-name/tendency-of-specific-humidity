@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-specific-humidity",
+    "validation-key": "tendency-of-specific-humidity",
+    "ui-label": "Tendency Of Specific Humidity",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air.",
+    "canonical_units": "s-1",
+    "cf-name": "tendency_of_specific_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

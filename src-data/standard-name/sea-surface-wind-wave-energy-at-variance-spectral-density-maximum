@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wind-wave-energy-at-variance-spectral-density-maximum",
+    "validation-key": "sea-surface-wind-wave-energy-at-variance-spectral-density-maximum",
+    "ui-label": "Sea Surface Wind Wave Energy At Variance Spectral Density Maximum",
+    "description": "The quantity with standard name sea_surface_wind_wave_energy_at_variance_spectral_density_maximum is the energy of the most energetic waves within the wind wave component of a sea. Wind waves are waves on the ocean surface and are the high frequency portion of a bimodal wave frequency spectrum. The phrase \"wave_energy_at_variance_spectral_density_maximum\", sometimes called peak wave energy, describes the maximum value of the wave_variance_spectral_density within a given sub-domain of the wave spectrum.",
+    "canonical_units": "m2 s",
+    "cf-name": "sea_surface_wind_wave_energy_at_variance_spectral_density_maximum",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

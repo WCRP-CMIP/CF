@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-period-of-highest-wave",
+    "validation-key": "sea-surface-wave-period-of-highest-wave",
+    "ui-label": "Sea Surface Wave Period Of Highest Wave",
+    "description": "Wave period of the highest wave is the period determined from wave crests corresponding to the greatest vertical distance above mean level during the observation period. A period is an interval of time, or the time-period of an oscillation. Wave period is the interval of time between repeated features on the waveform such as crests, troughs or upward passes through the mean level.",
+    "canonical_units": "s",
+    "cf-name": "sea_surface_wave_period_of_highest_wave",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

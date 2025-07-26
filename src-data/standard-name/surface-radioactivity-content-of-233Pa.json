@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-233Pa",
+    "validation-key": "surface-radioactivity-content-of-233pa",
+    "ui-label": "Surface Radioactivity Content Of 233pa",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pa\" means the element \"protactinium\" and \"233Pa\" is the isotope \"protactinium-233\" with a half-life of 2.70e+01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_233Pa",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

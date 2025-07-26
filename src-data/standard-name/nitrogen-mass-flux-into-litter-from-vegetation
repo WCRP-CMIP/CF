@@ -1,0 +1,13 @@
+{
+    "id": "nitrogen-mass-flux-into-litter-from-vegetation",
+    "validation-key": "nitrogen-mass-flux-into-litter-from-vegetation",
+    "ui-label": "Nitrogen Mass Flux Into Litter From Vegetation",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Litter\" is dead plant material in or above the soil. \"Vegetation\" means any living plants e.g. trees, shrubs, grass.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "nitrogen_mass_flux_into_litter_from_vegetation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

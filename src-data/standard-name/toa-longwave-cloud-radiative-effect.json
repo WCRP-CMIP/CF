@@ -1,0 +1,13 @@
+{
+    "id": "toa-longwave-cloud-radiative-effect",
+    "validation-key": "toa-longwave-cloud-radiative-effect",
+    "ui-label": "Toa Longwave Cloud Radiative Effect",
+    "description": "The abbreviation \"toa\" means top of atmosphere. The term \"longwave\" means longwave radiation. Cloud radiative effect is also commonly known as \"cloud radiative forcing\". It is the difference in radiative flux resulting from the presence of clouds. A positive radiative forcing or radiative effect is equivalent to a downward radiative flux and contributes to a warming of the earth system. The quantity with standard name toa_longwave_cloud_radiative_effect is the difference between those with standard names toa_outgoing_longwave_flux_assuming_clear_sky and toa_outgoing_longwave_flux.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_longwave_cloud_radiative_effect",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

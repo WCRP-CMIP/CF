@@ -1,0 +1,13 @@
+{
+    "id": "soil-water-ph",
+    "validation-key": "soil-water-ph",
+    "ui-label": "Soil Water Ph",
+    "description": "soil_water_ph is the measure of acidity of soil moisture, defined as the negative logarithm of the concentration of dissolved hydrogen ions in soil water.",
+    "canonical_units": "1",
+    "cf-name": "soil_water_ph",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

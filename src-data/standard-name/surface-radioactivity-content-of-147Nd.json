@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-147Nd",
+    "validation-key": "surface-radioactivity-content-of-147nd",
+    "ui-label": "Surface Radioactivity Content Of 147nd",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Nd\" means the element \"neodymium\" and \"147Nd\" is the isotope \"neodymium-147\" with a half-life of 1.10e+01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_147Nd",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

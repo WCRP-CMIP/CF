@@ -1,0 +1,13 @@
+{
+    "id": "number-of-observations",
+    "validation-key": "number-of-observations",
+    "ui-label": "Number Of Observations",
+    "description": "A variable with the standard name of number_of_observations contains the number of discrete observations or measurements from which the values of  another data variable have been derived. The linkage between the data variable and the variable with a standard_name of number_of_observations is achieved using the ancillary_variables attribute.",
+    "canonical_units": "1",
+    "cf-name": "number_of_observations",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

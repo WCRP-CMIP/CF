@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-water-vapor-flux-in-air",
+    "validation-key": "surface-upward-water-vapor-flux-in-air",
+    "ui-label": "Surface Upward Water Vapor Flux In Air",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere.  \"Upward\" indicates a vector component which is positive when directed upward (negative downward).  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "surface_upward_water_vapor_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

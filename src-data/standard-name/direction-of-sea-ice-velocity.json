@@ -1,0 +1,13 @@
+{
+    "id": "direction-of-sea-ice-velocity",
+    "validation-key": "direction-of-sea-ice-velocity",
+    "ui-label": "Direction Of Sea Ice Velocity",
+    "description": "The phrase \"direction_of_X\" means direction of a vector, a bearing. A velocity is a vector quantity. Sea ice velocity is defined as a two-dimensional vector, with no vertical component. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "degree",
+    "cf-name": "direction_of_sea_ice_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

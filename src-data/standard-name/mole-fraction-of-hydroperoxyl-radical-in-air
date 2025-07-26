@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-hydroperoxyl-radical-in-air",
+    "validation-key": "mole-fraction-of-hydroperoxyl-radical-in-air",
+    "ui-label": "Mole Fraction Of Hydroperoxyl Radical In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of hydroperoxyl radical is HO2.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_hydroperoxyl_radical_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ratio-of-volume-extinction-coefficient-to-volume-backwards-scattering-coefficient-by-ranging-instrument-in-air-due-to-ambient-aerosol-particles",
+    "validation-key": "ratio-of-volume-extinction-coefficient-to-volume-backwards-scattering-coefficient-by-ranging-instrument-in-air-due-to-ambient-aerosol-particles",
+    "ui-label": "Ratio Of Volume Extinction Coefficient To Volume Backwards Scattering Coefficient By Ranging Instrument In Air Due To Ambient Aerosol Particles",
+    "description": "The ratio of volume extinction coefficient to volume backwards scattering coefficient by ranging instrument in air due to ambient aerosol particles (often called \"lidar ratio\") is the ratio of the \"volume extinction coefficient\" and the \"volume backwards scattering coefficient of radiative flux by ranging instrument in air due to ambient aerosol particles\". The ratio is assumed to be related to the same wavelength of incident radiation. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "sr",
+    "cf-name": "ratio_of_volume_extinction_coefficient_to_volume_backwards_scattering_coefficient_by_ranging_instrument_in_air_due_to_ambient_aerosol_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

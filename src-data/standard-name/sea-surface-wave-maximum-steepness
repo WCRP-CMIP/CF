@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-maximum-steepness",
+    "validation-key": "sea-surface-wave-maximum-steepness",
+    "ui-label": "Sea Surface Wave Maximum Steepness",
+    "description": "Wave steepness is defined as the ratio of the wave height divided by the wavelength. Maximum wave steepness is the maximum value measured during the observation period. Wave height is defined as the vertical distance from a wave trough to the following wave crest. The wavelength is the horizontal distance between repeated features on the waveform such as crests, troughs or upward passes through the mean level.",
+    "canonical_units": "1",
+    "cf-name": "sea_surface_wave_maximum_steepness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

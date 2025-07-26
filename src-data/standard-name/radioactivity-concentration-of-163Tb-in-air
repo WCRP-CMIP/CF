@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-163Tb-in-air",
+    "validation-key": "radioactivity-concentration-of-163tb-in-air",
+    "ui-label": "Radioactivity Concentration Of 163tb In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Tb\" means the element \"terbium\" and \"163Tb\" is the isotope \"terbium-163\" with a half-life of 1.36e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_163Tb_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

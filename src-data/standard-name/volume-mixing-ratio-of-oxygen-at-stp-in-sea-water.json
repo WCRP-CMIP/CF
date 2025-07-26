@@ -1,0 +1,13 @@
+{
+    "id": "volume-mixing-ratio-of-oxygen-at-stp-in-sea-water",
+    "validation-key": "volume-mixing-ratio-of-oxygen-at-stp-in-sea-water",
+    "ui-label": "Volume Mixing Ratio Of Oxygen At Stp In Sea Water",
+    "description": "\"ratio_of_X_to_Y\" means X/Y. \"stp\" means standard temperature (0 degC) and pressure (101325 Pa).",
+    "canonical_units": "1",
+    "cf-name": "volume_mixing_ratio_of_oxygen_at_stp_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

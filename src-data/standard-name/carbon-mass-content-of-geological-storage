@@ -1,0 +1,13 @@
+{
+    "id": "carbon-mass-content-of-geological-storage",
+    "validation-key": "carbon-mass-content-of-geological-storage",
+    "ui-label": "Carbon Mass Content Of Geological Storage",
+    "description": "The carbon mass per unit area that has been intentionally removed from the environment by e.g., biomass energy with carbon capture and storage (BECCS), and stored indefinitely long-term (i.e., geologic storage). \"Content\" indicates a quantity per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "carbon_mass_content_of_geological_storage",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

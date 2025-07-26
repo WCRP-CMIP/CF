@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-hcfc141b",
+    "validation-key": "atmosphere-mass-content-of-hcfc141b",
+    "ui-label": "Atmosphere Mass Content Of Hcfc141b",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The chemical formula for HCFC141b is CH3CCl2F. The IUPAC name for HCFC141b is 1,1-dichloro-1-fluoroethane.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_hcfc141b",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

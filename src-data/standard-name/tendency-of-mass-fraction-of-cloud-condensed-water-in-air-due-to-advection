@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-mass-fraction-of-cloud-condensed-water-in-air-due-to-advection",
+    "validation-key": "tendency-of-mass-fraction-of-cloud-condensed-water-in-air-due-to-advection",
+    "ui-label": "Tendency Of Mass Fraction Of Cloud Condensed Water In Air Due To Advection",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. \"condensed_water\" means liquid and ice. Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).",
+    "canonical_units": "s-1",
+    "cf-name": "tendency_of_mass_fraction_of_cloud_condensed_water_in_air_due_to_advection",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

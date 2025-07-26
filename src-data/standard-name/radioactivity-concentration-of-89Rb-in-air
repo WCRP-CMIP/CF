@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-89Rb-in-air",
+    "validation-key": "radioactivity-concentration-of-89rb-in-air",
+    "ui-label": "Radioactivity Concentration Of 89rb In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Rb\" means the element \"rubidium\" and \"89Rb\" is the isotope \"rubidium-89\" with a half-life of 1.06e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_89Rb_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "transpiration-flux",
+    "validation-key": "transpiration-flux",
+    "ui-label": "Transpiration Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "transpiration_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

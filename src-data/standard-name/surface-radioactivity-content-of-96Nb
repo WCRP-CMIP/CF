@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-96Nb",
+    "validation-key": "surface-radioactivity-content-of-96nb",
+    "ui-label": "Surface Radioactivity Content Of 96nb",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Nb\" means the element \"niobium\" and \"96Nb\" is the isotope \"niobium-96\" with a half-life of 9.75e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_96Nb",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

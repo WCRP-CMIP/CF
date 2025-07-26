@@ -1,0 +1,13 @@
+{
+    "id": "root-mass-content-of-nitrogen",
+    "validation-key": "root-mass-content-of-nitrogen",
+    "ui-label": "Root Mass Content Of Nitrogen",
+    "description": "\"Content\" indicates a quantity per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "root_mass_content_of_nitrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

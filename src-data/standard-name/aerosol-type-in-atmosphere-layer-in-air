@@ -1,0 +1,13 @@
+{
+    "id": "aerosol-type-in-atmosphere-layer-in-air",
+    "validation-key": "aerosol-type-in-atmosphere-layer-in-air",
+    "ui-label": "Aerosol Type In Atmosphere Layer In Air",
+    "description": "A variable with the standard_name of aerosol_type_in_atmosphere_layer_in_air contains either strings which indicate the type of the aerosol determined following a certain aerosol typing schema, or flags which can be translated to strings using flag_values and flag_meanings attributes. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s).",
+    "canonical_units": "1",
+    "cf-name": "aerosol_type_in_atmosphere_layer_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tropopause-altitude",
+    "validation-key": "tropopause-altitude",
+    "ui-label": "Tropopause Altitude",
+    "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "tropopause_altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "stratiform-rainfall-flux",
+    "validation-key": "stratiform-rainfall-flux",
+    "ui-label": "Stratiform Rainfall Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "stratiform_rainfall_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

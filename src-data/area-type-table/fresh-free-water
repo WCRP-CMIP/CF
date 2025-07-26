@@ -1,0 +1,12 @@
+{
+    "id": "fresh-free-water",
+    "validation-key": "fresh-free-water",
+    "ui-label": "Fresh Free Water",
+    "description": "An area type of \"fresh_free_water\" means a free interface between freshwater and the atmosphere without vegetation or other obstructions.",
+    "cf-name": "fresh_free_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

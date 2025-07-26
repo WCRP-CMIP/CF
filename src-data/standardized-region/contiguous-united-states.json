@@ -1,0 +1,12 @@
+{
+    "id": "contiguous-united-states",
+    "validation-key": "contiguous-united-states",
+    "ui-label": "Contiguous United States",
+    "description": "",
+    "cf-name": "contiguous_united_states",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

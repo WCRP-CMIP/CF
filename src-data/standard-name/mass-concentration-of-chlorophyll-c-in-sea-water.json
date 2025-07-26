@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-chlorophyll-c-in-sea-water",
+    "validation-key": "mass-concentration-of-chlorophyll-c-in-sea-water",
+    "ui-label": "Mass Concentration Of Chlorophyll C In Sea Water",
+    "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Chlorophylls are the green pigments found in most plants, algae and cyanobacteria; their presence is essential for photosynthesis to take place. There are several different forms of chlorophyll that occur naturally. All contain a chlorin ring (chemical formula C20H16N4) which gives the green pigment and a side chain whose structure varies. The naturally occurring forms of chlorophyll contain between 35 and 55 carbon atoms. Chlorophyll-c means chlorophyll c1+c2+c3. The chemical formula of chlorophyll c1 is C35H30MgN4O5, and chlorophyll c2 is C35H28MgN4O5. The chemical formula of chlorophyll c3 is C36H44MgN4O7.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_chlorophyll_c_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

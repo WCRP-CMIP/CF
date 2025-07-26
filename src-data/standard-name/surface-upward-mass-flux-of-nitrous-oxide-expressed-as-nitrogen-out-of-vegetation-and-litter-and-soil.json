@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-mass-flux-of-nitrous-oxide-expressed-as-nitrogen-out-of-vegetation-and-litter-and-soil",
+    "validation-key": "surface-upward-mass-flux-of-nitrous-oxide-expressed-as-nitrogen-out-of-vegetation-and-litter-and-soil",
+    "ui-label": "Surface Upward Mass Flux Of Nitrous Oxide Expressed As Nitrogen Out Of Vegetation And Litter And Soil",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The chemical formula for nitrous oxide is N2O. \"Vegetation\" means any living plants e.g. trees, shrubs, grass. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "surface_upward_mass_flux_of_nitrous_oxide_expressed_as_nitrogen_out_of_vegetation_and_litter_and_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

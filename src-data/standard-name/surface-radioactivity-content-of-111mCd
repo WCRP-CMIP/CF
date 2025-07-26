@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-111mCd",
+    "validation-key": "surface-radioactivity-content-of-111mcd",
+    "ui-label": "Surface Radioactivity Content Of 111mcd",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cd\" means the element \"cadmium\" and \"111mCd\" is the metastable state of the isotope \"cadmium-111\" with a half-life of 3.39e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_111mCd",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

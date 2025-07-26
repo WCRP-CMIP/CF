@@ -1,0 +1,13 @@
+{
+    "id": "downward-air-velocity",
+    "validation-key": "downward-air-velocity",
+    "ui-label": "Downward Air Velocity",
+    "description": "A velocity is a vector quantity.\"Downward\" indicates a vector component which is positive when directed downward (negative upward). Downward air velocity is the vertical component of the 3D air velocity vector. The standard name upward_air_velocity may be used for a vector component with the opposite sign convention.",
+    "canonical_units": "m s-1",
+    "cf-name": "downward_air_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

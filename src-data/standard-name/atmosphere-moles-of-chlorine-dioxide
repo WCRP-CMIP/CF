@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-chlorine-dioxide",
+    "validation-key": "atmosphere-moles-of-chlorine-dioxide",
+    "ui-label": "Atmosphere Moles Of Chlorine Dioxide",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for chlorine dioxide is OClO.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_chlorine_dioxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

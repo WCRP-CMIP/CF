@@ -1,0 +1,13 @@
+{
+    "id": "barotropic-sea-water-x-velocity",
+    "validation-key": "barotropic-sea-water-x-velocity",
+    "ui-label": "Barotropic Sea Water X Velocity",
+    "description": "A velocity is a vector quantity.  \"x\" indicates a vector component along the grid x-axis, positive with increasing x.",
+    "canonical_units": "m s-1",
+    "cf-name": "barotropic_sea_water_x_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

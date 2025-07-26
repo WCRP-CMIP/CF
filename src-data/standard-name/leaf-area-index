@@ -1,0 +1,13 @@
+{
+    "id": "leaf-area-index",
+    "validation-key": "leaf-area-index",
+    "ui-label": "Leaf Area Index",
+    "description": "\"X_area\" means the horizontal area occupied by X within the grid cell.",
+    "canonical_units": "1",
+    "cf-name": "leaf_area_index",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

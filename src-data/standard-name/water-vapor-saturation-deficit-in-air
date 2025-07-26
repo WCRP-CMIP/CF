@@ -1,0 +1,13 @@
+{
+    "id": "water-vapor-saturation-deficit-in-air",
+    "validation-key": "water-vapor-saturation-deficit-in-air",
+    "ui-label": "Water Vapor Saturation Deficit In Air",
+    "description": "\"Water vapor saturation deficit\" is the difference between the saturation water vapor partial pressure and the actual water vapor partial pressure in air.",
+    "canonical_units": "Pa",
+    "cf-name": "water_vapor_saturation_deficit_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

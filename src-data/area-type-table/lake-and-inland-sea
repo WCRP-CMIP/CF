@@ -1,0 +1,12 @@
+{
+    "id": "lake-and-inland-sea",
+    "validation-key": "lake-and-inland-sea",
+    "ui-label": "Lake And Inland Sea",
+    "description": "The area type lake_and_inland_sea means a quasi-permanent body of water surrounded by land, which may include certain ponds and reservoirs, but excludes rivers and streams which by gravity convey water into and out of lakes or inland seas or into the ocean.",
+    "cf-name": "lake_and_inland_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

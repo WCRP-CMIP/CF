@@ -1,0 +1,13 @@
+{
+    "id": "eastward-sea-water-velocity-due-to-parameterized-mesoscale-eddies",
+    "validation-key": "eastward-sea-water-velocity-due-to-parameterized-mesoscale-eddies",
+    "ui-label": "Eastward Sea Water Velocity Due To Parameterized Mesoscale Eddies",
+    "description": "\"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Parameterized mesoscale eddies occur on a spatial scale of many tens of kilometres and an evolutionary time of weeks. Reference: James C. McWilliams 2016, Submesoscale currents in the ocean, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, volume 472, issue 2189. DOI: 10.1098/rspa.2016.0117. Parameterized mesoscale eddies are represented in ocean models using schemes such as the Gent-McWilliams scheme.",
+    "canonical_units": "m s-1",
+    "cf-name": "eastward_sea_water_velocity_due_to_parameterized_mesoscale_eddies",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

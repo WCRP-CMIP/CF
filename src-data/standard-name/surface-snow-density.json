@@ -1,0 +1,13 @@
+{
+    "id": "surface-snow-density",
+    "validation-key": "surface-snow-density",
+    "ui-label": "Surface Snow Density",
+    "description": "Snow density is the density of the snow cover. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants. The density of a substance is its mass per unit volume.",
+    "canonical_units": "kg m-3",
+    "cf-name": "surface_snow_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

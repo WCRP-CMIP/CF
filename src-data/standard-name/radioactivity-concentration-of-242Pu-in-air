@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-242Pu-in-air",
+    "validation-key": "radioactivity-concentration-of-242pu-in-air",
+    "ui-label": "Radioactivity Concentration Of 242pu In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pu\" means the element \"plutonium\" and \"242Pu\" is the isotope \"plutonium-242\" with a half-life of 1.38e+08 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_242Pu_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

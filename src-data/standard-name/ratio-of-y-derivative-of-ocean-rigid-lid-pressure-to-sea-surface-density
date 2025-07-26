@@ -1,0 +1,13 @@
+{
+    "id": "ratio-of-y-derivative-of-ocean-rigid-lid-pressure-to-sea-surface-density",
+    "validation-key": "ratio-of-y-derivative-of-ocean-rigid-lid-pressure-to-sea-surface-density",
+    "ui-label": "Ratio Of Y Derivative Of Ocean Rigid Lid Pressure To Sea Surface Density",
+    "description": "Sea surface density is the density of sea water near the surface (including the part under sea-ice, if any). \"component_derivative_of_X\" means derivative of X with respect to distance in the component direction, which may be northward, southward, eastward, westward, x or y. The last two indicate derivatives along the axes of the grid, whether or not they are true longitude and latitude.  \"ratio_of_X_to_Y\" means X/Y.  \"Ocean rigid lid pressure\" means the pressure at the surface of an ocean model assuming that it is bounded above by a rigid lid.",
+    "canonical_units": "m s-2",
+    "cf-name": "ratio_of_y_derivative_of_ocean_rigid_lid_pressure_to_sea_surface_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

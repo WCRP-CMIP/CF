@@ -1,0 +1,12 @@
+{
+    "id": "gulf-of-alaska",
+    "validation-key": "gulf-of-alaska",
+    "ui-label": "Gulf Of Alaska",
+    "description": "",
+    "cf-name": "gulf_of_alaska",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

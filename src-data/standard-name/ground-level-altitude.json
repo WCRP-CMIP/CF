@@ -1,0 +1,13 @@
+{
+    "id": "ground-level-altitude",
+    "validation-key": "ground-level-altitude",
+    "ui-label": "Ground Level Altitude",
+    "description": "The ground_level_altitude is the geometric height of the upper boundary of the solid Earth above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "ground_level_altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

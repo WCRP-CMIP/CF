@@ -1,0 +1,13 @@
+{
+    "id": "nfdrs-1-hour-fuel-moisture",
+    "validation-key": "nfdrs-1-hour-fuel-moisture",
+    "ui-label": "Nfdrs 1 Hour Fuel Moisture",
+    "description": "1 hour fuel moisture (FM1) represents the modeled moisture content of dead fuels consisting of herbaceous plants or roundwood less than one-quarter inch in diameter. It also includes the uppermost layer of litter on the forest floor. The 1-hour timelag fuel moisture is a function of length of day (as influenced by latitude and calendar date), daily downwelling shortwave radiation, daily maximum temperature and minimum relative humidity, and daily precipitation values. It is a component in the US National Fire Danger Rating System (cf. https://www.bia.gov/sites/default/files/dup/assets/public/pdf/idc-020513.pdf). The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute .",
+    "canonical_units": "%",
+    "cf-name": "nfdrs_1_hour_fuel_moisture",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

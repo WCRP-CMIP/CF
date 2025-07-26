@@ -1,0 +1,13 @@
+{
+    "id": "mass-content-of-water-in-soil-layer-defined-by-root-depth",
+    "validation-key": "mass-content-of-water-in-soil-layer-defined-by-root-depth",
+    "ui-label": "Mass Content Of Water In Soil Layer Defined By Root Depth",
+    "description": "\"Content\" indicates a quantity per unit area. The content of a soil layer is the vertical integral of the specified quantity within the layer. The quantity with standard name mass_content_of_water_in_soil_layer_defined_by_root_depth is the vertical integral between the surface and the depth to which plant roots penetrate. A coordinate variable or scalar coordinate variable with standard name root_depth can be used to specify the extent of the layer. \"Water\" means water in all phases.",
+    "canonical_units": "kg m-2",
+    "cf-name": "mass_content_of_water_in_soil_layer_defined_by_root_depth",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

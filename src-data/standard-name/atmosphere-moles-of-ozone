@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-ozone",
+    "validation-key": "atmosphere-moles-of-ozone",
+    "ui-label": "Atmosphere Moles Of Ozone",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for ozone is O3.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_ozone",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

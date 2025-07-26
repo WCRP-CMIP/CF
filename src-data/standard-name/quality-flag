@@ -1,0 +1,13 @@
+{
+    "id": "quality-flag",
+    "validation-key": "quality-flag",
+    "ui-label": "Quality Flag",
+    "description": "A variable with the standard name of quality_flag contains an indication of assessed quality information of another data variable. The linkage between the data variable and the variable or variables with the standard_name of quality_flag is achieved using the ancillary_variables attribute.",
+    "canonical_units": "1",
+    "cf-name": "quality_flag",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

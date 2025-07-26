@@ -1,0 +1,12 @@
+{
+    "id": "eurasia",
+    "validation-key": "eurasia",
+    "ui-label": "Eurasia",
+    "description": "",
+    "cf-name": "eurasia",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

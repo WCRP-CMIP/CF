@@ -1,0 +1,13 @@
+{
+    "id": "upward-water-vapor-flux-in-air",
+    "validation-key": "upward-water-vapor-flux-in-air",
+    "ui-label": "Upward Water Vapor Flux In Air",
+    "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "upward_water_vapor_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

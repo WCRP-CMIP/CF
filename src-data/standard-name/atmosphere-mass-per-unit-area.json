@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-per-unit-area",
+    "validation-key": "atmosphere-mass-per-unit-area",
+    "ui-label": "Atmosphere Mass Per Unit Area",
+    "description": "\"X_area\" means the horizontal area occupied by X within the grid cell.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_per_unit_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

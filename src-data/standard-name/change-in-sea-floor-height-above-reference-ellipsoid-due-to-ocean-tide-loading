@@ -1,0 +1,13 @@
+{
+    "id": "change-in-sea-floor-height-above-reference-ellipsoid-due-to-ocean-tide-loading",
+    "validation-key": "change-in-sea-floor-height-above-reference-ellipsoid-due-to-ocean-tide-loading",
+    "ui-label": "Change In Sea Floor Height Above Reference Ellipsoid Due To Ocean Tide Loading",
+    "description": "Sea surface height is a time-varying quantity. A reference ellipsoid is a regular mathematical figure that approximates the irregular shape of the geoid. A number of reference ellipsoids are defined for use in the field of geodesy. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Tides are a significant contributor to the observed sea surface height. The load tidal component of sea surface height describes the variability of the sea surface due to the deformation of the Earth because of the weight of the water masses displaced by ocean tides.",
+    "canonical_units": "m",
+    "cf-name": "change_in_sea_floor_height_above_reference_ellipsoid_due_to_ocean_tide_loading",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

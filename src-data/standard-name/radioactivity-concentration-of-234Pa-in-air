@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-234Pa-in-air",
+    "validation-key": "radioactivity-concentration-of-234pa-in-air",
+    "ui-label": "Radioactivity Concentration Of 234pa In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pa\" means the element \"protactinium\" and \"234Pa\" is the isotope \"protactinium-234\" with a half-life of 2.81e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_234Pa_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

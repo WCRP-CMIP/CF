@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-mass-per-unit-area-expressed-as-thickness",
+    "validation-key": "sea-water-mass-per-unit-area-expressed-as-thickness",
+    "ui-label": "Sea Water Mass Per Unit Area Expressed As Thickness",
+    "description": "\"Thickness\" means the vertical extent of a layer. The quantity with standard name sea_water_mass_per_unit_area_expressed_as_thickness is the thickness of the water column from sea floor to surface, minus any contribution to column thickness from steric changes. The sea water density used to convert mass to thickness is assumed to be the density of water of standard temperature zero degrees Celsius and practical salinity S=35.0 unless an auxiliary scalar coordinate variable with standard name sea_water_density is used to specify an alternative value. The sum of the quantities with standard names sea_water_mass_per_unit_area_expressed_as_thickness and steric_change_in_sea_surface_height is the total thickness of the sea water column. Sea_water_mass_per_unit_area is the mass per unit area of the sea water contained within each grid cell. The extent of an individual grid cell is defined by the horizontal coordinates and any associated coordinate bounds or by a string valued auxiliary coordinate variable with a standard name of \"region\".",
+    "canonical_units": "m",
+    "cf-name": "sea_water_mass_per_unit_area_expressed_as_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

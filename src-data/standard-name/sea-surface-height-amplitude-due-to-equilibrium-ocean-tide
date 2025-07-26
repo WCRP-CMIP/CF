@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-height-amplitude-due-to-equilibrium-ocean-tide",
+    "validation-key": "sea-surface-height-amplitude-due-to-equilibrium-ocean-tide",
+    "ui-label": "Sea Surface Height Amplitude Due To Equilibrium Ocean Tide",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Tides are a significant contributor to the observed sea surface height; equilibrium ocean tide refers to the long period ocean tide.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_height_amplitude_due_to_equilibrium_ocean_tide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

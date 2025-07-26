@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content-due-to-parameterized-dianeutral-mixing",
+    "validation-key": "tendency-of-integral-wrt-depth-of-sea-water-potential-temperature-expressed-as-heat-content-due-to-parameterized-dianeutral-mixing",
+    "ui-label": "Tendency Of Integral Wrt Depth Of Sea Water Potential Temperature Expressed As Heat Content Due To Parameterized Dianeutral Mixing",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. The abbreviation \"wrt\" means \"with respect to\".  Depth is the vertical distance below the surface. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure. The phrase \"expressed_as_heat_content\" means that this quantity is calculated as the specific heat capacity times density of sea water multiplied by the potential temperature of the sea water in the grid cell and integrated over depth. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Dianeutral mixing\" means mixing across surfaces of neutral buoyancy. \"Parameterized\" means the part due to a scheme representing processes which are not explicitly resolved by the model.",
+    "canonical_units": "W m-2",
+    "cf-name": "tendency_of_integral_wrt_depth_of_sea_water_potential_temperature_expressed_as_heat_content_due_to_parameterized_dianeutral_mixing",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

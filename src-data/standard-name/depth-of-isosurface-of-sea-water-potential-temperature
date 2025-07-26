@@ -1,0 +1,13 @@
+{
+    "id": "depth-of-isosurface-of-sea-water-potential-temperature",
+    "validation-key": "depth-of-isosurface-of-sea-water-potential-temperature",
+    "ui-label": "Depth Of Isosurface Of Sea Water Potential Temperature",
+    "description": "This quantity, sometimes called the \"isotherm depth\", is the depth (if it exists) at which the sea water potential temperature equals some specified value. This value should be specified in a scalar coordinate variable. Depth is the vertical distance below the surface. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure.",
+    "canonical_units": "m",
+    "cf-name": "depth_of_isosurface_of_sea_water_potential_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

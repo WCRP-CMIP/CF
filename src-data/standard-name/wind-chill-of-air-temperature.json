@@ -1,0 +1,13 @@
+{
+    "id": "wind-chill-of-air-temperature",
+    "validation-key": "wind-chill-of-air-temperature",
+    "ui-label": "Wind Chill Of Air Temperature",
+    "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature. The quantity with standard name wind_chill_of_air_temperature is the perceived air temperature when wind is factored in with the ambient air temperature (which makes it feel colder than the actual air temperature). Wind chill is based on the rate of heat loss from exposed skin caused by wind and cold. Wind chill temperature is only defined for ambient temperatures at or below 283.1 K and wind speeds above 1.34 m s-1. References: https://www.weather.gov/safety/cold-wind-chill-chart; WMO codes registry entry http://codes.wmo.int/grib2/codeflag/4.2/0-0-13. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "wind_chill_of_air_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

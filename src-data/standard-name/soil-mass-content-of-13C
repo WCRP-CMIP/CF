@@ -1,0 +1,13 @@
+{
+    "id": "soil-mass-content-of-13C",
+    "validation-key": "soil-mass-content-of-13c",
+    "ui-label": "Soil Mass Content Of 13c",
+    "description": "\"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including \"content_of_soil_layer\" are used. \"C\" means the element carbon and \"13C\" is the stable isotope \"carbon-13\", having six protons and seven neutrons.",
+    "canonical_units": "kg m-2",
+    "cf-name": "soil_mass_content_of_13C",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

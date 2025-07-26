@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-benzene",
+    "validation-key": "tendency-of-atmosphere-moles-of-benzene",
+    "ui-label": "Tendency Of Atmosphere Moles Of Benzene",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for benzene is C6H6.  Benzene is the simplest aromatic hydrocarbon and has a ring structure consisting of six carbon atoms joined by alternating single and double chemical bonds. Each carbon atom is additionally bonded to one hydrogen atom. There are standard names that refer to aromatic_compounds as a group, as well as those for individual species.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_benzene",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

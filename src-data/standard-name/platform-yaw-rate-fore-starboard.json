@@ -1,0 +1,13 @@
+{
+    "id": "platform-yaw-rate-fore-starboard",
+    "validation-key": "platform-yaw-rate-fore-starboard",
+    "ui-label": "Platform Yaw Rate Fore Starboard",
+    "description": "\"Yaw rate\" is the rate of rotation about the local vertical axis. Yaw rate might not include changes to the \"at rest\" rotation of the platform with respect to the axis of rotation, which may change over time. \"Fore starboard\" indicates that positive values of yaw rate represent the front of the platform moving to the right as viewed by an observer on top of the platform facing forward. The standard name platform_yaw_rate_fore_port should be used for data having the opposite sign convention. The standard name platform_yaw_rate should be chosen only if the sign convention of the data is unknown. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "degree s-1",
+    "cf-name": "platform_yaw_rate_fore_starboard",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

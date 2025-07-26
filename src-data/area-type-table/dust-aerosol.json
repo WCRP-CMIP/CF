@@ -1,0 +1,12 @@
+{
+    "id": "dust-aerosol",
+    "validation-key": "dust-aerosol",
+    "ui-label": "Dust Aerosol",
+    "description": "An area_type of \"dust_aerosol\" indicates that dust aerosol is present at some level in the atmospheric column above an area on the surface of the Earth.",
+    "cf-name": "dust_aerosol",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

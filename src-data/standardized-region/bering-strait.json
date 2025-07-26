@@ -1,0 +1,12 @@
+{
+    "id": "bering-strait",
+    "validation-key": "bering-strait",
+    "ui-label": "Bering Strait",
+    "description": "",
+    "cf-name": "bering_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

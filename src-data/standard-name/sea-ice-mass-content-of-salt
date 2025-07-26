@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-mass-content-of-salt",
+    "validation-key": "sea-ice-mass-content-of-salt",
+    "ui-label": "Sea Ice Mass Content Of Salt",
+    "description": "\"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. \"Content\" indicates a quantity per unit area. The \"sea_ice content\" of a quantity refers to the vertical integral from the surface down to the bottom of the sea ice.",
+    "canonical_units": "kg m-2",
+    "cf-name": "sea_ice_mass_content_of_salt",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

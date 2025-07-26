@@ -1,0 +1,13 @@
+{
+    "id": "downward-liquid-water-mass-flux-into-groundwater",
+    "validation-key": "downward-liquid-water-mass-flux-into-groundwater",
+    "ui-label": "Downward Liquid Water Mass Flux Into Groundwater",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Groundwater is subsurface water below the depth of the water table. The quantity with standard name liquid_water_mass_flux_from_soil_to_groundwater is the downward flux of liquid water within soil at the depth of the water table, or downward flux from the base of the soil model if the water table depth is greater.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "downward_liquid_water_mass_flux_into_groundwater",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

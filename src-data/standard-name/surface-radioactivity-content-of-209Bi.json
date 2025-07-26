@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-209Bi",
+    "validation-key": "surface-radioactivity-content-of-209bi",
+    "ui-label": "Surface Radioactivity Content Of 209bi",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Bi\" means the element \"bismuth\" and \"209Bi\" is the isotope \"bismuth-209\" with a half-life of 7.29e+20 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_209Bi",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-northward-wind",
+    "validation-key": "tendency-of-northward-wind",
+    "ui-label": "Tendency Of Northward Wind",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+    "canonical_units": "m s-2",
+    "cf-name": "tendency_of_northward_wind",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

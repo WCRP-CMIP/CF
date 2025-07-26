@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-wind-speed-due-to-convection",
+    "validation-key": "tendency-of-wind-speed-due-to-convection",
+    "ui-label": "Tendency Of Wind Speed Due To Convection",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"tendency_of_X\" means derivative of X with respect to time. Speed is the magnitude of velocity. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) The wind speed is the magnitude of the wind velocity.",
+    "canonical_units": "m s-2",
+    "cf-name": "tendency_of_wind_speed_due_to_convection",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

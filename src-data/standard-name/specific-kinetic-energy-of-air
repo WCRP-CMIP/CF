@@ -1,0 +1,13 @@
+{
+    "id": "specific-kinetic-energy-of-air",
+    "validation-key": "specific-kinetic-energy-of-air",
+    "ui-label": "Specific Kinetic Energy Of Air",
+    "description": "\"specific\" means per unit mass.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "specific_kinetic_energy_of_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

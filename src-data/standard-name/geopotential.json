@@ -1,0 +1,13 @@
+{
+    "id": "geopotential",
+    "validation-key": "geopotential",
+    "ui-label": "Geopotential",
+    "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "geopotential",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

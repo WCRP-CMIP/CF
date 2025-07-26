@@ -1,0 +1,13 @@
+{
+    "id": "surface-geostrophic-eastward-sea-water-velocity-assuming-mean-sea-level-for-geoid",
+    "validation-key": "surface-geostrophic-eastward-sea-water-velocity-assuming-mean-sea-level-for-geoid",
+    "ui-label": "Surface Geostrophic Eastward Sea Water Velocity Assuming Mean Sea Level For Geoid",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). \"Geostrophic\" indicates that geostrophic balance is assumed, i.e. that the pressure gradient force and the Coriolis force are balanced and the large scale fluid flow is parallel to the isobars. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals. The geoid is a surface of constant geopotential with which mean sea level would coincide if the ocean were at rest. (The volume enclosed between the geoid and the sea floor equals the mean volume of water in the ocean.) In an ocean GCM the geoid is the surface of zero depth, or the rigid lid if the model uses that approximation. The quantity with standard name surface_geostrophic_eastward_sea_water_velocity_assuming_mean_sea_level_for_geoid is the variable part of surface_geostrophic_eastward_sea_water_velocity. The assumption that sea level is equal to the geoid means that the stationary component of ocean circulation is equal to zero.",
+    "canonical_units": "m s-1",
+    "cf-name": "surface_geostrophic_eastward_sea_water_velocity_assuming_mean_sea_level_for_geoid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}
