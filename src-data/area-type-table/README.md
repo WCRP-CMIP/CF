@@ -7,12 +7,11 @@
 
 
 ## Description
-
+[View in HTML](https://wcrp-cmip.github.io/CF/area-type-table/area-type-table)
 
 [View in HTML](https://wcrp-cmip.github.io/CF/area-type-table/area-type-table)
 
 </section>
-
 
 
 <section id="info">
@@ -25,7 +24,7 @@
 | | |
 | JSON-LD | `cf:area-type-table` |
 | Expanded reference link | [https://wcrp-cmip.github.io/CF/area-type-table](https://wcrp-cmip.github.io/CF/area-type-table) |
-| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/WCRP-CMIP/CF/tree/main/src-data/area-type-table) |
+| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/wcrp-cmip/CF//tree/main/src-data/area-type-table) |
 
 
 </section>
@@ -34,6 +33,21 @@
 ## 🔗 Links
 
 No context file found!!!</section> 
+
+
+
+<section id="depends">
+
+## External Dependencies
+There are links to the following locations which are required to fully describe the data within this directory.
+
+{subset}
+
+</section>s
+
+```
+
+
 
 
 <section id="schema">
@@ -74,7 +88,7 @@ No context file found!!!</section>
 
 ### Online Viewer 
 To view a file in a browser use the content link with `.json` appended. 
-eg. https://github.com/WCRP-CMIP/CF/tree/main/src-data/area-type-table/air.json
+eg. https://github.com/wcrp-cmip/CF//tree/main/src-data/area-type-table/air.json
 
 ### Getting a File. 
 

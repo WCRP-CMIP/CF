@@ -7,12 +7,11 @@
 
 
 ## Description
-
+[View in HTML](https://wcrp-cmip.github.io/CF/standard-name/standard-name)
 
 [View in HTML](https://wcrp-cmip.github.io/CF/standard-name/standard-name)
 
 </section>
-
 
 
 <section id="info">
@@ -25,7 +24,7 @@
 | | |
 | JSON-LD | `cf:standard-name` |
 | Expanded reference link | [https://wcrp-cmip.github.io/CF/standard-name](https://wcrp-cmip.github.io/CF/standard-name) |
-| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/WCRP-CMIP/CF/tree/main/src-data/standard-name) |
+| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/wcrp-cmip/CF//tree/main/src-data/standard-name) |
 
 
 </section>
@@ -34,6 +33,21 @@
 ## 🔗 Links
 
 No context file found!!!</section> 
+
+
+
+<section id="depends">
+
+## External Dependencies
+There are links to the following locations which are required to fully describe the data within this directory.
+
+{subset}
+
+</section>s
+
+```
+
+
 
 
 <section id="schema">
@@ -77,7 +91,7 @@ No context file found!!!</section>
 
 ### Online Viewer 
 To view a file in a browser use the content link with `.json` appended. 
-eg. https://github.com/WCRP-CMIP/CF/tree/main/src-data/standard-name/acoustic-area-backscattering-strength-in-sea-water.json
+eg. https://github.com/wcrp-cmip/CF//tree/main/src-data/standard-name/acoustic-area-backscattering-strength-in-sea-water.json
 
 ### Getting a File. 
 
