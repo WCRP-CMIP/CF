@@ -45,10 +45,6 @@ There are links to the following locations which are required to fully describe 
 
 </section>s
 
-```
-
-
-
 
 <section id="schema">
 
