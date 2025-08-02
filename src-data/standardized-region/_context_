@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/CF/standardized-region/",
+            "@vocab": "https://wcrp-cmip.github.io/CF/standardized-region/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "cf"
+    ]
+}

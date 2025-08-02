@@ -1,3 +1,4 @@
+[View in HTML](https://wcrp-cmip.github.io/CF/standardized-region/standardized-region)
 
 
 <section id="description">
@@ -7,9 +8,8 @@
 
 
 ## Description
-[View in HTML](https://wcrp-cmip.github.io/CF/standardized-region/standardized-region)
 
-[View in HTML](https://wcrp-cmip.github.io/CF/standardized-region/standardized-region)
+
 
 </section>
 
@@ -28,24 +28,7 @@
 
 
 </section>
-    <section id='links'>
-
-## 🔗 Links
-
-No context file found!!!</section> 
-
-
-
-<section id="depends">
-
-## External Dependencies
-There are links to the following locations which are required to fully describe the data within this directory.
-
-{subset}
-
-</section>s
-
-
+    No external links found. 
 <section id="schema">
 
 ## Content Schema

@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/CF/area-type-table/",
+            "@vocab": "https://wcrp-cmip.github.io/CF/area-type-table/",
+            "entries": "@none"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "cf"
+    ]
+}
