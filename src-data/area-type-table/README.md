@@ -1,3 +1,4 @@
+[View in HTML](https://wcrp-cmip.github.io/CF/area-type-table/area-type-table)
 
 
 <section id="description">
@@ -7,12 +8,10 @@
 
 
 ## Description
-
-
 [View in HTML](https://wcrp-cmip.github.io/CF/area-type-table/area-type-table)
 
-</section>
 
+</section>
 
 
 <section id="info">
@@ -25,17 +24,11 @@
 | | |
 | JSON-LD | `cf:area-type-table` |
 | Expanded reference link | [https://wcrp-cmip.github.io/CF/area-type-table](https://wcrp-cmip.github.io/CF/area-type-table) |
-| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/WCRP-CMIP/CF/tree/main/src-data/area-type-table) |
+| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/wcrp-cmip/CF//tree/main/src-data/area-type-table) |
 
 
 </section>
-    <section id='links'>
-
-## 🔗 Links
-
-No context file found!!!</section> 
-
-
+    No external links found. 
 <section id="schema">
 
 ## Content Schema
@@ -74,7 +67,7 @@ No context file found!!!</section>
 
 ### Online Viewer 
 To view a file in a browser use the content link with `.json` appended. 
-eg. https://github.com/WCRP-CMIP/CF/tree/main/src-data/area-type-table/air.json
+eg. https://github.com/wcrp-cmip/CF//tree/main/src-data/area-type-table/air.json
 
 ### Getting a File. 
 

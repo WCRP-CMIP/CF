@@ -1,0 +1,830 @@
+{
+  "@context": {
+  "@base": "https://wcrp-cmip.github.io/CF/standardized-region/",
+  "@vocab": "https://wcrp-cmip.github.io/CF/standardized-region/",
+  "entries": "@none",
+  "id": "@id",
+  "type": "@type",
+  "cf": "https://wcrp-cmip.github.io/CF/",
+  "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
+  "cmip7": "https://wcrp-cmip.github.io/CMIP7-CVs/",
+  "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "vr": "https://wcrp-cmip.github.io/Variable-Registry/"
+},
+  "@graph": [
+    {
+  "id": "africa",
+  "validation-key": "africa",
+  "ui-label": "Africa",
+  "description": "",
+  "cf-name": "africa",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "antarctica",
+  "validation-key": "antarctica",
+  "ui-label": "Antarctica",
+  "description": "",
+  "cf-name": "antarctica",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "arabian-sea",
+  "validation-key": "arabian-sea",
+  "ui-label": "Arabian Sea",
+  "description": "",
+  "cf-name": "arabian_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "aral-sea",
+  "validation-key": "aral-sea",
+  "ui-label": "Aral Sea",
+  "description": "",
+  "cf-name": "aral_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "arctic-ocean",
+  "validation-key": "arctic-ocean",
+  "ui-label": "Arctic Ocean",
+  "description": "",
+  "cf-name": "arctic_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "asia",
+  "validation-key": "asia",
+  "ui-label": "Asia",
+  "description": "",
+  "cf-name": "asia",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "atlantic-arctic-ocean",
+  "validation-key": "atlantic-arctic-ocean",
+  "ui-label": "Atlantic Arctic Ocean",
+  "description": "",
+  "cf-name": "atlantic_arctic_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "atlantic-ocean",
+  "validation-key": "atlantic-ocean",
+  "ui-label": "Atlantic Ocean",
+  "description": "",
+  "cf-name": "atlantic_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "australia",
+  "validation-key": "australia",
+  "ui-label": "Australia",
+  "description": "",
+  "cf-name": "australia",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "baltic-sea",
+  "validation-key": "baltic-sea",
+  "ui-label": "Baltic Sea",
+  "description": "",
+  "cf-name": "baltic_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "barents-opening",
+  "validation-key": "barents-opening",
+  "ui-label": "Barents Opening",
+  "description": "",
+  "cf-name": "barents_opening",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "barents-sea",
+  "validation-key": "barents-sea",
+  "ui-label": "Barents Sea",
+  "description": "",
+  "cf-name": "barents_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "beaufort-sea",
+  "validation-key": "beaufort-sea",
+  "ui-label": "Beaufort Sea",
+  "description": "",
+  "cf-name": "beaufort_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "bellingshausen-sea",
+  "validation-key": "bellingshausen-sea",
+  "ui-label": "Bellingshausen Sea",
+  "description": "",
+  "cf-name": "bellingshausen_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "bering-sea",
+  "validation-key": "bering-sea",
+  "ui-label": "Bering Sea",
+  "description": "",
+  "cf-name": "bering_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "bering-strait",
+  "validation-key": "bering-strait",
+  "ui-label": "Bering Strait",
+  "description": "",
+  "cf-name": "bering_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "black-sea",
+  "validation-key": "black-sea",
+  "ui-label": "Black Sea",
+  "description": "",
+  "cf-name": "black_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "canadian-archipelago",
+  "validation-key": "canadian-archipelago",
+  "ui-label": "Canadian Archipelago",
+  "description": "",
+  "cf-name": "canadian_archipelago",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "caribbean-sea",
+  "validation-key": "caribbean-sea",
+  "ui-label": "Caribbean Sea",
+  "description": "",
+  "cf-name": "caribbean_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "caspian-sea",
+  "validation-key": "caspian-sea",
+  "ui-label": "Caspian Sea",
+  "description": "",
+  "cf-name": "caspian_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "central-america",
+  "validation-key": "central-america",
+  "ui-label": "Central America",
+  "description": "",
+  "cf-name": "central_america",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "chukchi-sea",
+  "validation-key": "chukchi-sea",
+  "ui-label": "Chukchi Sea",
+  "description": "",
+  "cf-name": "chukchi_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "contiguous-united-states",
+  "validation-key": "contiguous-united-states",
+  "ui-label": "Contiguous United States",
+  "description": "",
+  "cf-name": "contiguous_united_states",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "davis-strait",
+  "validation-key": "davis-strait",
+  "ui-label": "Davis Strait",
+  "description": "",
+  "cf-name": "davis_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "denmark-strait",
+  "validation-key": "denmark-strait",
+  "ui-label": "Denmark Strait",
+  "description": "",
+  "cf-name": "denmark_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "drake-passage",
+  "validation-key": "drake-passage",
+  "ui-label": "Drake Passage",
+  "description": "",
+  "cf-name": "drake_passage",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "east-china-sea",
+  "validation-key": "east-china-sea",
+  "ui-label": "East China Sea",
+  "description": "",
+  "cf-name": "east_china_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "english-channel",
+  "validation-key": "english-channel",
+  "ui-label": "English Channel",
+  "description": "",
+  "cf-name": "english_channel",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "eurasia",
+  "validation-key": "eurasia",
+  "ui-label": "Eurasia",
+  "description": "",
+  "cf-name": "eurasia",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "europe",
+  "validation-key": "europe",
+  "ui-label": "Europe",
+  "description": "",
+  "cf-name": "europe",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "faroe-scotland-channel",
+  "validation-key": "faroe-scotland-channel",
+  "ui-label": "Faroe Scotland Channel",
+  "description": "",
+  "cf-name": "faroe_scotland_channel",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "florida-bahamas-strait",
+  "validation-key": "florida-bahamas-strait",
+  "ui-label": "Florida Bahamas Strait",
+  "description": "",
+  "cf-name": "florida_bahamas_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "fram-strait",
+  "validation-key": "fram-strait",
+  "ui-label": "Fram Strait",
+  "description": "",
+  "cf-name": "fram_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "gibraltar-strait",
+  "validation-key": "gibraltar-strait",
+  "ui-label": "Gibraltar Strait",
+  "description": "",
+  "cf-name": "gibraltar_strait",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "global-land",
+  "validation-key": "global-land",
+  "ui-label": "Global Land",
+  "description": "",
+  "cf-name": "global_land",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "global-ocean",
+  "validation-key": "global-ocean",
+  "ui-label": "Global Ocean",
+  "description": "",
+  "cf-name": "global_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "global",
+  "validation-key": "global",
+  "ui-label": "Global",
+  "description": "",
+  "cf-name": "global",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "great-lakes",
+  "validation-key": "great-lakes",
+  "ui-label": "Great Lakes",
+  "description": "",
+  "cf-name": "great_lakes",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "greenland",
+  "validation-key": "greenland",
+  "ui-label": "Greenland",
+  "description": "",
+  "cf-name": "greenland",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "gulf-of-alaska",
+  "validation-key": "gulf-of-alaska",
+  "ui-label": "Gulf Of Alaska",
+  "description": "",
+  "cf-name": "gulf_of_alaska",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "gulf-of-mexico",
+  "validation-key": "gulf-of-mexico",
+  "ui-label": "Gulf Of Mexico",
+  "description": "",
+  "cf-name": "gulf_of_mexico",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "hudson-bay",
+  "validation-key": "hudson-bay",
+  "ui-label": "Hudson Bay",
+  "description": "",
+  "cf-name": "hudson_bay",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "iceland-faroe-channel",
+  "validation-key": "iceland-faroe-channel",
+  "ui-label": "Iceland Faroe Channel",
+  "description": "",
+  "cf-name": "iceland_faroe_channel",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "indian-ocean",
+  "validation-key": "indian-ocean",
+  "ui-label": "Indian Ocean",
+  "description": "",
+  "cf-name": "indian_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "indian-pacific-ocean",
+  "validation-key": "indian-pacific-ocean",
+  "ui-label": "Indian Pacific Ocean",
+  "description": "",
+  "cf-name": "indian_pacific_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "indo-pacific-ocean",
+  "validation-key": "indo-pacific-ocean",
+  "ui-label": "Indo Pacific Ocean",
+  "description": "",
+  "cf-name": "indo_pacific_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "indonesian-throughflow",
+  "validation-key": "indonesian-throughflow",
+  "ui-label": "Indonesian Throughflow",
+  "description": "",
+  "cf-name": "indonesian_throughflow",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "irish-sea",
+  "validation-key": "irish-sea",
+  "ui-label": "Irish Sea",
+  "description": "",
+  "cf-name": "irish_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "lake-baykal",
+  "validation-key": "lake-baykal",
+  "ui-label": "Lake Baykal",
+  "description": "",
+  "cf-name": "lake_baykal",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "lake-chad",
+  "validation-key": "lake-chad",
+  "ui-label": "Lake Chad",
+  "description": "",
+  "cf-name": "lake_chad",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "lake-malawi",
+  "validation-key": "lake-malawi",
+  "ui-label": "Lake Malawi",
+  "description": "",
+  "cf-name": "lake_malawi",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "lake-tanganyika",
+  "validation-key": "lake-tanganyika",
+  "ui-label": "Lake Tanganyika",
+  "description": "",
+  "cf-name": "lake_tanganyika",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "lake-victoria",
+  "validation-key": "lake-victoria",
+  "ui-label": "Lake Victoria",
+  "description": "",
+  "cf-name": "lake_victoria",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "mediterranean-sea",
+  "validation-key": "mediterranean-sea",
+  "ui-label": "Mediterranean Sea",
+  "description": "",
+  "cf-name": "mediterranean_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "mozambique-channel",
+  "validation-key": "mozambique-channel",
+  "ui-label": "Mozambique Channel",
+  "description": "",
+  "cf-name": "mozambique_channel",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "north-america",
+  "validation-key": "north-america",
+  "ui-label": "North America",
+  "description": "",
+  "cf-name": "north_america",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "north-sea",
+  "validation-key": "north-sea",
+  "ui-label": "North Sea",
+  "description": "",
+  "cf-name": "north_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "northern-hemisphere",
+  "validation-key": "northern-hemisphere",
+  "ui-label": "Northern Hemisphere",
+  "description": "",
+  "cf-name": "northern_hemisphere",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "norwegian-sea",
+  "validation-key": "norwegian-sea",
+  "ui-label": "Norwegian Sea",
+  "description": "",
+  "cf-name": "norwegian_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "pacific-equatorial-undercurrent",
+  "validation-key": "pacific-equatorial-undercurrent",
+  "ui-label": "Pacific Equatorial Undercurrent",
+  "description": "",
+  "cf-name": "pacific_equatorial_undercurrent",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "pacific-ocean",
+  "validation-key": "pacific-ocean",
+  "ui-label": "Pacific Ocean",
+  "description": "",
+  "cf-name": "pacific_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "persian-gulf",
+  "validation-key": "persian-gulf",
+  "ui-label": "Persian Gulf",
+  "description": "",
+  "cf-name": "persian_gulf",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "red-sea",
+  "validation-key": "red-sea",
+  "ui-label": "Red Sea",
+  "description": "",
+  "cf-name": "red_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "ross-sea",
+  "validation-key": "ross-sea",
+  "ui-label": "Ross Sea",
+  "description": "",
+  "cf-name": "ross_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "sea-of-japan",
+  "validation-key": "sea-of-japan",
+  "ui-label": "Sea Of Japan",
+  "description": "",
+  "cf-name": "sea_of_japan",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "sea-of-okhotsk",
+  "validation-key": "sea-of-okhotsk",
+  "ui-label": "Sea Of Okhotsk",
+  "description": "",
+  "cf-name": "sea_of_okhotsk",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "south-america",
+  "validation-key": "south-america",
+  "ui-label": "South America",
+  "description": "",
+  "cf-name": "south_america",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "south-china-sea",
+  "validation-key": "south-china-sea",
+  "ui-label": "South China Sea",
+  "description": "",
+  "cf-name": "south_china_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "southern-hemisphere",
+  "validation-key": "southern-hemisphere",
+  "ui-label": "Southern Hemisphere",
+  "description": "",
+  "cf-name": "southern_hemisphere",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "southern-ocean",
+  "validation-key": "southern-ocean",
+  "ui-label": "Southern Ocean",
+  "description": "",
+  "cf-name": "southern_ocean",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "taiwan-luzon-straits",
+  "validation-key": "taiwan-luzon-straits",
+  "ui-label": "Taiwan Luzon Straits",
+  "description": "",
+  "cf-name": "taiwan_luzon_straits",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "weddell-sea",
+  "validation-key": "weddell-sea",
+  "ui-label": "Weddell Sea",
+  "description": "",
+  "cf-name": "weddell_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "windward-passage",
+  "validation-key": "windward-passage",
+  "ui-label": "Windward Passage",
+  "description": "",
+  "cf-name": "windward_passage",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+    ,{
+  "id": "yellow-sea",
+  "validation-key": "yellow-sea",
+  "ui-label": "Yellow Sea",
+  "description": "",
+  "cf-name": "yellow_sea",
+  "type": [
+    "wcrp:standardized-region",
+    "cf"
+  ]
+}
+  ]
+}

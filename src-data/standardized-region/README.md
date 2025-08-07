@@ -1,3 +1,4 @@
+[View in HTML](https://wcrp-cmip.github.io/CF/standardized-region/standardized-region)
 
 
 <section id="description">
@@ -9,10 +10,8 @@
 ## Description
 
 
-[View in HTML](https://wcrp-cmip.github.io/CF/standardized-region/standardized-region)
 
 </section>
-
 
 
 <section id="info">
@@ -25,17 +24,11 @@
 | | |
 | JSON-LD | `cf:standardized-region` |
 | Expanded reference link | [https://wcrp-cmip.github.io/CF/standardized-region](https://wcrp-cmip.github.io/CF/standardized-region) |
-| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/WCRP-CMIP/CF/tree/main/src-data/standardized-region) |
+| Developer Repo | [![Open in GitHub](https://img.shields.io/badge/Open-GitHub-blue?logo=github&style=flat-square)](https://github.com/wcrp-cmip/CF//tree/main/src-data/standardized-region) |
 
 
 </section>
-    <section id='links'>
-
-## 🔗 Links
-
-No context file found!!!</section> 
-
-
+    No external links found. 
 <section id="schema">
 
 ## Content Schema
@@ -74,7 +67,7 @@ No context file found!!!</section>
 
 ### Online Viewer 
 To view a file in a browser use the content link with `.json` appended. 
-eg. https://github.com/WCRP-CMIP/CF/tree/main/src-data/standardized-region/africa.json
+eg. https://github.com/wcrp-cmip/CF//tree/main/src-data/standardized-region/africa.json
 
 ### Getting a File. 
 

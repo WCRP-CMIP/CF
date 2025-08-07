@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/CF/standard-name/",
+            "@vocab": "https://wcrp-cmip.github.io/CF/standard-name/",
+            "entries": "@none"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "cf"
+    ]
+}
