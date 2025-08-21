@@ -274,7 +274,7 @@ if int(current[0] or -1) < latest:
         if i.get("amip"):
             out["amip"] = i["amip"]
         if i.get("canonical_units"):
-            out["canonical_units"] = i["canonical_units"]
+            out["canonical-units"] = i["canonical_units"]
         out["cf-name"] = cf_id
         if i.get("grib"):
             out["grib"] = i["grib"]
