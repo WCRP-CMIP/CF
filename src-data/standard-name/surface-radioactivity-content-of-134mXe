@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-134mXe",
+    "validation-key": "surface-radioactivity-content-of-134mxe",
+    "ui-label": "Surface Radioactivity Content Of 134mxe",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Xe\" means the element \"xenon\" and \"134mXe\" is the metastable state of the isotope \"xenon-134\" with a half-life of 3.36e-06 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_134mXe",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

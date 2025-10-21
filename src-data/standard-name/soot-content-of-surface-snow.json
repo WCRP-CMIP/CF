@@ -1,0 +1,13 @@
+{
+    "id": "soot-content-of-surface-snow",
+    "validation-key": "soot-content-of-surface-snow",
+    "ui-label": "Soot Content Of Surface Snow",
+    "description": "\"Content\" indicates a quantity per unit area. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "kg m-2",
+    "cf-name": "soot_content_of_surface_snow",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "lwe-stratiform-precipitation-rate",
+    "validation-key": "lwe-stratiform-precipitation-rate",
+    "ui-label": "Lwe Stratiform Precipitation Rate",
+    "description": "Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. The abbreviation \"lwe\" means liquid water equivalent. \"Precipitation rate\" means the depth or thickness of the layer formed by precipitation per unit time.",
+    "canonical_units": "m s-1",
+    "cf-name": "lwe_stratiform_precipitation_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-89Rb",
+    "validation-key": "surface-radioactivity-content-of-89rb",
+    "ui-label": "Surface Radioactivity Content Of 89rb",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rb\" means the element \"rubidium\" and \"89Rb\" is the isotope \"rubidium-89\" with a half-life of 1.06e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_89Rb",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

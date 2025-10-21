@@ -1,0 +1,12 @@
+{
+    "id": "caspian-sea",
+    "validation-key": "caspian-sea",
+    "ui-label": "Caspian Sea",
+    "description": "",
+    "cf-name": "caspian_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

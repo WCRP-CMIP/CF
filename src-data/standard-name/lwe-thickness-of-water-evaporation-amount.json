@@ -1,0 +1,13 @@
+{
+    "id": "lwe-thickness-of-water-evaporation-amount",
+    "validation-key": "lwe-thickness-of-water-evaporation-amount",
+    "ui-label": "Lwe Thickness Of Water Evaporation Amount",
+    "description": "\"lwe\" means liquid water equivalent. \"Amount\" means mass per unit area. The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area. \"Water\" means water in all phases. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".)",
+    "canonical_units": "m",
+    "cf-name": "lwe_thickness_of_water_evaporation_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

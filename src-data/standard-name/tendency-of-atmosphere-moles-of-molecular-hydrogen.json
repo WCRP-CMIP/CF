@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-molecular-hydrogen",
+    "validation-key": "tendency-of-atmosphere-moles-of-molecular-hydrogen",
+    "ui-label": "Tendency Of Atmosphere Moles Of Molecular Hydrogen",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X contained in the entire atmosphere, i.e, summed over the atmospheric column and over the entire globe.  The chemical formula of molecular hydrogen is H2.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_molecular_hydrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

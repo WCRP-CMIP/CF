@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-77mGe",
+    "validation-key": "surface-radioactivity-content-of-77mge",
+    "ui-label": "Surface Radioactivity Content Of 77mge",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ge\" means the element \"germanium\" and \"77mGe\" is the metastable state of the isotope \"germanium-77\" with a half-life of 6.27e-04 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_77mGe",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "convective-rainfall-flux",
+    "validation-key": "convective-rainfall-flux",
+    "ui-label": "Convective Rainfall Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "convective_rainfall_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

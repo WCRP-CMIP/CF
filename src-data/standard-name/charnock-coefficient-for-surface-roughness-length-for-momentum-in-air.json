@@ -1,0 +1,13 @@
+{
+    "id": "charnock-coefficient-for-surface-roughness-length-for-momentum-in-air",
+    "validation-key": "charnock-coefficient-for-surface-roughness-length-for-momentum-in-air",
+    "ui-label": "Charnock Coefficient For Surface Roughness Length For Momentum In Air",
+    "description": "Coefficient value, based on the Charnock (1955) empirical expression for deriving the quantity with standard name surface_roughness_length_for_momentum_in_air over the ocean. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Charnock%27s_relation. The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "1",
+    "cf-name": "charnock_coefficient_for_surface_roughness_length_for_momentum_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

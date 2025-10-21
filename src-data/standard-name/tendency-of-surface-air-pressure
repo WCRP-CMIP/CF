@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-surface-air-pressure",
+    "validation-key": "tendency-of-surface-air-pressure",
+    "ui-label": "Tendency Of Surface Air Pressure",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"tendency_of_X\" means derivative of X with respect to time. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa s-1",
+    "cf-name": "tendency_of_surface_air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ocean-mixed-layer-thickness-defined-by-mixing-scheme",
+    "validation-key": "ocean-mixed-layer-thickness-defined-by-mixing-scheme",
+    "ui-label": "Ocean Mixed Layer Thickness Defined By Mixing Scheme",
+    "description": "The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by the mixing scheme is a diagnostic of ocean models. \"Thickness\" means the vertical extent of a layer.",
+    "canonical_units": "m",
+    "cf-name": "ocean_mixed_layer_thickness_defined_by_mixing_scheme",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "water-flux-into-sea-water-due-to-surface-drainage",
+    "validation-key": "water-flux-into-sea-water-due-to-surface-drainage",
+    "ui-label": "Water Flux Into Sea Water Due To Surface Drainage",
+    "description": "The water flux into the ocean is the freshwater entering the sea water as a result of precipitation, evaporation, river inflow, sea ice effects and water flux correction (if applied). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Surface drainage\" refers to all melt water forming at the sea ice surface and subsequently running into the sea.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "water_flux_into_sea_water_due_to_surface_drainage",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

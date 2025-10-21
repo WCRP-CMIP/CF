@@ -1,0 +1,13 @@
+{
+    "id": "soil-hydraulic-conductivity-at-saturation",
+    "validation-key": "soil-hydraulic-conductivity-at-saturation",
+    "ui-label": "Soil Hydraulic Conductivity At Saturation",
+    "description": "Hydraulic conductivity is the constant k in Darcy's Law q=-k grad h for fluid flow q (volume transport per unit area i.e. velocity) through a porous medium, where h is the hydraulic head (pressure expressed as an equivalent depth of water).",
+    "canonical_units": "m s-1",
+    "cf-name": "soil_hydraulic_conductivity_at_saturation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

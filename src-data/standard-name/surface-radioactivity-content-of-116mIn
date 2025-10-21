@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-116mIn",
+    "validation-key": "surface-radioactivity-content-of-116min",
+    "ui-label": "Surface Radioactivity Content Of 116min",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"In\" means the element \"indium\" and \"116mIn\" is the metastable state of the isotope \"indium-116\" with a half-life of 3.77e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_116mIn",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

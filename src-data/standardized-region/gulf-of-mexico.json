@@ -1,0 +1,12 @@
+{
+    "id": "gulf-of-mexico",
+    "validation-key": "gulf-of-mexico",
+    "ui-label": "Gulf Of Mexico",
+    "description": "",
+    "cf-name": "gulf_of_mexico",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

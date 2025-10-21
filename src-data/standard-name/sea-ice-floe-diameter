@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-floe-diameter",
+    "validation-key": "sea-ice-floe-diameter",
+    "ui-label": "Sea Ice Floe Diameter",
+    "description": "\"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. An ice floe is a flat expanse of sea ice, generally taken to be less than 10 km across. ice_floe_diameter corresponds to the diameter of a circle with the same area as the ice floe.",
+    "canonical_units": "m",
+    "cf-name": "sea_ice_floe_diameter",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

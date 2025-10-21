@@ -1,0 +1,13 @@
+{
+    "id": "air-pressure",
+    "validation-key": "air-pressure",
+    "ui-label": "Air Pressure",
+    "description": "Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa",
+    "cf-name": "air_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

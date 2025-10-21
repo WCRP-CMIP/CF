@@ -1,0 +1,12 @@
+{
+    "id": "persian-gulf",
+    "validation-key": "persian-gulf",
+    "ui-label": "Persian Gulf",
+    "description": "",
+    "cf-name": "persian_gulf",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

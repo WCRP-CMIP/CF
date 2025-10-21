@@ -1,0 +1,13 @@
+{
+    "id": "ocean-heat-transport-across-line",
+    "validation-key": "ocean-heat-transport-across-line",
+    "ui-label": "Ocean Heat Transport Across Line",
+    "description": "\"Ocean heat transport\" means transport by all processes, both sea water and sea ice. Transport \"across_line\" means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. Positive and negative numbers refer to total northward/eastward and southward/westward transports, respectively.",
+    "canonical_units": "W",
+    "cf-name": "ocean_heat_transport_across_line",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "change-over-time-in-amount-of-ice-and-snow-on-land",
+    "validation-key": "change-over-time-in-amount-of-ice-and-snow-on-land",
+    "ui-label": "Change Over Time In Amount Of Ice And Snow On Land",
+    "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Amount\" means mass per unit area. The phrase \"ice_and_snow_on_land\" means ice in glaciers, ice caps, ice sheets and shelves, river and lake ice, any other ice on a land surface, such as frozen flood water, and snow lying on such ice or on the land surface.",
+    "canonical_units": "kg m-2",
+    "cf-name": "change_over_time_in_amount_of_ice_and_snow_on_land",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

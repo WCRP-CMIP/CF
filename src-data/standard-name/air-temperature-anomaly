@@ -1,0 +1,13 @@
+{
+    "id": "air-temperature-anomaly",
+    "validation-key": "air-temperature-anomaly",
+    "ui-label": "Air Temperature Anomaly",
+    "description": "The term \"anomaly\" means difference from climatology. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "air_temperature_anomaly",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

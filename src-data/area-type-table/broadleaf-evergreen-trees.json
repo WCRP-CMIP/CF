@@ -1,0 +1,12 @@
+{
+    "id": "broadleaf-evergreen-trees",
+    "validation-key": "broadleaf-evergreen-trees",
+    "ui-label": "Broadleaf Evergreen Trees",
+    "description": "Broadleaf trees are characterized by leaves that are broad, flat and thin with networked veins (reference: https://treeterms.co.uk/broadleaf/). Evergreen plants retain their leaves through the year and into the following growing season (reference: https://www.britannica.com/plant/evergreen-plant).",
+    "cf-name": "broadleaf_evergreen_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

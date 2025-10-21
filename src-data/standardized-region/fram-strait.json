@@ -1,0 +1,12 @@
+{
+    "id": "fram-strait",
+    "validation-key": "fram-strait",
+    "ui-label": "Fram Strait",
+    "description": "",
+    "cf-name": "fram_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

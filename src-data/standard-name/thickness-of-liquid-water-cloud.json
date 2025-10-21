@@ -1,0 +1,13 @@
+{
+    "id": "thickness-of-liquid-water-cloud",
+    "validation-key": "thickness-of-liquid-water-cloud",
+    "ui-label": "Thickness Of Liquid Water Cloud",
+    "description": "\"Thickness\" means the vertical extent of a layer.",
+    "canonical_units": "m",
+    "cf-name": "thickness_of_liquid_water_cloud",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

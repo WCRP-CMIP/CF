@@ -1,0 +1,13 @@
+{
+    "id": "net-downward-shortwave-flux-at-sea-water-surface",
+    "validation-key": "net-downward-shortwave-flux-at-sea-water-surface",
+    "ui-label": "Net Downward Shortwave Flux At Sea Water Surface",
+    "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward). Net downward radiation is the difference between radiation from above (downwelling) and radiation from below (upwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The term \"shortwave\" means shortwave radiation. The phrase \"sea water surface\" means the upper boundary of the liquid portion of an ocean or sea, including the boundary to floating ice if present.",
+    "canonical_units": "W m-2",
+    "cf-name": "net_downward_shortwave_flux_at_sea_water_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

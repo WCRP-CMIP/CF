@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-gaseous-divalent-mercury-due-to-wet-deposition",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-gaseous-divalent-mercury-due-to-wet-deposition",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Gaseous Divalent Mercury Due To Wet Deposition",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Wet deposition\" means deposition by precipitation. \"Divalent mercury\" means all compounds in which the mercury has two binding sites to other ion(s) in a salt or to other atom(s) in a molecule.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_gaseous_divalent_mercury_due_to_wet_deposition",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

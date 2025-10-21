@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-stokes-drift-eastward-velocity",
+    "validation-key": "sea-surface-wave-stokes-drift-eastward-velocity",
+    "ui-label": "Sea Surface Wave Stokes Drift Eastward Velocity",
+    "description": "A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). The Stokes drift velocity is the average velocity when following a specific fluid parcel as it travels with the fluid flow. For instance, a particle floating at the free surface of water waves, experiences a net Stokes drift velocity in the direction of wave propagation.",
+    "canonical_units": "m s-1",
+    "cf-name": "sea_surface_wave_stokes_drift_eastward_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

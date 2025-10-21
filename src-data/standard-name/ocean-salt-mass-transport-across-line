@@ -1,0 +1,13 @@
+{
+    "id": "ocean-salt-mass-transport-across-line",
+    "validation-key": "ocean-salt-mass-transport-across-line",
+    "ui-label": "Ocean Salt Mass Transport Across Line",
+    "description": "Ocean salt mass transport means the mass of salt being transported by all ocean processes. Transport \"across_line\" means that which crosses a particular line on the Earth's surface; formally this means the integral along the line of the normal component of the transport. Positive and negative numbers refer to total northward/eastward and southward/westward transports, respectively.",
+    "canonical_units": "kg s-1",
+    "cf-name": "ocean_salt_mass_transport_across_line",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

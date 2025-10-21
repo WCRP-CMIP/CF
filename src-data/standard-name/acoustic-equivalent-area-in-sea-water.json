@@ -1,0 +1,13 @@
+{
+    "id": "acoustic-equivalent-area-in-sea-water",
+    "validation-key": "acoustic-equivalent-area-in-sea-water",
+    "ui-label": "Acoustic Equivalent Area In Sea Water",
+    "description": "Acoustic equivalent area is the squared area backscattering coefficient divided by the depth integral of squared volume backscattering coefficient. Area backscattering coefficient is the integral of the volume backscattering coefficient over a defined distance. Volume backscattering coefficient is the linear form of acoustic_volume_backscattering_strength_in_sea_water. The parameter is computed to provide a value that represents the area that would be occupied if all data cells contained the mean density and is the reciprocal of acoustic_index_of_aggregation_in_sea_water. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205 and Woillez et. al (2007) doi.org/10.1093/icesjms/fsm025.",
+    "canonical_units": "m",
+    "cf-name": "acoustic_equivalent_area_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

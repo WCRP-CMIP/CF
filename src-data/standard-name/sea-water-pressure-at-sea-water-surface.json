@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-pressure-at-sea-water-surface",
+    "validation-key": "sea-water-pressure-at-sea-water-surface",
+    "ui-label": "Sea Water Pressure At Sea Water Surface",
+    "description": "The phrase \"sea water surface\" means the upper boundary of the liquid portion of an ocean or sea, including the boundary to floating ice if present. \"Sea water pressure\" is the pressure that exists in the medium of sea water. It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.",
+    "canonical_units": "dbar",
+    "cf-name": "sea_water_pressure_at_sea_water_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

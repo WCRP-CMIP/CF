@@ -1,0 +1,13 @@
+{
+    "id": "toa-brightness-temperature-bias-at-standard-scene-due-to-intercalibration",
+    "validation-key": "toa-brightness-temperature-bias-at-standard-scene-due-to-intercalibration",
+    "ui-label": "Toa Brightness Temperature Bias At Standard Scene Due To Intercalibration",
+    "description": "toa_brightness_temperature_bias_at_standard_scene_due_to_intercalibration is the difference between top-of-atmosphere (TOA) brightness temperature of the reference sensor and TOA brightness temperature of the monitored sensor. This TOA brightness temperature difference is a measure of the calibration difference between the monitored and reference sensors. The standard scene is a target area with typical Earth surface and atmospheric conditions that is accepted as a reference. Brightness temperature of a body is the temperature of a black body which radiates the same power per unit solid angle per unit area at a given wavenumber. TOA brightness temperature of the standard scene is calculated using a radiative transfer simulation for a given viewing geometry. The resultant top-of-atmosphere spectral radiance is then integrated with each sensor's spectral response function and converted to equivalent brightness temperature. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "toa_brightness_temperature_bias_at_standard_scene_due_to_intercalibration",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

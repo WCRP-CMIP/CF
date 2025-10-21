@@ -1,0 +1,13 @@
+{
+    "id": "model-level-number-at-convective-cloud-base",
+    "validation-key": "model-level-number-at-convective-cloud-base",
+    "ui-label": "Model Level Number At Convective Cloud Base",
+    "description": "cloud_base refers to the base of the lowest cloud. Model level number should be understood as equivalent to layer number. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+    "canonical_units": "1",
+    "cf-name": "model_level_number_at_convective_cloud_base",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

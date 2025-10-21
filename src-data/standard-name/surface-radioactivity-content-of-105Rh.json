@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-105Rh",
+    "validation-key": "surface-radioactivity-content-of-105rh",
+    "ui-label": "Surface Radioactivity Content Of 105rh",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rh\" means the element \"rhodium\" and \"105Rh\" is the isotope \"rhodium-105\" with a half-life of 1.48e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_105Rh",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

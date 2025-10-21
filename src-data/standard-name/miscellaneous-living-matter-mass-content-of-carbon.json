@@ -1,0 +1,13 @@
+{
+    "id": "miscellaneous-living-matter-mass-content-of-carbon",
+    "validation-key": "miscellaneous-living-matter-mass-content-of-carbon",
+    "ui-label": "Miscellaneous Living Matter Mass Content Of Carbon",
+    "description": "\"Content\" indicates a quantity per unit area.  \"Miscellaneous living matter\" means all those parts of plants that are not leaf, stem, root or other separately named components. The term \"plants\" refers to the kingdom of plants in the modern classification which excludes fungi. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
+    "canonical_units": "kg m-2",
+    "cf-name": "miscellaneous_living_matter_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

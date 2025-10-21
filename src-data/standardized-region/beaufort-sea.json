@@ -1,0 +1,12 @@
+{
+    "id": "beaufort-sea",
+    "validation-key": "beaufort-sea",
+    "ui-label": "Beaufort Sea",
+    "description": "",
+    "cf-name": "beaufort_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

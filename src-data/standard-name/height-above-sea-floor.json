@@ -1,0 +1,13 @@
+{
+    "id": "height-above-sea-floor",
+    "validation-key": "height-above-sea-floor",
+    "ui-label": "Height Above Sea Floor",
+    "description": null,
+    "canonical_units": "m",
+    "cf-name": "height_above_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

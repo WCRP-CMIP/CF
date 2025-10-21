@@ -1,0 +1,13 @@
+{
+    "id": "cell-area",
+    "validation-key": "cell-area",
+    "ui-label": "Cell Area",
+    "description": "\"Cell_area\" is the horizontal area of a gridcell.",
+    "canonical_units": "m2",
+    "cf-name": "cell_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

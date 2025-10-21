@@ -1,0 +1,13 @@
+{
+    "id": "mole-content-of-carbon-monoxide-in-atmosphere-layer",
+    "validation-key": "mole-content-of-carbon-monoxide-in-atmosphere-layer",
+    "ui-label": "Mole Content Of Carbon Monoxide In Atmosphere Layer",
+    "description": "\"Content\" indicates a quantity per unit area. The \"content_of_X_in_atmosphere_layer\" refers to the vertical integral between two specified levels in the atmosphere. \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. For the mole content integrated from the surface to the top of the atmosphere, standard names including \"atmosphere_mole_content_of_X\" are used. The chemical formula for carbon monoxide is CO.",
+    "canonical_units": "mol m-2",
+    "cf-name": "mole_content_of_carbon_monoxide_in_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

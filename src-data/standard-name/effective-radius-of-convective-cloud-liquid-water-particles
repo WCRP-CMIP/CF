@@ -1,0 +1,13 @@
+{
+    "id": "effective-radius-of-convective-cloud-liquid-water-particles",
+    "validation-key": "effective-radius-of-convective-cloud-liquid-water-particles",
+    "ui-label": "Effective Radius Of Convective Cloud Liquid Water Particles",
+    "description": "The effective radius of a size distribution of particles, such as aerosols, cloud droplets or ice crystals, is the area weighted mean radius of particle size. It is calculated as the ratio of the third to the second moment of the particle size distribution. Convective cloud is that produced by the convection schemes in an atmosphere model. \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop.",
+    "canonical_units": "m",
+    "cf-name": "effective_radius_of_convective_cloud_liquid_water_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

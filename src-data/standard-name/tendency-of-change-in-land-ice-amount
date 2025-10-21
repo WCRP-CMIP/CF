@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-change-in-land-ice-amount",
+    "validation-key": "tendency-of-change-in-land-ice-amount",
+    "ui-label": "Tendency Of Change In Land Ice Amount",
+    "description": "\"Amount\" means mass per unit area. Zero change in land ice amount is an arbitrary level. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. \"tendency_of_X\" means derivative of X with respect to time.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_change_in_land_ice_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

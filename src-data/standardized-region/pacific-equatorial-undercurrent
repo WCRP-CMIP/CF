@@ -1,0 +1,12 @@
+{
+    "id": "pacific-equatorial-undercurrent",
+    "validation-key": "pacific-equatorial-undercurrent",
+    "ui-label": "Pacific Equatorial Undercurrent",
+    "description": "",
+    "cf-name": "pacific_equatorial_undercurrent",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

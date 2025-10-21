@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-time-of-surface-downward-sensible-heat-flux",
+    "validation-key": "integral-wrt-time-of-surface-downward-sensible-heat-flux",
+    "ui-label": "Integral Wrt Time Of Surface Downward Sensible Heat Flux",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. \"wrt\" means with respect to. The surface called \"surface\" means the lower boundary of the atmosphere. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). The surface sensible heat flux, also called \"turbulent\" heat flux, is the exchange of heat between the surface and the air by motion of air. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W s m-2",
+    "cf-name": "integral_wrt_time_of_surface_downward_sensible_heat_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

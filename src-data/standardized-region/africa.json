@@ -1,0 +1,12 @@
+{
+    "id": "africa",
+    "validation-key": "africa",
+    "ui-label": "Africa",
+    "description": "",
+    "cf-name": "africa",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

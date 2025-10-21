@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-111Pd-in-air",
+    "validation-key": "radioactivity-concentration-of-111pd-in-air",
+    "ui-label": "Radioactivity Concentration Of 111pd In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pd\" means the element \"palladium\" and \"111Pd\" is the isotope \"palladium-111\" with a half-life of 1.53e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_111Pd_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

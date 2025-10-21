@@ -1,0 +1,13 @@
+{
+    "id": "specific-turbulent-kinetic-energy-dissipation-in-sea-water",
+    "validation-key": "specific-turbulent-kinetic-energy-dissipation-in-sea-water",
+    "ui-label": "Specific Turbulent Kinetic Energy Dissipation In Sea Water",
+    "description": "\"Specific\" means per unit mass. \"Turbulent kinetic energy\" is the kinetic energy of chaotic fluctuations of the fluid flow. The dissipation of kinetic energy arises in ocean models as a result of the viscosity of sea water.",
+    "canonical_units": "W kg-1",
+    "cf-name": "specific_turbulent_kinetic_energy_dissipation_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

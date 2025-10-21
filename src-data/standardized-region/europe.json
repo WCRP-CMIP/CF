@@ -1,0 +1,12 @@
+{
+    "id": "europe",
+    "validation-key": "europe",
+    "ui-label": "Europe",
+    "description": "",
+    "cf-name": "europe",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

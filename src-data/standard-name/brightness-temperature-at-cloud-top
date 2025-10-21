@@ -1,0 +1,13 @@
+{
+    "id": "brightness-temperature-at-cloud-top",
+    "validation-key": "brightness-temperature-at-cloud-top",
+    "ui-label": "Brightness Temperature At Cloud Top",
+    "description": "cloud_top refers to the top of the highest cloud. brightness_temperature of a body is the temperature of a black body which radiates the same power per unit solid angle per unit area. A coordinate variable of radiation_wavelength, sensor_band_central_radiation_wavelength, or radiation_frequency may be specified to indicate that the brightness temperature applies at specific wavelengths or frequencies. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "brightness_temperature_at_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

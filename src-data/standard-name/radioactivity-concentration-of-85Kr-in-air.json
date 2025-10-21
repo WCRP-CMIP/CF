@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-85Kr-in-air",
+    "validation-key": "radioactivity-concentration-of-85kr-in-air",
+    "ui-label": "Radioactivity Concentration Of 85kr In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Kr\" means the element \"krypton\" and \"85Kr\" is the isotope \"krypton-85\" with a half-life of 3.95e+03 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_85Kr_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

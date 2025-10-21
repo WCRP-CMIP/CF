@@ -1,0 +1,13 @@
+{
+    "id": "downward-component-of-unit-vector-away-from-instrument",
+    "validation-key": "downward-component-of-unit-vector-away-from-instrument",
+    "ui-label": "Downward Component Of Unit Vector Away From Instrument",
+    "description": "The vertical component of the unit vector describing the direction from the sensor to a point of interest, relative to the sensor. \"downward\" indicates a vector component which is positive when directed downward (negative upward).",
+    "canonical_units": "1",
+    "cf-name": "downward_component_of_unit_vector_away_from_instrument",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

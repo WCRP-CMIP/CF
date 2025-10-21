@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-mean-square-x-slope",
+    "validation-key": "sea-surface-wave-mean-square-x-slope",
+    "ui-label": "Sea Surface Wave Mean Square X Slope",
+    "description": "Wave slope describes an aspect of sea surface wave geometry related to sea surface roughness. Mean square slope describes a derivation over multiple waves within a sea-state, for example calculated from moments of the wave directional spectrum. The phrase \"x_slope\" indicates that slope values are derived from vector components along the grid x-axis.",
+    "canonical_units": "1",
+    "cf-name": "sea_surface_wave_mean_square_x_slope",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

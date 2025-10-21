@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-stokes-drift-speed",
+    "validation-key": "sea-surface-wave-stokes-drift-speed",
+    "ui-label": "Sea Surface Wave Stokes Drift Speed",
+    "description": "The Stokes drift velocity is the average velocity when following a specific fluid parcel as it travels with the fluid flow. For instance, a particle floating at the free surface of water waves, experiences a net Stokes drift velocity in the direction of wave propagation. Speed is the magnitude of velocity.",
+    "canonical_units": "m s-1",
+    "cf-name": "sea_surface_wave_stokes_drift_speed",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

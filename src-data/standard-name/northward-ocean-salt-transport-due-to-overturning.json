@@ -1,0 +1,13 @@
+{
+    "id": "northward-ocean-salt-transport-due-to-overturning",
+    "validation-key": "northward-ocean-salt-transport-due-to-overturning",
+    "ui-label": "Northward Ocean Salt Transport Due To Overturning",
+    "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Salt transport\" means the mass of salt being transported. Northward transport by (meridional) overturning is geometrically defined as being the part due to the vertical integral of the product of zonal means of velocity and tracer. The velocity does not include the parameterized eddy velocity. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "kg s-1",
+    "cf-name": "northward_ocean_salt_transport_due_to_overturning",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

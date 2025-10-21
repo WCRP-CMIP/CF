@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-inorganic-chlorine",
+    "validation-key": "atmosphere-mass-content-of-inorganic-chlorine",
+    "ui-label": "Atmosphere Mass Content Of Inorganic Chlorine",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. \"Inorganic chlorine\", sometimes referred to as Cly, describes a family of chemical species which result from the degradation of source gases containing chlorine (CFCs, HCFCs, VSLS) and natural inorganic chlorine sources such as sea salt and other aerosols. \"Inorganic chlorine\" is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. Standard names that use the term \"clox\" are used for quantities that contain all inorganic chlorine species except HCl and ClONO2.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_inorganic_chlorine",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

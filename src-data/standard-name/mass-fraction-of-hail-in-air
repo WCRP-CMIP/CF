@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-hail-in-air",
+    "validation-key": "mass-fraction-of-hail-in-air",
+    "ui-label": "Mass Fraction Of Hail In Air",
+    "description": "Mass fraction is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). Hail is precipitation in the form of balls or irregular lumps of ice, often restricted by a size convention to diameters of 5 mm or more. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Hail. For diameters of less than 5 mm standard names for \"graupel\" should be used. Standard names for \"graupel_and_hail\" should be used to describe data produced by models that do not distinguish between hail and graupel.",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_hail_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

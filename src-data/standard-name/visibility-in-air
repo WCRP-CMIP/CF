@@ -1,0 +1,13 @@
+{
+    "id": "visibility-in-air",
+    "validation-key": "visibility-in-air",
+    "ui-label": "Visibility In Air",
+    "description": "The visibility is the distance at which something can be seen.",
+    "canonical_units": "m",
+    "cf-name": "visibility_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sinking-mole-flux-of-particulate-silicon-in-sea-water",
+    "validation-key": "sinking-mole-flux-of-particulate-silicon-in-sea-water",
+    "ui-label": "Sinking Mole Flux Of Particulate Silicon In Sea Water",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.   'Sinking' is the gravitational settling of particulate matter suspended in a liquid. A sinking flux is positive downwards and is calculated relative to the movement of the surrounding fluid.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "sinking_mole_flux_of_particulate_silicon_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-72Ga-in-air",
+    "validation-key": "radioactivity-concentration-of-72ga-in-air",
+    "ui-label": "Radioactivity Concentration Of 72ga In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ga\" means the element \"gallium\" and \"72Ga\" is the isotope \"gallium-72\" with a half-life of 5.86e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_72Ga_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

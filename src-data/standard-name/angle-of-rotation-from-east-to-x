@@ -1,0 +1,13 @@
+{
+    "id": "angle-of-rotation-from-east-to-x",
+    "validation-key": "angle-of-rotation-from-east-to-x",
+    "ui-label": "Angle Of Rotation From East To X",
+    "description": "The quantity with standard name angle_of_rotation_from_east_to_x is the angle, anticlockwise reckoned positive, between due East and (dr/di)jk, where r(i,j,k) is the vector 3D position of the point with coordinate indices (i,j,k).  It could be used for rotating vector fields between model space and latitude-longitude space.",
+    "canonical_units": "degree",
+    "cf-name": "angle_of_rotation_from_east_to_x",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

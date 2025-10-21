@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-dinitrogen-pentoxide-in-air",
+    "validation-key": "mole-fraction-of-dinitrogen-pentoxide-in-air",
+    "ui-label": "Mole Fraction Of Dinitrogen Pentoxide In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of dinitrogen pentoxide is N2O5.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_dinitrogen_pentoxide_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

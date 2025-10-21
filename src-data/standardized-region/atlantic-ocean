@@ -1,0 +1,12 @@
+{
+    "id": "atlantic-ocean",
+    "validation-key": "atlantic-ocean",
+    "ui-label": "Atlantic Ocean",
+    "description": "",
+    "cf-name": "atlantic_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

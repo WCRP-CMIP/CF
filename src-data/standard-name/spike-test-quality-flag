@@ -1,0 +1,13 @@
+{
+    "id": "spike-test-quality-flag",
+    "validation-key": "spike-test-quality-flag",
+    "ui-label": "Spike Test Quality Flag",
+    "description": "A quality flag that reports the result of the Spike test, which checks that the difference between two points in a series of values is within reasonable bounds. The linkage between the data variable and this variable is achieved using the ancillary_variables attribute. There are standard names for other specific quality tests which take the form of X_quality_flag. Quality information that does not match any of the specific quantities should be given the more general standard name of quality_flag.",
+    "canonical_units": "1",
+    "cf-name": "spike_test_quality_flag",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

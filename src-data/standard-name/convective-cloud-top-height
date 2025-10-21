@@ -1,0 +1,13 @@
+{
+    "id": "convective-cloud-top-height",
+    "validation-key": "convective-cloud-top-height",
+    "ui-label": "Convective Cloud Top Height",
+    "description": "cloud_top refers to the top of the highest cloud. Height is the vertical distance above the surface. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+    "canonical_units": "m",
+    "cf-name": "convective_cloud_top_height",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

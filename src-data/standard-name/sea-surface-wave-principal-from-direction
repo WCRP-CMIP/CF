@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-principal-from-direction",
+    "validation-key": "sea-surface-wave-principal-from-direction",
+    "ui-label": "Sea Surface Wave Principal From Direction",
+    "description": "The wave direction in each frequency band, calculated from the second-order components of the wave directional spectrum. Since there is an ambiguity of 180 degrees in the calculation of Alpha2 (i.e. 90 degrees and 270 degrees result in equivalent spectra), the value closer to Alpha1 is selected. The full directional wave spectrum is described as a Fourier series: S = a0/2 + a1cos(theta) + b1sin(theta) + a2cos(2theta) + b2sin(2theta). The Fourier coefficients a1, b1, a2, & b2 can be converted to polar coordinates as follows: R1 = (SQRT(a1a1+b1b1))/a0, R2 = (SQRT(a2a2+b2b2))/a0, ALPHA1 = 270.0-ARCTAN(b1,a1), ALPHA2 = 270.0-(0.5*ARCTAN(b2,a2)+{0 or 180, whichever minimizes the difference between ALPHA1 and ALPHA2}). ALPHA2 is the principal wave direction, which is determined from the second-order Fourier coefficients. This spectral parameter is a separate quantity from the bulk parameter (MWDIR), which has the standard name sea_surface_wave_from_direction_at_variance_spectral_density_maximum. The phrase \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north.",
+    "canonical_units": "degrees",
+    "cf-name": "sea_surface_wave_principal_from_direction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

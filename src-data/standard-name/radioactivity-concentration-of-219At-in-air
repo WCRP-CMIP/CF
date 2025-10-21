@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-219At-in-air",
+    "validation-key": "radioactivity-concentration-of-219at-in-air",
+    "ui-label": "Radioactivity Concentration Of 219at In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"At\" means the element \"astatine\" and \"219At\" is the isotope \"astatine-219\" with a half-life of 6.27e-04 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_219At_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

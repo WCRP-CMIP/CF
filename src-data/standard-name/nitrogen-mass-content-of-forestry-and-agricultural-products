@@ -1,0 +1,13 @@
+{
+    "id": "nitrogen-mass-content-of-forestry-and-agricultural-products",
+    "validation-key": "nitrogen-mass-content-of-forestry-and-agricultural-products",
+    "ui-label": "Nitrogen Mass Content Of Forestry And Agricultural Products",
+    "description": "\"Content\" indicates a quantity per unit area. Examples of \"forestry and agricultural products\" are paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock. Models that simulate land use changes have one or more pools of carbon that represent these products in order to conserve carbon and allow its eventual release into the atmosphere, for example, when the products decompose in landfill sites.",
+    "canonical_units": "kg m-2",
+    "cf-name": "nitrogen_mass_content_of_forestry_and_agricultural_products",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

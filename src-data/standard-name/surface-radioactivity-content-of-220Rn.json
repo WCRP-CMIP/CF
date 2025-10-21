@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-220Rn",
+    "validation-key": "surface-radioactivity-content-of-220rn",
+    "ui-label": "Surface Radioactivity Content Of 220rn",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rn\" means the element \"radon\" and \"220Rn\" is the isotope \"radon-220\" with a half-life of 6.37e-04 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_220Rn",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

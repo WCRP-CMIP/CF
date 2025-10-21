@@ -1,0 +1,12 @@
+{
+    "id": "clear-sky",
+    "validation-key": "clear-sky",
+    "ui-label": "Clear Sky",
+    "description": null,
+    "cf-name": "clear_sky",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

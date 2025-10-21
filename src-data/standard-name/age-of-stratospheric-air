@@ -1,0 +1,13 @@
+{
+    "id": "age-of-stratospheric-air",
+    "validation-key": "age-of-stratospheric-air",
+    "ui-label": "Age Of Stratospheric Air",
+    "description": "\"Age of stratospheric air\" means an estimate of the time since a parcel of stratospheric air was last in contact with the troposphere.",
+    "canonical_units": "s",
+    "cf-name": "age_of_stratospheric_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

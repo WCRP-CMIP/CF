@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-cfc115",
+    "validation-key": "atmosphere-moles-of-cfc115",
+    "ui-label": "Atmosphere Moles Of Cfc115",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula of CFC115 is CClF2CF3. The IUPAC name for CFC115 is 1-chloro-1,1,2,2,2-pentafluoroethane.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_cfc115",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

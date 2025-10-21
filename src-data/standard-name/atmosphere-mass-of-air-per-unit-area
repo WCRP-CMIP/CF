@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-of-air-per-unit-area",
+    "validation-key": "atmosphere-mass-of-air-per-unit-area",
+    "ui-label": "Atmosphere Mass Of Air Per Unit Area",
+    "description": "\"Mass_of_air\" means the mass due solely to the gaseous constituents of the atmosphere.  The standard name for the mass including precipitation and aerosol particles is atmosphere_mass_per_unit_area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_of_air_per_unit_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "acoustic-centre-of-mass-in-sea-water",
+    "validation-key": "acoustic-centre-of-mass-in-sea-water",
+    "ui-label": "Acoustic Centre Of Mass In Sea Water",
+    "description": "Acoustic centre of mass is the average of all sampled depths weighted by their volume backscattering coefficient. Volume backscattering coefficient is the linear form of acoustic_volume_backscattering_strength_in_sea_water. For further details see Urmy et. al (2012) doi:10.1093/icesjms/fsr205.",
+    "canonical_units": "m",
+    "cf-name": "acoustic_centre_of_mass_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

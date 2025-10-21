@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-alkalinity-expressed-as-mole-equivalent",
+    "validation-key": "sea-water-alkalinity-expressed-as-mole-equivalent",
+    "ui-label": "Sea Water Alkalinity Expressed As Mole Equivalent",
+    "description": "'sea_water_alkalinity_expressed_as_mole_equivalent' is the total alkalinity equivalent concentration (including carbonate, nitrogen, silicate, and borate components).",
+    "canonical_units": "mol m-3",
+    "cf-name": "sea_water_alkalinity_expressed_as_mole_equivalent",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

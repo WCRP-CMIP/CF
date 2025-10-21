@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-92Sr",
+    "validation-key": "surface-radioactivity-content-of-92sr",
+    "ui-label": "Surface Radioactivity Content Of 92sr",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sr\" means the element \"strontium\" and \"92Sr\" is the isotope \"strontium-92\" with a half-life of 1.13e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_92Sr",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

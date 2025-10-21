@@ -1,0 +1,13 @@
+{
+    "id": "thickness-of-snowfall-amount",
+    "validation-key": "thickness-of-snowfall-amount",
+    "ui-label": "Thickness Of Snowfall Amount",
+    "description": "\"Amount\" means mass per unit area. The construction thickness_of_[X_]snowfall_amount means the accumulated \"depth\" of snow which fell i.e. the thickness of the layer of snow at its own density. There are corresponding standard names for liquid water equivalent (lwe) thickness.",
+    "canonical_units": "m",
+    "cf-name": "thickness_of_snowfall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

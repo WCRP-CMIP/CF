@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-mass-not-displacing-sea-water",
+    "validation-key": "land-ice-mass-not-displacing-sea-water",
+    "ui-label": "Land Ice Mass Not Displacing Sea Water",
+    "description": "\"Land ice not displacing sea water\" means land ice that would alter sea level if the ice were converted to water and added to the ocean. It excludes ice shelves (and any other sort of floating ice) and it excludes a fraction of grounded ice-sheet mass equivalent to the mass of any sea water it displaces. It includes glaciers and a portion of grounded ice-sheet mass exceeding the mass of any sea water displaced. The quantity with standard name land_ice_mass_not_displacing_sea_water is the total mass integrated over an area of land ice. The geographical extent of the ice over which the mass was calculated should be described by providing bounds on the horizontal coordinate variable or scalar with the standard name of \"region\" supplied according to section 6.1.1 of the CF convention. \"Land ice not displacing sea water\" is sometimes referred to as \"ice above flotation\" or \"ice above floatation\".",
+    "canonical_units": "kg",
+    "cf-name": "land_ice_mass_not_displacing_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

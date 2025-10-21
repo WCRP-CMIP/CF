@@ -1,0 +1,13 @@
+{
+    "id": "ocean-isopycnal-layer-thickness-diffusivity",
+    "validation-key": "ocean-isopycnal-layer-thickness-diffusivity",
+    "ui-label": "Ocean Isopycnal Layer Thickness Diffusivity",
+    "description": null,
+    "canonical_units": "m2 s-1",
+    "cf-name": "ocean_isopycnal_layer_thickness_diffusivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

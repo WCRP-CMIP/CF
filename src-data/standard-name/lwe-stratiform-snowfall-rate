@@ -1,0 +1,13 @@
+{
+    "id": "lwe-stratiform-snowfall-rate",
+    "validation-key": "lwe-stratiform-snowfall-rate",
+    "ui-label": "Lwe Stratiform Snowfall Rate",
+    "description": "Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.  \"lwe\" means liquid water equivalent.",
+    "canonical_units": "m s-1",
+    "cf-name": "lwe_stratiform_snowfall_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "fractional-saturation-of-oxygen-in-sea-water",
+    "validation-key": "fractional-saturation-of-oxygen-in-sea-water",
+    "ui-label": "Fractional Saturation Of Oxygen In Sea Water",
+    "description": "Fractional saturation is the ratio of some measure of concentration to the saturated value of the same quantity.",
+    "canonical_units": "1",
+    "cf-name": "fractional_saturation_of_oxygen_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "steric-change-in-mean-sea-level",
+    "validation-key": "steric-change-in-mean-sea-level",
+    "ui-label": "Steric Change In Mean Sea Level",
+    "description": "Steric sea level change is caused by changes in sea water density due to changes in temperature (thermosteric) and salinity (halosteric). \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals. Zero mean sea level change is an arbitrary level. The sum of the quantities with standard names thermosteric_change_in_mean_sea_level and halosteric_change_in_mean_sea_level has the standard name steric_change_in_mean_sea_level.",
+    "canonical_units": "m",
+    "cf-name": "steric_change_in_mean_sea_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

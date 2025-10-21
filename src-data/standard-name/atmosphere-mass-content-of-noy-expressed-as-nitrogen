@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-noy-expressed-as-nitrogen",
+    "validation-key": "atmosphere-mass-content-of-noy-expressed-as-nitrogen",
+    "ui-label": "Atmosphere Mass Content Of Noy Expressed As Nitrogen",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  \"Noy\" describes a family of chemical species. The family usually includes atomic nitrogen (N), nitrogen monoxide (NO), nitrogen dioxide (NO2), dinitrogen pentoxide (N2O5), nitric acid (HNO3), peroxynitric acid (HNO4), bromine nitrate (BrONO2) , chlorine nitrate (ClONO2) and organic nitrates (most notably peroxyacetyl nitrate, sometimes referred to as PAN, (CH3COO2NO2)). The list of individual species that are included in a quantity having a group chemical standard name can vary between models.  Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. The phrase 'expressed_as' is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_noy_expressed_as_nitrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

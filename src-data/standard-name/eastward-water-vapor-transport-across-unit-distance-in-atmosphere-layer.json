@@ -1,0 +1,13 @@
+{
+    "id": "eastward-water-vapor-transport-across-unit-distance-in-atmosphere-layer",
+    "validation-key": "eastward-water-vapor-transport-across-unit-distance-in-atmosphere-layer",
+    "ui-label": "Eastward Water Vapor Transport Across Unit Distance In Atmosphere Layer",
+    "description": "\"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Transport across_unit_distance means expressed per unit distance normal to the direction of transport.",
+    "canonical_units": "kg m-1 s-1",
+    "cf-name": "eastward_water_vapor_transport_across_unit_distance_in_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

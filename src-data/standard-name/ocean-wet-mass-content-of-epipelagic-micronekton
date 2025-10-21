@@ -1,0 +1,13 @@
+{
+    "id": "ocean-wet-mass-content-of-epipelagic-micronekton",
+    "validation-key": "ocean-wet-mass-content-of-epipelagic-micronekton",
+    "ui-label": "Ocean Wet Mass Content Of Epipelagic Micronekton",
+    "description": "Component of the micronekton that inhabits permanently the epipelagic layer. The epipelagic layer is the ocean layer with light levels sufficient for photosynthesis. \"Wet_mass\" is the mass of a sample before any water has been removed. \"Content\" indicates a quantity per unit area. The \"ocean content\" of a quantity refers to the vertical integral within the specified vertical bounds. Micronekton is a group of organisms that range in size from 2 to 20 cm and are capable of swimming independently of ocean currents.",
+    "canonical_units": "g m-2",
+    "cf-name": "ocean_wet_mass_content_of_epipelagic_micronekton",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "permafrost-layer-thickness",
+    "validation-key": "permafrost-layer-thickness",
+    "ui-label": "Permafrost Layer Thickness",
+    "description": "Permafrost is soil or rock that has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years. \"Thickness\" means the vertical extent of a layer.",
+    "canonical_units": "m",
+    "cf-name": "permafrost_layer_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

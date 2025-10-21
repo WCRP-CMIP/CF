@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-209Pb-in-air",
+    "validation-key": "radioactivity-concentration-of-209pb-in-air",
+    "ui-label": "Radioactivity Concentration Of 209pb In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pb\" means the element \"lead\" and \"209Pb\" is the isotope \"lead-209\" with a half-life of 1.38e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_209Pb_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

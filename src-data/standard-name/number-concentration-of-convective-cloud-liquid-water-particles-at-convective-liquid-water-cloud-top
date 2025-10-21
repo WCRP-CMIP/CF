@@ -1,0 +1,13 @@
+{
+    "id": "number-concentration-of-convective-cloud-liquid-water-particles-at-convective-liquid-water-cloud-top",
+    "validation-key": "number-concentration-of-convective-cloud-liquid-water-particles-at-convective-liquid-water-cloud-top",
+    "ui-label": "Number Concentration Of Convective Cloud Liquid Water Particles At Convective Liquid Water Cloud Top",
+    "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. The phrase \"convective_liquid_water_cloud_top\" refers to the top of the highest convective liquid water cloud. Convective cloud is that produced by the convection schemes in an atmosphere model.  \"Cloud liquid water\" refers to the liquid phase of cloud water. A diameter of 0.2 mm has been suggested as an upper limit to the size of drops that shall be regarded as cloud drops; larger drops fall rapidly enough so that only very strong updrafts can sustain them. Any such division is somewhat arbitrary, and active cumulus clouds sometimes contain cloud drops much larger than this. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Cloud_drop.",
+    "canonical_units": "m-3",
+    "cf-name": "number_concentration_of_convective_cloud_liquid_water_particles_at_convective_liquid_water_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

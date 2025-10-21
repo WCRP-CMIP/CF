@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-41Ar",
+    "validation-key": "surface-radioactivity-content-of-41ar",
+    "ui-label": "Surface Radioactivity Content Of 41ar",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ar\" means the element \"argon\" and \"41Ar\" is the isotope \"argon-41\" with a half-life of 7.64e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_41Ar",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

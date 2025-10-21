@@ -1,0 +1,12 @@
+{
+    "id": "faroe-scotland-channel",
+    "validation-key": "faroe-scotland-channel",
+    "ui-label": "Faroe Scotland Channel",
+    "description": "",
+    "cf-name": "faroe_scotland_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

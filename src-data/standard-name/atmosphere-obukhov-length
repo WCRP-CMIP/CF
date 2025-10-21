@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-obukhov-length",
+    "validation-key": "atmosphere-obukhov-length",
+    "ui-label": "Atmosphere Obukhov Length",
+    "description": "The height in the atmosphere, L, that buoyant production or destruction of turbulent energy balances the shear production of turbulent kinetic energy: L = -u*3 / (kB0), where u* is the wind frictional velocity, k is the von Karman constant, and B0 is the atmospheric surface buoyancy flux.  If the buoyancy flux is destabilizing, L is negative.",
+    "canonical_units": "m",
+    "cf-name": "atmosphere_obukhov_length",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

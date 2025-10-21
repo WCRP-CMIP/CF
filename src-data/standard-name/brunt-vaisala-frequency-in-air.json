@@ -1,0 +1,13 @@
+{
+    "id": "brunt-vaisala-frequency-in-air",
+    "validation-key": "brunt-vaisala-frequency-in-air",
+    "ui-label": "Brunt Vaisala Frequency In Air",
+    "description": "Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.",
+    "canonical_units": "s-1",
+    "cf-name": "brunt_vaisala_frequency_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

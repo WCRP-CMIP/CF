@@ -1,0 +1,13 @@
+{
+    "id": "transpiration-amount",
+    "validation-key": "transpiration-amount",
+    "ui-label": "Transpiration Amount",
+    "description": "\"Amount\" means mass per unit area. Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere.",
+    "canonical_units": "kg m-2",
+    "cf-name": "transpiration_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

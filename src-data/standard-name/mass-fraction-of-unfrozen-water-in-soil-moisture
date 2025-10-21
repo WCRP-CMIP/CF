@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-unfrozen-water-in-soil-moisture",
+    "validation-key": "mass-fraction-of-unfrozen-water-in-soil-moisture",
+    "ui-label": "Mass Fraction Of Unfrozen Water In Soil Moisture",
+    "description": "\"moisture\" means water in all phases contained in soil. \"unfrozen_water\" means liquid and vapour. Mass fraction is used in the construction mass_fraction_of_X_in_Y, where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X).",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_unfrozen_water_in_soil_moisture",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-depth-of-product-of-conservative-temperature-and-sea-water-density",
+    "validation-key": "integral-wrt-depth-of-product-of-conservative-temperature-and-sea-water-density",
+    "ui-label": "Integral Wrt Depth Of Product Of Conservative Temperature And Sea Water Density",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. The phrase \"wrt\" means \"with respect to\". Depth is the vertical distance below the surface. The phrase \"product_of_X_and_Y\" means X*Y. Conservative Temperature is defined as part of the Thermodynamic Equation of Seawater 2010 (TEOS-10) which was adopted in 2010 by the International Oceanographic Commission (IOC). Conservative Temperature is specific potential enthalpy (which has the standard name sea_water_specific_potential_enthalpy) divided by a fixed value of the specific heat capacity of sea water, namely cp_0 = 3991.86795711963 J kg-1 K-1. Conservative Temperature is a more accurate measure of the \"heat content\" of sea water, by a factor of one hundred, than is potential temperature. Because of this, it can be regarded as being proportional to the heat content of sea water per unit mass. Reference: www.teos-10.org; McDougall, 2003 doi: 10.1175/1520-0485(2003)033<0945:PEACOV>2.0.CO;2. Sea water density is the in-situ density (not the potential density). For Boussinesq models, density is the constant Boussinesq reference density, a quantity which has the standard name reference_sea_water_density_for_boussinesq_approximation. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "kg degree_C m-2",
+    "cf-name": "integral_wrt_depth_of_product_of_conservative_temperature_and_sea_water_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

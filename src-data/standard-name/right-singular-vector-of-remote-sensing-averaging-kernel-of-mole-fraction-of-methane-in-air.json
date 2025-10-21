@@ -1,0 +1,13 @@
+{
+    "id": "right-singular-vector-of-remote-sensing-averaging-kernel-of-mole-fraction-of-methane-in-air",
+    "validation-key": "right-singular-vector-of-remote-sensing-averaging-kernel-of-mole-fraction-of-methane-in-air",
+    "ui-label": "Right Singular Vector Of Remote Sensing Averaging Kernel Of Mole Fraction Of Methane In Air",
+    "description": "Right singular vectors of the matrix representing the remote sensing averaging kernels (Weber 2019; Schneider et al., 2022) of the methane mole fractions obtained by a remote sensing observation (changes of methane in the retrieved atmosphere relative to the changes of methane in the true atmosphere, Rodgers 2000).",
+    "canonical_units": "1",
+    "cf-name": "right_singular_vector_of_remote_sensing_averaging_kernel_of_mole_fraction_of_methane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

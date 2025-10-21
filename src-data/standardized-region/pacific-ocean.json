@@ -1,0 +1,12 @@
+{
+    "id": "pacific-ocean",
+    "validation-key": "pacific-ocean",
+    "ui-label": "Pacific Ocean",
+    "description": "",
+    "cf-name": "pacific_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

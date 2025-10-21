@@ -1,0 +1,13 @@
+{
+    "id": "surface-roughness-length",
+    "validation-key": "surface-roughness-length",
+    "ui-label": "Surface Roughness Length",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "m",
+    "cf-name": "surface_roughness_length",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

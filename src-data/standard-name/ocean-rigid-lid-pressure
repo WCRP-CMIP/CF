@@ -1,0 +1,13 @@
+{
+    "id": "ocean-rigid-lid-pressure",
+    "validation-key": "ocean-rigid-lid-pressure",
+    "ui-label": "Ocean Rigid Lid Pressure",
+    "description": "\"Ocean rigid lid pressure\" means the pressure at the surface of an ocean model assuming that it is bounded above by a rigid lid.",
+    "canonical_units": "Pa",
+    "cf-name": "ocean_rigid_lid_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

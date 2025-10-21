@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-carbon-monoxide",
+    "validation-key": "atmosphere-moles-of-carbon-monoxide",
+    "ui-label": "Atmosphere Moles Of Carbon Monoxide",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for carbon monoxide is CO.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_carbon_monoxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "age-of-surface-snow",
+    "validation-key": "age-of-surface-snow",
+    "ui-label": "Age Of Surface Snow",
+    "description": "\"Age of surface snow\" means the length of time elapsed since the snow accumulated on the earth's surface. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "day",
+    "cf-name": "age_of_surface_snow",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

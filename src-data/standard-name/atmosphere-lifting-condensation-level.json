@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-lifting-condensation-level",
+    "validation-key": "atmosphere-lifting-condensation-level",
+    "ui-label": "Atmosphere Lifting Condensation Level",
+    "description": "The lifting condensation level is the height at which the relative humidity of an air parcel cooled by dry adiabatic lifting would reach 100%. A coordinate variable of original_air_pressure_of_lifted_parcel should be specified to indicate the starting height of the lifted parcel.",
+    "canonical_units": "m",
+    "cf-name": "atmosphere_lifting_condensation_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

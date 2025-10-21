@@ -1,0 +1,13 @@
+{
+    "id": "heat-flux-into-sea-water-due-to-newtonian-relaxation",
+    "validation-key": "heat-flux-into-sea-water-due-to-newtonian-relaxation",
+    "ui-label": "Heat Flux Into Sea Water Due To Newtonian Relaxation",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.  The heat_flux_into_sea_water_due_to_newtonian_relaxation is the heat flux resulting from the Newtonian relaxation of the sea surface temperature. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "heat_flux_into_sea_water_due_to_newtonian_relaxation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

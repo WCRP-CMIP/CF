@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-131mXe-in-air",
+    "validation-key": "radioactivity-concentration-of-131mxe-in-air",
+    "ui-label": "Radioactivity Concentration Of 131mxe In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Xe\" means the element \"xenon\" and \"131mXe\" is the metastable state of the isotope \"xenon-131\" with a half-life of 1.18e+01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_131mXe_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

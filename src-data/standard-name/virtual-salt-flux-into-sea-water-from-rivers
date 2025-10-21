@@ -1,0 +1,13 @@
+{
+    "id": "virtual-salt-flux-into-sea-water-from-rivers",
+    "validation-key": "virtual-salt-flux-into-sea-water-from-rivers",
+    "ui-label": "Virtual Salt Flux Into Sea Water From Rivers",
+    "description": "The virtual_salt_flux_into_sea_water_due_to_process is the salt flux that would have the same effect on the sea surface salinity as water_flux_out_of_sea_water_due_to_process. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"River\" refers to water in the fluvial system (stream and floodplain).",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "virtual_salt_flux_into_sea_water_from_rivers",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

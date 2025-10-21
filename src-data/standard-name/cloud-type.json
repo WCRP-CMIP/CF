@@ -1,0 +1,13 @@
+{
+    "id": "cloud-type",
+    "validation-key": "cloud-type",
+    "ui-label": "Cloud Type",
+    "description": "A variable with the standard_name of cloud_type contains either strings which indicate the cloud type, or flags which can be translated to strings using flag_values and flag_meanings attributes.",
+    "canonical_units": "1",
+    "cf-name": "cloud_type",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

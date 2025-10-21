@@ -1,0 +1,13 @@
+{
+    "id": "leaf-mass-content-of-carbon",
+    "validation-key": "leaf-mass-content-of-carbon",
+    "ui-label": "Leaf Mass Content Of Carbon",
+    "description": "\"Content\" indicates a quantity per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "leaf_mass_content_of_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

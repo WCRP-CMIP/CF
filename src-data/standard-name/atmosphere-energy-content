@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-energy-content",
+    "validation-key": "atmosphere-energy-content",
+    "ui-label": "Atmosphere Energy Content",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. \"Atmosphere energy content\" has not yet been precisely defined! Please express your views on this quantity on the CF email list.",
+    "canonical_units": "J m-2",
+    "cf-name": "atmosphere_energy_content",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

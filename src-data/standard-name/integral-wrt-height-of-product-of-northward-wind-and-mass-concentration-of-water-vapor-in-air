@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-height-of-product-of-northward-wind-and-mass-concentration-of-water-vapor-in-air",
+    "validation-key": "integral-wrt-height-of-product-of-northward-wind-and-mass-concentration-of-water-vapor-in-air",
+    "ui-label": "Integral Wrt Height Of Product Of Northward Wind And Mass Concentration Of Water Vapor In Air",
+    "description": "Northward vertically-integrated moisture flux per unit length in longitude. \"Northward\" indicates a vector component which is positive when directed northward (negative southward). Height is the vertical distance above the surface. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). The phrase \"product_of_X_and_Y\" means X*Y. The abbreviation \"wrt\" means \"with respect to\". The phrase \"integral_wrt_X_of_Y\" means int Y dX. To specify the limits of the integral the data variable should have an axis for X and associated coordinate bounds. If no axis for X is associated with the data variable, or no coordinate bounds are specified, it is assumed that the integral is calculated over the entire vertical extent of the medium, e.g, if the medium is air the integral is assumed to be calculated over the full depth of the atmosphere. \"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\".",
+    "canonical_units": "kg m-1 s-1",
+    "cf-name": "integral_wrt_height_of_product_of_northward_wind_and_mass_concentration_of_water_vapor_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

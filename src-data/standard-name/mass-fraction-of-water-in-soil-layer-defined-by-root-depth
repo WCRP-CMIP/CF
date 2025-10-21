@@ -1,0 +1,13 @@
+{
+    "id": "mass-fraction-of-water-in-soil-layer-defined-by-root-depth",
+    "validation-key": "mass-fraction-of-water-in-soil-layer-defined-by-root-depth",
+    "ui-label": "Mass Fraction Of Water In Soil Layer Defined By Root Depth",
+    "description": "\"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". \"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. The root depth is maximum depth of soil reached by plant roots, from which they can extract moisture. Depth is the vertical distance below the surface. A coordinate variable or scalar coordinate variable with standard name root_depth can be used to specify the extent of the layer. \"Water\" means water in all phases.",
+    "canonical_units": "1",
+    "cf-name": "mass_fraction_of_water_in_soil_layer_defined_by_root_depth",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

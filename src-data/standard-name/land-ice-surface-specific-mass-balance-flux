@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-surface-specific-mass-balance-flux",
+    "validation-key": "land-ice-surface-specific-mass-balance-flux",
+    "ui-label": "Land Ice Surface Specific Mass Balance Flux",
+    "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Specific mass balance\" means the net rate at which ice is added per unit area. A negative value means loss of ice. For an area-average, the cell_methods attribute should be used to specify whether the average is over the area of the whole grid cell or the area of land ice only. \"Surface specific mass balance\" means the net rate at which ice is added per unit area at the land ice surface due to all processes of surface accumulation and ablation.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "land_ice_surface_specific_mass_balance_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

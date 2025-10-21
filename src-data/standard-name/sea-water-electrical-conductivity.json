@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-electrical-conductivity",
+    "validation-key": "sea-water-electrical-conductivity",
+    "ui-label": "Sea Water Electrical Conductivity",
+    "description": null,
+    "canonical_units": "S m-1",
+    "cf-name": "sea_water_electrical_conductivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

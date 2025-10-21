@@ -1,0 +1,12 @@
+{
+    "id": "bellingshausen-sea",
+    "validation-key": "bellingshausen-sea",
+    "ui-label": "Bellingshausen Sea",
+    "description": "",
+    "cf-name": "bellingshausen_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

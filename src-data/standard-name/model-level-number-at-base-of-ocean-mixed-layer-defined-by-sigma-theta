@@ -1,0 +1,13 @@
+{
+    "id": "model-level-number-at-base-of-ocean-mixed-layer-defined-by-sigma-theta",
+    "validation-key": "model-level-number-at-base-of-ocean-mixed-layer-defined-by-sigma-theta",
+    "ui-label": "Model Level Number At Base Of Ocean Mixed Layer Defined By Sigma Theta",
+    "description": "The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed.  The base of the mixed layer defined by \"temperature\", \"sigma\", \"sigma_theta\", \"sigma_t\" or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. A coordinate variable or scalar coordinate variable with standard name sea_water_sigma_theta_difference can be used to specify the sigma_theta criterion that determines the layer thickness. Sigma-theta of sea water is the potential density (i.e. the density when moved adiabatically to a reference pressure) of water having the same temperature and salinity, minus 1000 kg m-3. The quantity model_level_number_at_base_of_ocean_mixed_layer_defined_by_sigma_theta is sometimes referred to as the \"bowl index\".",
+    "canonical_units": "1",
+    "cf-name": "model_level_number_at_base_of_ocean_mixed_layer_defined_by_sigma_theta",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-carbon-dioxide-expressed-as-carbon-due-to-anthropogenic-emission",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-carbon-dioxide-expressed-as-carbon-due-to-anthropogenic-emission",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Carbon Dioxide Expressed As Carbon Due To Anthropogenic Emission",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The phrase 'expressed_as' is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.  \"tendency_of_X\" means derivative of X with respect to time.  \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. earth's surface). \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names. The chemical formula for carbon dioxide is CO2. \"Anthropogenic\" means influenced, caused, or created by human activity. Anthropogenic emission of carbon dioxide includes fossil fuel use, cement production, agricultural burning and sources associated with anthropogenic land use change, except forest regrowth.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_carbon_dioxide_expressed_as_carbon_due_to_anthropogenic_emission",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

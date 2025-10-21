@@ -1,0 +1,13 @@
+{
+    "id": "upward-dry-static-energy-flux-due-to-diffusion",
+    "validation-key": "upward-dry-static-energy-flux-due-to-diffusion",
+    "ui-label": "Upward Dry Static Energy Flux Due To Diffusion",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Dry static energy is the sum of enthalpy and potential energy (itself the sum of gravitational and centripetal potential energy). Enthalpy can be written either as (1) CpT, where Cp is heat capacity at constant pressure, T is absolute temperature, or (2) U+pV, where U is internal energy, p is pressure and V is volume. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "upward_dry_static_energy_flux_due_to_diffusion",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

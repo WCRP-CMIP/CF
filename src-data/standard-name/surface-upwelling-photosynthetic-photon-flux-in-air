@@ -1,0 +1,13 @@
+{
+    "id": "surface-upwelling-photosynthetic-photon-flux-in-air",
+    "validation-key": "surface-upwelling-photosynthetic-photon-flux-in-air",
+    "ui-label": "Surface Upwelling Photosynthetic Photon Flux In Air",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. \"Photosynthetic\" radiation is the part of the spectrum which is used in photosynthesis e.g. 400-700 nm. The range of wavelengths could be specified precisely by the bounds of a coordinate of radiation_wavelength. A photon flux is specified in terms of numbers of photons expressed in moles. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "surface_upwelling_photosynthetic_photon_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

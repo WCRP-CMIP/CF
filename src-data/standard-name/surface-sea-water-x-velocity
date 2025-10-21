@@ -1,0 +1,13 @@
+{
+    "id": "surface-sea-water-x-velocity",
+    "validation-key": "surface-sea-water-x-velocity",
+    "ui-label": "Surface Sea Water X Velocity",
+    "description": "A velocity is a vector quantity. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. Ocean currents are related to phenomena of different nature and processes, such as density currents, currents raised by the wind, tide, wave propagation, mass flow in estuaries, etc. This standard name refers to the sum of currents of all origins.",
+    "canonical_units": "m s-1",
+    "cf-name": "surface_sea_water_x_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

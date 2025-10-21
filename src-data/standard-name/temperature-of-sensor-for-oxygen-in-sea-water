@@ -1,0 +1,13 @@
+{
+    "id": "temperature-of-sensor-for-oxygen-in-sea-water",
+    "validation-key": "temperature-of-sensor-for-oxygen-in-sea-water",
+    "ui-label": "Temperature Of Sensor For Oxygen In Sea Water",
+    "description": "Temperature_of_sensor_for_oxygen_in_sea_water is the instrument temperature used in calculating the concentration of oxygen in sea water; it is not a measurement of the ambient water temperature. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "temperature_of_sensor_for_oxygen_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

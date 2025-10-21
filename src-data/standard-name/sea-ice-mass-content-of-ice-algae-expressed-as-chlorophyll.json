@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-mass-content-of-ice-algae-expressed-as-chlorophyll",
+    "validation-key": "sea-ice-mass-content-of-ice-algae-expressed-as-chlorophyll",
+    "ui-label": "Sea Ice Mass Content Of Ice Algae Expressed As Chlorophyll",
+    "description": "Sum of chlorophyll from all ice algal group concentrations.  \"Content\" indicates a quantity per unit area. The phrase \"expressed_as\" is used in the construction \"A_expressed_as_B\", where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The \"sea_ice content\" of a quantity refers to the vertical integral from the surface down to the bottom of the sea ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. Sea-ice algae (or simply 'ice algae' when the context of sea ice is clear) refer to algae uniquely able to thrive within the sea-ice environment. This distinction from phytoplankton is essential, as several phytoplankton species that become trapped in sea ice eventually perish due to a lack of genetic adaptation or acclimation strategies to survive such conditions. By referring to 'sea-ice algae,' we highlight these algae's specific features and ecological significance within the sea-ice habitat. Chlorophylls are the green pigments found in most plants, algae and cyanobacteria; their presence is essential for photosynthesis to take place. There are several different forms of chlorophyll that occur naturally. All contain a chlorin ring (chemical formula C20H16N4) which gives the green pigment and a side chain whose structure varies. The naturally occurring forms of chlorophyll contain between 35 and 55 carbon atoms.",
+    "canonical_units": "kg m-2",
+    "cf-name": "sea_ice_mass_content_of_ice_algae_expressed_as_chlorophyll",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

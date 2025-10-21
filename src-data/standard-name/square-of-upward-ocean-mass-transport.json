@@ -1,0 +1,13 @@
+{
+    "id": "square-of-upward-ocean-mass-transport",
+    "validation-key": "square-of-upward-ocean-mass-transport",
+    "ui-label": "Square Of Upward Ocean Mass Transport",
+    "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).  Ocean transport means transport by all processes, both sea water and sea ice.  \"square_of_X\" means X*X.",
+    "canonical_units": "kg2 s-2",
+    "cf-name": "square_of_upward_ocean_mass_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

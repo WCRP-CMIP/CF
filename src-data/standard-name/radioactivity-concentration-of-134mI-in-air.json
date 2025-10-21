@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-134mI-in-air",
+    "validation-key": "radioactivity-concentration-of-134mi-in-air",
+    "ui-label": "Radioactivity Concentration Of 134mi In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"I\" means the element \"iodine\" and \"134mI\" is the metastable state of the isotope \"iodine-134\" with a half-life of 2.50e-03 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_134mI_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

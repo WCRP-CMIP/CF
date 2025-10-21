@@ -1,0 +1,13 @@
+{
+    "id": "downwelling-radiance-in-sea-water",
+    "validation-key": "downwelling-radiance-in-sea-water",
+    "ui-label": "Downwelling Radiance In Sea Water",
+    "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Radiance is the radiative flux in a particular direction, per unit of solid angle. The direction from which it is coming must be specified, for instance with a coordinate of zenith_angle. If the radiation does not depend on direction, a standard name of isotropic radiance should be chosen instead.",
+    "canonical_units": "W m-2 sr-1",
+    "cf-name": "downwelling_radiance_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

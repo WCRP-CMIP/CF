@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-212Po",
+    "validation-key": "surface-radioactivity-content-of-212po",
+    "ui-label": "Surface Radioactivity Content Of 212po",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Po\" means the element \"polonium\" and \"212Po\" is the isotope \"polonium-212\" with a half-life of 3.52e-12 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_212Po",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

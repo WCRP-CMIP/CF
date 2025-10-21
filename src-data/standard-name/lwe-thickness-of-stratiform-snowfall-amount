@@ -1,0 +1,13 @@
+{
+    "id": "lwe-thickness-of-stratiform-snowfall-amount",
+    "validation-key": "lwe-thickness-of-stratiform-snowfall-amount",
+    "ui-label": "Lwe Thickness Of Stratiform Snowfall Amount",
+    "description": "\"Amount\" means mass per unit area.  \"lwe\" means liquid water equivalent.  The construction lwe_thickness_of_X_amount or _content means the vertical extent of a layer of liquid water having the same mass per unit area.  Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.",
+    "canonical_units": "m",
+    "cf-name": "lwe_thickness_of_stratiform_snowfall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

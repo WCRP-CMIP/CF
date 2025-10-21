@@ -1,0 +1,13 @@
+{
+    "id": "ocean-heat-x-transport",
+    "validation-key": "ocean-heat-x-transport",
+    "ui-label": "Ocean Heat X Transport",
+    "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x.",
+    "canonical_units": "W",
+    "cf-name": "ocean_heat_x_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-moles-of-propene",
+    "validation-key": "tendency-of-atmosphere-moles-of-propene",
+    "ui-label": "Tendency Of Atmosphere Moles Of Propene",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.  The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for propene is C3H6. Propene is a member of the group of hydrocarbons known as alkenes.  There are standard names for the alkene group as well as for some of the individual species.",
+    "canonical_units": "mol s-1",
+    "cf-name": "tendency_of_atmosphere_moles_of_propene",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

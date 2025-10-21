@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-velocity-to-direction",
+    "validation-key": "sea-water-velocity-to-direction",
+    "ui-label": "Sea Water Velocity To Direction",
+    "description": "A velocity is a vector quantity. The phrase \"to_direction\" is used in the construction X_to_direction and indicates the direction towards which the velocity vector of X is headed. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north.",
+    "canonical_units": "degree",
+    "cf-name": "sea_water_velocity_to_direction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "model-level-number-at-convective-cloud-top",
+    "validation-key": "model-level-number-at-convective-cloud-top",
+    "ui-label": "Model Level Number At Convective Cloud Top",
+    "description": "cloud_top refers to the top of the highest cloud. Model level number should be understood as equivalent to layer number. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+    "canonical_units": "1",
+    "cf-name": "model_level_number_at_convective_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tropical-cyclone-maximum-sustained-wind-speed",
+    "validation-key": "tropical-cyclone-maximum-sustained-wind-speed",
+    "ui-label": "Tropical Cyclone Maximum Sustained Wind Speed",
+    "description": "The quantity with standard name tropical_cyclone_maximum_sustained_wind_speed is the maximum sustained wind speed of a tropical cyclone, sustained over a period of one minute at the surface of the earth, derived using the Advanced Dvorak Technique based on satellite observations. Reference: Olander, T. L., & Velden, C. S., The Advanced Dvorak Technique: Continued Development of an Objective Scheme to Estimate Tropical Cyclone Intensity Using Geostationary Infrared Satellite Imagery (2007). American Meteorological Society Weather and Forecasting, 22, 287-298.",
+    "canonical_units": "m s-1",
+    "cf-name": "tropical_cyclone_maximum_sustained_wind_speed",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

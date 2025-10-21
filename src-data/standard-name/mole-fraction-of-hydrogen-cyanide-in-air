@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-hydrogen-cyanide-in-air",
+    "validation-key": "mole-fraction-of-hydrogen-cyanide-in-air",
+    "ui-label": "Mole Fraction Of Hydrogen Cyanide In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of hydrogen cyanide is HCN.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_hydrogen_cyanide_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-hybrid-height-coordinate",
+    "validation-key": "atmosphere-hybrid-height-coordinate",
+    "ui-label": "Atmosphere Hybrid Height Coordinate",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "m",
+    "cf-name": "atmosphere_hybrid_height_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

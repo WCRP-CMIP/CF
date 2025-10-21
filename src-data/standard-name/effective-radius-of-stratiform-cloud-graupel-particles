@@ -1,0 +1,13 @@
+{
+    "id": "effective-radius-of-stratiform-cloud-graupel-particles",
+    "validation-key": "effective-radius-of-stratiform-cloud-graupel-particles",
+    "ui-label": "Effective Radius Of Stratiform Cloud Graupel Particles",
+    "description": "The effective radius of a size distribution of particles, such as aerosols, cloud droplets or ice crystals, is the area weighted mean radius of particle size. It is calculated as the ratio of the third to the second moment of the particle size distribution. In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes).",
+    "canonical_units": "m",
+    "cf-name": "effective_radius_of_stratiform_cloud_graupel_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

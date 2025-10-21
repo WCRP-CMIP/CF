@@ -1,0 +1,12 @@
+{
+    "id": "platform-id",
+    "validation-key": "platform-id",
+    "ui-label": "Platform Id",
+    "description": "A variable with the standard name of platform_id contains strings which help to identify the platform from which an observation was made. For example, this may be a WMO station identification number. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "cf-name": "platform_id",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

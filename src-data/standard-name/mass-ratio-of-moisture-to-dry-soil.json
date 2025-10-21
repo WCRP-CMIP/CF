@@ -1,0 +1,13 @@
+{
+    "id": "mass-ratio-of-moisture-to-dry-soil",
+    "validation-key": "mass-ratio-of-moisture-to-dry-soil",
+    "ui-label": "Mass Ratio Of Moisture To Dry Soil",
+    "description": "The quantity with standard name mass_ratio_of_moisture_to_dry_soil is also known as the water content of a soil or the wet-basis gravimetric moisture content. It is the ratio of the mass of water (liquid and solid) to the mass of the dried sample. The phrase \"ratio_of_X_to_Y\" means X/Y. It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction.",
+    "canonical_units": "1",
+    "cf-name": "mass_ratio_of_moisture_to_dry_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-litter-mass-content-of-nitrogen",
+    "validation-key": "surface-litter-mass-content-of-nitrogen",
+    "ui-label": "Surface Litter Mass Content Of Nitrogen",
+    "description": "\"Content\" indicates a quantity per unit area. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Surface litter\" means the part of the litter resting above the soil surface. The sum of the quantities with standard names wood_debris_mass_content_of_nitrogen, surface_litter_mass_content_of_nitrogen and subsurface_litter_mass_content_of_nitrogen is the total nitrogen mass content of dead plant material.",
+    "canonical_units": "kg m-2",
+    "cf-name": "surface_litter_mass_content_of_nitrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

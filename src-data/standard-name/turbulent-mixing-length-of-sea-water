@@ -1,0 +1,13 @@
+{
+    "id": "turbulent-mixing-length-of-sea-water",
+    "validation-key": "turbulent-mixing-length-of-sea-water",
+    "ui-label": "Turbulent Mixing Length Of Sea Water",
+    "description": "\"Turbulent mixing length\" is used in models to describe the average distance over which a fluid parcel can travel while retaining properties that allow the parcel to be distinguished from its immediate environment. \"Turbulent mixing\" means chaotic fluctuations of the fluid flow.",
+    "canonical_units": "m",
+    "cf-name": "turbulent_mixing_length_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

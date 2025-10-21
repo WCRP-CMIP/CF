@@ -1,0 +1,13 @@
+{
+    "id": "isotope-ratio-of-17O-to-16O-in-sea-water-excluding-solutes-and-solids",
+    "validation-key": "isotope-ratio-of-17o-to-16o-in-sea-water-excluding-solutes-and-solids",
+    "ui-label": "Isotope Ratio Of 17o To 16o In Sea Water Excluding Solutes And Solids",
+    "description": "The phrase \"ratio_of_X_to_Y\" means X/Y. The phrase \"isotope_ratio\" is used in the construction isotope_ratio_of_A_to_B where A and B are both named isotopes. It means the ratio of the number of atoms of A to the number of atoms of B present within a medium. \"O\" means the element \"oxygen\" and \"17O\" is the stable isotope \"oxygen-17\". \"16O\" is the stable isotope \"oxygen-16\". The phrase \"in_sea_water_excluding_solutes_and_solids\" means that the standard name refers only to the chemical compound water and does not include material that may be dissolved or suspended in the aqueous medium.",
+    "canonical_units": "1",
+    "cf-name": "isotope_ratio_of_17O_to_16O_in_sea_water_excluding_solutes_and_solids",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

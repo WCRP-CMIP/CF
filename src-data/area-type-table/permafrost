@@ -1,0 +1,12 @@
+{
+    "id": "permafrost",
+    "validation-key": "permafrost",
+    "ui-label": "Permafrost",
+    "description": "An area type of \"permafrost\" indicates where soil or rock has remained at a temperature at or below zero degrees Celsius throughout the seasonal cycle for two or more years.",
+    "cf-name": "permafrost",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

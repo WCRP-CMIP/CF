@@ -1,0 +1,13 @@
+{
+    "id": "upward-ocean-mass-transport",
+    "validation-key": "upward-ocean-mass-transport",
+    "ui-label": "Upward Ocean Mass Transport",
+    "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward).",
+    "canonical_units": "kg s-1",
+    "cf-name": "upward_ocean_mass_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

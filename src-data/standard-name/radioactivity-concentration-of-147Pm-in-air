@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-147Pm-in-air",
+    "validation-key": "radioactivity-concentration-of-147pm-in-air",
+    "ui-label": "Radioactivity Concentration Of 147pm In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pm\" means the element \"promethium\" and \"147Pm\" is the isotope \"promethium-147\" with a half-life of 9.57e+02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_147Pm_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

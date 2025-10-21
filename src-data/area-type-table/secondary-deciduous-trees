@@ -1,0 +1,12 @@
+{
+    "id": "secondary-deciduous-trees",
+    "validation-key": "secondary-deciduous-trees",
+    "ui-label": "Secondary Deciduous Trees",
+    "description": "A secondary forest is a forest that has been logged and has recovered naturally or artificially. Reference: 'Report of the ad hoc technical expert group on forest biological diversity', United Nations Convention on Biological Diversity, www.cbd.int/forest/definitions.shtml. Deciduous trees lose their leaves seasonally, for example, during winter in high latitudes or following seasonal variations in rainfall.",
+    "cf-name": "secondary_deciduous_trees",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

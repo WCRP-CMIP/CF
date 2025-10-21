@@ -1,0 +1,13 @@
+{
+    "id": "sea-floor-depth-below-sea-surface",
+    "validation-key": "sea-floor-depth-below-sea-surface",
+    "ui-label": "Sea Floor Depth Below Sea Surface",
+    "description": "The sea_floor_depth_below_sea_surface is the vertical distance between the sea surface and the seabed as measured at a given point in space including the variance caused by tides and possibly waves.",
+    "canonical_units": "m",
+    "cf-name": "sea_floor_depth_below_sea_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

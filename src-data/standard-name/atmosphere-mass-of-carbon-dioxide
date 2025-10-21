@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-of-carbon-dioxide",
+    "validation-key": "atmosphere-mass-of-carbon-dioxide",
+    "ui-label": "Atmosphere Mass Of Carbon Dioxide",
+    "description": "The chemical formula for carbon dioxide is CO2.",
+    "canonical_units": "kg",
+    "cf-name": "atmosphere_mass_of_carbon_dioxide",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

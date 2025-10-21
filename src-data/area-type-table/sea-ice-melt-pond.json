@@ -1,0 +1,12 @@
+{
+    "id": "sea-ice-melt-pond",
+    "validation-key": "sea-ice-melt-pond",
+    "ui-label": "Sea Ice Melt Pond",
+    "description": "The area classified as type \"sea_ice\" within a grid cell is unaltered when an area of type \"sea_ice_melt_pond\" is also present because melt ponds occur on top of the existing sea ice.",
+    "cf-name": "sea_ice_melt_pond",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

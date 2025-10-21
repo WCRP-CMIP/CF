@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-updraft-convective-mass-flux",
+    "validation-key": "atmosphere-updraft-convective-mass-flux",
+    "ui-label": "Atmosphere Updraft Convective Mass Flux",
+    "description": "The atmosphere convective mass flux is the vertical transport of mass for a field of cumulus clouds or thermals, given by the product of air density and vertical velocity. For an area-average, cell_methods should specify whether the average is over all the area or the area of updrafts and/or downdrafts only. \"Updraft\" means that the flux is positive in the updward direction (negative downward). upward. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "atmosphere_updraft_convective_mass_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "mole-content-of-biological-taxon-expressed-as-carbon-at-sea-floor",
+    "validation-key": "mole-content-of-biological-taxon-expressed-as-carbon-at-sea-floor",
+    "ui-label": "Mole Content Of Biological Taxon Expressed As Carbon At Sea Floor",
+    "description": "Content\" indicates a quantity per unit area. \"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. There must be an auxiliary coordinate variable with standard name biological_taxon_name to identify the taxon in human readable format and optionally an auxiliary coordinate variable with standard name biological_taxon_lsid to provide a machine-readable identifier. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables. The biological taxon at the sea floor is that adjacent to the ocean bottom, which would be the deepest grid cell in an ocean model and within the benthic boundary layer for measurements. \"The phrase \"expressed_as\" is used in the construction \"A_expressed_as_B\", where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The surface called \"sea floor\" means the lower boundary of the ocean.\"",
+    "canonical_units": "mol m-2",
+    "cf-name": "mole_content_of_biological_taxon_expressed_as_carbon_at_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

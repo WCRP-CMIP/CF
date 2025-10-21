@@ -1,0 +1,12 @@
+{
+    "id": "land",
+    "validation-key": "land",
+    "ui-label": "Land",
+    "description": null,
+    "cf-name": "land",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

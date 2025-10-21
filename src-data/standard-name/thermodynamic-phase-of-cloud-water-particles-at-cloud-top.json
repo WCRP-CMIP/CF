@@ -1,0 +1,12 @@
+{
+    "id": "thermodynamic-phase-of-cloud-water-particles-at-cloud-top",
+    "validation-key": "thermodynamic-phase-of-cloud-water-particles-at-cloud-top",
+    "ui-label": "Thermodynamic Phase Of Cloud Water Particles At Cloud Top",
+    "description": "A variable with the standard name of thermodynamic_phase_of_cloud_water_particles_at_cloud_top contains integers which can be translated to strings using flag_values and flag_meanings attributes. Alternatively, the data variable may contain strings which indicate the thermodynamic phase. These strings are standardised. Values must be chosen from the following list: liquid; ice; mixed; clear_sky; super_cooled_liquid_water; unknown. \"Water\" means water in all phases. The phrase \"cloud_top\" refers to the top of the highest cloud.",
+    "cf-name": "thermodynamic_phase_of_cloud_water_particles_at_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "air-density",
+    "validation-key": "air-density",
+    "ui-label": "Air Density",
+    "description": null,
+    "canonical_units": "kg m-3",
+    "cf-name": "air_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

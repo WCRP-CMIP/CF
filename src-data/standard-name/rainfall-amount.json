@@ -1,0 +1,13 @@
+{
+    "id": "rainfall-amount",
+    "validation-key": "rainfall-amount",
+    "ui-label": "Rainfall Amount",
+    "description": "\"Amount\" means mass per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "rainfall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

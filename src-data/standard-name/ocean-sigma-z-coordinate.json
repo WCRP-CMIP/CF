@@ -1,0 +1,13 @@
+{
+    "id": "ocean-sigma-z-coordinate",
+    "validation-key": "ocean-sigma-z-coordinate",
+    "ui-label": "Ocean Sigma Z Coordinate",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "1",
+    "cf-name": "ocean_sigma_z_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

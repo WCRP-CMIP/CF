@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-221Fr",
+    "validation-key": "surface-radioactivity-content-of-221fr",
+    "ui-label": "Surface Radioactivity Content Of 221fr",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Fr\" means the element \"francium\" and \"221Fr\" is the isotope \"francium-221\" with a half-life of 3.33e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_221Fr",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

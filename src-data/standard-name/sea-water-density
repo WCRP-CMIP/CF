@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-density",
+    "validation-key": "sea-water-density",
+    "ui-label": "Sea Water Density",
+    "description": "Sea water density is the in-situ density (not the potential density). If 1000 kg m-3 is subtracted, the standard name sea_water_sigma_t should be chosen instead.",
+    "canonical_units": "kg m-3",
+    "cf-name": "sea_water_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

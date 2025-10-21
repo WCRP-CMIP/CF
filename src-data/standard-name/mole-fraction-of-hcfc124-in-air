@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-hcfc124-in-air",
+    "validation-key": "mole-fraction-of-hcfc124-in-air",
+    "ui-label": "Mole Fraction Of Hcfc124 In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for hcfc124 is C2HClF4. The IUPAC name for hcfc124 is 1-chloro-1,2,2,2-tetrafluoroethane.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_hcfc124_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

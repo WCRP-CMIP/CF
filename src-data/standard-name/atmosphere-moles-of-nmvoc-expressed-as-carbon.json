@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-nmvoc-expressed-as-carbon",
+    "validation-key": "atmosphere-moles-of-nmvoc-expressed-as-carbon",
+    "ui-label": "Atmosphere Moles Of Nmvoc Expressed As Carbon",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"nmvoc\" means non methane volatile organic compounds; \"nmvoc\" is the term used in standard names to describe the group of chemical species having this classification that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_nmvoc_expressed_as_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

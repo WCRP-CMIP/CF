@@ -1,0 +1,13 @@
+{
+    "id": "change-over-time-in-groundwater-amount",
+    "validation-key": "change-over-time-in-groundwater-amount",
+    "ui-label": "Change Over Time In Groundwater Amount",
+    "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Water\" means water in all phases. Groundwater is subsurface water below the depth of the water table. \"Amount\" means mass per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "change_over_time_in_groundwater_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-downward-mole-flux-of-molecular-oxygen",
+    "validation-key": "surface-downward-mole-flux-of-molecular-oxygen",
+    "ui-label": "Surface Downward Mole Flux Of Molecular Oxygen",
+    "description": "\"Downward\" indicates a vector component which is positive when directed downward (negative upward).  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.  The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "surface_downward_mole_flux_of_molecular_oxygen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

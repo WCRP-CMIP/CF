@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-halon1202",
+    "validation-key": "atmosphere-mass-content-of-halon1202",
+    "ui-label": "Atmosphere Mass Content Of Halon1202",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. The chemical formula for Halon1202 is CBr2F2. The IUPAC name for Halon1202 is dibromo(difluoro)methane.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_halon1202",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

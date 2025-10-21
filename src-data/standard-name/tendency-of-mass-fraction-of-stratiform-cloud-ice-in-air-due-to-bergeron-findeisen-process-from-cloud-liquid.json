@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-mass-fraction-of-stratiform-cloud-ice-in-air-due-to-bergeron-findeisen-process-from-cloud-liquid",
+    "validation-key": "tendency-of-mass-fraction-of-stratiform-cloud-ice-in-air-due-to-bergeron-findeisen-process-from-cloud-liquid",
+    "ui-label": "Tendency Of Mass Fraction Of Stratiform Cloud Ice In Air Due To Bergeron Findeisen Process From Cloud Liquid",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Mass fraction\" is used in the construction \"mass_fraction_of_X_in_Y\", where X is a material constituent of Y. It means the ratio of the mass of X to the mass of Y (including X). A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes). The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The Bergeron-Findeisen process is the conversion of cloud liquid water to cloud ice arising from the fact that water vapor has a lower equilibrium vapor pressure with respect to ice than it has with respect to liquid water at the same subfreezing temperature.",
+    "canonical_units": "s-1",
+    "cf-name": "tendency_of_mass_fraction_of_stratiform_cloud_ice_in_air_due_to_bergeron_findeisen_process_from_cloud_liquid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

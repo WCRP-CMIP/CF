@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-sigma-t-difference",
+    "validation-key": "sea-water-sigma-t-difference",
+    "ui-label": "Sea Water Sigma T Difference",
+    "description": "Sigma-t of sea water is the density of water at atmospheric pressure (i.e. the surface) having the same temperature and salinity, minus 1000 kg m-3.",
+    "canonical_units": "kg m-3",
+    "cf-name": "sea_water_sigma_t_difference",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

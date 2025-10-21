@@ -1,0 +1,13 @@
+{
+    "id": "mole-concentration-of-dissolved-molecular-oxygen-in-sea-water-at-shallowest-local-minimum-in-vertical-profile",
+    "validation-key": "mole-concentration-of-dissolved-molecular-oxygen-in-sea-water-at-shallowest-local-minimum-in-vertical-profile",
+    "ui-label": "Mole Concentration Of Dissolved Molecular Oxygen In Sea Water At Shallowest Local Minimum In Vertical Profile",
+    "description": "Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The concentration of any chemical species, whether particulate or dissolved, may vary with depth in the ocean. A depth profile may go through one or more local minima in concentration. The mole_concentration_of_molecular_oxygen_in_sea_water_at_shallowest_local_minimum_in_vertical_profile is the mole concentration of oxygen at the local minimum in the concentration profile that occurs closest to the sea surface. The chemical formula for molecular oxygen is O2.",
+    "canonical_units": "mol m-3",
+    "cf-name": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water_at_shallowest_local_minimum_in_vertical_profile",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

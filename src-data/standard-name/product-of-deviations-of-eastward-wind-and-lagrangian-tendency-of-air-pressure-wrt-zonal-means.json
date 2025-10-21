@@ -1,0 +1,13 @@
+{
+    "id": "product-of-deviations-of-eastward-wind-and-lagrangian-tendency-of-air-pressure-wrt-zonal-means",
+    "validation-key": "product-of-deviations-of-eastward-wind-and-lagrangian-tendency-of-air-pressure-wrt-zonal-means",
+    "ui-label": "Product Of Deviations Of Eastward Wind And Lagrangian Tendency Of Air Pressure Wrt Zonal Means",
+    "description": "The phrase \"product_of_X_and_Y\" means X*Y. The phrase \"deviations_of_X_and_Y_wrt_zonal_means\" means the deviations of X and Y about their respective zonal mean values. The product of the deviations of X and Y about their respective zonal mean values is sometimes referred to as a zonal eddy covariance when averaged over longitude. The abbreviation \"wrt\" means \"with respect to\". \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). The phrase \"tendency_of_X\" means derivative of X with respect to time. The Lagrangian tendency of air pressure, often called \"omega\", plays the role of the upward component of air velocity when air pressure is being used as the vertical coordinate. If the vertical air velocity is upwards, it is negative when expressed as a tendency of air pressure; downwards is positive. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa m s-2",
+    "cf-name": "product_of_deviations_of_eastward_wind_and_lagrangian_tendency_of_air_pressure_wrt_zonal_means",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

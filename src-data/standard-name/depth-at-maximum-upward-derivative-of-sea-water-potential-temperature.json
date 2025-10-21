@@ -1,0 +1,13 @@
+{
+    "id": "depth-at-maximum-upward-derivative-of-sea-water-potential-temperature",
+    "validation-key": "depth-at-maximum-upward-derivative-of-sea-water-potential-temperature",
+    "ui-label": "Depth At Maximum Upward Derivative Of Sea Water Potential Temperature",
+    "description": "This quantity, often used to indicate the \"thermocline depth\", is the depth of the maximum vertical gradient of sea water potential temperature.  Depth is the vertical distance below the surface. Potential temperature is the temperature a parcel of air or sea water would have if moved adiabatically to sea level pressure.",
+    "canonical_units": "m",
+    "cf-name": "depth_at_maximum_upward_derivative_of_sea_water_potential_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

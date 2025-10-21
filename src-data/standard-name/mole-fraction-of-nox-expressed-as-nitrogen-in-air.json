@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-nox-expressed-as-nitrogen-in-air",
+    "validation-key": "mole-fraction-of-nox-expressed-as-nitrogen-in-air",
+    "ui-label": "Mole Fraction Of Nox Expressed As Nitrogen In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Nox\" means a combination of two radical species containing nitrogen and oxygen: NO+NO2.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_nox_expressed_as_nitrogen_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

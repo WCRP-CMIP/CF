@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-138Cs",
+    "validation-key": "surface-radioactivity-content-of-138cs",
+    "ui-label": "Surface Radioactivity Content Of 138cs",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Cs\" means the element \"cesium\" and \"138Cs\" is the isotope \"cesium-138\" with a half-life of 2.23e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_138Cs",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

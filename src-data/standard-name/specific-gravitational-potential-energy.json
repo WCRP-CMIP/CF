@@ -1,0 +1,13 @@
+{
+    "id": "specific-gravitational-potential-energy",
+    "validation-key": "specific-gravitational-potential-energy",
+    "ui-label": "Specific Gravitational Potential Energy",
+    "description": "\"specific\" means per unit mass. Potential energy is the sum of the gravitational potential energy relative to the geoid and the centripetal potential energy. (The geopotential is the specific potential energy.)",
+    "canonical_units": "J kg-1",
+    "cf-name": "specific_gravitational_potential_energy",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

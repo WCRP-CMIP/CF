@@ -1,0 +1,13 @@
+{
+    "id": "toa-outgoing-longwave-flux",
+    "validation-key": "toa-outgoing-longwave-flux",
+    "ui-label": "Toa Outgoing Longwave Flux",
+    "description": "\"longwave\" means longwave radiation. \"toa\" means top of atmosphere. The TOA outgoing longwave flux is the upwelling thermal radiative flux, often called the \"outgoing longwave radiation\" or \"OLR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_outgoing_longwave_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

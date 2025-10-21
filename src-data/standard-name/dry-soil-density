@@ -1,0 +1,13 @@
+{
+    "id": "dry-soil-density",
+    "validation-key": "dry-soil-density",
+    "ui-label": "Dry Soil Density",
+    "description": "The density of the soil after oven drying until constant mass is reached. Volume is determined from the field sample volume. The density of a substance is its mass per unit volume.",
+    "canonical_units": "kg m-3",
+    "cf-name": "dry_soil_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

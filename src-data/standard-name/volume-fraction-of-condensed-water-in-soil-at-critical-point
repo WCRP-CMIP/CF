@@ -1,0 +1,13 @@
+{
+    "id": "volume-fraction-of-condensed-water-in-soil-at-critical-point",
+    "validation-key": "volume-fraction-of-condensed-water-in-soil-at-critical-point",
+    "ui-label": "Volume Fraction Of Condensed Water In Soil At Critical Point",
+    "description": "\"Volume fraction\" is used in the construction \"volume_fraction_of_X_in_Y\", where X is a material constituent of Y. It is evaluated as the volume of X divided by the volume of Y (including X). It may be expressed as a fraction, a percentage, or any other dimensionless representation of a fraction. The phrase \"condensed_water\" means liquid and ice. When soil moisture equals or exceeds the critical point, evapotranspiration takes place at the potential rate and is controlled by the ambient meteorological conditions (temperature, wind, relative humidity). Potential evapotranspiration is the rate at which evapotranspiration would occur under ambient conditions from a uniformly vegetated area when the water supply is not limiting.",
+    "canonical_units": "1",
+    "cf-name": "volume_fraction_of_condensed_water_in_soil_at_critical_point",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

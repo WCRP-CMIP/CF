@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-227Th",
+    "validation-key": "surface-radioactivity-content-of-227th",
+    "ui-label": "Surface Radioactivity Content Of 227th",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Th\" means the element \"thorium\" and \"227Th\" is the isotope \"thorium-227\" with a half-life of 1.82e+01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_227Th",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

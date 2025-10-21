@@ -1,0 +1,13 @@
+{
+    "id": "heat-flux-into-sea-water-due-to-freezing-of-frazil-ice",
+    "validation-key": "heat-flux-into-sea-water-due-to-freezing-of-frazil-ice",
+    "ui-label": "Heat Flux Into Sea Water Due To Freezing Of Frazil Ice",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Frazil\" consists of needle like crystals of ice, typically between three and four millimeters in diameter, which form as sea water begins to freeze. Salt is expelled during the freezing process and frazil ice consists of nearly pure fresh water.",
+    "canonical_units": "W m-2",
+    "cf-name": "heat_flux_into_sea_water_due_to_freezing_of_frazil_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

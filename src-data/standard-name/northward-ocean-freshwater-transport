@@ -1,0 +1,13 @@
+{
+    "id": "northward-ocean-freshwater-transport",
+    "validation-key": "northward-ocean-freshwater-transport",
+    "ui-label": "Northward Ocean Freshwater Transport",
+    "description": "\"Northward\" indicates a vector component which is positive when directed northward (negative southward). Ocean transport means transport by all processes, both sea water and sea ice.",
+    "canonical_units": "kg s-1",
+    "cf-name": "northward_ocean_freshwater_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

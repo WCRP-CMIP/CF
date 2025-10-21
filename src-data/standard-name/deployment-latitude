@@ -1,0 +1,13 @@
+{
+    "id": "deployment-latitude",
+    "validation-key": "deployment-latitude",
+    "ui-label": "Deployment Latitude",
+    "description": "The latitude of deployment of a station or instrument. The term can be used whenever the deployment position of a station or instrument needs to be supplied along with other types of positions. If a data variable has only one latitude coordinate variable, the standard name of latitude should generally be preferred to deployment_latitude, because latitude is recognised by generic software. If the deployment latitude is also the nominal latitude for a discrete geometry (as in Section 9.5 of the CF convention), the deployment latitude should also, or instead, be recorded in a coordinate variable with the standard name of latitude and axis=\"Y\". Latitude is positive northward; its units of \"degree_north\" (or equivalent) indicate this explicitly.",
+    "canonical_units": "degree_north",
+    "cf-name": "deployment_latitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "stratiform-rainfall-amount",
+    "validation-key": "stratiform-rainfall-amount",
+    "ui-label": "Stratiform Rainfall Amount",
+    "description": "Stratiform precipitation, whether liquid or frozen, is precipitation that formed in stratiform cloud.  \"Amount\" means mass per unit area.",
+    "canonical_units": "kg m-2",
+    "cf-name": "stratiform_rainfall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

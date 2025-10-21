@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-nmvoc-due-to-emission-from-energy-production-and-distribution",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-nmvoc-due-to-emission-from-energy-production-and-distribution",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Nmvoc Due To Emission From Energy Production And Distribution",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. the surface of the earth). \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names. \"nmvoc\" means non methane volatile organic compounds; \"nmvoc\" is the term used in standard names to describe the group of chemical species having this classification that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. The \"energy production and distribution\" sector comprises fuel combustion activities related to energy industries and fugitive emissions from fuels. It may also include any not-classified or \"other\" combustion, which is commonly included in energy-related inventory data. \"Energy production and distribution\" is the term used in standard names to describe a collection of emission sources. A variable which has this value for the standard_name attribute should be accompanied by a comment attribute which lists the source categories and provides a reference to the categorization scheme, for example, \"IPCC (Intergovernmental Panel on Climate Change) source categories 1A1 and 1B as defined in the 2006 IPCC guidelines for national greenhouse gas inventories\".",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_nmvoc_due_to_emission_from_energy_production_and_distribution",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

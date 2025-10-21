@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-86mRb",
+    "validation-key": "surface-radioactivity-content-of-86mrb",
+    "ui-label": "Surface Radioactivity Content Of 86mrb",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rb\" means the element \"rubidium\" and \"86mRb\" is the metastable state of the isotope \"rubidium-86\" with a half-life of 7.04e-04 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_86mRb",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

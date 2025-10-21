@@ -1,0 +1,13 @@
+{
+    "id": "relative-sensor-azimuth-angle",
+    "validation-key": "relative-sensor-azimuth-angle",
+    "ui-label": "Relative Sensor Azimuth Angle",
+    "description": "relative_sensor_azimuth_angle is the difference between the viewing geometries from two different sensors over the same observation target. It is the difference between the values of two quantities with standard name sensor_azimuth_angle. There is no standardized sign convention for relative_sensor_azimuth_angle. \"Observation target\" means a location on the Earth defined by the sensor performing the observations. A standard name also exists for relative_platform_azimuth_angle, where \"platform\" refers to the vehicle from which observations are made e.g. aeroplane, ship, or satellite. For some viewing geometries the sensor and the platform cannot be assumed to be close enough to neglect the difference in calculated azimuth angle.",
+    "canonical_units": "degree",
+    "cf-name": "relative_sensor_azimuth_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

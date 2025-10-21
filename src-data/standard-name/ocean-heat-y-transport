@@ -1,0 +1,13 @@
+{
+    "id": "ocean-heat-y-transport",
+    "validation-key": "ocean-heat-y-transport",
+    "ui-label": "Ocean Heat Y Transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
+    "canonical_units": "W",
+    "cf-name": "ocean_heat_y_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

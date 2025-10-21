@@ -1,0 +1,13 @@
+{
+    "id": "square-of-brunt-vaisala-frequency-in-air",
+    "validation-key": "square-of-brunt-vaisala-frequency-in-air",
+    "ui-label": "Square Of Brunt Vaisala Frequency In Air",
+    "description": "The phrase \"square_of_X\" means X*X. Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.",
+    "canonical_units": "s-2",
+    "cf-name": "square_of_brunt_vaisala_frequency_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

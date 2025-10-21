@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-surface-melt-flux",
+    "validation-key": "land-ice-surface-melt-flux",
+    "ui-label": "Land Ice Surface Melt Flux",
+    "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The surface called \"surface\" means the lower boundary of the atmosphere. The land_ice_surface_melt_flux is the loss of ice mass resulting from surface melting. For an area-average, the cell_methods attribute should be used to specify whether the average is over the area of the whole grid cell or the area of land ice only. There is also a standard name for the quantity surface_snow_and_ice_melt_flux.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "land_ice_surface_melt_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

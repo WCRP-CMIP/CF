@@ -1,0 +1,13 @@
+{
+    "id": "modis-liquid-topped-cloud-area-fraction",
+    "validation-key": "modis-liquid-topped-cloud-area-fraction",
+    "ui-label": "Modis Liquid Topped Cloud Area Fraction",
+    "description": "Liquid means liquid-topped clouds, as seen by the MODIS simulator. To distinguish that these are cloud area fractions as seen by a specific satellite instrument simulator, not the same as cloud area fractions diagnosed by the native model, the prefix format of satellite name_ is employed. \"Area fraction\" is the fraction of a grid cell's horizontal area that has some characteristic of interest. It is evaluated as the area of interest divided by the grid cell area, or if the cell_methods restricts the evaluation to some portion of that grid cell (e.g. \"where sea_ice\"), then it is the area of interest divided by the area of the identified portion.",
+    "canonical_units": "1",
+    "cf-name": "modis_liquid_topped_cloud_area_fraction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

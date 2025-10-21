@@ -1,0 +1,12 @@
+{
+    "id": "river",
+    "validation-key": "river",
+    "ui-label": "River",
+    "description": "The area type river means flowing water in a channel that is mainly driven by gravity. It includes streams, creeks and canals but not lakes or seas. It also includes water in a floodplain.",
+    "cf-name": "river",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

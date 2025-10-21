@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-151Sm",
+    "validation-key": "surface-radioactivity-content-of-151sm",
+    "ui-label": "Surface Radioactivity Content Of 151sm",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sm\" means the element \"samarium\" and \"151Sm\" is the isotope \"samarium-151\" with a half-life of 3.40e+04 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_151Sm",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

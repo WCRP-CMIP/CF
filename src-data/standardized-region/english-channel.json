@@ -1,0 +1,12 @@
+{
+    "id": "english-channel",
+    "validation-key": "english-channel",
+    "ui-label": "English Channel",
+    "description": "",
+    "cf-name": "english_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-ocean-barotropic-streamfunction",
+    "validation-key": "tendency-of-ocean-barotropic-streamfunction",
+    "ui-label": "Tendency Of Ocean Barotropic Streamfunction",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time.",
+    "canonical_units": "m3 s-2",
+    "cf-name": "tendency_of_ocean_barotropic_streamfunction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

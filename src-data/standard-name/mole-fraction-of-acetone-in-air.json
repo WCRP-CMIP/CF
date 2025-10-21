@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-acetone-in-air",
+    "validation-key": "mole-fraction-of-acetone-in-air",
+    "ui-label": "Mole Fraction Of Acetone In Air",
+    "description": "Mole fraction is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Acetone is an organic molecule with the chemical formula CH3CH3CO. The IUPAC name for acetone is propan-2-one. Acetone is a member of the group of organic compounds known as ketones. There are standard names for the ketone group as well as for some of the individual species.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_acetone_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

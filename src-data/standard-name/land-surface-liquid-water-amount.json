@@ -1,0 +1,13 @@
+{
+    "id": "land-surface-liquid-water-amount",
+    "validation-key": "land-surface-liquid-water-amount",
+    "ui-label": "Land Surface Liquid Water Amount",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Amount\" means mass per unit area. The quantity with standard name land_surface_liquid_water_amount includes water in rivers, wetlands, lakes, reservoirs and liquid precipitation intercepted by the vegetation canopy.",
+    "canonical_units": "kg m-2",
+    "cf-name": "land_surface_liquid_water_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

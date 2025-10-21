@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-velocity-to-direction-due-to-tides",
+    "validation-key": "sea-water-velocity-to-direction-due-to-tides",
+    "ui-label": "Sea Water Velocity To Direction Due To Tides",
+    "description": "A velocity is a vector quantity. The phrase \"to_direction\" is used in the construction X_to_direction and indicates the direction towards which the velocity vector of X is headed. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Due to tides\" means due to all astronomical gravity changes which manifest as tides. No distinction is made between different tidal components.",
+    "canonical_units": "degree",
+    "cf-name": "sea_water_velocity_to_direction_due_to_tides",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

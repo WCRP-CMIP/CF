@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-age-since-surface-contact",
+    "validation-key": "sea-water-age-since-surface-contact",
+    "ui-label": "Sea Water Age Since Surface Contact",
+    "description": "\"Sea water age since surface contact\" means the length of time elapsed since the sea water in a grid cell was last in the surface level of an ocean model.",
+    "canonical_units": "year",
+    "cf-name": "sea_water_age_since_surface_contact",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

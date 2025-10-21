@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-enthalpy-content",
+    "validation-key": "sea-ice-enthalpy-content",
+    "ui-label": "Sea Ice Enthalpy Content",
+    "description": "Enthalpy of sea ice per unit area. This includes both the latent and sensible heat contributions. Liquid water at 0 degC is assumed to have an enthalpy content of 0 J. This variable does not include enthalpy of snow, but does include enthalpy of brine. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. The \"sea_ice content\" of a quantity refers to the vertical integral from the surface down to the bottom of the sea ice. Sea ice enthalpy content is always negative since both the sensible and the latent heat contributions are smaller than that of liquid water. When these can be neglected, enthalpy content is identical to internal energy content (apart from an arbitrary additive constant), and sometimes referred to as \"heat content\".",
+    "canonical_units": "J m-2",
+    "cf-name": "sea_ice_enthalpy_content",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

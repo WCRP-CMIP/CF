@@ -1,0 +1,12 @@
+{
+    "id": "arctic-ocean",
+    "validation-key": "arctic-ocean",
+    "ui-label": "Arctic Ocean",
+    "description": "",
+    "cf-name": "arctic_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

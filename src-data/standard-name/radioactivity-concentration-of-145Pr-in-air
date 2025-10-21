@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-145Pr-in-air",
+    "validation-key": "radioactivity-concentration-of-145pr-in-air",
+    "ui-label": "Radioactivity Concentration Of 145pr In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pr\" means the element \"praseodymium\" and \"145Pr\" is the isotope \"praseodymium-145\" with a half-life of 2.49e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_145Pr_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

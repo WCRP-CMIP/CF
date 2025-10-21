@@ -1,0 +1,13 @@
+{
+    "id": "frozen-soil-density",
+    "validation-key": "frozen-soil-density",
+    "ui-label": "Frozen Soil Density",
+    "description": "The density of the soil in its naturally frozen condition. Also known as frozen bulk density. The density of a substance is its mass per unit volume.",
+    "canonical_units": "kg m-3",
+    "cf-name": "frozen_soil_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-phaeopigments-in-sea-ice",
+    "validation-key": "mass-concentration-of-phaeopigments-in-sea-ice",
+    "ui-label": "Mass Concentration Of Phaeopigments In Sea Ice",
+    "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". Phaeopigments are non-photosynthetic pigments that are the degradation product of algal chlorophyll pigments. It is commonly formed during and after marine phytoplankton blooms. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_phaeopigments_in_sea_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

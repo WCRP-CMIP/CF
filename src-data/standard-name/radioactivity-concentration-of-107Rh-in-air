@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-107Rh-in-air",
+    "validation-key": "radioactivity-concentration-of-107rh-in-air",
+    "ui-label": "Radioactivity Concentration Of 107rh In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Rh\" means the element \"rhodium\" and \"107Rh\" is the isotope \"rhodium-107\" with a half-life of 1.51e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_107Rh_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

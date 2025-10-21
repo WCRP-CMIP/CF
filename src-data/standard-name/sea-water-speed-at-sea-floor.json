@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-speed-at-sea-floor",
+    "validation-key": "sea-water-speed-at-sea-floor",
+    "ui-label": "Sea Water Speed At Sea Floor",
+    "description": "Speed is the magnitude of velocity. The speed at the sea floor is that adjacent to the ocean bottom, which would be the deepest grid cell in an ocean model and within the benthic boundary layer for measurements.",
+    "canonical_units": "m s-1",
+    "cf-name": "sea_water_speed_at_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

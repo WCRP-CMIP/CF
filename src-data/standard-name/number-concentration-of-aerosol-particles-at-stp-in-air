@@ -1,0 +1,13 @@
+{
+    "id": "number-concentration-of-aerosol-particles-at-stp-in-air",
+    "validation-key": "number-concentration-of-aerosol-particles-at-stp-in-air",
+    "ui-label": "Number Concentration Of Aerosol Particles At Stp In Air",
+    "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"stp\" means standard temperature (0 degC) and pressure (101325 Pa). The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "m-3",
+    "cf-name": "number_concentration_of_aerosol_particles_at_stp_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

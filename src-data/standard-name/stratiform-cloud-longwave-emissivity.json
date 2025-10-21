@@ -1,0 +1,13 @@
+{
+    "id": "stratiform-cloud-longwave-emissivity",
+    "validation-key": "stratiform-cloud-longwave-emissivity",
+    "ui-label": "Stratiform Cloud Longwave Emissivity",
+    "description": "Emissivity is the ratio of the power emitted by an object to the power that would be emitted by a perfect black body having the same temperature as the object. The emissivity is assumed to be an integral over all wavelengths, unless a coordinate of radiation_wavelength or radiation_frequency is included to specify either the wavelength or frequency. In an atmosphere model, stratiform cloud is that produced by large-scale convergence (not the convection schemes).  \"longwave\" means longwave radiation.",
+    "canonical_units": "1",
+    "cf-name": "stratiform_cloud_longwave_emissivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "arabian-sea",
+    "validation-key": "arabian-sea",
+    "ui-label": "Arabian Sea",
+    "description": "",
+    "cf-name": "arabian_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

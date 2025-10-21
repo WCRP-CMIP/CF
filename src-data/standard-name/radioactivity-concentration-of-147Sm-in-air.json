@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-147Sm-in-air",
+    "validation-key": "radioactivity-concentration-of-147sm-in-air",
+    "ui-label": "Radioactivity Concentration Of 147sm In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Sm\" means the element \"samarium\" and \"147Sm\" is the isotope \"samarium-147\" with a half-life of 3.91e+13 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_147Sm_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

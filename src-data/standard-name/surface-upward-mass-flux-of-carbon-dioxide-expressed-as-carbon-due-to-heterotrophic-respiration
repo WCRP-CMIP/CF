@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-mass-flux-of-carbon-dioxide-expressed-as-carbon-due-to-heterotrophic-respiration",
+    "validation-key": "surface-upward-mass-flux-of-carbon-dioxide-expressed-as-carbon-due-to-heterotrophic-respiration",
+    "ui-label": "Surface Upward Mass Flux Of Carbon Dioxide Expressed As Carbon Due To Heterotrophic Respiration",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The chemical formula for carbon dioxide is CO2. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Heterotrophic respiration is respiration by heterotrophs (\"consumers\"), which are organisms (including animals and decomposers) that consume other organisms or dead organic material, rather than synthesising organic material from inorganic precursors using energy from the environment (especially sunlight) as autotrophs (\"producers\") do. Heterotrophic respiration goes on both above and within the soil.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_heterotrophic_respiration",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

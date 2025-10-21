@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-60Co",
+    "validation-key": "surface-radioactivity-content-of-60co",
+    "ui-label": "Surface Radioactivity Content Of 60co",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Co\" means the element \"cobalt\" and \"60Co\" is the isotope \"cobalt-60\" with a half-life of 1.93e+03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_60Co",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

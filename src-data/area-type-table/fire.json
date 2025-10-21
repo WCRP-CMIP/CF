@@ -1,0 +1,12 @@
+{
+    "id": "fire",
+    "validation-key": "fire",
+    "ui-label": "Fire",
+    "description": "An area_type of \"fire\" indicates that biomass fire, either flaming, smouldering, or both, is present.",
+    "cf-name": "fire",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

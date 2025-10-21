@@ -1,0 +1,13 @@
+{
+    "id": "radiation-wavelength",
+    "validation-key": "radiation-wavelength",
+    "ui-label": "Radiation Wavelength",
+    "description": "The radiation wavelength can refer to any electromagnetic wave, such as light, heat radiation and radio waves.",
+    "canonical_units": "m",
+    "cf-name": "radiation_wavelength",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

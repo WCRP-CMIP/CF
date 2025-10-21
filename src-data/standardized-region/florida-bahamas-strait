@@ -1,0 +1,12 @@
+{
+    "id": "florida-bahamas-strait",
+    "validation-key": "florida-bahamas-strait",
+    "ui-label": "Florida Bahamas Strait",
+    "description": "",
+    "cf-name": "florida_bahamas_strait",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

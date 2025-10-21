@@ -1,0 +1,13 @@
+{
+    "id": "surface-geostrophic-sea-water-y-velocity",
+    "validation-key": "surface-geostrophic-sea-water-y-velocity",
+    "ui-label": "Surface Geostrophic Sea Water Y Velocity",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Geostrophic\" indicates that geostrophic balance is assumed, i.e. that the pressure gradient force and the Coriolis force are balanced and the large scale fluid flow is parallel to the isobars. The quantity with standard name surface_geostrophic_sea_water_y_velocity is the sum of a variable part, surface_geostrophic_sea_water_y_velocity_assuming_mean_sea_level_for_geoid, and a constant part due to the stationary component of ocean circulation.",
+    "canonical_units": "m s-1",
+    "cf-name": "surface_geostrophic_sea_water_y_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

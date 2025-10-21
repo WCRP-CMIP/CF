@@ -1,0 +1,13 @@
+{
+    "id": "canopy-albedo",
+    "validation-key": "canopy-albedo",
+    "ui-label": "Canopy Albedo",
+    "description": "Albedo is the ratio of outgoing to incoming shortwave irradiance, where 'shortwave irradiance' means that both the incoming and outgoing radiation are integrated across the solar spectrum. \"Canopy\" means the vegetative covering over a surface. The canopy is often considered to be the outer surfaces of the vegetation. Plant height and the distribution, orientation and shape of plant leaves within a canopy influence the atmospheric environment and many plant processes within the canopy. Reference: AMS Glossary http://glossary.ametsoc.org/wiki/Canopy. The surface_albedo restricted to the area type \"vegetation\" is related to canopy_albedo, but the former also includes the effect of radiation being reflected from the ground underneath the canopy.",
+    "canonical_units": "1",
+    "cf-name": "canopy_albedo",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "change-over-time-in-sea-water-specific-potential-enthalpy",
+    "validation-key": "change-over-time-in-sea-water-specific-potential-enthalpy",
+    "ui-label": "Change Over Time In Sea Water Specific Potential Enthalpy",
+    "description": "\"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. The potential enthalpy of a sea water parcel is the specific enthalpy after an adiabatic and isohaline change in pressure from its in situ pressure to the sea pressure p = 0 dbar. \"specific\" means per unit mass. Reference: www.teos-10.org; McDougall, 2003 doi: 10.1175/1520-0485(2003)033<0945:PEACOV>2.0.CO;2.",
+    "canonical_units": "J kg-1",
+    "cf-name": "change_over_time_in_sea_water_specific_potential_enthalpy",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "shear-strength-of-frozen-soil",
+    "validation-key": "shear-strength-of-frozen-soil",
+    "ui-label": "Shear Strength Of Frozen Soil",
+    "description": "Shear strength is the amount of force applied to a normal plane required to bring a frozen soil to failure along a tangential plane. Shear strength depends on the angle of friction and cohesion of the soil.",
+    "canonical_units": "Pa",
+    "cf-name": "shear_strength_of_frozen_soil",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

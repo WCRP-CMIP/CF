@@ -1,0 +1,13 @@
+{
+    "id": "soil-moisture-content-at-field-capacity",
+    "validation-key": "soil-moisture-content-at-field-capacity",
+    "ui-label": "Soil Moisture Content At Field Capacity",
+    "description": "\"moisture\" means water in all phases contained in soil. \"Content\" indicates a quantity per unit area. The \"soil content\" of a quantity refers to the vertical integral from the surface down to the bottom of the soil model. For the content between specified levels in the soil, standard names including content_of_soil_layer are used. The field capacity of soil is the maximum content of water it can retain against gravitational drainage.",
+    "canonical_units": "kg m-2",
+    "cf-name": "soil_moisture_content_at_field_capacity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

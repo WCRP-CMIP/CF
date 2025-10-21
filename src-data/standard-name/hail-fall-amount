@@ -1,0 +1,13 @@
+{
+    "id": "hail-fall-amount",
+    "validation-key": "hail-fall-amount",
+    "ui-label": "Hail Fall Amount",
+    "description": "\"Amount\" means mass per unit area. Hail is precipitation in the form of balls or irregular lumps of ice, often restricted by a size convention to diameters of 5 mm or more. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Hail. For diameters of less than 5 mm standard names for \"graupel\" should be used. Standard names for \"graupel_and_hail\" should be used to describe data produced by models that do not distinguish between hail and graupel.",
+    "canonical_units": "kg m-2",
+    "cf-name": "hail_fall_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

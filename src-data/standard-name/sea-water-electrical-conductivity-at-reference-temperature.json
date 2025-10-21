@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-electrical-conductivity-at-reference-temperature",
+    "validation-key": "sea-water-electrical-conductivity-at-reference-temperature",
+    "ui-label": "Sea Water Electrical Conductivity At Reference Temperature",
+    "description": "The electrical conductivity of sea water in a sample measured at a defined reference temperature. The reference temperature should be recorded in a scalar coordinate variable, or a coordinate variable with a single dimension of size one, and the standard name of temperature_of_analysis_of_sea_water. This quantity is sometimes called 'specific conductivity' when the reference temperature 25 degrees Celsius.",
+    "canonical_units": "S m-1",
+    "cf-name": "sea_water_electrical_conductivity_at_reference_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

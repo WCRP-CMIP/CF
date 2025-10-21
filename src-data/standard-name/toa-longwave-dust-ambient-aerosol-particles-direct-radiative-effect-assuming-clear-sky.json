@@ -1,0 +1,13 @@
+{
+    "id": "toa-longwave-dust-ambient-aerosol-particles-direct-radiative-effect-assuming-clear-sky",
+    "validation-key": "toa-longwave-dust-ambient-aerosol-particles-direct-radiative-effect-assuming-clear-sky",
+    "ui-label": "Toa Longwave Dust Ambient Aerosol Particles Direct Radiative Effect Assuming Clear Sky",
+    "description": "\"toa\" means top of atmosphere. The term \"longwave\" means longwave radiation. \"X_direct_radiative_effect\" refers to the instantaneous radiative impact of X on the Earth's energy balance, excluding secondary effects such as changes in cloud cover which may be caused by X. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. To specify the relative humidity and temperature at which the quantity described by the standard name applies, provide scalar coordinate variables with standard names of \"relative_humidity\" and \"air_temperature\". A phrase \"assuming_condition\" indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"Clear sky\" means in the absence of clouds.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_longwave_dust_ambient_aerosol_particles_direct_radiative_effect_assuming_clear_sky",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "product-of-eastward-sea-water-velocity-and-temperature",
+    "validation-key": "product-of-eastward-sea-water-velocity-and-temperature",
+    "ui-label": "Product Of Eastward Sea Water Velocity And Temperature",
+    "description": "The phrase \"product_of_X_and_Y\" means X*Y. A velocity is a vector quantity. \"Eastward\" indicates a vector component which is positive when directed eastward (negative westward). It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K m s-1",
+    "cf-name": "product_of_eastward_sea_water_velocity_and_temperature",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

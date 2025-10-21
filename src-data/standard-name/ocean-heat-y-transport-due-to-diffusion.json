@@ -1,0 +1,13 @@
+{
+    "id": "ocean-heat-y-transport-due-to-diffusion",
+    "validation-key": "ocean-heat-y-transport-due-to-diffusion",
+    "ui-label": "Ocean Heat Y Transport Due To Diffusion",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. The specification of a physical process by the phrase due_to_process means that the quantity named is a  single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "W",
+    "cf-name": "ocean_heat_y_transport_due_to_diffusion",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

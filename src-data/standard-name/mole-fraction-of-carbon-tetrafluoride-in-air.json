@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-carbon-tetrafluoride-in-air",
+    "validation-key": "mole-fraction-of-carbon-tetrafluoride-in-air",
+    "ui-label": "Mole Fraction Of Carbon Tetrafluoride In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for carbon tetrafluoride, also called PFC14, is CF4. The IUPAC name for carbon tetrafluoride is tetrafluoromethane.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_carbon_tetrafluoride_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

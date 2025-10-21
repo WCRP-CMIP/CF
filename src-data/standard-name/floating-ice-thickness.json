@@ -1,0 +1,13 @@
+{
+    "id": "floating-ice-thickness",
+    "validation-key": "floating-ice-thickness",
+    "ui-label": "Floating Ice Thickness",
+    "description": "\"Floating ice\" means any ice that is floating on water, e.g. on a sea or lake surface.  \"Thickness\" means the vertical extent of the ice.",
+    "canonical_units": "m",
+    "cf-name": "floating_ice_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

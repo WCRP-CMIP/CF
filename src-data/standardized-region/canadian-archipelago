@@ -1,0 +1,12 @@
+{
+    "id": "canadian-archipelago",
+    "validation-key": "canadian-archipelago",
+    "ui-label": "Canadian Archipelago",
+    "description": "",
+    "cf-name": "canadian_archipelago",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "product-of-air-temperature-and-specific-humidity",
+    "validation-key": "product-of-air-temperature-and-specific-humidity",
+    "ui-label": "Product Of Air Temperature And Specific Humidity",
+    "description": "The phrase \"product_of_X_and_Y\" means X*Y. \"specific\" means per unit mass. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. Specific humidity is the mass fraction of water vapor in (moist) air. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "product_of_air_temperature_and_specific_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

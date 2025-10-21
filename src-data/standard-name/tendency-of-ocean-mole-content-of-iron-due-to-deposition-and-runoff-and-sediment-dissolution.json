@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-ocean-mole-content-of-iron-due-to-deposition-and-runoff-and-sediment-dissolution",
+    "validation-key": "tendency-of-ocean-mole-content-of-iron-due-to-deposition-and-runoff-and-sediment-dissolution",
+    "ui-label": "Tendency Of Ocean Mole Content Of Iron Due To Deposition And Runoff And Sediment Dissolution",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"ocean content\" of a quantity refers to the vertical integral from the surface to the bottom of the ocean. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "tendency_of_ocean_mole_content_of_iron_due_to_deposition_and_runoff_and_sediment_dissolution",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "downwelling-spherical-irradiance-in-sea-water",
+    "validation-key": "downwelling-spherical-irradiance-in-sea-water",
+    "ui-label": "Downwelling Spherical Irradiance In Sea Water",
+    "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. Spherical irradiance is the radiation incident on unit area of a hemispherical (or \"2-pi\") collector. It is sometimes called \"scalar irradiance\". The direction (up/downwelling) is specified. Radiation incident on a 4-pi collector has standard names of \"omnidirectional spherical irradiance\".",
+    "canonical_units": "W m-2",
+    "cf-name": "downwelling_spherical_irradiance_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

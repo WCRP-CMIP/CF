@@ -1,0 +1,13 @@
+{
+    "id": "number-concentration-of-ozone-molecules-in-air",
+    "validation-key": "number-concentration-of-ozone-molecules-in-air",
+    "ui-label": "Number Concentration Of Ozone Molecules In Air",
+    "description": "\"Number concentration\" means the number of particles or other specified objects per unit volume. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
+    "canonical_units": "m-3",
+    "cf-name": "number_concentration_of_ozone_molecules_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

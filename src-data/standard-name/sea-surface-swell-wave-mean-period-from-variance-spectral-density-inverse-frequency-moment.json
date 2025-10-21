@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-swell-wave-mean-period-from-variance-spectral-density-inverse-frequency-moment",
+    "validation-key": "sea-surface-swell-wave-mean-period-from-variance-spectral-density-inverse-frequency-moment",
+    "ui-label": "Sea Surface Swell Wave Mean Period From Variance Spectral Density Inverse Frequency Moment",
+    "description": "The swell wave directional spectrum can be written as a  five dimensional function S(t,x,y,f,theta) where t is time, x and y are horizontal coordinates (such as longitude and latitude), f is frequency and theta is direction.  S can be integrated over direction to give  S1= integral(S dtheta).  Frequency moments, M(n) of S1 can then be calculated as follows: M(n) = integral(S1 f^n df), where f^n is f to the power of n.  The inverse wave period, T(m-1), is calculated as the ratio M(-1)/M(0).",
+    "canonical_units": "s",
+    "cf-name": "sea_surface_swell_wave_mean_period_from_variance_spectral_density_inverse_frequency_moment",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

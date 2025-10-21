@@ -1,0 +1,13 @@
+{
+    "id": "change-over-time-in-sea-water-potential-density",
+    "validation-key": "change-over-time-in-sea-water-potential-density",
+    "ui-label": "Change Over Time In Sea Water Potential Density",
+    "description": "The phrase \"change_over_time_in_X\" means change in a quantity X over a time interval, which should be defined by the bounds of the time coordinate. Sea water potential density is the density a parcel of sea water would have if moved adiabatically to a reference pressure, by default assumed to be sea level pressure. To specify the reference pressure to which the quantity applies, provide a scalar coordinate variable with standard name reference_pressure. The density of a substance is its mass per unit volume. For sea water potential density, if 1000 kg m-3 is subtracted, the standard name \"sea_water_sigma_theta\" should be chosen instead.",
+    "canonical_units": "kg m-3",
+    "cf-name": "change_over_time_in_sea_water_potential_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

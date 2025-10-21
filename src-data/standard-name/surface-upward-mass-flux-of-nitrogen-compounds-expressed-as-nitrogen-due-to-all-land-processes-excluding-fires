@@ -1,0 +1,13 @@
+{
+    "id": "surface-upward-mass-flux-of-nitrogen-compounds-expressed-as-nitrogen-due-to-all-land-processes-excluding-fires",
+    "validation-key": "surface-upward-mass-flux-of-nitrogen-compounds-expressed-as-nitrogen-due-to-all-land-processes-excluding-fires",
+    "ui-label": "Surface Upward Mass Flux Of Nitrogen Compounds Expressed As Nitrogen Due To All Land Processes Excluding Fires",
+    "description": "\"Upward\" indicates a vector component which is positive when directed upward (negative downward). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Nitrogen compounds\" summarizes all chemical species containing nitrogen atoms. The list of individual species that are included in this quantity can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"All land processes\" means plant and soil respiration, photosynthesis, animal grazing, crop harvesting, natural fires and anthropogenic land use change.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "surface_upward_mass_flux_of_nitrogen_compounds_expressed_as_nitrogen_due_to_all_land_processes_excluding_fires",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

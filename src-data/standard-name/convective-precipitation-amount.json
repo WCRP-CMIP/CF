@@ -1,0 +1,13 @@
+{
+    "id": "convective-precipitation-amount",
+    "validation-key": "convective-precipitation-amount",
+    "ui-label": "Convective Precipitation Amount",
+    "description": "\"Amount\" means mass per unit area. \"Precipitation\" in the earth's atmosphere means precipitation of water in all phases. Convective precipitation is that produced by the convection schemes in an atmosphere model.",
+    "canonical_units": "kg m-2",
+    "cf-name": "convective_precipitation_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

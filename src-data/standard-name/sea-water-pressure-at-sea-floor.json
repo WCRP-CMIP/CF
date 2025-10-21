@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-pressure-at-sea-floor",
+    "validation-key": "sea-water-pressure-at-sea-floor",
+    "ui-label": "Sea Water Pressure At Sea Floor",
+    "description": "\"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.",
+    "canonical_units": "dbar",
+    "cf-name": "sea_water_pressure_at_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

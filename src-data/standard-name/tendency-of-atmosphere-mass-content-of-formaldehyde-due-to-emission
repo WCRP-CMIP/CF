@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-atmosphere-mass-content-of-formaldehyde-due-to-emission",
+    "validation-key": "tendency-of-atmosphere-mass-content-of-formaldehyde-due-to-emission",
+    "ui-label": "Tendency Of Atmosphere Mass Content Of Formaldehyde Due To Emission",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. earth's surface). \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names. The chemical formula for formaldehyde is CH2O. The IUPAC name for formaldehyde is methanal.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_atmosphere_mass_content_of_formaldehyde_due_to_emission",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

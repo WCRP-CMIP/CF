@@ -1,0 +1,13 @@
+{
+    "id": "freezing-temperature-of-sea-water",
+    "validation-key": "freezing-temperature-of-sea-water",
+    "ui-label": "Freezing Temperature Of Sea Water",
+    "description": null,
+    "canonical_units": "K",
+    "cf-name": "freezing_temperature_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

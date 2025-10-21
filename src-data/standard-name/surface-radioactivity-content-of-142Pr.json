@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-142Pr",
+    "validation-key": "surface-radioactivity-content-of-142pr",
+    "ui-label": "Surface Radioactivity Content Of 142pr",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pr\" means the element \"praseodymium\" and \"142Pr\" is the isotope \"praseodymium-142\" with a half-life of 7.94e-01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_142Pr",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-124mSb-in-air",
+    "validation-key": "radioactivity-concentration-of-124msb-in-air",
+    "ui-label": "Radioactivity Concentration Of 124msb In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Sb\" means the element \"antimony\" and \"124mSb\" is the metastable state of the isotope \"antimony-124\" with a half-life of 1.41e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_124mSb_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

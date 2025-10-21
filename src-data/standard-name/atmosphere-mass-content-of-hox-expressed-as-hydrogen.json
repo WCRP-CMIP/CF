@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-hox-expressed-as-hydrogen",
+    "validation-key": "atmosphere-mass-content-of-hox-expressed-as-hydrogen",
+    "ui-label": "Atmosphere Mass Content Of Hox Expressed As Hydrogen",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used. \"HOx\" means a combination of two radical species containing hydrogen and oxygen: OH and HO2. The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_hox_expressed_as_hydrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "institution",
+    "validation-key": "institution",
+    "ui-label": "Institution",
+    "description": "An auxiliary coordinate variable with a standard name of institution contains string values which specify where the original data, with which the coordinate variable is associated, were produced. The use of institution as the standard name for an auxiliary coordinate variable permits the aggregation of data from multiple institutions within a single data file.",
+    "cf-name": "institution",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

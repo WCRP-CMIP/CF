@@ -1,0 +1,13 @@
+{
+    "id": "altimeter-range",
+    "validation-key": "altimeter-range",
+    "ui-label": "Altimeter Range",
+    "description": "An altimeter operates by sending out a short pulse of radiation and measuring the time required for the pulse to return from the sea surface; this measurement is used to calculate the distance between the instrument and the sea surface.  That measurement is called the \"altimeter range\" and does not include any range corrections.",
+    "canonical_units": "m",
+    "cf-name": "altimeter_range",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

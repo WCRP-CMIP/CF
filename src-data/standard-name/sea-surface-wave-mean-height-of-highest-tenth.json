@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-mean-height-of-highest-tenth",
+    "validation-key": "sea-surface-wave-mean-height-of-highest-tenth",
+    "ui-label": "Sea Surface Wave Mean Height Of Highest Tenth",
+    "description": "Wave height is defined as the vertical distance from a wave trough to the following wave crest. The height of the highest tenth is defined as the mean of the highest ten per cent of trough to crest distances measured during the observation period.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_wave_mean_height_of_highest_tenth",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-sea-water-y-velocity-due-to-tides",
+    "validation-key": "surface-sea-water-y-velocity-due-to-tides",
+    "ui-label": "Surface Sea Water Y Velocity Due To Tides",
+    "description": "A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun, and the rotation of the Earth. This rise in water level is accompanied by a horizontal movement of water called the tidal current.",
+    "canonical_units": "m s-1",
+    "cf-name": "surface_sea_water_y_velocity_due_to_tides",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

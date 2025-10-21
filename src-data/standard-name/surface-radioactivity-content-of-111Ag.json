@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-111Ag",
+    "validation-key": "surface-radioactivity-content-of-111ag",
+    "ui-label": "Surface Radioactivity Content Of 111ag",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ag\" means the element \"silver\" and \"111Ag\" is the isotope \"silver-111\" with a half-life of 7.50e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_111Ag",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

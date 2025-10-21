@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-biological-taxon-expressed-as-chlorophyll-in-sea-water",
+    "validation-key": "mass-concentration-of-biological-taxon-expressed-as-chlorophyll-in-sea-water",
+    "ui-label": "Mass Concentration Of Biological Taxon Expressed As Chlorophyll In Sea Water",
+    "description": "\"Mass concentration\" means mass per unit volume and is used in the construction \"mass_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical species or biological group denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction \"A_expressed_as_B\", where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. \"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. There must be an auxiliary coordinate variable with standard name biological_taxon_name to identify the taxon in human readable format and optionally an auxiliary coordinate variable with standard name biological_taxon_lsid to provide a machine-readable identifier. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables. Chlorophylls are the green pigments found in most plants, algae and cyanobacteria; their presence is essential for photosynthesis to take place. There are several different forms of chlorophyll that occur naturally. All contain a chlorin ring (chemical formula C20H16N4) which gives the green pigment and a side chain whose structure varies. The naturally occurring forms of chlorophyll contain between 35 and 55 carbon atoms.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_biological_taxon_expressed_as_chlorophyll_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

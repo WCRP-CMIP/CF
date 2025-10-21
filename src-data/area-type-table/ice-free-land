@@ -1,0 +1,12 @@
+{
+    "id": "ice-free-land",
+    "validation-key": "ice-free-land",
+    "ui-label": "Ice Free Land",
+    "description": null,
+    "cf-name": "ice_free_land",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

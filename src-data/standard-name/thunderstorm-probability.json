@@ -1,0 +1,13 @@
+{
+    "id": "thunderstorm-probability",
+    "validation-key": "thunderstorm-probability",
+    "ui-label": "Thunderstorm Probability",
+    "description": "\"probability_of_X\" means the chance that X is true or of at least one occurrence of X. Space and time coordinates must be used to indicate the area and time-interval to which a probability applies.",
+    "canonical_units": "1",
+    "cf-name": "thunderstorm_probability",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

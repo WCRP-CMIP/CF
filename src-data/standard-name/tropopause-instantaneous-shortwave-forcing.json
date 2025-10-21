@@ -1,0 +1,13 @@
+{
+    "id": "tropopause-instantaneous-shortwave-forcing",
+    "validation-key": "tropopause-instantaneous-shortwave-forcing",
+    "ui-label": "Tropopause Instantaneous Shortwave Forcing",
+    "description": "The term \"shortwave\" means shortwave radiation. Instantaneous forcing is the radiative flux change caused instantaneously by an imposed change in radiative forcing agent (greenhouse gases, aerosol, solar radiation, etc.). A positive radiative forcing or radiative effect is equivalent to a downward radiative flux and contributes to a warming of the earth system.",
+    "canonical_units": "W m-2",
+    "cf-name": "tropopause_instantaneous_shortwave_forcing",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

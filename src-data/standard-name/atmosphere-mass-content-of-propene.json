@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-propene",
+    "validation-key": "atmosphere-mass-content-of-propene",
+    "ui-label": "Atmosphere Mass Content Of Propene",
+    "description": "\"Content\" indicates a quantity per unit area.  The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including content_of_atmosphere_layer are used.  The chemical formula for propene is C3H6. Propene is a member of the group of hydrocarbons known as alkenes.  There are standard names for the alkene group as well as for some of the individual species.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_propene",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

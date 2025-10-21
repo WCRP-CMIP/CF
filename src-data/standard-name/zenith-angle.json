@@ -1,0 +1,13 @@
+{
+    "id": "zenith-angle",
+    "validation-key": "zenith-angle",
+    "ui-label": "Zenith Angle",
+    "description": "Zenith angle is the angle to the local vertical; a value of zero is directly overhead.",
+    "canonical_units": "degree",
+    "cf-name": "zenith_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

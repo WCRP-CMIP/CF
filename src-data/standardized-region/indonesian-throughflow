@@ -1,0 +1,12 @@
+{
+    "id": "indonesian-throughflow",
+    "validation-key": "indonesian-throughflow",
+    "ui-label": "Indonesian Throughflow",
+    "description": "",
+    "cf-name": "indonesian_throughflow",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

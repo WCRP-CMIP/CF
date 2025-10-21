@@ -1,0 +1,13 @@
+{
+    "id": "ocean-sigma-coordinate",
+    "validation-key": "ocean-sigma-coordinate",
+    "ui-label": "Ocean Sigma Coordinate",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates. Note that the ocean sigma coordinate is not the same quantity as sea water sigma (excess of density over 1000 kg m-3), for which there are various other standard names.",
+    "canonical_units": "1",
+    "cf-name": "ocean_sigma_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

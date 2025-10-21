@@ -1,0 +1,13 @@
+{
+    "id": "surface-specific-humidity",
+    "validation-key": "surface-specific-humidity",
+    "ui-label": "Surface Specific Humidity",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"specific\" means per unit mass. Specific humidity is the mass fraction of water vapor in (moist) air.",
+    "canonical_units": "1",
+    "cf-name": "surface_specific_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "melt-pond-free-sea-ice",
+    "validation-key": "melt-pond-free-sea-ice",
+    "ui-label": "Melt Pond Free Sea Ice",
+    "description": "The area occupied by type \"sea_ice\" is the sum of the areas of types \"sea_ice_melt_pond\" and \"melt_pond_free_sea_ice\".",
+    "cf-name": "melt_pond_free_sea_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-sigma-theta",
+    "validation-key": "sea-water-sigma-theta",
+    "ui-label": "Sea Water Sigma Theta",
+    "description": "Sigma-theta of sea water is the potential density (i.e. the density when moved adiabatically to a reference pressure) of water having the same temperature and salinity, minus 1000 kg m-3. Note that sea water sigma is not the same quantity as the dimensionless ocean sigma coordinate (see Appendix D of the CF convention), for which there is another standard name. To specify the reference pressure to which the quantity applies, provide a scalar coordinate variable with standard name reference_pressure.",
+    "canonical_units": "kg m-3",
+    "cf-name": "sea_water_sigma_theta",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "virtual-salt-flux-correction",
+    "validation-key": "virtual-salt-flux-correction",
+    "ui-label": "Virtual Salt Flux Correction",
+    "description": "The virtual_salt_flux_into_sea_water_due_to_process is the salt flux that would have the same effect on the sea surface salinity as water_flux_out_of_sea_water_due_to_process. Flux correction is also called \"flux adjustment\". A positive flux correction is downward i.e. added to the ocean.  In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "virtual_salt_flux_correction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

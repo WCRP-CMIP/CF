@@ -1,0 +1,12 @@
+{
+    "id": "south-america",
+    "validation-key": "south-america",
+    "ui-label": "South America",
+    "description": "",
+    "cf-name": "south_america",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

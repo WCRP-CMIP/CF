@@ -1,0 +1,12 @@
+{
+    "id": "vegetation",
+    "validation-key": "vegetation",
+    "ui-label": "Vegetation",
+    "description": null,
+    "cf-name": "vegetation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

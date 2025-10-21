@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-heat-diffusivity",
+    "validation-key": "atmosphere-heat-diffusivity",
+    "ui-label": "Atmosphere Heat Diffusivity",
+    "description": null,
+    "canonical_units": "m2 s-1",
+    "cf-name": "atmosphere_heat_diffusivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

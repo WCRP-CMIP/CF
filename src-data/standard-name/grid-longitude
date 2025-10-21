@@ -1,0 +1,13 @@
+{
+    "id": "grid-longitude",
+    "validation-key": "grid-longitude",
+    "ui-label": "Grid Longitude",
+    "description": "Longitude is positive eastward; its units of degree_east (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid_longitude should be used instead of longitude. Grid longitude is positive in the grid-eastward direction, but its units should be plain degree.",
+    "canonical_units": "degree",
+    "cf-name": "grid_longitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

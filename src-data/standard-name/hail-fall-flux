@@ -1,0 +1,13 @@
+{
+    "id": "hail-fall-flux",
+    "validation-key": "hail-fall-flux",
+    "ui-label": "Hail Fall Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Hail is precipitation in the form of balls or irregular lumps of ice, often restricted by a size convention to diameters of 5 mm or more. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Hail. For diameters of less than 5 mm standard names for \"graupel\" should be used. Standard names for \"graupel_and_hail\" should be used to describe data produced by models that do not distinguish between hail and graupel.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "hail_fall_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

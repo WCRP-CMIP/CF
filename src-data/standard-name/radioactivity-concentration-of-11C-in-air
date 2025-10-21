@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-11C-in-air",
+    "validation-key": "radioactivity-concentration-of-11c-in-air",
+    "ui-label": "Radioactivity Concentration Of 11c In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"C\" means the element \"carbon\" and \"11C\" is the isotope \"carbon-11\" with a half-life of 1.41e-02 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_11C_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

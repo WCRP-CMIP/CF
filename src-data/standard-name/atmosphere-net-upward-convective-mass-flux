@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-net-upward-convective-mass-flux",
+    "validation-key": "atmosphere-net-upward-convective-mass-flux",
+    "ui-label": "Atmosphere Net Upward Convective Mass Flux",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The atmosphere convective mass flux is the vertical transport of mass for a field of cumulus clouds or thermals, given by the product of air density and vertical velocity. Net upward convective mass flux is the difference between the updraft mass flux and the downdraft mass flux. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). For an area-average, cell_methods should specify whether the average is over all the area or the area of updrafts and/or downdrafts only.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "atmosphere_net_upward_convective_mass_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

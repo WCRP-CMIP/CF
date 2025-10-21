@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-momentum-diffusivity",
+    "validation-key": "atmosphere-momentum-diffusivity",
+    "ui-label": "Atmosphere Momentum Diffusivity",
+    "description": null,
+    "canonical_units": "m2 s-1",
+    "cf-name": "atmosphere_momentum_diffusivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

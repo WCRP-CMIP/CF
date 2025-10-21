@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-mole-concentration-of-particulate-organic-matter-expressed-as-carbon-in-sea-water-due-to-net-primary-production-by-miscellaneous-phytoplankton",
+    "validation-key": "tendency-of-mole-concentration-of-particulate-organic-matter-expressed-as-carbon-in-sea-water-due-to-net-primary-production-by-miscellaneous-phytoplankton",
+    "ui-label": "Tendency Of Mole Concentration Of Particulate Organic Matter Expressed As Carbon In Sea Water Due To Net Primary Production By Miscellaneous Phytoplankton",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. Mole concentration means number of moles per unit volume, also called \"molarity\", and is used in the construction \"mole_concentration_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The phrase \"expressed_as\" is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Production of carbon\" means the production of biomass expressed as the mass of carbon which it contains. Net primary production is the excess of gross primary production (the rate of synthesis of biomass from inorganic precursors) by autotrophs (\"producers\"), for example, photosynthesis in plants or phytoplankton, over the rate at which the autotrophs themselves respire some of this biomass. In the oceans, carbon production per unit volume is often found at a number of depths at a given horizontal location. That quantity can then be integrated to calculate production per unit area at the location. Standard names for production per unit area use the term \"productivity\". Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. \"Miscellaneous phytoplankton\" are all those phytoplankton that are not diatoms, diazotrophs, calcareous phytoplankton, picophytoplankton or other separately named components of the phytoplankton population.",
+    "canonical_units": "mol m-3 s-1",
+    "cf-name": "tendency_of_mole_concentration_of_particulate_organic_matter_expressed_as_carbon_in_sea_water_due_to_net_primary_production_by_miscellaneous_phytoplankton",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

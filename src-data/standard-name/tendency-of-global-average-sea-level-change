@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-global-average-sea-level-change",
+    "validation-key": "tendency-of-global-average-sea-level-change",
+    "ui-label": "Tendency Of Global Average Sea Level Change",
+    "description": "Global average sea level change is due to change in volume of the water in the ocean, caused by mass and/or density change, or to change in the volume of the ocean basins, caused by tectonics etc. It is sometimes called \"eustatic\", which is a term that also has other definitions. It differs from the change in the global average sea surface height relative to the centre of the Earth by the global average vertical movement of the ocean floor. Zero sea level change is an arbitrary level. \"tendency_of_X\" means derivative of X with respect to time. Because global average sea level change quantifies the change in volume of the world ocean, it is not calculated necessarily by considering local changes in mean sea level.",
+    "canonical_units": "m year-1",
+    "cf-name": "tendency_of_global_average_sea_level_change",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

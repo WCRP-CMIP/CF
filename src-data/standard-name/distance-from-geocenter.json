@@ -1,0 +1,13 @@
+{
+    "id": "distance-from-geocenter",
+    "validation-key": "distance-from-geocenter",
+    "ui-label": "Distance From Geocenter",
+    "description": "A measure of distance from the Earth's geocenter, commonly used in satellite tracks.",
+    "canonical_units": "m",
+    "cf-name": "distance_from_geocenter",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

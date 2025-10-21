@@ -1,0 +1,13 @@
+{
+    "id": "indicative-error-from-multibeam-acoustic-doppler-velocity-profiler-in-sea-water",
+    "validation-key": "indicative-error-from-multibeam-acoustic-doppler-velocity-profiler-in-sea-water",
+    "ui-label": "Indicative Error From Multibeam Acoustic Doppler Velocity Profiler In Sea Water",
+    "description": "Sea water velocity is a vector quantity that is the speed at which water travels in a specified direction. The \"indicative error\" is an estimate of the quality of a sea water velocity profile measured using an ADCP (acoustic doppler current profiler). It is determined by the difference between the vertical velocity calculated from two 3-beam solutions. The parameter is frequently referred to as the \"error velocity\".",
+    "canonical_units": "m s-1",
+    "cf-name": "indicative_error_from_multibeam_acoustic_doppler_velocity_profiler_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

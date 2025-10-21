@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-inorganic-chlorine-in-air",
+    "validation-key": "mole-fraction-of-inorganic-chlorine-in-air",
+    "ui-label": "Mole Fraction Of Inorganic Chlorine In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  \"Inorganic chlorine\",sometimes referred to as Cly, describes a family of chemical species which result from the degradation of chlorine-containing source gases (CFCs, HCFCs, VSLS) and natural inorganic chlorine sources such as sea-salt and other aerosols.  mole_fraction_of_inorganic_chlorine is the sum of all species belonging to the family that are represented within a given model.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_inorganic_chlorine_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

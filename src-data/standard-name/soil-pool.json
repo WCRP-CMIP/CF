@@ -1,0 +1,12 @@
+{
+    "id": "soil-pool",
+    "validation-key": "soil-pool",
+    "ui-label": "Soil Pool",
+    "description": "A variable with the standard name of soil_pool contains strings which indicate the character of the soil pool classified according to the decay rate of the organic carbon material it contains. These strings have not yet been standardised.",
+    "cf-name": "soil_pool",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

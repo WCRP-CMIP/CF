@@ -1,0 +1,13 @@
+{
+    "id": "mass-concentration-of-volcanic-ash-in-air",
+    "validation-key": "mass-concentration-of-volcanic-ash-in-air",
+    "ui-label": "Mass Concentration Of Volcanic Ash In Air",
+    "description": "Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y. \"Volcanic ash\" means the fine-grained products of explosive volcanic eruptions, such as minerals or crystals, older fragmented rock (e.g. andesite) and glass. Particles within a volcanic ash cloud have diameters less than 2 mm. \"Volcanic ash\" does not include non-volcanic dust.",
+    "canonical_units": "kg m-3",
+    "cf-name": "mass_concentration_of_volcanic_ash_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-110mAg",
+    "validation-key": "surface-radioactivity-content-of-110mag",
+    "ui-label": "Surface Radioactivity Content Of 110mag",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ag\" means the element \"silver\" and \"110mAg\" is the metastable state of the isotope \"silver-110\" with a half-life of 2.70e+02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_110mAg",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

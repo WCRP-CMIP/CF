@@ -1,0 +1,13 @@
+{
+    "id": "net-upward-shortwave-flux-in-air",
+    "validation-key": "net-upward-shortwave-flux-in-air",
+    "ui-label": "Net Upward Shortwave Flux In Air",
+    "description": "\"shortwave\" means shortwave radiation. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Net upward radiation is the difference between radiation from below (upwelling) and radiation from above (downwelling). In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "net_upward_shortwave_flux_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

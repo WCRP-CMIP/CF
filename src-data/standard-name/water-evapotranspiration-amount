@@ -1,0 +1,13 @@
+{
+    "id": "water-evapotranspiration-amount",
+    "validation-key": "water-evapotranspiration-amount",
+    "ui-label": "Water Evapotranspiration Amount",
+    "description": "\"Evapotranspiration\" means all water vapor fluxes into the atmosphere from the surface: liquid evaporation, sublimation, and transpiration. \"Amount\" means mass per unit area. Evaporation is the conversion of liquid or solid into vapor. (The conversion of solid alone into vapor is called \"sublimation\".) Transpiration is the process by which liquid water in plant stomata is transferred as water vapor into the atmosphere. Unless indicated in the cell_methods attribute, a quantity is assumed to apply to the whole area of each horizontal grid box.",
+    "canonical_units": "kg m-2",
+    "cf-name": "water_evapotranspiration_amount",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

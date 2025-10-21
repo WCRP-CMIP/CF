@@ -1,0 +1,13 @@
+{
+    "id": "platform-heave-rate-down",
+    "validation-key": "platform-heave-rate-down",
+    "ui-label": "Platform Heave Rate Down",
+    "description": "\"Heave rate\" is the rate of displacement along the local vertical axis. Heave rate might not include changes to the \"at rest\" position of the platform with respect to the axis of displacement, which may change over time. \"Down\" indicates that positive values of heave rate represent the platform moving down as viewed by an observer on top of the platform facing forward. The standard name platform_heave_rate_up should be used for data having the opposite sign convention. The standard name platform_heave_rate should be chosen only if the sign convention of the data is unknown. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "m s-1",
+    "cf-name": "platform_heave_rate_down",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

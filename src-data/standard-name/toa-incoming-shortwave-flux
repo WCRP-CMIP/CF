@@ -1,0 +1,13 @@
+{
+    "id": "toa-incoming-shortwave-flux",
+    "validation-key": "toa-incoming-shortwave-flux",
+    "ui-label": "Toa Incoming Shortwave Flux",
+    "description": "\"shortwave\" means shortwave radiation. \"toa\" means top of atmosphere. The TOA incoming shortwave flux is the radiative flux from the sun i.e. the \"downwelling\" TOA shortwave flux. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_incoming_shortwave_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

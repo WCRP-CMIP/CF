@@ -1,0 +1,13 @@
+{
+    "id": "frequency-of-lightning-flashes-per-unit-area",
+    "validation-key": "frequency-of-lightning-flashes-per-unit-area",
+    "ui-label": "Frequency Of Lightning Flashes Per Unit Area",
+    "description": "A lightning flash is a compound event, usually consisting of several discharges. Frequency is the number of oscillations of a wave, or the number of occurrences of an event, per unit time.",
+    "canonical_units": "m-2 s-1",
+    "cf-name": "frequency_of_lightning_flashes_per_unit_area",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

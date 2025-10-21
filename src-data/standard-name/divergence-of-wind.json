@@ -1,0 +1,13 @@
+{
+    "id": "divergence-of-wind",
+    "validation-key": "divergence-of-wind",
+    "ui-label": "Divergence Of Wind",
+    "description": "\"[horizontal_]divergence_of_X\" means [horizontal] divergence of a vector X; if X does not have a vertical component then \"horizontal\" should be omitted. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.)",
+    "canonical_units": "s-1",
+    "cf-name": "divergence_of_wind",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

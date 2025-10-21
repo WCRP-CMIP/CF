@@ -1,0 +1,13 @@
+{
+    "id": "reference-pressure",
+    "validation-key": "reference-pressure",
+    "ui-label": "Reference Pressure",
+    "description": "A constant pressure value, typically representative of mean sea level pressure, which can be used in defining coordinates or functions of state.",
+    "canonical_units": "Pa",
+    "cf-name": "reference_pressure",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

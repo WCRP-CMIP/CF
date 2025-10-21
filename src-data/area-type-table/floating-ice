@@ -1,0 +1,12 @@
+{
+    "id": "floating-ice",
+    "validation-key": "floating-ice",
+    "ui-label": "Floating Ice",
+    "description": "All ice floating on water including lake-ice, sea-ice, ice-shelves and icebergs.",
+    "cf-name": "floating_ice",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

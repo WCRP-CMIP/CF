@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-152Pm",
+    "validation-key": "surface-radioactivity-content-of-152pm",
+    "ui-label": "Surface Radioactivity Content Of 152pm",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pm\" means the element \"promethium\" and \"152Pm\" is the isotope \"promethium-152\" with a half-life of 2.84e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_152Pm",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

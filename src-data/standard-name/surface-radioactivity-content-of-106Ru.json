@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-106Ru",
+    "validation-key": "surface-radioactivity-content-of-106ru",
+    "ui-label": "Surface Radioactivity Content Of 106ru",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ru\" means the element \"ruthenium\" and \"106Ru\" is the isotope \"ruthenium-106\" with a half-life of 3.66e+02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_106Ru",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

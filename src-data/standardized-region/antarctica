@@ -1,0 +1,12 @@
+{
+    "id": "antarctica",
+    "validation-key": "antarctica",
+    "ui-label": "Antarctica",
+    "description": "",
+    "cf-name": "antarctica",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

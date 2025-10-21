@@ -1,0 +1,12 @@
+{
+    "id": "baltic-sea",
+    "validation-key": "baltic-sea",
+    "ui-label": "Baltic Sea",
+    "description": "",
+    "cf-name": "baltic_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

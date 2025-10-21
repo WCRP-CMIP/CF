@@ -1,0 +1,13 @@
+{
+    "id": "reference-mole-fraction-of-ozone-in-air",
+    "validation-key": "reference-mole-fraction-of-ozone-in-air",
+    "ui-label": "Reference Mole Fraction Of Ozone In Air",
+    "description": "This ozone field acts as a reference ozone field in a diagnostic call to the model's radiation scheme. \"Mole fraction\" is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y. The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
+    "canonical_units": "mol mol-1",
+    "cf-name": "reference_mole_fraction_of_ozone_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

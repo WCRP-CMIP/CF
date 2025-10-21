@@ -1,0 +1,12 @@
+{
+    "id": "lake-malawi",
+    "validation-key": "lake-malawi",
+    "ui-label": "Lake Malawi",
+    "description": "",
+    "cf-name": "lake_malawi",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

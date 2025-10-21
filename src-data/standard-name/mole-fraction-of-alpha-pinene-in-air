@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-alpha-pinene-in-air",
+    "validation-key": "mole-fraction-of-alpha-pinene-in-air",
+    "ui-label": "Mole Fraction Of Alpha Pinene In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for alpha-pinene is C10H16. The IUPAC name for alpha-pinene is (1S,5S)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_alpha_pinene_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

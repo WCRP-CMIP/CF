@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-optical-thickness-due-to-pm1-ambient-aerosol-particles",
+    "validation-key": "atmosphere-optical-thickness-due-to-pm1-ambient-aerosol-particles",
+    "ui-label": "Atmosphere Optical Thickness Due To Pm1 Ambient Aerosol Particles",
+    "description": "The optical thickness is the integral along the path of radiation of a volume scattering/absorption/attenuation coefficient. The radiative flux is reduced by a factor exp(-optical_thickness) on traversing the path. The atmosphere optical thickness applies to radiation passing through the entire atmosphere. A coordinate variable of radiation_wavelength or radiation_frequency can be specified to indicate that the optical thickness applies at specific wavelengths or frequencies. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. \"Pm1 aerosol\" means atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 1 micrometer. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "1",
+    "cf-name": "atmosphere_optical_thickness_due_to_pm1_ambient_aerosol_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

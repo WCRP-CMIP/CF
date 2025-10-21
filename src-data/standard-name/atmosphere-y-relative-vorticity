@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-y-relative-vorticity",
+    "validation-key": "atmosphere-y-relative-vorticity",
+    "ui-label": "Atmosphere Y Relative Vorticity",
+    "description": "Atmosphere y relative vorticity is the y component of the 3D air vorticity vector. \"Relative\" in this context means the vorticity of the air relative to the rotating solid earth reference frame, i.e. excluding the Earth's own rotation. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. A positive value of atmosphere_y_relative_vorticity indicates anticlockwise rotation when viewed by an observer looking along the axis in the direction of decreasing y, i.e. consistent with the \"right hand screw\" rule.",
+    "canonical_units": "s-1",
+    "cf-name": "atmosphere_y_relative_vorticity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

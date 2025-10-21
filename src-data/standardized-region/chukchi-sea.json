@@ -1,0 +1,12 @@
+{
+    "id": "chukchi-sea",
+    "validation-key": "chukchi-sea",
+    "ui-label": "Chukchi Sea",
+    "description": "",
+    "cf-name": "chukchi_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

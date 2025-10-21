@@ -1,0 +1,13 @@
+{
+    "id": "virtual-salt-flux-into-sea-water",
+    "validation-key": "virtual-salt-flux-into-sea-water",
+    "ui-label": "Virtual Salt Flux Into Sea Water",
+    "description": "The virtual_salt_flux_into_sea_water is the salt flux that would have the same effect on the sea surface salinity as the water_flux_out_of_sea_water. It includes the effects of precipitation, evaporation, river outflow, sea-ice and any water flux relaxation(s) and correction(s) that may have been applied. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "virtual_salt_flux_into_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

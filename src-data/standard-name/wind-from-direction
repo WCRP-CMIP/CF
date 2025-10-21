@@ -1,0 +1,13 @@
+{
+    "id": "wind-from-direction",
+    "validation-key": "wind-from-direction",
+    "ui-label": "Wind From Direction",
+    "description": "Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) In meteorological reports, the direction of the wind vector is usually (but not always) given as the direction from which it is blowing (wind_from_direction) (westerly, northerly, etc.). In other contexts, such as atmospheric modelling, it is often natural to give the direction in the usual manner of vectors as the heading or the direction to which it is blowing (wind_to_direction) (eastward, southward, etc.) \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming.",
+    "canonical_units": "degree",
+    "cf-name": "wind_from_direction",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "northward-air-velocity-relative-to-sea-water",
+    "validation-key": "northward-air-velocity-relative-to-sea-water",
+    "ui-label": "Northward Air Velocity Relative To Sea Water",
+    "description": "The northward motion of air, relative to near-surface northward current; calculated as northward_wind minus northward_sea_water_velocity. A vertical coordinate variable or scalar coordinate with standard name \"depth\" should be used to indicate the depth of sea water velocity used in the calculation. Similarly, a vertical coordinate variable or scalar coordinate with standard name \"height\" should be used to indicate the height of the the wind component. A velocity is a vector quantity. \"Northward\" indicates a vector component which is positive when directed northward (negative southward).",
+    "canonical_units": "m s-1",
+    "cf-name": "northward_air_velocity_relative_to_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

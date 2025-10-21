@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-mass-concentration-of-nitrogen-dioxide-in-air-due-to-emission-from-aviation",
+    "validation-key": "tendency-of-mass-concentration-of-nitrogen-dioxide-in-air-due-to-emission-from-aviation",
+    "ui-label": "Tendency Of Mass Concentration Of Nitrogen Dioxide In Air Due To Emission From Aviation",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. Mass concentration means mass per unit volume and is used in the construction mass_concentration_of_X_in_Y, where X is a material constituent of Y. A chemical species denoted by X may be described by a single term such as 'nitrogen' or a phrase such as 'nox_expressed_as_nitrogen'. The mass is the total mass of the molecules. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Emission\" means emission from a primary source located anywhere within the atmosphere, including at the lower boundary (i.e. earth's surface). \"Emission\" is a process entirely distinct from \"re-emission\" which is used in some standard names. The chemical formula for nitrogen dioxide is NO2. The \"aviation\" sector includes fuel combustion activities related to civil aviation. \"Aviation\" is the term used in standard names to describe a collection of emission sources. A variable which has this value for the standard_name attribute should be accompanied by a comment attribute which lists the source categories and provides a reference to the categorization scheme, for example, \"IPCC (Intergovernmental Panel on Climate Change) source category 1A3a as defined in the 2006 IPCC guidelines for national greenhouse gas inventories\".",
+    "canonical_units": "kg m-3 s-1",
+    "cf-name": "tendency_of_mass_concentration_of_nitrogen_dioxide_in_air_due_to_emission_from_aviation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

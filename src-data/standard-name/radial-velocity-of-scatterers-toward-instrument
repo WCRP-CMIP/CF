@@ -1,0 +1,13 @@
+{
+    "id": "radial-velocity-of-scatterers-toward-instrument",
+    "validation-key": "radial-velocity-of-scatterers-toward-instrument",
+    "ui-label": "Radial Velocity Of Scatterers Toward Instrument",
+    "description": "A velocity is a vector quantity. \"Radial velocity toward instrument\" means the component of the velocity along the line of sight of the instrument where positive implies movement toward the instrument (i.e. inward). The \"instrument\" (examples are radar and lidar) is the device used to make the observation. The \"scatterers\" are what causes the transmitted signal to be returned to the instrument (examples are aerosols, hydrometeors and refractive index irregularities), of whatever kind the instrument detects. A standard name referring to radial velocity \"away_from_instrument\" should be used for a data variable having the opposite sign convention.",
+    "canonical_units": "m s-1",
+    "cf-name": "radial_velocity_of_scatterers_toward_instrument",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

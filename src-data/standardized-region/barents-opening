@@ -1,0 +1,12 @@
+{
+    "id": "barents-opening",
+    "validation-key": "barents-opening",
+    "ui-label": "Barents Opening",
+    "description": "",
+    "cf-name": "barents_opening",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

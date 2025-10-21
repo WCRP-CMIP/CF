@@ -1,0 +1,12 @@
+{
+    "id": "ice-free-sea",
+    "validation-key": "ice-free-sea",
+    "ui-label": "Ice Free Sea",
+    "description": null,
+    "cf-name": "ice_free_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

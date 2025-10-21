@@ -1,0 +1,12 @@
+{
+    "id": "atlantic-arctic-ocean",
+    "validation-key": "atlantic-arctic-ocean",
+    "ui-label": "Atlantic Arctic Ocean",
+    "description": "",
+    "cf-name": "atlantic_arctic_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

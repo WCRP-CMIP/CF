@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-72Zn",
+    "validation-key": "surface-radioactivity-content-of-72zn",
+    "ui-label": "Surface Radioactivity Content Of 72zn",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Zn\" means the element \"zinc\" and \"72Zn\" is the isotope \"zinc-72\" with a half-life of 1.94e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_72Zn",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

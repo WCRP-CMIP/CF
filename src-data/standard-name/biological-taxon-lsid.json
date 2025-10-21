@@ -1,0 +1,12 @@
+{
+    "id": "biological-taxon-lsid",
+    "validation-key": "biological-taxon-lsid",
+    "ui-label": "Biological Taxon Lsid",
+    "description": "\"Biological taxon\" is a name or other label identifying an organism or a group of organisms as belonging to a unit of classification in a hierarchical taxonomy. The quantity with standard name biological_taxon_lsid is the machine-readable identifier based on a taxon registration system using the syntax convention specified for the Life Science Identifier (LSID) - urn:lsid:<Authority>:<Namespace>:<ObjectID>[:<Version>]. This includes the reference classification in the element and these are restricted by the LSID governance. It is strongly recommended in CF that the authority chosen is World Register of Marine Species (WoRMS) for oceanographic data and Integrated Taxonomic Information System (ITIS) for freshwater and terrestrial data. See Section 6.1.2 of the CF convention (version 1.8 or later) for information about biological taxon auxiliary coordinate variables. This identifier is a narrower equivalent to the scientificNameID field in the Darwin Core Standard.",
+    "cf-name": "biological_taxon_lsid",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

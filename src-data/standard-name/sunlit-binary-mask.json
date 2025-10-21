@@ -1,0 +1,13 @@
+{
+    "id": "sunlit-binary-mask",
+    "validation-key": "sunlit-binary-mask",
+    "ui-label": "Sunlit Binary Mask",
+    "description": "X_binary_mask has 1 where condition X is met, 0 elsewhere.",
+    "canonical_units": "1",
+    "cf-name": "sunlit_binary_mask",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

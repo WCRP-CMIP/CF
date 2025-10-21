@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-sea-surface-height-above-mean-sea-level",
+    "validation-key": "tendency-of-sea-surface-height-above-mean-sea-level",
+    "ui-label": "Tendency Of Sea Surface Height Above Mean Sea Level",
+    "description": "\"Sea surface height\" is a time-varying quantity. \"tendency_of_X\" means derivative of X with respect to time. \"Height_above_X\" means the vertical distance above the named surface X. \"Mean sea level\" means the time mean of sea surface elevation at a given location over an arbitrary period sufficient to eliminate the tidal signals. The standard name for the height of the sea surface above the geoid is sea_surface_height_above_geoid. The standard name for the height of the sea surface above the reference ellipsoid is sea_surface_height_above_reference_ellipsoid.",
+    "canonical_units": "m year-1",
+    "cf-name": "tendency_of_sea_surface_height_above_mean_sea_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

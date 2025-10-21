@@ -1,0 +1,12 @@
+{
+    "id": "black-sea",
+    "validation-key": "black-sea",
+    "ui-label": "Black Sea",
+    "description": "",
+    "cf-name": "black_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

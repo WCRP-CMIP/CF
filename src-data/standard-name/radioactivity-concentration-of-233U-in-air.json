@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-233U-in-air",
+    "validation-key": "radioactivity-concentration-of-233u-in-air",
+    "ui-label": "Radioactivity Concentration Of 233u In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"U\" means the element \"uranium\" and \"233U\" is the isotope \"uranium-233\" with a half-life of 5.90e+07 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_233U_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

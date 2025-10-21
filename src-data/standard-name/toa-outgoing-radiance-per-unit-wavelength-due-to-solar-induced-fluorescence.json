@@ -1,0 +1,13 @@
+{
+    "id": "toa-outgoing-radiance-per-unit-wavelength-due-to-solar-induced-fluorescence",
+    "validation-key": "toa-outgoing-radiance-per-unit-wavelength-due-to-solar-induced-fluorescence",
+    "ui-label": "Toa Outgoing Radiance Per Unit Wavelength Due To Solar Induced Fluorescence",
+    "description": "The abbreviation \"toa\" means top of atmosphere. Radiance is the radiative flux in a particular direction, per unit of solid angle. The direction towards which it is going must be specified, for instance with a coordinate of zenith_angle. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. Some of the solar energy absorbed by pigment systems of plant leaves during photosynthesis is re-emitted as fluorescence. This is called solar-induced chlorophyll fluorescence (SIF). It is a radiance that can be measured on a global scale at various wavelengths and by multiple space borne instruments. SIF is considered a measurement of the photosynthetic machinery in plants and can provide a direct approach for the diagnosis of the actual functional status of vegetation. It is therefore considered a functional proxy of terrestrial gross primary productivity which has the standard name gross_primary_productivity_of_biomass_expressed_as_carbon. SIF spans the wavelength range 600 - 800 nm.",
+    "canonical_units": "W m-2 sr-1 m-1",
+    "cf-name": "toa_outgoing_radiance_per_unit_wavelength_due_to_solar_induced_fluorescence",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

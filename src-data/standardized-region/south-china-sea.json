@@ -1,0 +1,12 @@
+{
+    "id": "south-china-sea",
+    "validation-key": "south-china-sea",
+    "ui-label": "South China Sea",
+    "description": "",
+    "cf-name": "south_china_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

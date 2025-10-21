@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-lwe-surface-specific-mass-balance-rate",
+    "validation-key": "land-ice-lwe-surface-specific-mass-balance-rate",
+    "ui-label": "Land Ice Lwe Surface Specific Mass Balance Rate",
+    "description": "\"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves. \"lwe\" means liquid water equivalent. Specific mass balance means the net rate at which ice is added per unit area at the land ice surface due to all processes of surface accumulation and ablation. A negative value means loss of ice.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_lwe_surface_specific_mass_balance_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

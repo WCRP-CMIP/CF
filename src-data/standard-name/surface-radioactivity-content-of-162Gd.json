@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-162Gd",
+    "validation-key": "surface-radioactivity-content-of-162gd",
+    "ui-label": "Surface Radioactivity Content Of 162gd",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Gd\" means the element \"gadolinium\" and \"162Gd\" is the isotope \"gadolinium-162\" with a half-life of 6.92e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_162Gd",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

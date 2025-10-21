@@ -1,0 +1,13 @@
+{
+    "id": "cell-y-length",
+    "validation-key": "cell-y-length",
+    "ui-label": "Cell Y Length",
+    "description": "The linear extent of the cell in the y-direction of the horizontal grid. For a rectangular cell whose sides are parallel to the Cartesian axes of a plane, the cell_y_length is the distance between the two sides in the y-direction. For the usual case of horizontal grids in geoscience, where the grid cells are not planar or rectangular, the cell_y_length is a distance which is representative of the extent of the cell in the y-direction. For a model dataset it should be a distance which is consistent with the model's own computation of extensive quantities e.g. fluxes or areas. In some cases, the cell lengths are equal to the spacing of the grid points, but this is not generally so.",
+    "canonical_units": "m",
+    "cf-name": "cell_y_length",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

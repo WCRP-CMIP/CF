@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-time-of-mole-stomatal-uptake-of-ozone",
+    "validation-key": "integral-wrt-time-of-mole-stomatal-uptake-of-ozone",
+    "ui-label": "Integral Wrt Time Of Mole Stomatal Uptake Of Ozone",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The phrase \"wrt\" means \"with respect to\". The stomatal ozone uptake is the net amount of ozone transferred into the plant during the time period over which the integral is calculated. This parameter is often called the \"phytotoxic ozone dose (POD)\". The chemical formula for ozone is O3. The IUPAC name for ozone is trioxygen.",
+    "canonical_units": "mol m-2",
+    "cf-name": "integral_wrt_time_of_mole_stomatal_uptake_of_ozone",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

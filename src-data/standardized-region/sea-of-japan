@@ -1,0 +1,12 @@
+{
+    "id": "sea-of-japan",
+    "validation-key": "sea-of-japan",
+    "ui-label": "Sea Of Japan",
+    "description": "",
+    "cf-name": "sea_of_japan",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

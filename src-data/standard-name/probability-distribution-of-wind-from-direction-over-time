@@ -1,0 +1,13 @@
+{
+    "id": "probability-distribution-of-wind-from-direction-over-time",
+    "validation-key": "probability-distribution-of-wind-from-direction-over-time",
+    "ui-label": "Probability Distribution Of Wind From Direction Over Time",
+    "description": "The construction \"probability_distribution_of_X_over_Z\" means that the data variable is a number in the range 0.0-1.0 for each range of X, where X varies over Z. The data variable should have an axis for X. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name \"upward_air_velocity\"). The phrase \"from_direction\" is used in the construction X_from_direction and indicates the direction from which the velocity vector of X is coming. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. In meteorological reports, the direction of the wind vector is usually (but not always) given as the direction from which it is blowing (\"wind_from_direction\") (westerly, northerly, etc.). In other contexts, such as atmospheric modelling, it is often natural to give the direction in the usual manner of vectors as the heading or the direction to which it is blowing (\"wind_to_direction\") (eastward, southward, etc.).",
+    "canonical_units": "1",
+    "cf-name": "probability_distribution_of_wind_from_direction_over_time",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

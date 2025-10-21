@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-air-temperature-due-to-longwave-heating-from-volcanic-ambient-aerosol-particles",
+    "validation-key": "tendency-of-air-temperature-due-to-longwave-heating-from-volcanic-ambient-aerosol-particles",
+    "ui-label": "Tendency Of Air Temperature Due To Longwave Heating From Volcanic Ambient Aerosol Particles",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. Air temperature is the bulk temperature of the air, not the surface (skin) temperature. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The term \"longwave\" means longwave radiation. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. To specify the relative humidity and temperature at which the quantity described by the standard name applies, provide scalar coordinate variables with standard names of \"relative_humidity\" and \"air_temperature\". Volcanic aerosols include both volcanic ash and secondary products such as sulphate aerosols formed from gaseous emissions of volcanic eruptions. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K s-1",
+    "cf-name": "tendency_of_air_temperature_due_to_longwave_heating_from_volcanic_ambient_aerosol_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

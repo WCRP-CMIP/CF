@@ -1,0 +1,13 @@
+{
+    "id": "air-pressure-at-freezing-level",
+    "validation-key": "air-pressure-at-freezing-level",
+    "ui-label": "Air Pressure At Freezing Level",
+    "description": "Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa",
+    "cf-name": "air_pressure_at_freezing_level",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

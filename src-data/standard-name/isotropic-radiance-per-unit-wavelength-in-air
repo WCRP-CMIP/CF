@@ -1,0 +1,13 @@
+{
+    "id": "isotropic-radiance-per-unit-wavelength-in-air",
+    "validation-key": "isotropic-radiance-per-unit-wavelength-in-air",
+    "ui-label": "Isotropic Radiance Per Unit Wavelength In Air",
+    "description": "Radiance is the radiative flux in a particular direction, per unit of solid angle. If radiation is isotropic, the radiance is independent of direction, so the direction should not be specified. If the radiation is directionally dependent, a standard name of upwelling or downwelling radiance should be chosen instead. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength.",
+    "canonical_units": "W m-2 m-1 sr-1",
+    "cf-name": "isotropic_radiance_per_unit_wavelength_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

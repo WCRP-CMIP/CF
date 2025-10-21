@@ -1,0 +1,13 @@
+{
+    "id": "water-flux-out-of-sea-water",
+    "validation-key": "water-flux-out-of-sea-water",
+    "ui-label": "Water Flux Out Of Sea Water",
+    "description": "The quantity water_flux_out_of_sea_water is the quantity with  standard name water_flux_into_sea_water multiplied by -1. \"Water\" means water in all phases. The water flux out of sea water is the freshwater leaving as a result of precipitation, evaporation, river outflow, sea-ice and any water flux relaxation(s) and correction(s) that may have been applied. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "water_flux_out_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

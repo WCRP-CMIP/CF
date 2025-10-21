@@ -1,0 +1,12 @@
+{
+    "id": "shrubs",
+    "validation-key": "shrubs",
+    "ui-label": "Shrubs",
+    "description": "The distinction between trees and shrubs is model dependent.",
+    "cf-name": "shrubs",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

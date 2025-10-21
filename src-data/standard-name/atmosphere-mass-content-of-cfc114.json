@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-cfc114",
+    "validation-key": "atmosphere-mass-content-of-cfc114",
+    "ui-label": "Atmosphere Mass Content Of Cfc114",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. The mass is the total mass of the molecules. The chemical formula of CFC114 is CClF2CClF2. The IUPAC name for CFC114 is 1,2-dichloro-1,1,2,2-tetrafluoroethane.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_cfc114",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

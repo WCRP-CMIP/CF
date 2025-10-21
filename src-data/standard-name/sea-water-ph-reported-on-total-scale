@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-ph-reported-on-total-scale",
+    "validation-key": "sea-water-ph-reported-on-total-scale",
+    "ui-label": "Sea Water Ph Reported On Total Scale",
+    "description": "'sea_water_pH_reported_on_total_scale' is the measure of acidity of seawater, defined as the negative logarithm of the concentration of dissolved hydrogen ions plus bisulfate ions in a sea water medium; it can be measured or calculated; when measured the scale is defined according to a series of buffers prepared in artificial seawater containing bisulfate.  The quantity may be written as pH(total) = -log([H+](free) + [HSO4-]).",
+    "canonical_units": "1",
+    "cf-name": "sea_water_ph_reported_on_total_scale",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sunglint-angle",
+    "validation-key": "sunglint-angle",
+    "ui-label": "Sunglint Angle",
+    "description": "The angle between an incident beam of solar radiation and the outgoing beam specularly reflected at a sea surface.",
+    "canonical_units": "rad",
+    "cf-name": "sunglint_angle",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

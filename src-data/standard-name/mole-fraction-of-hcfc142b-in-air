@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-hcfc142b-in-air",
+    "validation-key": "mole-fraction-of-hcfc142b-in-air",
+    "ui-label": "Mole Fraction Of Hcfc142b In Air",
+    "description": "\"Mole fraction\" is used in the construction \"mole_fraction_of_X_in_Y\", where X is a material constituent of Y. A chemical or biological species denoted by X may be described by a single term such as \"nitrogen\" or a phrase such as \"nox_expressed_as_nitrogen\". The chemical formula for HCFC142b is CH3CClF2. The IUPAC name for HCFC142b is 1-chloro-1,1-difluoroethane.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_hcfc142b_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

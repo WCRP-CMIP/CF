@@ -1,0 +1,13 @@
+{
+    "id": "platform-yaw-fore-port",
+    "validation-key": "platform-yaw-fore-port",
+    "ui-label": "Platform Yaw Fore Port",
+    "description": "Yaw is a rotation about the local vertical axis. Yaw is relative to the \"at rest\" rotation of the platform with respect to the axis of rotation. The \"at rest\" rotation of the platform may change over time. \"Fore port\" indicates that positive values of yaw represent the front of the platform moving to the left as viewed by an observer on top of the platform facing forward. The standard name platform_yaw_fore_starboard should be used for data having the opposite sign convention. The standard name platform_yaw should be chosen only if the sign convention of the data is unknown. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "degree",
+    "cf-name": "platform_yaw_fore_port",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

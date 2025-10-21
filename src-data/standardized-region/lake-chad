@@ -1,0 +1,12 @@
+{
+    "id": "lake-chad",
+    "validation-key": "lake-chad",
+    "ui-label": "Lake Chad",
+    "description": "",
+    "cf-name": "lake_chad",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

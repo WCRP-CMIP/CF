@@ -1,0 +1,13 @@
+{
+    "id": "ocean-salt-y-transport",
+    "validation-key": "ocean-salt-y-transport",
+    "ui-label": "Ocean Salt Y Transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y. Salt transport refers to the mass of salt being transported.",
+    "canonical_units": "1e-3 kg s-1",
+    "cf-name": "ocean_salt_y_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

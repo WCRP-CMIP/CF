@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-height-correction-due-to-air-pressure-and-wind-at-high-frequency",
+    "validation-key": "sea-surface-height-correction-due-to-air-pressure-and-wind-at-high-frequency",
+    "ui-label": "Sea Surface Height Correction Due To Air Pressure And Wind At High Frequency",
+    "description": "The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Air pressure and wind at high frequency\" means variations in air pressure with periods shorter  than 20 days. These give rise to corresponding variations in sea surface topography. The quantity sea_surface_height_correction_due_to_air_pressure_and_wind_at_high_frequency  should be applied by adding it to the quantity with standard name altimeter_range.  Additional altimeter range corrections are given by the quantities with standard names altimeter_range_correction_due_to_wet_troposphere, altimeter_range_correction_due_to_dry_troposphere, altimeter_range_correction_due_to_ionosphere and sea_surface_height_correction_due_to_air_pressure_at_low_frequency.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_height_correction_due_to_air_pressure_and_wind_at_high_frequency",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

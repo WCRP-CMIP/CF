@@ -1,0 +1,13 @@
+{
+    "id": "surface-roughness-length-for-humidity-in-air",
+    "validation-key": "surface-roughness-length-for-humidity-in-air",
+    "ui-label": "Surface Roughness Length For Humidity In Air",
+    "description": "The height above the surface where the mean value of humidity assumes its surface value when extrapolated along a logarithmic profile downward towards the surface. The surface called \"surface\" means the lower boundary of the atmosphere.",
+    "canonical_units": "m",
+    "cf-name": "surface_roughness_length_for_humidity_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

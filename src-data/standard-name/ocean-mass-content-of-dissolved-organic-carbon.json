@@ -1,0 +1,13 @@
+{
+    "id": "ocean-mass-content-of-dissolved-organic-carbon",
+    "validation-key": "ocean-mass-content-of-dissolved-organic-carbon",
+    "ui-label": "Ocean Mass Content Of Dissolved Organic Carbon",
+    "description": "\"Content\" indicates a quantity per unit area. Organic carbon describes a family of chemical species and is the term used in standard names for all species belonging to the family that are represented within a given model. The list of individual species that are included in a quantity having a group chemical standard name can vary between models. Where possible, the data variable should be accompanied by a complete description of the species represented, for example, by using a comment attribute.",
+    "canonical_units": "kg m-2",
+    "cf-name": "ocean_mass_content_of_dissolved_organic_carbon",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

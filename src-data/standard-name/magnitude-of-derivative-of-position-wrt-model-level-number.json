@@ -1,0 +1,13 @@
+{
+    "id": "magnitude-of-derivative-of-position-wrt-model-level-number",
+    "validation-key": "magnitude-of-derivative-of-position-wrt-model-level-number",
+    "ui-label": "Magnitude Of Derivative Of Position Wrt Model Level Number",
+    "description": "The quantity with standard name magnitude_of_derivative_of_position_wrt_model_level_number (known in differential geometry as a \"scale factor\") is | (dr/dk)ij|, where r(i,j,k) is the vector 3D position of the point with coordinate indices (i,j,k). It is a measure of the gridblock spacing in the z-direction.",
+    "canonical_units": "m",
+    "cf-name": "magnitude_of_derivative_of_position_wrt_model_level_number",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "square-of-upward-air-velocity",
+    "validation-key": "square-of-upward-air-velocity",
+    "ui-label": "Square Of Upward Air Velocity",
+    "description": "\"square_of_X\" means X*X. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector.",
+    "canonical_units": "m2 s-2",
+    "cf-name": "square_of_upward_air_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "mole-fraction-of-gaseous-elemental-mercury-in-air",
+    "validation-key": "mole-fraction-of-gaseous-elemental-mercury-in-air",
+    "ui-label": "Mole Fraction Of Gaseous Elemental Mercury In Air",
+    "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+    "canonical_units": "1",
+    "cf-name": "mole_fraction_of_gaseous_elemental_mercury_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ultraviolet-index-assuming-overcast-sky",
+    "validation-key": "ultraviolet-index-assuming-overcast-sky",
+    "ui-label": "Ultraviolet Index Assuming Overcast Sky",
+    "description": "The \"Ultraviolet Index\" (UVI) is a measure of the amount of solar ultraviolet radiation that reaches the surface of the earth depending on factors such as time of day and cloud cover. It is often used to alert the public of the need to limit sun exposure and use sun creams to protect the skin. Each point on the Index scale is equivalent to 25 mW m-2 of UV radiation (reference: Australian Bureau of Meteorology, http://www.bom.gov.au/uv/about_uv_index.shtml). The UVI range is expressed as a numeric value from 0 to 20 and sometimes graphically as bands of color indicating the attendant risk of skin damage. A UVI of 0-2 is described as 'Low' (represented graphically in green); a UVI of 11 or greater is described as \"Extreme\" (represented graphically in purple). The higher the UVI, the greater the potential health risk to humans and the less time it takes for harm to occur. A phrase \"assuming_condition\" indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. \"Overcast\" means a fractional sky cover of 95% or more when at least a portion of this amount is attributable to clouds or obscuring phenomena (such as haze, dust, smoke, fog, etc.) aloft. (Reference: AMS Glossary: http://glossary.ametsoc.org/wiki/Main_Page). Standard names are also defined for the quantities ultraviolet_index and ultraviolet_index_assuming_clear_sky.",
+    "canonical_units": "1",
+    "cf-name": "ultraviolet_index_assuming_overcast_sky",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

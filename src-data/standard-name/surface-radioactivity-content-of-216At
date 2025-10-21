@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-216At",
+    "validation-key": "surface-radioactivity-content-of-216at",
+    "ui-label": "Surface Radioactivity Content Of 216at",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"At\" means the element \"astatine\" and \"216At\" is the isotope \"astatine-216\" with a half-life of 3.47e-09 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_216At",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

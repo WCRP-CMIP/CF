@@ -1,0 +1,13 @@
+{
+    "id": "thickness-of-soil-surface-organic-layer",
+    "validation-key": "thickness-of-soil-surface-organic-layer",
+    "ui-label": "Thickness Of Soil Surface Organic Layer",
+    "description": "Depth or height of the organic soil horizon (O or H horizons per the World Reference Base soil classification system), measured from the soil surface down to the mineral horizon. Organic layers are commonly composed of a succession of litter of recognizable origin, of partly decomposed litter, and of highly decomposed (humic) organic material.",
+    "canonical_units": "m",
+    "cf-name": "thickness_of_soil_surface_organic_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

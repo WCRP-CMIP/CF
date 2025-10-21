@@ -1,0 +1,13 @@
+{
+    "id": "ocean-mass-y-transport",
+    "validation-key": "ocean-mass-y-transport",
+    "ui-label": "Ocean Mass Y Transport",
+    "description": "\"y\" indicates a vector component along the grid y-axis, positive with increasing y.",
+    "canonical_units": "kg s-1",
+    "cf-name": "ocean_mass_y_transport",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

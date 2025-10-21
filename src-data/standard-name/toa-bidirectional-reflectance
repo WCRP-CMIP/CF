@@ -1,0 +1,13 @@
+{
+    "id": "toa-bidirectional-reflectance",
+    "validation-key": "toa-bidirectional-reflectance",
+    "ui-label": "Toa Bidirectional Reflectance",
+    "description": "\"Bidirectional_reflectance\" depends on the angles of incident and measured radiation. Reflectance is the ratio of the energy of the reflected to the incident radiation.  A coordinate variable of radiation_wavelength or radiation_frequency can be used to specify the wavelength or frequency, respectively, of the radiation. \"toa\" means top of atmosphere. toa_bidirectional_reflectance includes a factor to account for the cosine of the solar zenith angle but does not include any integration over solid angle.",
+    "canonical_units": "1",
+    "cf-name": "toa_bidirectional_reflectance",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

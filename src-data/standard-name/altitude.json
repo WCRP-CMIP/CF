@@ -1,0 +1,13 @@
+{
+    "id": "altitude",
+    "validation-key": "altitude",
+    "ui-label": "Altitude",
+    "description": "Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",
+    "canonical_units": "m",
+    "cf-name": "altitude",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

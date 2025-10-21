@@ -1,0 +1,12 @@
+{
+    "id": "taiwan-luzon-straits",
+    "validation-key": "taiwan-luzon-straits",
+    "ui-label": "Taiwan Luzon Straits",
+    "description": "",
+    "cf-name": "taiwan_luzon_straits",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

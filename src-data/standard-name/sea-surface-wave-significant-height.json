@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-wave-significant-height",
+    "validation-key": "sea-surface-wave-significant-height",
+    "ui-label": "Sea Surface Wave Significant Height",
+    "description": "Significant wave height is a statistic computed from wave measurements and corresponds to the average height of the highest one third of the waves, where the height is defined as the vertical distance from a wave trough to the following wave crest.",
+    "canonical_units": "m",
+    "cf-name": "sea_surface_wave_significant_height",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

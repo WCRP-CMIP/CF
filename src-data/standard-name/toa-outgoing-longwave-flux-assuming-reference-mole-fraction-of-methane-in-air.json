@@ -1,0 +1,13 @@
+{
+    "id": "toa-outgoing-longwave-flux-assuming-reference-mole-fraction-of-methane-in-air",
+    "validation-key": "toa-outgoing-longwave-flux-assuming-reference-mole-fraction-of-methane-in-air",
+    "ui-label": "Toa Outgoing Longwave Flux Assuming Reference Mole Fraction Of Methane In Air",
+    "description": "The abbreviation \"toa\" means top of atmosphere. The term \"longwave\" means longwave radiation. The TOA outgoing longwave flux is the upwelling thermal radiative flux, often called the \"outgoing longwave radiation\" or \"OLR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. A phrase \"assuming_condition\" indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. The chemical formula for methane is CH4.",
+    "canonical_units": "W m-2",
+    "cf-name": "toa_outgoing_longwave_flux_assuming_reference_mole_fraction_of_methane_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

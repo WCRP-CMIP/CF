@@ -1,0 +1,12 @@
+{
+    "id": "east-china-sea",
+    "validation-key": "east-china-sea",
+    "ui-label": "East China Sea",
+    "description": "",
+    "cf-name": "east_china_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

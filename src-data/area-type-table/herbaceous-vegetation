@@ -1,0 +1,12 @@
+{
+    "id": "herbaceous-vegetation",
+    "validation-key": "herbaceous-vegetation",
+    "ui-label": "Herbaceous Vegetation",
+    "description": "Herbaceous plants are plants with very flexible stems. Their leaves and stems die down to soil level at the end of every growing season. Herbaceous plants can be annual, biennial or perennial.",
+    "cf-name": "herbaceous_vegetation",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-219Rn",
+    "validation-key": "surface-radioactivity-content-of-219rn",
+    "ui-label": "Surface Radioactivity Content Of 219rn",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Rn\" means the element \"radon\" and \"219Rn\" is the isotope \"radon-219\" with a half-life of 4.64e-05 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_219Rn",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

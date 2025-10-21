@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-velocity-to-direction-due-to-ekman-drift",
+    "validation-key": "sea-water-velocity-to-direction-due-to-ekman-drift",
+    "ui-label": "Sea Water Velocity To Direction Due To Ekman Drift",
+    "description": "A velocity is a vector quantity. The phrase \"to_direction\" is used in the construction X_to_direction and indicates the direction towards which the velocity vector of X is headed. The direction is a bearing in the usual geographical sense, measured positive clockwise from due north. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Ekman drift\" is the movement of a layer of water (the Ekman layer) due to the combination of wind stress at the sea surface and the Coriolis effect. Ekman drift is to the right of the wind direction in the Northern Hemisphere and the left in the Southern Hemisphere. Reference: https://www.open.edu/openlearn/science-maths-technology/the-oceans/content-section-4.3.",
+    "canonical_units": "degree",
+    "cf-name": "sea_water_velocity_to_direction_due_to_ekman_drift",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

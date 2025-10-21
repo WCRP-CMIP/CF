@@ -1,0 +1,13 @@
+{
+    "id": "surface-backwards-scattering-coefficient-of-radar-wave",
+    "validation-key": "surface-backwards-scattering-coefficient-of-radar-wave",
+    "ui-label": "Surface Backwards Scattering Coefficient Of Radar Wave",
+    "description": "The scattering/absorption/attenuation coefficient is assumed to be an integral over all wavelengths, unless a coordinate of radiation_wavelength is included to specify the wavelength. Scattering of radiation is its deflection from its incident path without loss of energy. Backwards scattering refers to the sum of scattering into all backward angles i.e. scattering_angle exceeding pi/2 radians. A scattering_angle should not be specified with this quantity.",
+    "canonical_units": "1",
+    "cf-name": "surface_backwards_scattering_coefficient_of_radar_wave",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

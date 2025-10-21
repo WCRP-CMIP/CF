@@ -1,0 +1,13 @@
+{
+    "id": "surface-downwelling-longwave-flux-in-air-due-to-volcanic-ambient-aerosol-particles",
+    "validation-key": "surface-downwelling-longwave-flux-in-air-due-to-volcanic-ambient-aerosol-particles",
+    "ui-label": "Surface Downwelling Longwave Flux In Air Due To Volcanic Ambient Aerosol Particles",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. The term \"longwave\" means longwave radiation. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Aerosol\" means the system of suspended liquid or solid particles in air (except cloud droplets) and their carrier gas, the air itself. \"Ambient_aerosol\" means that the aerosol is measured or modelled at the ambient state of pressure, temperature and relative humidity that exists in its immediate environment. \"Ambient aerosol particles\" are aerosol particles that have taken up ambient water through hygroscopic growth. The extent of hygroscopic growth depends on the relative humidity and the composition of the particles. To specify the relative humidity and temperature at which the quantity described by the standard name applies, provide scalar coordinate variables with standard names of \"relative_humidity\" and \"air_temperature\". Volcanic aerosols include both volcanic ash and secondary products such as sulphate aerosols formed from gaseous emissions of volcanic eruptions.",
+    "canonical_units": "W m-2",
+    "cf-name": "surface_downwelling_longwave_flux_in_air_due_to_volcanic_ambient_aerosol_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

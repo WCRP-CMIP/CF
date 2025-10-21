@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-124Sb",
+    "validation-key": "surface-radioactivity-content-of-124sb",
+    "ui-label": "Surface Radioactivity Content Of 124sb",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Sb\" means the element \"antimony\" and \"124Sb\" is the isotope \"antimony-124\" with a half-life of 6.03e+01 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_124Sb",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

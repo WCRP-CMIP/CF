@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-234mPa",
+    "validation-key": "surface-radioactivity-content-of-234mpa",
+    "ui-label": "Surface Radioactivity Content Of 234mpa",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Pa\" means the element \"protactinium\" and \"234mPa\" is the metastable state of the isotope \"protactinium-234\" with a half-life of 8.13e-04 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_234mPa",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

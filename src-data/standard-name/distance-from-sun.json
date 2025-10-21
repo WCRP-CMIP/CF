@@ -1,0 +1,13 @@
+{
+    "id": "distance-from-sun",
+    "validation-key": "distance-from-sun",
+    "ui-label": "Distance From Sun",
+    "description": "The distance from the sun to the point of observation.",
+    "canonical_units": "m",
+    "cf-name": "distance_from_sun",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

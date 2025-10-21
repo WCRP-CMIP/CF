@@ -1,0 +1,13 @@
+{
+    "id": "cell-thickness",
+    "validation-key": "cell-thickness",
+    "ui-label": "Cell Thickness",
+    "description": "\"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
+    "canonical_units": "m",
+    "cf-name": "cell_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

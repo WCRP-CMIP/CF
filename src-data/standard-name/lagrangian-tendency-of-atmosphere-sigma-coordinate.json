@@ -1,0 +1,13 @@
+{
+    "id": "lagrangian-tendency-of-atmosphere-sigma-coordinate",
+    "validation-key": "lagrangian-tendency-of-atmosphere-sigma-coordinate",
+    "ui-label": "Lagrangian Tendency Of Atmosphere Sigma Coordinate",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. The Lagrangian tendency of a quantity is its rate of change following the motion of the fluid, also called the \"material derivative\" or \"convective derivative\". The Lagrangian tendency of sigma plays the role of the upward component of air velocity when the atmosphere sigma coordinate (a dimensionless atmosphere vertical coordinate) is being used as the vertical coordinate. If the vertical air velocity is upwards, it is negative when expressed as a tendency of sigma; downwards is positive. See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "s-1",
+    "cf-name": "lagrangian_tendency_of_atmosphere_sigma_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

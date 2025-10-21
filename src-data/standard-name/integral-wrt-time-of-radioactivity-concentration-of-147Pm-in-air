@@ -1,0 +1,13 @@
+{
+    "id": "integral-wrt-time-of-radioactivity-concentration-of-147Pm-in-air",
+    "validation-key": "integral-wrt-time-of-radioactivity-concentration-of-147pm-in-air",
+    "ui-label": "Integral Wrt Time Of Radioactivity Concentration Of 147pm In Air",
+    "description": "The phrase \"integral_wrt_X_of_Y\" means int Y dX. The data variable should have an axis for X specifying the limits of the integral as bounds. The phrase \"wrt\" means \"with respect to\". \"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Pm\" means the element \"promethium\" and \"147Pm\" is the isotope \"promethium-147\" with a half-life of 9.57e+02 days.",
+    "canonical_units": "Bq s m-3",
+    "cf-name": "integral_wrt_time_of_radioactivity_concentration_of_147Pm_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "ocean-mixed-layer-thickness-defined-by-vertical-tracer-diffusivity-deficit",
+    "validation-key": "ocean-mixed-layer-thickness-defined-by-vertical-tracer-diffusivity-deficit",
+    "ui-label": "Ocean Mixed Layer Thickness Defined By Vertical Tracer Diffusivity Deficit",
+    "description": "\"Thickness\" means the vertical extent of a layer. The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by temperature, sigma, sigma_theta, or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. The amount by which the quantity differs can be specified by a scalar coordinate variable.",
+    "canonical_units": "m",
+    "cf-name": "ocean_mixed_layer_thickness_defined_by_vertical_tracer_diffusivity_deficit",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

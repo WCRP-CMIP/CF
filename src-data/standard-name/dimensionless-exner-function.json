@@ -1,0 +1,13 @@
+{
+    "id": "dimensionless-exner-function",
+    "validation-key": "dimensionless-exner-function",
+    "ui-label": "Dimensionless Exner Function",
+    "description": "The term \"Exner function\" is applied to various quantities in the literature. \"Dimensionless Exner function\" is the standard name of (p/p0)^(R/Cp), where p is pressure, p0 a reference pressure, R the gas constant and Cp the specific heat at constant pressure. This quantity is also the ratio of in-situ to potential temperature. Standard names for other variants can be defined on request. To specify the reference pressure to which the quantity applies, provide a scalar coordinate variable with standard name reference_pressure.",
+    "canonical_units": "1",
+    "cf-name": "dimensionless_exner_function",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

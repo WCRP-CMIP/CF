@@ -1,0 +1,13 @@
+{
+    "id": "liquid-water-content-of-surface-snow",
+    "validation-key": "liquid-water-content-of-surface-snow",
+    "ui-label": "Liquid Water Content Of Surface Snow",
+    "description": "\"Content\" indicates a quantity per unit area. Surface snow refers to the snow on the solid ground or on surface ice cover, but excludes, for example, falling snowflakes and snow on plants.",
+    "canonical_units": "kg m-2",
+    "cf-name": "liquid_water_content_of_surface_snow",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

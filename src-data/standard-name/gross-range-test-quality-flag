@@ -1,0 +1,13 @@
+{
+    "id": "gross-range-test-quality-flag",
+    "validation-key": "gross-range-test-quality-flag",
+    "ui-label": "Gross Range Test Quality Flag",
+    "description": "A quality flag that reports the result of the Gross Range test, which checks that values are within reasonable range bounds. The linkage between the data variable and this variable is achieved using the ancillary_variables attribute. There are standard names for other specific quality tests which take the form of X_quality_flag. Quality information that does not match any of the specific quantities should be given the more general standard name of quality_flag.",
+    "canonical_units": "1",
+    "cf-name": "gross_range_test_quality_flag",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

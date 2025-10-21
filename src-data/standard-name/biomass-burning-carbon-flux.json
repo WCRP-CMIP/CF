@@ -1,0 +1,13 @@
+{
+    "id": "biomass-burning-carbon-flux",
+    "validation-key": "biomass-burning-carbon-flux",
+    "ui-label": "Biomass Burning Carbon Flux",
+    "description": "\"Biomass burning carbon\" refers to the rate at which biomass is burned by forest fires etc., expressed as the mass of carbon which it contains. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "biomass_burning_carbon_flux",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

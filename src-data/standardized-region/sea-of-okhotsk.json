@@ -1,0 +1,12 @@
+{
+    "id": "sea-of-okhotsk",
+    "validation-key": "sea-of-okhotsk",
+    "ui-label": "Sea Of Okhotsk",
+    "description": "",
+    "cf-name": "sea_of_okhotsk",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

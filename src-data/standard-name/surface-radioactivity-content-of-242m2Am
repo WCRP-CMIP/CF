@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-242m2Am",
+    "validation-key": "surface-radioactivity-content-of-242m2am",
+    "ui-label": "Surface Radioactivity Content Of 242m2am",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Am\" means the element \"americium\" and \"242m2Am\" is the metastable state of the isotope \"americium-242\" with a half-life of 1.62e-07 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_242m2Am",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

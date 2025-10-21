@@ -1,0 +1,13 @@
+{
+    "id": "temperature-of-analysis-of-sea-water",
+    "validation-key": "temperature-of-analysis-of-sea-water",
+    "ui-label": "Temperature Of Analysis Of Sea Water",
+    "description": "The temperature_of_analysis_of_sea_water is the reference temperature for the effects of temperature on the measurement of another variable. This temperature should be measured, but may have been calculated, or assumed. For example, the temperature of the sample when measuring pH, or the temperature of equilibration in the case of dissolved gases. The linkage between the data variable and the variable with a standard_name of temperature_of_analysis_of_sea_water is achieved using the ancillary_variables attribute on the data variable. It is strongly recommended that a variable with this standard name should have a units_metadata attribute, with one of the values \"on-scale\" or \"difference\", whichever is appropriate for the data, because it is essential to know whether the temperature is on-scale (meaning relative to the origin of the scale indicated by the units) or refers to temperature differences (implying that the origin of the temperature scale is irrevelant), in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K",
+    "cf-name": "temperature_of_analysis_of_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

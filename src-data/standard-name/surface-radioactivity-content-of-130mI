@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-130mI",
+    "validation-key": "surface-radioactivity-content-of-130mi",
+    "ui-label": "Surface Radioactivity Content Of 130mi",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"I\" means the element \"iodine\" and \"130mI\" is the metastable state of the isotope \"iodine-130\" with a half-life of 6.17e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_130mI",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

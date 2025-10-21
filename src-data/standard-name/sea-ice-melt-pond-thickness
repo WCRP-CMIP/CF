@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-melt-pond-thickness",
+    "validation-key": "sea-ice-melt-pond-thickness",
+    "ui-label": "Sea Ice Melt Pond Thickness",
+    "description": "\"Thickness\" means the vertical extent of a layer. Melt ponds occur on top of the existing sea ice. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "m",
+    "cf-name": "sea_ice_melt_pond_thickness",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

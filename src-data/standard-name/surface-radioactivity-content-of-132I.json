@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-132I",
+    "validation-key": "surface-radioactivity-content-of-132i",
+    "ui-label": "Surface Radioactivity Content Of 132i",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"I\" means the element \"iodine\" and \"132I\" is the isotope \"iodine-132\" with a half-life of 9.60e-02 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_132I",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

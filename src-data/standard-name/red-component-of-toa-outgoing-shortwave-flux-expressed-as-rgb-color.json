@@ -1,0 +1,13 @@
+{
+    "id": "red-component-of-toa-outgoing-shortwave-flux-expressed-as-rgb-color",
+    "validation-key": "red-component-of-toa-outgoing-shortwave-flux-expressed-as-rgb-color",
+    "ui-label": "Red Component Of Toa Outgoing Shortwave Flux Expressed As Rgb Color",
+    "description": "Red corresponds to the red component of the RGB model. The term \"shortwave\" means shortwave radiation. The abbreviation \"toa\" means top of atmosphere. The TOA outgoing shortwave flux is the reflected and scattered solar radiative flux i.e. the \"upwelling\" TOA shortwave flux, sometimes called the \"outgoing shortwave radiation\" or \"OSR\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The intensity is scaled relative to a reference intensity or the maximum possible value. It is recommended that the variable attributes valid_min and valid_max or valid_range are used to denote the range of possible values (e.g. 0 to 1, 0 to 255, 0 to 65,535). The radiation wavelength or frequency range for red can be denoted as bounds of a scalar coordinate variable.",
+    "canonical_units": "1",
+    "cf-name": "red_component_of_toa_outgoing_shortwave_flux_expressed_as_rgb_color",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

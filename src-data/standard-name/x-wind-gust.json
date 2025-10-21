@@ -1,0 +1,13 @@
+{
+    "id": "x-wind-gust",
+    "validation-key": "x-wind-gust",
+    "ui-label": "X Wind Gust",
+    "description": "\"x\" indicates a vector component along the grid x-axis, positive with increasing x. Wind is defined as a two-dimensional (horizontal) air velocity vector, with no vertical component. (Vertical motion in the atmosphere has the standard name upward_air_velocity.) A gust is a sudden brief period of high wind speed. In an observed timeseries of wind speed, the gust wind speed can be indicated by a cell_methods of maximum for the time-interval. In an atmospheric model which has a parametrised calculation of gustiness, the gust wind speed may be separately diagnosed from the wind speed.",
+    "canonical_units": "m s-1",
+    "cf-name": "x_wind_gust",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

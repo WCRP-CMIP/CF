@@ -1,0 +1,12 @@
+{
+    "id": "indian-ocean",
+    "validation-key": "indian-ocean",
+    "ui-label": "Indian Ocean",
+    "description": "",
+    "cf-name": "indian_ocean",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

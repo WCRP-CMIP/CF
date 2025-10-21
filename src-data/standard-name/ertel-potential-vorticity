@@ -1,0 +1,13 @@
+{
+    "id": "ertel-potential-vorticity",
+    "validation-key": "ertel-potential-vorticity",
+    "ui-label": "Ertel Potential Vorticity",
+    "description": "The Ertel potential vorticity is the scalar product of the atmospheric absolute vorticity vector and the gradient of potential temperature. It is a conserved quantity in the absence of friction and heat sources [AMS Glossary, http://glossary.ametsoc.org/wiki/Ertel_potential_vorticity]. A frequently used simplification of the general Ertel potential vorticity considers the Earth rotation vector to have only a vertical component. Then, only the vertical contribution of the scalar product is calculated. It is strongly recommended that a variable with this standard name should have the attribute units_metadata=\"temperature: difference\", meaning that it refers to temperature differences and implying that the origin of the temperature scale is irrelevant, because it is essential to know whether a temperature is on-scale or a difference in order to convert the units correctly (cf. https://cfconventions.org/cf-conventions/cf-conventions.html#temperature-units).",
+    "canonical_units": "K m2 kg-1 s-1",
+    "cf-name": "ertel_potential_vorticity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

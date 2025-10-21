@@ -1,0 +1,13 @@
+{
+    "id": "upwelling-shortwave-flux-in-air-assuming-reference-mole-fraction-of-ozone-in-air",
+    "validation-key": "upwelling-shortwave-flux-in-air-assuming-reference-mole-fraction-of-ozone-in-air",
+    "ui-label": "Upwelling Shortwave Flux In Air Assuming Reference Mole Fraction Of Ozone In Air",
+    "description": "Upwelling radiation is radiation from below. It does not mean \"net upward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. The term \"shortwave\" means shortwave radiation. When thought of as being incident on a surface, a radiative flux is sometimes called \"irradiance\". In addition, it is identical with the quantity measured by a cosine-collector light-meter and sometimes called \"vector irradiance\". In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. A phrase \"assuming_condition\" indicates that the named quantity is the value which would obtain if all aspects of the system were unaltered except for the assumption of the circumstances specified by the condition. This 3D ozone field acts as a reference ozone field in a diagnostic call to the model's radiation scheme. It is expressed in terms of mole fraction of ozone in air. It may be observation-based or model-derived. It may be from any time period. By using the same ozone reference in the diagnostic radiation call in two model simulations and calculating differences between the radiative flux diagnostics from the prognostic call to the radiation scheme and the diagnostic call to the radiation scheme with the ozone reference, an instantaneous radiative forcing for ozone can be calculated.",
+    "canonical_units": "W m-2",
+    "cf-name": "upwelling_shortwave_flux_in_air_assuming_reference_mole_fraction_of_ozone_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

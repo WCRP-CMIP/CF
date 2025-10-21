@@ -1,0 +1,12 @@
+{
+    "id": "source",
+    "validation-key": "source",
+    "ui-label": "Source",
+    "description": "An auxiliary coordinate variable with a standard name of source contains string values which describe the method of production of the original data with which the coordinate variable is associated. If the data were model-generated, source should name the model and its version, as specifically as could be useful. If the data are observational, source should characterize them (e.g., \"surface observation\", \"radiosonde\"). The use of source as the standard name for an auxiliary coordinate variable permits the aggregation of data from multiple sources within a single data file.",
+    "cf-name": "source",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

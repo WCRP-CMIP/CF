@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-218At-in-air",
+    "validation-key": "radioactivity-concentration-of-218at-in-air",
+    "ui-label": "Radioactivity Concentration Of 218at In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"At\" means the element \"astatine\" and \"218At\" is the isotope \"astatine-218\" with a half-life of 2.31e-05 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_218At_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

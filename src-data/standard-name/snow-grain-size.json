@@ -1,0 +1,13 @@
+{
+    "id": "snow-grain-size",
+    "validation-key": "snow-grain-size",
+    "ui-label": "Snow Grain Size",
+    "description": null,
+    "canonical_units": "m",
+    "cf-name": "snow_grain_size",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

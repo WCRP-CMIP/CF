@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-ocean-mole-content-of-dissolved-inorganic-iron",
+    "validation-key": "tendency-of-ocean-mole-content-of-dissolved-inorganic-iron",
+    "ui-label": "Tendency Of Ocean Mole Content Of Dissolved Inorganic Iron",
+    "description": "\"Content\" indicates a quantity per unit area.  \"tendency_of_X\" means derivative of X with respect to time. \"Dissolved inorganic iron\" means iron ions, in oxidation states of both Fe2+ and Fe3+, in solution.",
+    "canonical_units": "mol m-2 s-1",
+    "cf-name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_iron",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

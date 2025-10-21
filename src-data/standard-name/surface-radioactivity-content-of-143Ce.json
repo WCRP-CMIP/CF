@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-143Ce",
+    "validation-key": "surface-radioactivity-content-of-143ce",
+    "ui-label": "Surface Radioactivity Content Of 143ce",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Ce\" means the element \"cerium\" and \"143Ce\" is the isotope \"cerium-143\" with a half-life of 1.37e+00 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_143Ce",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

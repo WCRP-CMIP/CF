@@ -1,0 +1,13 @@
+{
+    "id": "surface-radioactivity-content-of-240mNp",
+    "validation-key": "surface-radioactivity-content-of-240mnp",
+    "ui-label": "Surface Radioactivity Content Of 240mnp",
+    "description": "The surface called \"surface\" means the lower boundary of the atmosphere. \"Content\" indicates a quantity per unit area. \"Radioactivity\" means the number of radioactive decays of a material per second. \"Np\" means the element \"neptunium\" and \"240mNp\" is the metastable state of the isotope \"neptunium-240\" with a half-life of 5.08e-03 days.",
+    "canonical_units": "Bq m-2",
+    "cf-name": "surface_radioactivity_content_of_240mNp",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

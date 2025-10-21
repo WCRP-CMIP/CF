@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-downward-northward-stress-due-to-dissipation-of-sea-surface-waves",
+    "validation-key": "sea-surface-downward-northward-stress-due-to-dissipation-of-sea-surface-waves",
+    "ui-label": "Sea Surface Downward Northward Stress Due To Dissipation Of Sea Surface Waves",
+    "description": "The surface called \"sea surface\" means the upper boundary of the ocean. \"Surface stress\" means the shear stress (force per unit area) exerted at the surface. A downward stress is a downward flux of momentum. Over large bodies of water, surface stress can drive near-surface currents. \"Downward\" indicates a vector component which is positive when directed downward (negative upward). \"Northward\" indicates a vector component which is positive when directed northward (negative southward). \"Downward northward\" indicates the ZY component of a tensor. A downward northward stress is a downward flux of northward momentum, which accelerates the lower medium northward and the upper medium southward. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. The phrase \"dissipation_of_sea_surface_waves\" means the stress associated with sea surface waves dissipation processes such as whitecapping.",
+    "canonical_units": "Pa",
+    "cf-name": "sea_surface_downward_northward_stress_due_to_dissipation_of_sea_surface_waves",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

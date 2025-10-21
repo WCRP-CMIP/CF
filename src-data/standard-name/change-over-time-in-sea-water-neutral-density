@@ -1,0 +1,13 @@
+{
+    "id": "change-over-time-in-sea-water-neutral-density",
+    "validation-key": "change-over-time-in-sea-water-neutral-density",
+    "ui-label": "Change Over Time In Sea Water Neutral Density",
+    "description": "\"change_over_time_in_X\" means change in a quantity X over a time-interval, which should be defined by the bounds of the time coordinate. \"Neutral density\" is a variable designed so that a surface of constant neutral density everywhere has a local slope that is close to the local slope of the neutral tangent plane. At the sea surface in the equatorial Pacific neutral density is very close to the potential density anomaly. At other locations, this is not the case. For example, along a neutral density surface there is a difference of up to 0.14 kg/m^3 in the potential density anomaly at the outcrops in the Southern and Northern hemispheres. Refer to Jackett & McDougall (1997; Journal of Physical Oceanography, Vol 27, doi: 10.1175/1520-0485(1997)027<0237:ANDVFT>2.0.CO;2) for more information.",
+    "canonical_units": "kg m-3",
+    "cf-name": "change_over_time_in_sea_water_neutral_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

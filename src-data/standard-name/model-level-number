@@ -1,0 +1,13 @@
+{
+    "id": "model-level-number",
+    "validation-key": "model-level-number",
+    "ui-label": "Model Level Number",
+    "description": "Model level number should be understood as equivalent to layer number.",
+    "canonical_units": "1",
+    "cf-name": "model_level_number",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

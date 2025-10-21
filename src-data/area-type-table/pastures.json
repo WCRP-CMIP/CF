@@ -1,0 +1,12 @@
+{
+    "id": "pastures",
+    "validation-key": "pastures",
+    "ui-label": "Pastures",
+    "description": "Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland.",
+    "cf-name": "pastures",
+    "@context": "_context_",
+    "type": [
+        "wcrp:area-type-table",
+        "cf"
+    ]
+}

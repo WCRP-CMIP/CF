@@ -1,0 +1,13 @@
+{
+    "id": "downwelling-photon-flux-per-unit-wavelength-in-sea-water",
+    "validation-key": "downwelling-photon-flux-per-unit-wavelength-in-sea-water",
+    "ui-label": "Downwelling Photon Flux Per Unit Wavelength In Sea Water",
+    "description": "Downwelling radiation is radiation from above. It does not mean \"net downward\". The sign convention is that \"upwelling\" is positive upwards and \"downwelling\" is positive downwards. A photon flux is specified in terms of numbers of photons expressed in moles. In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. A coordinate variable for radiation wavelength should be given the standard name radiation_wavelength.",
+    "canonical_units": "mol m-2 s-1 m-1",
+    "cf-name": "downwelling_photon_flux_per_unit_wavelength_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

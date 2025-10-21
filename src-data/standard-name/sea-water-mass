@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-mass",
+    "validation-key": "sea-water-mass",
+    "ui-label": "Sea Water Mass",
+    "description": "The quantity with standard name \"sea_water_mass\" is the total mass of liquid seawater in the global oceans, including enclosed seas.",
+    "canonical_units": "kg",
+    "cf-name": "sea_water_mass",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

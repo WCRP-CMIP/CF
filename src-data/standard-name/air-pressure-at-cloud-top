@@ -1,0 +1,13 @@
+{
+    "id": "air-pressure-at-cloud-top",
+    "validation-key": "air-pressure-at-cloud-top",
+    "ui-label": "Air Pressure At Cloud Top",
+    "description": "The phrase \"cloud_top\" refers to the top of the highest cloud. Air pressure is the force per unit area which would be exerted when the moving gas molecules of which the air is composed strike a theoretical surface of any orientation.",
+    "canonical_units": "Pa",
+    "cf-name": "air_pressure_at_cloud_top",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "solid-precipitation-flux-containing-18O",
+    "validation-key": "solid-precipitation-flux-containing-18o",
+    "ui-label": "Solid Precipitation Flux Containing 18o",
+    "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. Solid precipitation refers to the precipitation of water in the solid phase. Water in the atmosphere exists in one of three phases: solid, liquid or vapor. The solid phase can exist as snow, hail, graupel, cloud ice, or as a component of aerosol. The chemical formula for water is H2O. \"O\" means the element \"oxygen\" and \"18O\" is the stable isotope \"oxygen-18\".",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "solid_precipitation_flux_containing_18O",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

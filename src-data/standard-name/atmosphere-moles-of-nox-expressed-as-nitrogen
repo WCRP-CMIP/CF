@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-nox-expressed-as-nitrogen",
+    "validation-key": "atmosphere-moles-of-nox-expressed-as-nitrogen",
+    "ui-label": "Atmosphere Moles Of Nox Expressed As Nitrogen",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. \"Nox\" means a combination of two radical species containing nitrogen and oxygen: NO+NO2. The phrase 'expressed_as' is used in the construction A_expressed_as_B, where B is a chemical constituent of A. It means that the quantity indicated by the standard name is calculated solely with respect to the B contained in A, neglecting all other chemical constituents of A.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_nox_expressed_as_nitrogen",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

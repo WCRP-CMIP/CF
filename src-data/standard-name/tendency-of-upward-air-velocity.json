@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-upward-air-velocity",
+    "validation-key": "tendency-of-upward-air-velocity",
+    "ui-label": "Tendency Of Upward Air Velocity",
+    "description": "\"tendency_of_X\" means derivative of X with respect to time. A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). Upward air velocity is the vertical component of the 3D air velocity vector.",
+    "canonical_units": "m s-2",
+    "cf-name": "tendency_of_upward_air_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

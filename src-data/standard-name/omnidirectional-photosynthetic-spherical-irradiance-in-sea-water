@@ -1,0 +1,13 @@
+{
+    "id": "omnidirectional-photosynthetic-spherical-irradiance-in-sea-water",
+    "validation-key": "omnidirectional-photosynthetic-spherical-irradiance-in-sea-water",
+    "ui-label": "Omnidirectional Photosynthetic Spherical Irradiance In Sea Water",
+    "description": "\"Photosynthetic\" radiation is the part of the spectrum which is used in photosynthesis e.g. 400-700 nm. The range of wavelengths could be specified precisely by the bounds of a coordinate of radiation_wavelength. Omnidirectional spherical irradiance is the radiation incident on unit area of a spherical (or \"4-pi\") collector. It is sometimes called \"scalar irradiance\". Radiation incident on a 2-pi collector has standard names of \"spherical irradiance\" which specify up/downwelling.",
+    "canonical_units": "W m-2",
+    "cf-name": "omnidirectional_photosynthetic_spherical_irradiance_in_sea_water",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "effective-radius-of-convective-cloud-ice-particles",
+    "validation-key": "effective-radius-of-convective-cloud-ice-particles",
+    "ui-label": "Effective Radius Of Convective Cloud Ice Particles",
+    "description": "The effective radius of a size distribution of particles, such as aerosols, cloud droplets or ice crystals, is the area weighted mean radius of particle size. It is calculated as the ratio of the third to the second moment of the particle size distribution. Convective cloud is that produced by the convection schemes in an atmosphere model.",
+    "canonical_units": "m",
+    "cf-name": "effective_radius_of_convective_cloud_ice_particles",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

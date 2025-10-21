@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-moles-of-hcfc22",
+    "validation-key": "atmosphere-moles-of-hcfc22",
+    "ui-label": "Atmosphere Moles Of Hcfc22",
+    "description": "The construction \"atmosphere_moles_of_X\" means the total number of moles of X in the entire atmosphere, i.e. summed over the atmospheric column and over the entire globe. The chemical formula for HCFC22 is CHClF2. The IUPAC name for HCFC22 is chloro(difluoro)methane.",
+    "canonical_units": "mol",
+    "cf-name": "atmosphere_moles_of_hcfc22",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

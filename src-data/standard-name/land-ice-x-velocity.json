@@ -1,0 +1,13 @@
+{
+    "id": "land-ice-x-velocity",
+    "validation-key": "land-ice-x-velocity",
+    "ui-label": "Land Ice X Velocity",
+    "description": "A velocity is a vector quantity. \"x\" indicates a vector component along the grid x-axis, positive with increasing x. \"Land ice\" means glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves.",
+    "canonical_units": "m s-1",
+    "cf-name": "land_ice_x_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

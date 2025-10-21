@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-sea-water-alkalinity-expressed-as-mole-equivalent-due-to-biological-processes",
+    "validation-key": "tendency-of-sea-water-alkalinity-expressed-as-mole-equivalent-due-to-biological-processes",
+    "ui-label": "Tendency Of Sea Water Alkalinity Expressed As Mole Equivalent Due To Biological Processes",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. sea_water_alkalinity_expressed_as_mole_equivalent is the total alkalinity equivalent concentration (including carbonate, nitrogen, silicate, and borate components). The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase.",
+    "canonical_units": "mol m-3 s-1",
+    "cf-name": "tendency_of_sea_water_alkalinity_expressed_as_mole_equivalent_due_to_biological_processes",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "correction-for-model-negative-specific-humidity",
+    "validation-key": "correction-for-model-negative-specific-humidity",
+    "ui-label": "Correction For Model Negative Specific Humidity",
+    "description": "A numerical correction which is added to modelled negative specific humidities in order to obtain a value of zero.",
+    "canonical_units": "1",
+    "cf-name": "correction_for_model_negative_specific_humidity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

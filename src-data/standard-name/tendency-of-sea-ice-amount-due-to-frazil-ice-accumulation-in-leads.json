@@ -1,0 +1,13 @@
+{
+    "id": "tendency-of-sea-ice-amount-due-to-frazil-ice-accumulation-in-leads",
+    "validation-key": "tendency-of-sea-ice-amount-due-to-frazil-ice-accumulation-in-leads",
+    "ui-label": "Tendency Of Sea Ice Amount Due To Frazil Ice Accumulation In Leads",
+    "description": "The phrase \"tendency_of_X\" means derivative of X with respect to time. \"Amount\" means mass per unit area. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs. The specification of a physical process by the phrase due_to_process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Frazil\" consists of needle like crystals of ice, typically between three and four millimeters in diameter, which form as sea water begins to freeze. Salt is expelled during the freezing process and frazil ice consists of nearly pure fresh water. Leads are stretches of open water within wider areas of sea ice.",
+    "canonical_units": "kg m-2 s-1",
+    "cf-name": "tendency_of_sea_ice_amount_due_to_frazil_ice_accumulation_in_leads",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

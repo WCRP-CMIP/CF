@@ -1,0 +1,13 @@
+{
+    "id": "lwe-solid-precipitation-rate",
+    "validation-key": "lwe-solid-precipitation-rate",
+    "ui-label": "Lwe Solid Precipitation Rate",
+    "description": "\"Solid Precipitation\" in the earth's atmosphere means precipitation of water in solid phase only. The abbreviation \"lwe\" means liquid water equivalent.",
+    "canonical_units": "m s-1",
+    "cf-name": "lwe_solid_precipitation_rate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

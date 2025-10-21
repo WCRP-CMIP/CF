@@ -1,0 +1,13 @@
+{
+    "id": "nfdrs-10-hour-fuel-moisture",
+    "validation-key": "nfdrs-10-hour-fuel-moisture",
+    "ui-label": "Nfdrs 10 Hour Fuel Moisture",
+    "description": "10 hour fuel moisture (FM10) represents the modeled moisture content of dead fuels consisting of roundwood in the size range of one quarter to 1 inch in diameter and very roughly, the layer of litter extending from just below the surface to three-quarters of inch below the surface. The 10-hour timelag fuel moisture is a function of length of day (as influenced by latitude and calendar date), daily downwelling shortwave radiation, daily maximum temperature and minimum relative humidity, and daily precipitation values. It is a component in the US National Fire Danger Rating System (cf. https://www.bia.gov/sites/default/files/dup/assets/public/pdf/idc-020513.pdf). The US National Fire Danger Rating System comprises several numeric indexes that rate the potential over a large area for wildland fires to ignite, spread, and require action to suppress or manage. It was designed for use in the continental United States, and all its components are relative, not absolute.",
+    "canonical_units": "%",
+    "cf-name": "nfdrs_10_hour_fuel_moisture",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

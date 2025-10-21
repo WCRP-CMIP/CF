@@ -1,0 +1,13 @@
+{
+    "id": "sea-ice-y-velocity",
+    "validation-key": "sea-ice-y-velocity",
+    "ui-label": "Sea Ice Y Velocity",
+    "description": "A velocity is a vector quantity. \"y\" indicates a vector component along the grid y-axis, positive with increasing y. \"Sea ice\" means all ice floating in the sea which has formed from freezing sea water, rather than by other processes such as calving of land ice to form icebergs.",
+    "canonical_units": "m s-1",
+    "cf-name": "sea_ice_y_velocity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-sleve-coordinate",
+    "validation-key": "atmosphere-sleve-coordinate",
+    "ui-label": "Atmosphere Sleve Coordinate",
+    "description": "See Appendix D of the CF convention for information about parametric vertical coordinates.",
+    "canonical_units": "1",
+    "cf-name": "atmosphere_sleve_coordinate",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

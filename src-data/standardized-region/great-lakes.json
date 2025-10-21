@@ -1,0 +1,12 @@
+{
+    "id": "great-lakes",
+    "validation-key": "great-lakes",
+    "ui-label": "Great Lakes",
+    "description": "",
+    "cf-name": "great_lakes",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

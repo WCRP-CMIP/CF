@@ -1,0 +1,12 @@
+{
+    "id": "irish-sea",
+    "validation-key": "irish-sea",
+    "ui-label": "Irish Sea",
+    "description": "",
+    "cf-name": "irish_sea",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

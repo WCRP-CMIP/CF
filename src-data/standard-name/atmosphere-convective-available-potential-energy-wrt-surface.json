@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-convective-available-potential-energy-wrt-surface",
+    "validation-key": "atmosphere-convective-available-potential-energy-wrt-surface",
+    "ui-label": "Atmosphere Convective Available Potential Energy Wrt Surface",
+    "description": "Convective(ly) available potential energy (often abbreviated CAPE) is a stability measure calculated by integrating the positive temperature difference between the surrounding atmosphere and a parcel of air lifted adiabatically from the surface to its equilibrium level. CAPE exists under conditions of potential instability, and measures the potential energy per unit mass that would be released by the unstable parcel if it were able to convect upwards to equilibrium.",
+    "canonical_units": "J kg-1",
+    "cf-name": "atmosphere_convective_available_potential_energy_wrt_surface",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

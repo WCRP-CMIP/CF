@@ -1,0 +1,13 @@
+{
+    "id": "ocean-vertical-salt-diffusivity",
+    "validation-key": "ocean-vertical-salt-diffusivity",
+    "ui-label": "Ocean Vertical Salt Diffusivity",
+    "description": "\"Vertical salt diffusivity\" means the vertical component of the diffusivity of salt due to motion which is not resolved on the grid scale of the model.",
+    "canonical_units": "m2 s-1",
+    "cf-name": "ocean_vertical_salt_diffusivity",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "incoming-water-volume-transport-along-river-channel",
+    "validation-key": "incoming-water-volume-transport-along-river-channel",
+    "ui-label": "Incoming Water Volume Transport Along River Channel",
+    "description": "\"Water\" means water in all phases. \"River\" refers to water in the fluvial system (stream and floodplain).",
+    "canonical_units": "m3 s-1",
+    "cf-name": "incoming_water_volume_transport_along_river_channel",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

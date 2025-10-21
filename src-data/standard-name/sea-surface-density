@@ -1,0 +1,13 @@
+{
+    "id": "sea-surface-density",
+    "validation-key": "sea-surface-density",
+    "ui-label": "Sea Surface Density",
+    "description": "Sea surface density is the density of sea water near the surface (including the part under sea-ice, if any).",
+    "canonical_units": "kg m-3",
+    "cf-name": "sea_surface_density",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

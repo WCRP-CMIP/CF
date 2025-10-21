@@ -1,0 +1,13 @@
+{
+    "id": "platform-speed-wrt-air",
+    "validation-key": "platform-speed-wrt-air",
+    "ui-label": "Platform Speed Wrt Air",
+    "description": "Speed is the magnitude of velocity. The abbreviation \"wrt\" means with respect to. The platform speed with respect to air is often called the \"air speed\" of the platform. A \"platform\" is a structure or vehicle that serves as a base for mounting sensors. Platforms include, but are not limited to, satellites, aeroplanes, ships, buoys, instruments, ground stations, and masts.",
+    "canonical_units": "m s-1",
+    "cf-name": "platform_speed_wrt_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

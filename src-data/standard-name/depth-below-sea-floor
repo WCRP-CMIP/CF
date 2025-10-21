@@ -1,0 +1,13 @@
+{
+    "id": "depth-below-sea-floor",
+    "validation-key": "depth-below-sea-floor",
+    "ui-label": "Depth Below Sea Floor",
+    "description": "\"Depth_below_X\" means the vertical distance below the named surface X.",
+    "canonical_units": "m",
+    "cf-name": "depth_below_sea_floor",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

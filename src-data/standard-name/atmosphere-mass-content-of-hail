@@ -1,0 +1,13 @@
+{
+    "id": "atmosphere-mass-content-of-hail",
+    "validation-key": "atmosphere-mass-content-of-hail",
+    "ui-label": "Atmosphere Mass Content Of Hail",
+    "description": "\"Content\" indicates a quantity per unit area. The \"atmosphere content\" of a quantity refers to the vertical integral from the surface to the top of the atmosphere. For the content between specified levels in the atmosphere, standard names including \"content_of_atmosphere_layer\" are used. Hail is precipitation in the form of balls or irregular lumps of ice, often restricted by a size convention to diameters of 5 mm or more. Reference: American Meteorological Society Glossary http://glossary.ametsoc.org/wiki/Hail. For diameters of less than 5 mm standard names for \"graupel\" should be used. Standard names for \"graupel_and_hail\" should be used to describe data produced by models that do not distinguish between hail and graupel.",
+    "canonical_units": "kg m-2",
+    "cf-name": "atmosphere_mass_content_of_hail",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

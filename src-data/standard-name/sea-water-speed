@@ -1,0 +1,13 @@
+{
+    "id": "sea-water-speed",
+    "validation-key": "sea-water-speed",
+    "ui-label": "Sea Water Speed",
+    "description": "Speed is the magnitude of velocity.",
+    "canonical_units": "m s-1",
+    "cf-name": "sea_water_speed",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

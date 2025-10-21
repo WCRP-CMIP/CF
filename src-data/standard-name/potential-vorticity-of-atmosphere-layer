@@ -1,0 +1,13 @@
+{
+    "id": "potential-vorticity-of-atmosphere-layer",
+    "validation-key": "potential-vorticity-of-atmosphere-layer",
+    "ui-label": "Potential Vorticity Of Atmosphere Layer",
+    "description": "\"Layer\" means any layer with upper and lower boundaries that have constant values in some vertical coordinate. There must be a vertical coordinate variable indicating the extent of the layer(s). If the layers are model layers, the vertical coordinate can be model_level_number, but it is recommended to specify a physical coordinate (in a scalar or auxiliary coordinate variable) as well. Atmosphere potential vorticity is the vertically averaged absolute vorticity of a layer of the atmosphere divided by the pressure difference from the bottom to the top of the layer.",
+    "canonical_units": "Pa-1 s-1",
+    "cf-name": "potential_vorticity_of_atmosphere_layer",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

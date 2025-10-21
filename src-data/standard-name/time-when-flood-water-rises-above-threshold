@@ -1,0 +1,13 @@
+{
+    "id": "time-when-flood-water-rises-above-threshold",
+    "validation-key": "time-when-flood-water-rises-above-threshold",
+    "ui-label": "Time When Flood Water Rises Above Threshold",
+    "description": "The quantity with standard name time_when_flood_water_rises_above_threshold is the time elapsed between the breaking of a levee (origin of flood water simulation) and the instant when the depth first rises above a given threshold at a given point in space. If a threshold is supplied, it should be specified by associating a coordinate variable or scalar coordinate variable with the data variable and giving the coordinate variable a standard name of flood_water_thickness. The values of the coordinate variable are the threshold values for the corresponding subarrays of the data variable. If no threshold is specified, its value is taken to be zero. Flood water is water that covers land which is normally not covered by water.",
+    "canonical_units": "s",
+    "cf-name": "time_when_flood_water_rises_above_threshold",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}

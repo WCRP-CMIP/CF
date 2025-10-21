@@ -1,0 +1,12 @@
+{
+    "id": "greenland",
+    "validation-key": "greenland",
+    "ui-label": "Greenland",
+    "description": "",
+    "cf-name": "greenland",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standardized-region",
+        "cf"
+    ]
+}

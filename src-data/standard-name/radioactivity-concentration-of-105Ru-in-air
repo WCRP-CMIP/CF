@@ -1,0 +1,13 @@
+{
+    "id": "radioactivity-concentration-of-105Ru-in-air",
+    "validation-key": "radioactivity-concentration-of-105ru-in-air",
+    "ui-label": "Radioactivity Concentration Of 105ru In Air",
+    "description": "\"Radioactivity\" means the number of radioactive decays of a material per second. \"Radioactivity concentration\" means radioactivity per unit volume of the medium. \"Ru\" means the element \"ruthenium\" and \"105Ru\" is the isotope \"ruthenium-105\" with a half-life of 1.85e-01 days.",
+    "canonical_units": "Bq m-3",
+    "cf-name": "radioactivity_concentration_of_105Ru_in_air",
+    "@context": "_context_",
+    "type": [
+        "wcrp:standard-name",
+        "cf"
+    ]
+}
